@@ -1,6 +1,8 @@
 # Triangulated News
 
-Phone-friendly daily news digest. Stories appear only when **three or more independent outlets** confirm the same core facts. Wire-service reprints count as one source. **BBC and CNN are excluded.**
+Phone-friendly daily news digest. Stories appear only when **three or more independent outlets** confirm the same core facts. Wire-service reprints count as one source.
+
+**Sources exclude BBC, CNN, CBC, and Radio-Canada.** Every story carries a **Community Note** (missing context, what is confirmed vs disputed, caveats). A final **Viral on social** section checks claims circulating on social platforms.
 
 ## Read the site
 
@@ -15,4 +17,4 @@ Add that URL in any RSS reader (Feedly, NetNewsWire, FreshRSS, etc.).
 
 ## Source
 
-Maintained by Jaryd Murray ([@MrMurray9](https://github.com/MrMurray9)). Static HTML on GitHub Pages — no build step.
+Maintained by Jaryd Murray ([@MrMurray9](https://github.com/MrMurray9)). Static HTML on GitHub Pages — no build step. Canadian English (en-CA).
