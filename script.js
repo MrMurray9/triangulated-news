@@ -1,7 +1,10 @@
 /* Jaryd's News — sources burger, visited state, video headline badges */
 (function () {
-  /* Edition-scoped visited key: jn-visited-stories-YYYY-MM-DD from <time datetime> */
+  /* Edition-scoped visited key. Prefer <body data-edition="YYYY-MM-DD-slot"> (e.g. 2026-10-07-noon)
+     so each of the three daily editions starts unmarked; fall back to the date in <time datetime>. */
   function editionDateKey() {
+    var ed = document.body && document.body.getAttribute("data-edition");
+    if (ed && /^\d{4}-\d{2}-\d{2}(-[a-z0-9]+)?$/.test(ed)) return "jn-visited-stories-" + ed;
     var t = document.querySelector("header.site time[datetime], .edition-date time[datetime]");
     if (t) {
       var d = (t.getAttribute("datetime") || "").slice(0, 10);
