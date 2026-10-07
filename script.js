@@ -1,4 +1,4 @@
-/* Verified News — per-article sources burger toggle */
+/* Jaryd's News — per-article sources burger toggle */
 (function () {
   function closePanel(btn, panel) {
     btn.setAttribute("aria-expanded", "false");

@@ -1,4 +1,4 @@
-# Verified News
+# Jaryd's News
 
 Phone-friendly daily news digest. Stories are confirmed by multiple independent outlets, each with a **Community Note** and, where available, a verified YouTube news clip. A final **Viral on social** section checks Canada and global claims circulating on social platforms. The homepage also carries a compact **Markets** ticker row (BTC, TSLA, SPCX), **Next Oilers game**, and Edmonton’s daily high.
 
