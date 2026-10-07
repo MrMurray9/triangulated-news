@@ -1,6 +1,18 @@
 /* Jaryd's News — sources burger, visited state, video headline badges */
 (function () {
-  var VISITED_KEY = "jn-visited-stories";
+  /* Edition-scoped visited key: jn-visited-stories-YYYY-MM-DD from <time datetime> */
+  function editionDateKey() {
+    var t = document.querySelector("header.site time[datetime], .edition-date time[datetime]");
+    if (t) {
+      var d = (t.getAttribute("datetime") || "").slice(0, 10);
+      if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return "jn-visited-stories-" + d;
+    }
+    return "jn-visited-stories-unknown";
+  }
+
+  function visitedKey() {
+    return editionDateKey();
+  }
 
   /* ---------- sources burger ---------- */
   function closePanel(btn, panel) {
@@ -50,7 +62,7 @@
   /* ---------- visited state (localStorage) ---------- */
   function loadVisited() {
     try {
-      var raw = localStorage.getItem(VISITED_KEY);
+      var raw = localStorage.getItem(visitedKey());
       if (!raw) return [];
       var parsed = JSON.parse(raw);
       return Array.isArray(parsed) ? parsed : [];
@@ -61,7 +73,7 @@
 
   function saveVisited(ids) {
     try {
-      localStorage.setItem(VISITED_KEY, JSON.stringify(ids));
+      localStorage.setItem(visitedKey(), JSON.stringify(ids));
     } catch (err) {
       /* quota / private mode — ignore */
     }
