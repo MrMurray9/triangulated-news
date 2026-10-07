@@ -87,7 +87,6 @@
   function shouldAccordion(article) {
     if (!article || !article.classList.contains("story")) return false;
     if (article.classList.contains("oilers-card")) return false;
-    if (article.closest("#tomorrows-watch")) return false;
     if (article.closest("#markets")) return false;
     return true;
   }
@@ -104,8 +103,17 @@
     return article.querySelector("details.story-details");
   }
 
+  function openParentRegion(article) {
+    if (!article) return;
+    var region = article.closest("section.region");
+    if (!region) return;
+    var regionDetails = region.querySelector(":scope > details.region-details");
+    if (regionDetails) regionDetails.open = true;
+  }
+
   function openStory(article) {
     if (!article) return;
+    openParentRegion(article);
     var details = storyDetails(article);
     if (!details) return;
     details.open = true;
@@ -135,9 +143,18 @@
     var hash = (location.hash || "").replace(/^#/, "");
     if (!hash) return;
     var el = document.getElementById(hash);
-    if (el && el.classList.contains("story") && shouldAccordion(el)) {
+    if (!el) return;
+    if (el.classList.contains("story") && shouldAccordion(el)) {
       openStory(el);
+      return;
     }
+    if (el.classList.contains("region")) {
+      var regionDetails = el.querySelector(":scope > details.region-details");
+      if (regionDetails) regionDetails.open = true;
+      return;
+    }
+    /* ticker / oilers card etc. — open parent region */
+    openParentRegion(el);
   }
 
   function initVisited() {
