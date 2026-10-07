@@ -5,7 +5,7 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:15:00 GMT</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Parti Québécois wins minority government — first return since 2014</title>
@@ -132,6 +132,13 @@
       <link>https://mrmurray9.github.io/triangulated-news/#viral-mail-in</link>
       <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/viral-mail-in</guid>
       <pubDate>Wed, 07 Oct 2026 01:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Science corner: Brain implant decodes speech and gestures together for an avatar</title>
+      <description>UCSF ECoG implant with parallel AI decoders lets people with paralysis drive speech and gestures on a virtual avatar at the same time. Peer-reviewed in Nature Neuroscience (Sept. 14, 2026); covered by Nature news, New Scientist, Smithsonian. Early-stage; small participant set.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-bci-avatar</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/bci-avatar</guid>
+      <pubDate>Wed, 07 Oct 2026 01:15:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
