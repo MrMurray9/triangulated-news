@@ -448,12 +448,12 @@ footer.site a { color: var(--link); }
 }
 
 
-/* Joke / Quote of the day */
+/* Joke / Quote of the day — compact */
 .daily-extras {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.75rem;
-  margin: 1rem 0 0.25rem;
+  gap: 0.5rem;
+  margin: 0.65rem 0 0.15rem;
 }
 @media (max-width: 640px) {
   .daily-extras {
@@ -463,24 +463,26 @@ footer.site a { color: var(--link); }
 .daily-card {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  padding: 0.45rem 0.65rem;
 }
 .daily-label {
-  margin: 0 0 0.4rem;
-  font-size: 0.72rem;
+  margin: 0 0 0.2rem;
+  font-size: 0.65rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--accent);
 }
 .daily-setup {
-  margin: 0 0 0.25rem;
-  font-size: 0.95rem;
+  margin: 0 0 0.15rem;
+  font-size: 0.82rem;
+  line-height: 1.35;
 }
 .daily-punch {
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.82rem;
+  line-height: 1.35;
   color: var(--muted);
 }
 .quote-card blockquote {
@@ -489,15 +491,55 @@ footer.site a { color: var(--link); }
   border: 0;
 }
 .quote-card blockquote p {
-  margin: 0 0 0.4rem;
-  font-size: 0.95rem;
+  margin: 0 0 0.2rem;
+  font-size: 0.82rem;
   font-style: italic;
-  line-height: 1.4;
+  line-height: 1.35;
 }
 .quote-card blockquote footer {
-  font-size: 0.82rem;
+  font-size: 0.72rem;
   color: var(--muted);
   font-style: normal;
+}
+
+/* Edmonton weather chip */
+.wx-chip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.65rem;
+  margin: 0.55rem 0 0;
+  padding: 0.4rem 0.65rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.88rem;
+  line-height: 1.3;
+}
+.wx-icon {
+  font-size: 1.15rem;
+  line-height: 1;
+}
+.wx-label {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.wx-temp {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--fg);
+}
+.wx-cond {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+.wx-asof {
+  margin-left: auto;
+  font-size: 0.72rem;
+  color: var(--muted);
 }
 
 
@@ -522,4 +564,92 @@ footer.site a { color: var(--link); }
 
 .what-changed strong {
   color: var(--note);
+}
+
+
+/* Markets tickers */
+.markets-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+@media (min-width: 640px) {
+  .markets-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.ticker-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.85rem 0.95rem;
+  scroll-margin-top: 1rem;
+}
+.ticker-name {
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+.ticker-symbol {
+  display: inline-block;
+  margin-left: 0.25rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  vertical-align: middle;
+}
+.ticker-price {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+.ticker-unit {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+}
+.ticker-change {
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+.ticker-change.up { color: var(--viral-confirmed); }
+.ticker-change.down { color: var(--viral-false); }
+.ticker-period {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.ticker-meta {
+  margin: 0.45rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.35;
+}
+.markets-note {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+/* Next Oilers game */
+.oilers-card .oilers-when {
+  margin: 0.35rem 0 0.15rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+.oilers-card .oilers-venue {
+  margin: 0.15rem 0 0.45rem;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
