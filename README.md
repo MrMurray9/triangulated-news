@@ -1,8 +1,8 @@
-# Triangulated News
+# Verified News
 
-Phone-friendly daily news digest. Stories appear only when **three or more independent outlets** confirm the same core facts. Wire-service reprints count as one source.
+Phone-friendly daily news digest. Stories are confirmed by multiple independent outlets, each with a **Community Note** and, where available, a verified YouTube news clip. A final **Viral on social** section checks Canada and global claims circulating on social platforms.
 
-**Sources exclude BBC, CNN, CBC, and Radio-Canada.** Every story carries a **Community Note** (missing context, what is confirmed vs disputed, caveats). Confirmed main stories may include a **verified YouTube news clip** (reputable outlet or official channel; checked via oEmbed). A final **Viral on social** section checks Canada and **global** claims circulating on social platforms.
+Source links on each article sit behind a small hamburger button (tap to expand).
 
 ## Read the site
 

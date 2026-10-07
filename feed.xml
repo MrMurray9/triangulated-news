@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Triangulated News</title>
+    <title>Verified News</title>
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Canada and global viral social claims checked at the end.</description>
     <language>en-ca</language>

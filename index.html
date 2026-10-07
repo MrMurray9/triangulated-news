@@ -3,28 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Triangulated daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Sources exclude BBC, CNN, CBC, and Radio-Canada. Canada and global viral social claims checked at the end.">
+  <meta name="description" content="Verified News — multi-source verified stories with Community Notes and viral claim checks.">
   <meta name="color-scheme" content="light dark">
-  <title>Triangulated News — 6 Oct 2026</title>
+  <title>Verified News — 6 Oct 2026</title>
   <link rel="stylesheet" href="styles.css">
-  <link rel="alternate" type="application/rss+xml" title="Triangulated News RSS" href="feed.xml">
+  <script src="script.js" defer></script>
+  <link rel="alternate" type="application/rss+xml" title="Verified News RSS" href="feed.xml">
 </head>
 <body>
   <div class="wrap">
     <header class="site">
-      <h1>Triangulated News</h1>
-      <p class="tagline">Daily digest of stories confirmed by multiple independent outlets. Wire reprints count as one source. Sources exclude BBC, CNN, CBC, and Radio-Canada. Every story carries a Community Note; confirmed stories may include a verified YouTube news clip. Canada and global viral social claims are checked at the end.</p>
+      <h1>Verified News</h1>
+      <p class="edition-date"><time datetime="2026-10-06">Tuesday, 6 October 2026</time></p>
     </header>
 
     <div class="meta-bar">
       <span class="badge">Latest</span>
-      <time datetime="2026-10-06">Tuesday, 6 October 2026</time>
       <a href="feed.xml">RSS feed</a>
       <a href="archive/2026-10-06.html">Archive</a>
-    </div>
-
-    <div class="rule-box">
-      <p><strong>How triangulation works:</strong> A story appears here only when at least three independent outlets report the same core facts. Wire-service reprints are treated as a single source. BBC, CNN, CBC, and Radio-Canada links are never used. Each story includes a Community Note with missing context or caveats. Where a matching clip from a reputable news or official channel can be verified, a lazy-loaded YouTube embed is added. Circulating Canada and international social claims are verified in the final section.</p>
     </div>
 
     <p style="margin:0 0 1rem;"><strong>Top story:</strong> <a href="#story-pq">Parti Québécois wins minority government</a> — first return to power since 2014, short of a majority.</p>
@@ -47,13 +43,18 @@
       <article class="story" id="story-separatism">
         <h3>Smith says she has no knowledge of reported separatist–U.S. strategist meetings</h3>
         <p>Premier Danielle Smith’s office said Monday she has no knowledge of reported meetings between Alberta separatists and U.S. strategists, and that she opposes separation or Alberta becoming a U.S. state. The comments followed a <em>Globe and Mail</em> investigation. Separatist figures Jeffrey Sylvestre and Jeffrey Rath denied offering oil, water, or royalties.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-1">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-1" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://globalnews.ca/news/12088176/alberta-separatism-republicans-report/">Global News</a></li>
             <li><a href="https://www.theglobeandmail.com/politics/article-alberta-mps-response-separatists-natural-resources-american-support/">The Globe and Mail</a></li>
             <li><a href="https://edmonton.citynews.ca/2026/10/05/alberta-premier-unaware-of-reported-separatist-meetings-with-u-s-strategists/">CityNews Edmonton</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -65,13 +66,18 @@
       <article class="story" id="story-referendum">
         <h3>Oct. 19 referendum: special ballots, advance voting, and safeguards</h3>
         <p>Albertans vote Oct. 19 on 10 referendum questions, including one on a separation process. Elections Alberta reports more than 652,000 special ballots approved; packages must be returned by 5 p.m. Oct. 16. Advance voting runs Oct. 13–17. The agency has outlined measures intended to safeguard the vote.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-2">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-2" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.elections.ab.ca/resources/media/news-releases/referendum-information-updates-2/">Elections Alberta</a></li>
             <li><a href="https://www.ctvnews.ca/edmonton/article/more-ballot-requests-received-in-alberta-referendum-than-last-provincial-election/">CTV News Edmonton / Canadian Press</a></li>
             <li><a href="https://calgaryherald.com/news/how-elections-alberta-intends-to-safeguard-referendum-votes">Calgary Herald</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -87,13 +93,18 @@
       <article class="story" id="story-infill">
         <h3>Hundreds rally at Churchill Square over Edmonton infill</h3>
         <p>Hundreds gathered Sunday at Churchill Square in Edmonton to protest or debate residential infill policies. Public hearings on related planning issues are scheduled for Oct. 13.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-3">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-3" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.ctvnews.ca/edmonton/article/poor-planning-edmontonians-debate-infill-at-city-hall-rally/">CTV News Edmonton</a></li>
             <li><a href="https://globalnews.ca/video/12087447/responsible-infill-rally-held-outside-edmonton-city-hall/">Global News</a></li>
             <li><a href="https://edmonton.citynews.ca/video/2026/10/04/edmontonians-take-anti-infill-protest-to-city-hall/">CityNews Edmonton</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -113,8 +124,12 @@
       <article class="story lead" id="story-pq">
         <h3>Parti Québécois wins minority government — first return since 2014</h3>
         <p>The Parti Québécois won a minority government overnight, taking 59 of 127 seats — its first return to power since 2014, but short of a majority. The Coalition Avenir Québec was shut out of the legislature. Fréchette lost Trois-Rivières. The PQ has indicated a sovereignty referendum would come only after 2029. Prime Minister Mark Carney congratulated the winner.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-4">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-4" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.theglobeandmail.com/canada/article-provincial-quebec-election-winner-parti-quebecois/">The Globe and Mail</a></li>
             <li><a href="https://globalnews.ca/news/12089384/quebec-election-need-to-know/">Global News / Canadian Press</a></li>
@@ -122,6 +137,7 @@
             <li><a href="https://www.ctvnews.ca/montreal/article/quebec-sovereigntist-party-will-form-minority-government-ctv-news-projects-live-results-here/">CTV News Montreal</a></li>
             <li><a href="https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada">Al Jazeera (AP/Reuters)</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -137,13 +153,18 @@
       <article class="story" id="story-six-nations">
         <h3>Six Nations Haldimand Tract trial opens in Toronto</h3>
         <p>A civil trial over the Six Nations’ Haldimand Tract land claim opened Monday in Toronto. The case concerns historical and ongoing claims related to lands along the Grand River. Six Nations seeks financial compensation, not the return of privately held land; Canada and Ontario dispute liability.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-5">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-5" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.thespec.com/news/hamilton-region/six-nations-trial/article_32c2af2e-524d-5acd-a67c-21d68aa2cb9c.html">The Hamilton Spectator</a></li>
             <li><a href="https://tworowtimes.com/local-news/six-nations-litigation-starts-this-monday-what-to-know/">Two Row Times</a></li>
             <li><a href="https://mncfn.ca/six-nations-litigation-begins-today/">Mississaugas of the Credit First Nation</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -159,13 +180,18 @@
       <article class="story" id="story-ukraine-drones">
         <h3>Ukrainian drone attack on Moscow region kills two; nearly 900 drones claimed intercepted</h3>
         <p>A Ukrainian drone attack on Russia’s Moscow region killed two people, according to multiple outlets. Russian authorities claimed nearly 900 drones were intercepted. Kyiv was bracing for a large aerial attack in return.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-6">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-6" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.ksat.com/news/world/2026/10/06/ukraine-fires-nearly-900-drones-at-russia-as-kyiv-braces-for-expected-huge-aerial-attack/">KSAT / AP</a></li>
             <li><a href="https://www.rte.ie/news/2026/1006/1594202-massive-drone-attack-moscow/">RTÉ</a></li>
             <li><a href="https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two">Al Jazeera</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -177,13 +203,18 @@
       <article class="story" id="story-yemen">
         <h3>Saudi-backed Yemeni forces push toward Bab el-Mandeb; Houthi denial; AP/Reuters unverified</h3>
         <p>Yemeni government and Saudi-backed forces said they had driven Houthis from areas around the Bab el-Mandeb Strait. The Mecca Alliance agreed to activate collective deterrence measures. Houthi sources denied the claims. AP and Reuters said they could not independently verify the battlefield reports.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-7">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-7" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://theprint.in/world/yemeni-government-forces-drive-houthis-from-bab-el-mandeb-strait/3062685/">ThePrint</a></li>
             <li><a href="https://www.pbs.org/newshour/world/saudi-backed-coalition-forces-houthis-from-several-areas-around-key-strait-yemeni-officials-say">PBS NewsHour</a></li>
             <li><a href="https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures">Al Jazeera</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -195,13 +226,18 @@
       <article class="story" id="story-kenya-ebola">
         <h3>Kenya records first Ebola death — imported case from DRC</h3>
         <p>Kenya reported its first Ebola-related death after an imported case from the Democratic Republic of the Congo. Authorities launched contact tracing after the patient died at a Nairobi hospital.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-8">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-8" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc">The Guardian</a></li>
             <li><a href="https://capitalfm.africa/kenya-launches-ebola-contact-tracing-after-first-imported-case/">Capital FM Kenya</a></li>
             <li><a href="https://www.theeastafrican.co.ke/tea/sustainability/health/kenya-first-ebola-patient-dies-at-a-nairobi-hospital-5621464">The East African</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -221,13 +257,18 @@
       <article class="story" id="story-emera">
         <h3>Emera and Canadian Utilities announce $72-billion combination</h3>
         <p>Emera, Canadian Utilities, and ATCO announced a transformational agreement to combine into a Canadian utility and energy infrastructure company valued at about $72 billion.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-9">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-9" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www.newswire.ca/news-releases/emera-canadian-utilities-and-atco-announce-transformational-agreement-to-create-canadian-utility-and-energy-infrastructure-powerhouse-819819766.html">Cision / Newswire</a></li>
             <li><a href="https://www.theglobeandmail.com/business/article-emera-bids-for-national-powerhouse-with-35-billion-canadian-utilities/">The Globe and Mail</a></li>
             <li><a href="https://www.bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company/">BNN Bloomberg</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -239,13 +280,18 @@
       <article class="story" id="story-trade">
         <h3>Canada’s trade surplus widens to $4.2 billion in August</h3>
         <p>Statistics Canada reported that Canada’s merchandise trade surplus widened to $4.2 billion in August 2026. Reuters attributed part of the jump to exporters accelerating U.S. shipments ahead of new tariffs.</p>
-        <div class="sources">
-          <strong>Sources (3+)</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-10">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-10" hidden>
+            <strong>Sources (3+)</strong>
           <ul>
             <li><a href="https://www150.statcan.gc.ca/n1/daily-quotidien/261006/dq261006a-eng.htm">Statistics Canada</a></li>
             <li><a href="https://www.theglobeandmail.com/business/economy/article-canada-trade-surplus-widens-to-42-billion-august-2026/">The Globe and Mail</a></li>
             <li><a href="https://www.kitco.com/news/off-the-wire/2026-10-06/canadas-trade-surplus-widens-more-four-year-high-august">Kitco / Reuters</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -279,13 +325,18 @@
         <h3>Claim: Anyone outside Alberta can get a mail-in referendum ballot with no residency check</h3>
         <p class="claim">“Mail-in voting is open to anybody… No verification of Alberta residents and they will mail the ballot anywhere.”</p>
         <p><strong>Verdict:</strong> False. The online form may accept a submitted application with an out-of-province address, but Elections Alberta manually reviews applications against the voter register and declines invalid ones. ID showing Alberta residence is required with the returned package. Canadian Press verified a widely shared Vancouver-address application was declined the next day.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-11">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-11" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://globalnews.ca/news/12070751/alberta-mail-in-referendum-vote-fact-check/">Global News / Canadian Press</a></li>
             <li><a href="https://www.thecanadianpressnews.ca/fact_checking/fact-file-controls-in-place-to-prevent-non-albertans-from-mailing-in-referendum-ballots/article_acdbc6d5-d151-51b6-8668-36ddf3c7f89f.html">The Canadian Press Fact File</a></li>
             <li><a href="https://www.elections.ab.ca/resources/media/news-releases/referendum-information-updates-2/">Elections Alberta</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -300,13 +351,18 @@
         <h3>Claim: The PQ won a majority and will hold an immediate sovereignty referendum</h3>
         <p class="claim">Early or informal posts framed Monday’s Quebec result as a majority win and an immediate path to a third referendum.</p>
         <p><strong>Verdict:</strong> Misleading. The PQ won 59 of 127 seats — a minority. During the campaign the party said a referendum would wait until after U.S. President Donald Trump leaves office in January 2029, and a minority government would still need Assembly support for enabling legislation.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-12">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-12" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://globalnews.ca/news/12089384/quebec-election-need-to-know/">Global News / Canadian Press</a></li>
             <li><a href="https://nationalpost.com/news/how-the-separatist-parti-quebecois-power-quebec-election-results">National Post</a></li>
             <li><a href="https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada">Al Jazeera (AP/Reuters)</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -321,11 +377,16 @@
         <h3>Claim: Trump thanked Elon Musk for making every Republican vote count as three</h3>
         <p class="claim">A screenshot of an alleged Truth Social post — circulated on X and elsewhere ahead of the 2026 U.S. midterms — shows Trump writing that thanks to Musk “EVERY REPUBLICAN VOTE COUNTS AS 3 VOTES!”</p>
         <p><strong>Verdict:</strong> False. Snopes found the Musk line was edited into a real Oct. 3 Truth Social post. Archives of Trump’s posts show no such thank-you; the doctored screenshot also mangled “Dumocrats” into “Dummods.”</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-13">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-13" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://www.snopes.com/fact-check/trump-elon-musk-republican/">Snopes</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -340,12 +401,17 @@
         <h3>Claim: Brazil’s same-day vote count proves U.S. elections are “corrupt”</h3>
         <p class="claim">On Truth Social (Oct. 4), President Trump pointed to Brazil’s first-round presidential results arriving the same day and argued that slower counts in Detroit, Philadelphia, California and elsewhere mean U.S. voting is “CORRUPT.”</p>
         <p><strong>Verdict:</strong> False. PolitiFact rated the claim Pants on Fire. Brazil uses a nationally standardized in-person electronic system with no mail ballots; U.S. states set their own rules, and expansive mail voting takes longer to process. Speed of counting is not evidence of rigging.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-14">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-14" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://politifact.com/factchecks/2026/oct/05/donald-trump/no-brazils-fast-vote-counting-is-not-proof-of-us-election-cheating-despite-trumps-claim/">PolitiFact</a></li>
             <li><a href="https://www.pbs.org/newshour/world/bolsonaro-and-lula-head-to-a-runoff-in-brazils-presidential-election">PBS NewsHour (Brazil runoff context)</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -360,11 +426,16 @@
         <h3>Claim: A viral compilation shows U.S. strikes on 140 targets in Iran</h3>
         <p class="claim">A one-minute montage shared on social media with captions such as “US strikes 140 targets in Iran war is back on” implied the clips were from those attacks.</p>
         <p><strong>Verdict:</strong> False. Full Fact found the compilation mixes old Gaza and Lebanon strike footage, simulated “render footage,” and clips with AI SynthID watermarks — not verified scenes from the July 2026 U.S. strikes on Iran.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-15">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-15" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://fullfact.org/conflict/video-compilation-us-strikes-iran-old-footage-and-fake/">Full Fact</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -379,11 +450,16 @@
         <h3>Claim: 80,000 French students vanished; mass graves visible from space</h3>
         <p class="claim">An X post from @IRAN_GHANA (Oct. 3) claimed leaked intel showed mass graves near Lyon, Marseille and Lille and that more than 80,000 students had disappeared in 72 hours amid protests.</p>
         <p><strong>Verdict:</strong> False. Lead Stories found no corroborating news reporting. The posting account later said the claim was satire. Real autumn 2026 student protests and clashes occurred, but not disappearances or space-visible mass graves.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-16">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-16" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://leadstories.com/hoax-alert/2026/10/fact-check-80-000-french-students-did-not-go-missing-during-protests.html">Lead Stories</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -398,11 +474,16 @@
         <h3>Claim: AI video shows Australian PM Anthony Albanese collapsing in Fiji</h3>
         <p class="claim">Clips on X (Oct. 5) claimed Albanese suddenly collapsed face-first while receiving a foreign delegation, asking whether it was a health crisis or an assassination attempt.</p>
         <p><strong>Verdict:</strong> False. Lead Stories compared the clip to real APT News footage of Albanese’s Oct. 5 Fiji arrival: he does not fall. An AI detector rated the viral video ~98.8% likely AI-generated; hands and body motion look unnatural.</p>
-        <div class="sources">
-          <strong>Sources</strong>
+        <div class="sources-wrap">
+          <button type="button" class="sources-toggle" aria-label="Sources" aria-expanded="false" aria-controls="sources-panel-17">
+            <span class="burger-icon" aria-hidden="true"></span>
+          </button>
+          <div class="sources" id="sources-panel-17" hidden>
+            <strong>Sources</strong>
           <ul>
             <li><a href="https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-australian-pm-collapsing-falling-face-first-ground.html">Lead Stories</a></li>
           </ul>
+          </div>
         </div>
         <aside class="community-note" aria-label="Community Note">
           <div class="cn-label">Community Note</div>
@@ -413,8 +494,7 @@
     </section>
 
     <footer class="site">
-      <p>Triangulated News · Jaryd Murray · <a href="https://github.com/MrMurray9/triangulated-news">Source on GitHub</a> · <a href="feed.xml">Subscribe via RSS</a></p>
-      <p>Facts drawn from linked outlets only. Prose in Canadian English (en-CA). Sources exclude BBC, CNN, CBC, and Radio-Canada. Every story includes a Community Note. YouTube clips are verified via oEmbed before embedding. Viral checks cover Canada and global claims.</p>
+      <p>Verified News · Jaryd Murray · <a href="https://github.com/MrMurray9/triangulated-news">Source on GitHub</a> · <a href="feed.xml">Subscribe via RSS</a></p>
     </footer>
   </div>
 </body>
