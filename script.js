@@ -1,4 +1,4 @@
-/* Jaryd's News — sources burger + visited state for native details accordions */
+/* Jaryd's News — sources burger, visited state, video headline badges */
 (function () {
   var VISITED_KEY = "jn-visited-stories";
 
@@ -157,6 +157,67 @@
     openParentRegion(el);
   }
 
+
+  /* ---------- video headline badges ---------- */
+  /* Morning routine: keep putting .video-embed (YouTube iframe) in the story body.
+     This scans for embeds and injects a small screen/play icon into the collapsed
+     headline summary automatically — no per-story HTML badge needed. */
+  var VIDEO_BADGE_SVG =
+    '<svg class="story-video-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false">' +
+    '<rect x="2.5" y="5.5" width="19" height="13" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.75"/>' +
+    '<path d="M10 9.2v5.6l5-2.8z" fill="currentColor"/>' +
+    "</svg>";
+
+  function storyHasVideo(article) {
+    if (!article) return false;
+    var body = article.querySelector(".story-body");
+    var root = body || article;
+    if (root.querySelector(".video-embed")) return true;
+    if (root.querySelector('iframe[src*="youtube"], iframe[src*="youtube-nocookie"], iframe[src*="youtu.be"]')) {
+      return true;
+    }
+    return false;
+  }
+
+  function ensureVideoBadge(article) {
+    if (!shouldAccordion(article) || !storyHasVideo(article)) return false;
+    var details = storyDetails(article);
+    if (!details) return false;
+    var summary = details.querySelector(":scope > .story-summary");
+    if (!summary) return false;
+    if (summary.querySelector(".story-video-badge")) return true;
+    var h3 = summary.querySelector("h3");
+    var toggle = summary.querySelector(".story-toggle-text");
+    var badge = document.createElement("span");
+    badge.className = "story-video-badge";
+    badge.setAttribute("title", "Has video");
+    badge.innerHTML =
+      VIDEO_BADGE_SVG + '<span class="visually-hidden">Has video</span>';
+    if (toggle && toggle.parentNode) {
+      /* Place after title text, before the chevron */
+      var chevron = summary.querySelector(".story-chevron");
+      if (chevron && chevron.parentNode === toggle.parentNode) {
+        toggle.parentNode.insertBefore(badge, chevron);
+      } else {
+        toggle.parentNode.insertBefore(badge, toggle.nextSibling);
+      }
+    } else if (h3) {
+      h3.appendChild(badge);
+    } else {
+      summary.appendChild(badge);
+    }
+    return true;
+  }
+
+  function initVideoBadges() {
+    var stories = document.querySelectorAll("article.story");
+    var n = 0;
+    for (var i = 0; i < stories.length; i++) {
+      if (ensureVideoBadge(stories[i])) n += 1;
+    }
+    return n;
+  }
+
   function initVisited() {
     var stories = document.querySelectorAll("article.story");
     for (var i = 0; i < stories.length; i++) {
@@ -164,6 +225,7 @@
         applyVisitedClass(stories[i]);
       }
     }
+    initVideoBadges();
     handleHash();
   }
 

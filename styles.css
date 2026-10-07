@@ -845,6 +845,42 @@ details.story-details[open] > .story-summary .story-chevron {
   color: var(--accent);
 }
 
+/* Video badge in collapsed headline (injected by script.js when .video-embed present) */
+.story-video-badge {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.15rem;
+  margin-inline-end: 0.1rem;
+  color: var(--link);
+  line-height: 1;
+  pointer-events: none;
+}
+
+.story-video-badge .story-video-icon {
+  display: block;
+  width: 1.05rem;
+  height: 1.05rem;
+}
+
+article.story.story-visited .story-video-badge {
+  color: var(--link);
+  opacity: 0.9;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .story-body {
   margin-top: 0.45rem;
   padding-top: 0.15rem;

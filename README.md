@@ -18,3 +18,8 @@ Add that URL in any RSS reader (Feedly, NetNewsWire, FreshRSS, etc.).
 ## Source
 
 Maintained by Jaryd Murray ([@MrMurray9](https://github.com/MrMurray9)). Static HTML on GitHub Pages — no build step. Canadian English (en-CA).
+
+## Morning routine notes
+
+**Video headline badges:** If a story body includes a `.video-embed` block (YouTube `youtube-nocookie` iframe), `script.js` automatically adds a small screen/play icon in the collapsed headline. No per-story badge markup is required — keep publishing embeds as usual.
+
