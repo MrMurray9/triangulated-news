@@ -679,11 +679,12 @@ article.story.story-collapsible > .label-viral {
   margin-bottom: 0.25rem;
 }
 
-article.story h3:has(.story-toggle) {
+/* Native details/summary accordion — works before JS loads */
+details.story-details {
   margin: 0;
 }
 
-.story-toggle {
+.story-summary {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -691,25 +692,41 @@ article.story h3:has(.story-toggle) {
   width: 100%;
   margin: 0;
   padding: 0.15rem 0.1rem;
-  border: 0;
   border-radius: 6px;
-  background: transparent;
-  color: inherit;
-  font: inherit;
-  font-weight: 700;
-  font-size: inherit;
-  line-height: 1.3;
-  text-align: left;
   cursor: pointer;
+  list-style: none;
   -webkit-tap-highlight-color: transparent;
   touch-action: manipulation;
 }
 
-.story-toggle:hover {
+.story-summary::-webkit-details-marker {
+  display: none;
+}
+
+.story-summary::marker {
+  content: "";
+}
+
+.story-summary h3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.55rem;
+  flex: 1 1 auto;
+  min-width: 0;
+  margin: 0;
+  font: inherit;
+  font-weight: 700;
+  font-size: inherit;
+  line-height: 1.3;
+  color: inherit;
+}
+
+.story-summary:hover {
   color: var(--accent);
 }
 
-.story-toggle:focus-visible {
+.story-summary:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
@@ -737,14 +754,9 @@ article.story h3:has(.story-toggle) {
   content: "▸";
 }
 
-.story-toggle[aria-expanded="true"] .story-chevron {
+details.story-details[open] > .story-summary .story-chevron {
   transform: rotate(90deg);
   color: var(--accent);
-}
-
-.story-body[hidden],
-.cn-body[hidden] {
-  display: none !important;
 }
 
 .story-body {
@@ -753,11 +765,11 @@ article.story h3:has(.story-toggle) {
 }
 
 /* Visited / opened headline colour (persisted via localStorage) */
-article.story.story-visited .story-toggle {
+article.story.story-visited .story-summary {
   color: var(--visited);
 }
 
-article.story.story-visited .story-toggle:hover {
+article.story.story-visited .story-summary:hover {
   color: var(--visited);
   filter: brightness(1.08);
 }
@@ -770,13 +782,17 @@ article.story.story-visited.developing {
   background: var(--warn-bg);
 }
 
-/* Nested Community Note accordion */
-.community-note:has(.cn-toggle) {
+/* Nested Community Note accordion (also native details) */
+.community-note:has(.cn-details) {
   padding-top: 0.55rem;
   padding-bottom: 0.55rem;
 }
 
-.cn-toggle {
+.cn-details {
+  margin: 0;
+}
+
+.cn-summary {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -784,23 +800,27 @@ article.story.story-visited.developing {
   width: 100%;
   margin: 0;
   padding: 0.1rem 0;
-  border: 0;
   border-radius: 4px;
-  background: transparent;
-  color: inherit;
-  font: inherit;
-  text-align: left;
   cursor: pointer;
+  list-style: none;
   -webkit-tap-highlight-color: transparent;
   touch-action: manipulation;
 }
 
-.cn-toggle:focus-visible {
+.cn-summary::-webkit-details-marker {
+  display: none;
+}
+
+.cn-summary::marker {
+  content: "";
+}
+
+.cn-summary:focus-visible {
   outline: 2px solid var(--note);
   outline-offset: 2px;
 }
 
-.cn-toggle .cn-label {
+.cn-summary .cn-label {
   margin-bottom: 0;
 }
 
@@ -816,11 +836,10 @@ article.story.story-visited.developing {
   content: "▸";
 }
 
-.cn-toggle[aria-expanded="true"] .cn-chevron {
+details.cn-details[open] > .cn-summary .cn-chevron {
   transform: rotate(90deg);
 }
 
 .cn-body {
   margin-top: 0.35rem;
 }
-
