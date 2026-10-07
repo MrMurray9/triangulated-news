@@ -653,3 +653,174 @@ footer.site a { color: var(--link); }
   color: var(--muted);
   font-size: 0.95rem;
 }
+
+
+/* ---------- Story accordion (browse headers first) ---------- */
+:root {
+  --visited: #5b4a8c;
+  --visited-soft: #f1edf8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --visited: #b5a6e0;
+    --visited-soft: #2a2438;
+  }
+}
+
+article.story.story-collapsible {
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+}
+
+article.story.story-collapsible > .region-tag,
+article.story.story-collapsible > .label-dev,
+article.story.story-collapsible > .label-viral {
+  margin-bottom: 0.25rem;
+}
+
+article.story h3:has(.story-toggle) {
+  margin: 0;
+}
+
+.story-toggle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.55rem;
+  width: 100%;
+  margin: 0;
+  padding: 0.15rem 0.1rem;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 700;
+  font-size: inherit;
+  line-height: 1.3;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.story-toggle:hover {
+  color: var(--accent);
+}
+
+.story-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.story-toggle-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.story-chevron {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-top: 0.1rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1;
+  transition: transform 0.15s ease;
+}
+
+.story-chevron::before {
+  content: "▸";
+}
+
+.story-toggle[aria-expanded="true"] .story-chevron {
+  transform: rotate(90deg);
+  color: var(--accent);
+}
+
+.story-body[hidden],
+.cn-body[hidden] {
+  display: none !important;
+}
+
+.story-body {
+  margin-top: 0.45rem;
+  padding-top: 0.15rem;
+}
+
+/* Visited / opened headline colour (persisted via localStorage) */
+article.story.story-visited .story-toggle {
+  color: var(--visited);
+}
+
+article.story.story-visited .story-toggle:hover {
+  color: var(--visited);
+  filter: brightness(1.08);
+}
+
+article.story.story-visited {
+  background: color-mix(in srgb, var(--visited-soft) 55%, var(--card));
+}
+
+article.story.story-visited.developing {
+  background: var(--warn-bg);
+}
+
+/* Nested Community Note accordion */
+.community-note:has(.cn-toggle) {
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+}
+
+.cn-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  width: 100%;
+  margin: 0;
+  padding: 0.1rem 0;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.cn-toggle:focus-visible {
+  outline: 2px solid var(--note);
+  outline-offset: 2px;
+}
+
+.cn-toggle .cn-label {
+  margin-bottom: 0;
+}
+
+.cn-chevron {
+  flex: 0 0 auto;
+  color: var(--note);
+  font-size: 0.8rem;
+  line-height: 1;
+  transition: transform 0.15s ease;
+}
+
+.cn-chevron::before {
+  content: "▸";
+}
+
+.cn-toggle[aria-expanded="true"] .cn-chevron {
+  transform: rotate(90deg);
+}
+
+.cn-body {
+  margin-top: 0.35rem;
+}
+
