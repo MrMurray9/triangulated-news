@@ -446,3 +446,56 @@ footer.site a { color: var(--link); }
   :root { --pad: 1.5rem; }
   header.site h1 { font-size: 1.9rem; }
 }
+
+
+/* Joke / Quote of the day */
+.daily-extras {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin: 1rem 0 0.25rem;
+}
+@media (max-width: 640px) {
+  .daily-extras {
+    grid-template-columns: 1fr;
+  }
+}
+.daily-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.75rem 0.9rem;
+}
+.daily-label {
+  margin: 0 0 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+.daily-setup {
+  margin: 0 0 0.25rem;
+  font-size: 0.95rem;
+}
+.daily-punch {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.quote-card blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.quote-card blockquote p {
+  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+.quote-card blockquote footer {
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: normal;
+}

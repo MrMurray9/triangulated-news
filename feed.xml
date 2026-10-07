@@ -3,7 +3,7 @@
   <channel>
     <title>Verified News</title>
     <link>https://mrmurray9.github.io/triangulated-news/</link>
-    <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Canada and global viral social claims checked at the end.</description>
+    <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
     <lastBuildDate>Wed, 07 Oct 2026 01:05:00 GMT</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
