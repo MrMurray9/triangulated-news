@@ -5,105 +5,168 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:15:47 GMT</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Carney calls Quebec moment “crucial,” urges economic focus after PQ minority win</title>
-      <description>A day after the Parti Québécois won a minority (59 of 127 seats), Prime Minister Mark Carney said Tuesday he spoke with premier-designate Paul St-Pierre Plamondon and urged focus on housing, infrastructure and tariff impacts rather than a referendum years away. Alberta’s Oct. 19 vote is less than two weeks away. Why it matters: Quebec’s first PQ government since 2014 is a minority needing opposition support — national-unity coverage also points at Alberta’s Oct. 19 ballot. What changed: Carney’s Tuesday call and “crucial time” remarks joined overnight seat math (PQ 59; CAQ shutout). Community Note: minority not majority; ~28% popular vote; referendum deferred past Jan 2029 per PQ statements. Video: FRANCE 24 English https://www.youtube.com/watch?v=gDMpCNteV_Q</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-pq</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/pq</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Jaryd's News — Tuesday, Oct. 6, 2026 (evening update)</title>
+      <description>Evening edition: Elections Alberta flags more than 3,000 mail-in referendum ballots with errors; Alberta doctors ratify three-year master agreement with the province; Carney pledges to work with Quebec’s incoming PQ premier, calling it “a crucial time”; Foreign influence registry receives about 30 filings, far below federal estimates; Carney announces first bilateral visit to Türkiye by a Canadian prime minister; Drones hit two ships off Bulgaria; one sinks and its crew is missing; France’s student protests have their biggest day yet after a teen loses a hand in Lens; Russia says no plague found in contacts of Siberian lab worker who died; U.S. presses for details; Physics Nobel goes to Francis Halzen for the South Pole “ghost particle” observatory; ATCO shares jump 9% and the TSX hits an 11-day high after the Emera–Canadian Utilities deal; McDonald’s faces a U.S. class action over its AI pricing tool. Plus Tomorrow's watch, Viral on social, Science corner, Markets and the next Oilers game.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/edition</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Edmonton raises electricity franchise fee to 19.4% and maps four-year budget process</title>
-      <description>Council voted 8–5 Tuesday to raise Edmonton’s electricity franchise fee to 19.4% of distribution charges, matching Calgary. Draft budgets Nov. 2; public hearing from Nov. 23. Why it matters: Higher franchise fees hit power bills while council tries to hold down property-tax growth. What changed: Tuesday’s vote and published Nov. 2 / Nov. 23 budget calendar.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-franchise</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/franchise</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Elections Alberta flags more than 3,000 mail-in referendum ballots with errors</title>
+      <description>Elections Alberta says more than 3,000 returned special-ballot packages have errors that make them invalid as submitted. Most involve a missing or incorrectly completed declaration form, while others are missing a copy of ID or have ID problems. The agency says it is contacting affected voters, who can fix the problem by email. Elections Alberta has verified nearly 221,000 completed mail-in ballots, about one-third of the more than 652,000 packages sent out. It has hired more than 41,000 election workers and wants more than 60,000. Why it matters: Mail-in voters whose packages are missing a declaration or ID must get the corrected documents in by 5 p.m. Oct. 16. If they don’t, the special ballot is rejected and they have to vote in person during advance voting (Oct. 13–17) or on Oct. 19. What changed since yesterday: The agency’s count of verified mail-in ballots rose to nearly 221,000, up from more than 131,000 on Sept. 29, and it disclosed the 3,000-plus packages with errors. Community Note: An invalid package is not automatically a lost vote. Elections Alberta’s published process says electors missing a declaration or ID copy are contacted and can correct it before the deadline. If they don’t, they can still vote in person. The 3,000 figure is small compared with the nearly 221,000 ballots verified so far. Canada Post recommends mailing completed packages by Oct. 9. Video: Alberta Senate and Referendum Vote - General Information (Elections Alberta) https://www.youtube.com/watch?v=nDbd2yGHG6o Sources: The Globe and Mail https://www.theglobeandmail.com/canada/alberta/article-alberta-referendum-thousands-voters-invalid-mail-in-ballot-packs/; CP24 / The Canadian Press https://www.cp24.com/news/canada/2026/10/06/more-than-3000-referendum-mail-in-ballots-invalid-due-to-errors-officials/; Elections Alberta: special ballot process https://www.elections.ab.ca/current-election-information/ballot-count-for-sb-mail-in-voting/; Elections Alberta: Oct. 1 update https://www.elections.ab.ca/resources/media/news-releases/referendum-information-updates-2/</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-ballots</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/ballots</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Oct. 19 Alberta referendum: special ballots, advance voting, and safeguards</title>
-      <description>Albertans vote Oct. 19 on 10 referendum questions. Elections Alberta: 652,000+ special ballots approved; packages due by 5 p.m. Oct. 16; advance voting Oct. 13–17. Why it matters: Practical voting timeline now less than two weeks away. Video: Elections Alberta https://www.youtube.com/watch?v=nDbd2yGHG6o</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-referendum</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/referendum</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Alberta doctors ratify three-year master agreement with the province</title>
+      <description>Members of the Alberta Medical Association voted to ratify a proposed three-year master agreement with the provincial government. In a letter to members, AMA president Dr. Heidi Fell said 22 per cent of eligible members voted and 76 per cent of those voted in favour. She said it is not the agreement the AMA first sought and came after mediation, but that it gives doctors three years of stability and some meaningful gains. In a joint statement, Hospital and Surgical Health Services Minister Adriana LaGrange and Finance Minister Jason Nixon called the deal fair and sustainable. The government and the AMA said they will share details once the agreement is finalized. Why it matters: The agreement sets how Alberta pays its physicians for the next three years, but its terms have not been made public yet. Community Note: Turnout was low. With 22 per cent voting and 76 per cent of them in favour, roughly 17 per cent of all eligible members voted yes. The terms, including any fee changes, have not been released, so claims about specific raises or cuts cannot be verified yet. Video: Alberta doctors ratify 3-year pay deal (CTV News) https://www.youtube.com/watch?v=fOJP__qkVR0 Sources: Global News / The Canadian Press https://globalnews.ca/news/12090078/alberta-medical-association-2026-agreement/; Government of Alberta statement https://www.alberta.ca/announcements.cfm?xID=97901B3FBC209-BC0F-A87F-6B7901324E1E37EC; CTV News Edmonton https://www.ctvnews.ca/edmonton/article/alberta-doctors-vote-to-ratify-a-proposed-3-year-pay-deal-with-provincial-government/</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-ama</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/ama</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Smith says she has no knowledge of reported separatist–U.S. strategist meetings</title>
-      <description>Premier Danielle Smith’s office said Monday she has no knowledge of reported meetings between Alberta separatists and U.S. strategists, and that she opposes separation or Alberta becoming a U.S. state.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-separatism</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/separatism</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Carney pledges to work with Quebec’s incoming PQ premier, calling it “a crucial time”</title>
+      <description>Prime Minister Mark Carney said Tuesday that he spoke with Quebec premier-designate Paul St-Pierre Plamondon, congratulated him, and discussed working together. He named housing, infrastructure, electricity capacity, and support for workers hurt by U.S. tariffs as shared priorities. “This is a crucial time for our country, it’s a crucial time for Quebec,” Carney said, adding that it was “not a time to wait for something a few years down the road.” Asked about a possible referendum, Carney said he too was working toward sovereignty, “but it’s Canada’s sovereignty.” St-Pierre Plamondon has promised to pull Quebec out of the Alto high-speed rail project. Industry Minister Mélanie Joly said she believes Alto and the Churchill Falls energy development will still go ahead. Why it matters: A Parti Québécois government could slow federal priorities that run through Quebec, such as Alto rail and hydro expansion, while the PQ has promised a sovereignty referendum only after 2029. What changed since yesterday: Carney made his first direct contact with the premier-designate and gave Ottawa’s first public pledge of cooperation after Monday’s PQ minority win. Community Note: Carney did not directly answer whether he is worried about a referendum. The PQ won a minority of 59 of 127 seats, five short of a majority, with about 28 per cent of the popular vote according to AFP. The PQ has said any referendum would come during its mandate but only after Donald Trump leaves office in 2029. Video: Carney says 'it's a crucial time' for Canada following PQ's win in Quebec (CityNews) https://www.youtube.com/watch?v=7skQPnYpzo0 Sources: The Globe and Mail / The Canadian Press https://www.theglobeandmail.com/canada/article-canada-at-a-crucial-time-carney-says-after-speaking-with-incoming/; National Post https://nationalpost.com/news/politics/carney-touts-canadian-sovereignty-in-first-comments-on-parti-quebecois-win-in-quebec; AFP https://www.afp.com/en/quebec-separatist-win-rattles-carneys-unity-push</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-carney-pq</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/carney-pq</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Ukrainian drone attack on Moscow region kills two; Russia claims large intercepts</title>
-      <description>A major overnight Ukrainian drone assault on Moscow and nearby regions killed at least two people, Russian officials said. Intercept tallies vary and are not independently verified drone-by-drone.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-ukraine-drones</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/ukraine-drones</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Foreign influence registry receives about 30 filings, far below federal estimates</title>
+      <description>Foreign Influence Transparency Commissioner Anton Boegman told a House of Commons committee Tuesday that his office received about 30 submissions by the deadline for arrangements that existed before the law took effect on Aug. 4. Only two entries were on the public registry as of Tuesday, and the rest are being validated before they are published. Public Safety Canada has estimated that about 2,422 people or organizations could be required to register. Boegman said the registry is brand new and he expects the numbers to rise as awareness grows. Why it matters: The registry is a new federal tool meant to show who works on behalf of foreign governments or principals to influence Canadian political processes, and opposition MPs questioned its early effectiveness. Community Note: Boegman said it is too early to judge compliance, so the low early count does not by itself prove widespread non-compliance. The 2,422 figure is a Public Safety estimate, not a count of known agents. A separate government notice projected about 1,767 registrants a year, so official estimates also vary. Video: Foreign influence registry off to a slow start as database sees low number of registrants (Global News) https://www.youtube.com/watch?v=A2ZmHkOQBQc Sources: The Canadian Press https://www.thecanadianpressnews.ca/politics/foreign-influence-commissioner-expects-registration-to-increase-as-awareness-grows/article_6eed9478-0470-5605-b9b6-deecef4509c9.html; Global News https://globalnews.ca/news/12089719/foreign-agent-registry-numbers-canada/; CPAC (video, Oct. 6) https://www.youtube.com/watch?v=ZTKiys2-5YM</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-registry</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/registry</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Yemen fighting near Bab al-Mandeb; Saudi airports hit; battlefield claims contested</title>
-      <description>Saudi-backed Yemeni forces claimed gains near Bab al-Mandeb; Houthis denied key claims; AP/Reuters could not independently verify. Saudi Arabia said two airports were attacked.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-yemen</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/yemen</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Carney announces first bilateral visit to Türkiye by a Canadian prime minister</title>
+      <description>The Prime Minister’s Office said Carney will travel to Ankara and Istanbul from Oct. 21 to 23. In Ankara he will meet President Recep Tayyip Erdoğan on energy and mining, climate, defence and security, and people-to-people ties. In Istanbul he will meet business leaders and investors. The PMO said bilateral trade has grown by almost 50 per cent in five years. The two countries launched free-trade negotiations in July. Why it matters: Energy, mining, and critical minerals are among the priority sectors Ottawa named for expanding trade with a NATO ally and G20 partner. Community Note: “First bilateral visit” means a stand-alone official visit. Carney was already in Ankara in July 2026 for the NATO summit. The 50 per cent trade-growth figure comes from the PMO. TRT World and Daily Sabah are Turkish outlets (TRT is state-owned) reporting the Canadian announcement. Sources: Prime Minister of Canada https://www.pm.gc.ca/en/news/news-releases/2026/10/06/prime-minister-carney-visit-turkiye-advance-partnership-across-trade; TRT World https://www.trtworld.com/article/4f447ac5df26; Daily Sabah https://www.dailysabah.com/politics/diplomacy/canadas-pm-carney-to-visit-turkiye-to-boost-ties</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-turkiye</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/turkiye</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Kenya records first Ebola death — imported case from DRC</title>
-      <description>Kenya reported its first Ebola-related death after an imported case from the DRC. Contact tracing under way; not described as community spread. Video: FRANCE 24 English https://www.youtube.com/watch?v=rAMXLpR479Q</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-kenya-ebola</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/kenya-ebola</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Drones hit two ships off Bulgaria; one sinks and its crew is missing</title>
+      <description>Bulgarian Prime Minister Rumen Radev said sea and aerial drones struck two commercial ships at about 3 a.m. local time Tuesday, roughly 70 nautical miles (130 km) off the coast in Bulgaria’s exclusive economic zone. The Togo-flagged Alfa Watan sank, and authorities launched a search for its crew. The Palau-flagged Able caught fire. All 18 of its crew were evacuated, and two seriously injured sailors were flown to hospital in Varna. Radev called the attack “a blatant violation of international law and maritime law.” Bulgarian outlet Fakti.bg reported early Oct. 7 that no trace of the Alfa Watan’s crew had been found. Why it matters: The strike in an EU and NATO member’s exclusive economic zone widens the Black Sea shipping risk tied to the Russia-Ukraine war. Radev said it is raising insurance costs and making shipping extremely difficult. Community Note: Where the drones came from had not been established at publication time. Radev did not say how many people were aboard the Alfa Watan. A day earlier, a ship sank off Romania in what Ukraine said was a Russian drone attack; that attribution is Ukraine’s and has not been independently confirmed. Video: Drones hit two ships off Bulgaria's coast, search and rescue ongoing as one sank (euronews) https://www.youtube.com/watch?v=srFSYf3h5R8 Sources: Al Jazeera (with AFP, AP) https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters; Euronews https://www.euronews.com/2026/10/06/drones-hit-two-ships-off-coast-of-bulgaria-as-government-calls-emergency-meeting; BTA (Bulgarian News Agency) https://www.bta.bg/en/news/bulgaria/1218507-two-merchant-ships-attacked-by-sea-and-aerial-drones-in-bulgaria-s-exclusive-eco; Fakti.bg https://fakti.bg/en/bulgaria/1087145-there-is-no-trace-of-the-crew-of-the-ship-alpha-watan-that-sank-off-byala</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-bulgaria</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/bulgaria</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Emera and Canadian Utilities announce $72-billion combination</title>
-      <description>Emera, Canadian Utilities, and ATCO announced a ~$72-billion combination, subject to approvals. Alberta’s ATCO is in the deal.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-emera</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/emera</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>France’s student protests have their biggest day yet after a teen loses a hand in Lens</title>
+      <description>About 250,000 people joined student-led protests across France on Tuesday, according to the interior ministry, while organisers put the number at 450,000. The movement began Sept. 17 in Créteil and centres on teacher absences, overloaded timetables, and run-down school buildings. The interior ministry said at least 488 people were arrested and 43 members of the security forces were wounded on Tuesday. On Monday, a 15-year-old in Lens lost a hand when a police grenade exploded. A police union source said he had picked it up, and France’s police watchdog (IGPN) is investigating. Why it matters: The unrest comes months before France’s 2027 presidential election. Prime Minister Sébastien Lecornu accused the hard-left France Unbowed party of “sowing chaos.” What changed since yesterday: Tuesday was the largest day of the protests so far, and unions joined students in the streets. Community Note: How the teen was hurt is still under investigation. Police sources say he picked up the grenade, while other accounts dispute this. Crowd estimates differ widely between the ministry and organisers. The government says 215 students and 715 police officers have been injured since the movement began. Video: 'We are effectively maiming young people' - expert questions France's response to student protests (FRANCE 24 English) https://www.youtube.com/watch?v=DrzLTGeOuzI Sources: France 24 https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students; The Hindu (AFP) https://www.thehindu.com/news/international/teenager-loses-hand-picking-up-grenade-in-france-school-protests/article71549735.ece; franceinfo (French) https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-de-15-ans-a-eu-la-main-arrachee-par-une-grenade-a-lens-une-enquete-de-l-igpn-ouverte-annonce-le-procureur-de-bethune_8223337.html</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-france</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/france</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Canada’s trade surplus widens to $4.2 billion in August; loonie firms</title>
-      <description>Statistics Canada: merchandise trade surplus widened to $4.2 billion in August 2026, partly from front-loading ahead of U.S. tariffs. CAD firmed Tuesday.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-trade</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/trade</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Russia says no plague found in contacts of Siberian lab worker who died; U.S. presses for details</title>
+      <description>A 28-year-old worker at the Irkutsk Anti-Plague Institute of Siberia and the Far East died last week of what Russia’s health watchdog called pneumonia of undetermined origin. On Tuesday, Rospotrebnadzor said testing of her contacts found two COVID-19 cases and two rhinovirus cases and no other pathogens. The World Health Organization said the risk outside Russia is “very low.” U.S. Secretary of State Marco Rubio urged Moscow to share more information, saying U.S. agencies are watching closely. Why it matters: A death at a lab that studies plague draws international attention, and WHO says there is currently no sign of anything like the COVID-19 pandemic. Community Note: Russian authorities have not confirmed plague as the cause of death, and WHO describes it only as a possible case of pneumonic plague. WHO says pneumonic plague is serious, but recovery rates are high when it is caught and treated in time. Social posts calling this “COVID 2.0” go well beyond the evidence. Video: Rubio: Russian plague death is 'cause for focus' (NBC News) https://www.youtube.com/watch?v=JYulaBektno Sources: NBC News https://www.nbcnews.com/world/russia/russia-says-no-plague-found-contacts-siberian-lab-worker-died-rcna601805; KSAT / Associated Press https://www.ksat.com/health/2026/10/06/how-russia-and-the-world-are-responding-to-a-possible-case-of-pneumonic-plague-after-lab-worker-dies/; Politico https://www.politico.com/news/2026/10/06/marcio-rubio-russia-plague-information-01108428</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-plague</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/plague</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Six Nations Haldimand Tract trial opens in Toronto</title>
-      <description>Civil trial over Six Nations’ Haldimand Tract claim opened Monday. Phase 1 decides Crown liability; compensation sought, not seizure of private land.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-six-nations</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/six-nations</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Physics Nobel goes to Francis Halzen for the South Pole “ghost particle” observatory</title>
+      <description>The Royal Swedish Academy of Sciences awarded the 2026 Nobel Prize in Physics to Francis Halzen of the University of Wisconsin–Madison “for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin.” IceCube is a cubic kilometre of Antarctic ice fitted with light sensors. Halzen proposed the idea in 1988, and the detector was finished in 2011. Neutrinos pass through Earth almost without interacting. Because they travel without changing direction, they can carry information from the most violent places in the universe. The prize is worth 12 million Swedish kronor. Why it matters: University of Alberta physicists are part of the IceCube collaboration and played roles in its 2018 identification of the first likely source of high-energy cosmic neutrinos. Community Note: The prize goes to one person, but IceCube is a large international collaboration. Halzen is its principal investigator. Reuters describes Halzen, 82, as Belgian-American, and the Nobel committee lists him as born in Tienen, Belgium, in 1944. Video: Belgian scientist Francis Halzen wins the Physics Nobel Prize for his work on neutrinos | DW News (DW News) https://www.youtube.com/watch?v=Qcvh_BWglvQ Sources: NobelPrize.org press release https://www.nobelprize.org/prizes/physics/2026/press-release/; Reuters (via ThePrint) https://theprint.in/world/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt/3063417/; UW–Madison News https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/; University of Alberta Physics (2018) https://www.ualberta.ca/en/physics/about-the-department/physics-news/2018/july/cosmic-neutrino-discovery-icecube.html</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-nobel</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/nobel</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Viral: Egyptian balcony rescue CCTV confirmed</title>
-      <description>Confirmed: Ahmed Ragab caught a child falling from a Giza balcony; Al Jazeera, Khaleej Times, Gulf News. https://www.youtube.com/watch?v=lnfuQAjQmmo</description>
+      <title>ATCO shares jump 9% and the TSX hits an 11-day high after the Emera–Canadian Utilities deal</title>
+      <description>ATCO shares closed 9.2 per cent higher Tuesday after Emera agreed to buy Canadian Utilities in an all-stock deal valued at C$14.3 billion, according to Reuters. Emera fell 2.9 per cent and Canadian Utilities fell nearly 2 per cent. ATCO, which controls Canadian Utilities, said it will separate into a publicly traded industrial-services company. The S&amp;P/TSX composite index rose 130.96 points, or 0.4 per cent, to 35,649.51, its highest close since Sept. 25. Utilities led the gain as bond yields eased. Why it matters: Calgary-based ATCO and its utility arm, Canadian Utilities, are at the centre of a deal that would create a roughly $72-billion national utility and energy-infrastructure company. What changed since yesterday: Markets reacted to Tuesday’s announcement, and ATCO chief executive Nancy Southern told The Globe and Mail she sees the deal as a win-win for ATCO. Community Note: C$14.3 billion is the equity value for Canadian Utilities, and about $72 billion is the companies’ framing of the combined enterprise. The deal still needs shareholder and regulatory approvals. Some outlets reported a larger intraday gain for ATCO, but 9.2 per cent is Reuters’ closing figure. Video: Emera to buy Canadian Utilities to create $72-billion energy 'powerhouse' (The Canadian Press) https://www.youtube.com/watch?v=FnI61jNEBu8 Sources: Reuters (via MarketScreener) https://www.marketscreener.com/news/tsx-climbs-to-11-day-high-as-bond-yields-ease-ce785dd9dc8df420; The Globe and Mail https://www.theglobeandmail.com/business/article-nancy-southern-sees-emera-deal-as-a-win-win-for-atco/; Investment Executive / The Canadian Press https://www.investmentexecutive.com/news/markets/emera-to-buy-canadian-utilities-to-create-72b-energy-powerhouse/; Company release (Cision) https://www.newswire.ca/news-releases/emera-atco-and-canadian-utilities-announce-transformational-agreement-to-create-canadian-utility-and-energy-infrastructure-powerhouse-845296615.html</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-atco</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/atco</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>McDonald’s faces a U.S. class action over its AI pricing tool</title>
+      <description>A proposed class action filed Friday in federal court in Illinois alleges that McDonald’s AI-assisted pricing tool shares nonpublic data, such as store-level sales, among franchisees who may compete with each other. The suit says this amounts to coordinated pricing in violation of antitrust law. Lead plaintiff Michael Thomas alleges violations of the Sherman Act and Illinois laws. McDonald’s has said it makes the tool available to U.S. franchisees to help them set prices at their own restaurants. Why it matters: The case adds to growing legal scrutiny of algorithmic pricing tools that use shared data to recommend prices. Community Note: These are allegations, and no court has ruled. The claim that average menu prices rose about 40 per cent in five years comes from the plaintiffs, as reported by Law360 via the ABA Journal. McDonald’s says the AI makes recommendations and franchisees set their own prices. Video: McDonald's sued over AI-powered menu price-fixing (KVUE) https://www.youtube.com/watch?v=27W6s-pTfuA Sources: AP (via The Washington Post) https://www.washingtonpost.com/business/2026/10/06/mcdonalds-ai-pricing-lawsuit-competition-franchisees/05e4ef78-c1c1-11f1-8170-681419af1cc9_story.html; Reuters https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/; ABA Journal https://www.abajournal.com/news/article/federal-lawsuit-targets-mcdonalds-for-alleged-use-of-ai-to-hike-prices; McDonald’s statement on pricing https://corporate.mcdonalds.com/corpmcd/our-stories/article/how-mcdonalds-sets-prices.html</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-mcdonalds</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/mcdonalds</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tomorrow's watch — Wed., Oct. 7, 2026</title>
+      <description>Justice Minister Sean Fraser and Health Minister Marjorie Michel will hold a media availability in Ottawa at 12 p.m. ET (10 a.m. MDT) on Wednesday, Oct. 7, to outline next steps on Canada’s MAID laws. The Supreme Court hears Atlantic Lottery Corporation, et al. v. Attorney General of Ontario (case 42141) on Wednesday, Oct. 7. The Attorney General of Alberta is listed as an intervener.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#tomorrows-watch</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/tomorrows-watch</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · South America / Global · Confirmed] Messi’s tearful “Last Tango” farewell for Argentina floods social feeds</title>
+      <description>Lionel Messi’s farewell to Argentina is being shared across social platforms, including a tribute posted on X by former teammate Neymar. Messi wiped away tears on the team bus, walked out with his three children, and received a minute-long ovation in the 10th minute. In his final international match, Argentina beat Benin 3-0 at Buenos Aires’ Monumental Stadium in front of about 85,000 fans. Verdict: Confirmed. France 24/AFP, ESPN, and The Indian Express report that Messi scored his 126th international goal from the penalty spot and set up Nicolás Otamendi’s opening goal. Community Note: Outlets give slightly different appearance totals (207 or 208 caps), so treat exact career tallies in viral graphics with care. Messi is still under contract with Inter Miami until 2028, and this was his farewell to the national team, not to club football.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-messi</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-messi</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · Middle East / Global · Confirmed] CCTV shows an Egyptian man catching a child who fell from a balcony</title>
+      <description>A CCTV clip from Giza spread widely on X, Instagram, TikTok, and WhatsApp in early October. It shows Ahmed Ragab sprinting to catch a young boy who fell from a second-floor balcony after a washing line briefly slowed the fall. Verdict: Confirmed. Al Jazeera, Khaleej Times, and Gulf News identify Ragab and the Giza setting, and the footage matches the reported rescue. Community Note: This is authentic CCTV of a real rescue, not an AI composite. Clips like this are sometimes miscaptioned later, so keep the Giza, early-October 2026 context when resharing.</description>
       <link>https://mrmurray9.github.io/triangulated-news/#viral-egypt-catch</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/viral-egypt</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-egypt-catch</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Viral claim check: Alberta mail-in ballots open to anyone — False</title>
-      <description>False: Elections Alberta manually reviews applications; out-of-province packages are declined. CP/Global fact check.</description>
+      <title>[Viral · Europe / Global · Confirmed] Skydivers glide beside a massive hail front near Lake Constance</title>
+      <description>Helmet-cam video of three skydivers tracking beside a towering hail wall near Hohenems and Lake Constance, Austria, went viral on Instagram before weather outlets picked it up in early October. Swiss jumper Lean Stein posted it. Verdict: Confirmed. Stein spoke to 20 Minuten, and the jump took place on July 25, 2026, with the video released in late September. The jumpers landed safely. Community Note: The jump happened in July, and the video went viral weeks later. It was verified with the jumper and distributed by major weather outlets.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-skydivers-hail</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-skydivers-hail</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · U.S. / Global · Confirmed] Outer Banks couple invites the island after a storm strands their wedding guests</title>
+      <description>Posts about Kimberly Laprad and Jayden Sink’s Hatteras Island wedding went viral on Facebook, TikTok, and X. A nor’easter cut road access so most guests couldn’t arrive, so the couple invited locals, and hundreds of strangers came. Verdict: Confirmed. The Washington Post, Island Free Press, and WDBJ7 reported the September 2026 wedding. Community Note: Attendance estimates vary by outlet, from roughly 400 to 800. The core facts are consistently reported: a storm blocked access, the couple posted an open invite, and a big local crowd turned out.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-outer-banks-wedding</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-outer-banks-wedding</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · U.S. / Global · Confirmed] A bride’s sheepadoodle films cocktail hour with a GoPro, drawing millions of views</title>
+      <description>Instagram and TikTok users widely shared Emily Cowles’s “Swayze cocktail hour cam,” filmed by a GoPro on her sheepadoodle’s harness at an August wedding in Door County, Wisconsin. Verdict: Confirmed. The couple and their videographer confirmed the harness-mounted camera, and WBAY, PetaPixel, and The Dodo covered the clip. Community Note: This is real wedding footage from the dog’s point of view, not an AI-generated video.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-swayze-gopro</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-swayze-gopro</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · Canada · Confirmed] A Saskatoon baby’s first powwow dance draws millions of TikTok views</title>
+      <description>A TikTok of Saskatoon baby Margot dancing at her first powwow spread across TikTok and Instagram, with reports putting views above 1.7 million. Verdict: Confirmed. CTV News Saskatoon reported on the family’s video and its cultural context on Oct. 5–6, 2026. Community Note: This is an authentic family video of a real powwow. Coverage highlights passing Indigenous culture on to children.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-saskatoon-powwow</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-saskatoon-powwow</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Viral · Canada · False] Claim: anyone outside Alberta can get a mail-in referendum ballot with no residency check</title>
+      <description>“Mail-in voting is open to anybody… No verification of Alberta residents and they will mail the ballot anywhere.” Verdict: False. The online form may accept an application with an out-of-province address, but Elections Alberta manually reviews applications against the voter register and declines invalid ones. A copy of ID is required with the returned package. The Canadian Press verified that a widely shared application with a Vancouver address was declined the next day. Community Note: A “submitted” confirmation is not an approved ballot. Elections Alberta also checks the ID and declaration in every returned package. That is why more than 3,000 packages with errors were flagged this week (see Alberta).</description>
       <link>https://mrmurray9.github.io/triangulated-news/#viral-mail-in</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/viral-mail-in</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/viral-mail-in</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Viral claim check: Elon Musk water-shortage deaths video — False / deepfake</title>
-      <description>False: Full Fact found the circulating Musk water-shortage warning video is a deepfake.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#viral-musk-deepfake</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/viral-musk-deepfake</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Science corner: A Canadian rocket startup’s first satellite is working in orbit</title>
+      <description>Ontario-based NordSpace says its Terra Nova pathfinder satellite is operating successfully after launching Oct. 1 on SpaceX’s Transporter-18 rideshare mission from California. The company says this makes it the first Canadian launch company to operate its own hardware in space. Terra Nova has completed its early-orbit phase and is entering commissioning as engineers power up its subsystems. NordSpace says the small satellite was designed, built, and tested in-house in nine months. It carries an electric thruster and AI-powered cameras, and in the coming weeks the company plans to test whether it can help monitor wildfires and the Arctic. Community Note: This is a small test satellite in early commissioning, not an operational wildfire-detection service. Its monitoring capabilities are still to be tested. NordSpace’s own rockets have not yet flown, and Terra Nova rode a U.S. SpaceX rocket.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#science</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/science</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>Science: Brain implant decodes speech and gestures for mind-controlled avatar</title>
-      <description>UCSF ECoG study in Nature Neuroscience simultaneously decodes speech and gestures for a virtual avatar. Early-stage research.</description>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-bci-avatar</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06-evening/bci</guid>
-      <pubDate>Wed, 07 Oct 2026 02:10:00 GMT</pubDate>
+      <title>Markets: BTC, TSLA, SPCX snapshot</title>
+      <description>Bitcoin (BTC) $84,007 −1.73% 24h, Oct. 6, 2026, 8:09 p.m. MDT; Tesla (TSLA) $380.68 +1.95 (+0.51%) day, Oct. 6, 2026, 2:00 p.m. MDT; SpaceX (SPCX) $171.92 +0.83 (+0.49%) day, Oct. 6, 2026, 2:00 p.m. MDT. Not investment advice. These are snapshot prices fetched for this edition, not a live feed. Stock prices are Tuesday’s Nasdaq closing prices, and the day change is measured against Monday’s close.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#markets</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/markets</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next Oilers game: Edmonton Oilers at Anaheim Ducks, Wednesday, Oct. 7, 2026 · 8:00 p.m. MDT</title>
+      <description>Honda Center · Anaheim, Calif.. The NHL lists Sportsnet West (SNW) as the Canadian broadcast. After that, the Oilers play at San Jose on Saturday, Oct. 10, at 2:00 p.m. MDT.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#oilers</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-06/evening/oilers</guid>
+      <pubDate>Wed, 07 Oct 2026 02:15:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
