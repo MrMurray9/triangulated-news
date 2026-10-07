@@ -2,7 +2,7 @@
 
 Phone-friendly daily news digest. Stories appear only when **three or more independent outlets** confirm the same core facts. Wire-service reprints count as one source.
 
-**Sources exclude BBC, CNN, CBC, and Radio-Canada.** Every story carries a **Community Note** (missing context, what is confirmed vs disputed, caveats). A final **Viral on social** section checks claims circulating on social platforms.
+**Sources exclude BBC, CNN, CBC, and Radio-Canada.** Every story carries a **Community Note** (missing context, what is confirmed vs disputed, caveats). Confirmed main stories may include a **verified YouTube news clip** (reputable outlet or official channel; checked via oEmbed). A final **Viral on social** section checks Canada and **global** claims circulating on social platforms.
 
 ## Read the site
 
