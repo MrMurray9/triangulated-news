@@ -499,3 +499,27 @@ footer.site a { color: var(--link); }
   color: var(--muted);
   font-style: normal;
 }
+
+
+/* Why it matters / What changed */
+.why-it-matters,
+.what-changed {
+  margin: 0.45rem 0 0.15rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--fg);
+}
+
+.why-it-matters strong,
+.what-changed strong {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-right: 0.25rem;
+}
+
+.what-changed strong {
+  color: var(--note);
+}
