@@ -2,12 +2,14 @@
 
 Phone-friendly daily news digest. Stories are confirmed by multiple independent outlets, each with a **Community Note** and, where available, a verified YouTube news clip. A final **Viral on social** section checks Canada and global claims circulating on social platforms. The homepage also carries a compact **Markets** ticker row (BTC, TSLA, SPCX), **Next Oilers game**, and Edmonton’s daily high.
 
+**Update schedule:** two editions a day — morning (built at 6 a.m., ready by 7 a.m.) and afternoon (4 p.m.), Edmonton time. Previous editions are kept in `archive/` (e.g. `2026-10-07-evening.html`).
+
 Source links on each article sit behind a small hamburger button (tap to expand).
 
 ## Read the site
 
 - **Latest digest:** [https://mrmurray9.github.io/triangulated-news/](https://mrmurray9.github.io/triangulated-news/)
-- **Today’s archive:** [https://mrmurray9.github.io/triangulated-news/archive/2026-10-06.html](https://mrmurray9.github.io/triangulated-news/archive/2026-10-06.html)
+- **Today’s archive:** [https://mrmurray9.github.io/triangulated-news/archive/2026-10-08.html](https://mrmurray9.github.io/triangulated-news/archive/2026-10-08.html)
 
 ## Subscribe via RSS
 
