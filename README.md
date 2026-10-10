@@ -9,7 +9,7 @@ Source links on each article sit behind a small hamburger button (tap to expand)
 ## Read the site
 
 - **Latest digest:** [https://mrmurray9.github.io/triangulated-news/](https://mrmurray9.github.io/triangulated-news/)
-- **Today’s archive:** [https://mrmurray9.github.io/triangulated-news/archive/2026-10-09.html](https://mrmurray9.github.io/triangulated-news/archive/2026-10-09.html)
+- **Today’s archive:** [https://mrmurray9.github.io/triangulated-news/archive/2026-10-10.html](https://mrmurray9.github.io/triangulated-news/archive/2026-10-10.html)
 
 ## Subscribe via RSS
 
