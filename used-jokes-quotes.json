@@ -75,6 +75,14 @@
       "editions": [
         "2026-10-11-morning"
       ]
+    },
+    {
+      "text": "Why did the cranberries turn red? Because they saw the turkey dressing.",
+      "normalized": "why did the cranberries turn red because they saw the turkey dressing",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-evening"
+      ]
     }
   ],
   "quotes": [
@@ -178,6 +186,15 @@
       "first_used": "2026-10-11",
       "editions": [
         "2026-10-11-morning"
+      ]
+    },
+    {
+      "text": "The world will little note, nor long remember what we say here, but it can never forget what they did here.",
+      "attribution": "Abraham Lincoln, Gettysburg Address (Nov. 19, 1863; Bliss copy)",
+      "normalized": "the world will little note nor long remember what we say here but it can never forget what they did here",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-evening"
       ]
     }
   ]
