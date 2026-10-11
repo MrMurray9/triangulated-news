@@ -25,3 +25,11 @@ Maintained by Jaryd Murray ([@MrMurray9](https://github.com/MrMurray9)). Static 
 
 **Video headline badges:** If a story body includes a `.video-embed` block (YouTube `youtube-nocookie` iframe), `script.js` automatically adds a small screen/play icon in the collapsed headline. No per-story badge markup is required — keep publishing embeds as usual.
 
+
+## Joke and quote of the day — no repeats (required every run)
+
+Before choosing the joke and quote of the day, read `used-jokes-quotes.json`; never reuse any joke or quote (or near-duplicate) listed there; after publishing, append the new joke and quote to the ledger and commit it with the edition.
+
+- **Near-duplicate** means the same joke/quote reworded, trimmed, or re-punctuated, or the same premise/punchline (e.g. any "outstanding in his field" scarecrow joke). Compare against each entry's `normalized` text and any `variants` (normalize: lowercase, drop quote marks, punctuation → space, collapse spaces, drop a leading "and/but/so"); treat a `difflib` ratio ≥ 0.85 or one text containing the other as a repeat.
+- New ledger entries: jokes `{text, normalized, first_used, editions}`; quotes `{text, attribution, normalized, first_used, editions}`. `first_used` is the edition date (YYYY-MM-DD); `editions` lists edition ids (e.g. `2026-10-11-morning`).
+- Quotes must be real and accurately attributed (author, work, and translator for translated texts), verified against a reliable source — not BBC, CNN, CBC or Radio-Canada. Jokes must be clean and family-friendly.

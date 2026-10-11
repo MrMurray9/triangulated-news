@@ -1,0 +1,184 @@
+{
+  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
+  "updated": "2026-10-11",
+  "jokes": [
+    {
+      "text": "What happened when the lion ate the comedian? He felt funny.",
+      "normalized": "what happened when the lion ate the comedian he felt funny",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "What goes after USA? USB.",
+      "normalized": "what goes after usa usb",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "Why don’t scientists trust atoms? Because they make up everything.",
+      "normalized": "why dont scientists trust atoms because they make up everything",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-morning"
+      ]
+    },
+    {
+      "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+      "normalized": "i told my wife she was drawing her eyebrows too high she looked surprised",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-noon"
+      ]
+    },
+    {
+      "text": "I’m reading a book about anti-gravity. It’s impossible to put down.",
+      "normalized": "im reading a book about anti gravity its impossible to put down",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-evening"
+      ]
+    },
+    {
+      "text": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "normalized": "why did the scarecrow win an award because he was outstanding in his field",
+      "first_used": "2026-10-08",
+      "editions": [
+        "2026-10-08-morning",
+        "2026-10-10-morning"
+      ]
+    },
+    {
+      "text": "Why did the turkey join the band? Because it had the drumsticks.",
+      "normalized": "why did the turkey join the band because it had the drumsticks",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-morning",
+        "2026-10-10-evening"
+      ]
+    },
+    {
+      "text": "What do snowmen eat for breakfast? Frosted Flakes.",
+      "normalized": "what do snowmen eat for breakfast frosted flakes",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-evening"
+      ]
+    },
+    {
+      "text": "Why did the pumpkin pie go to the doctor? It was feeling a little crummy.",
+      "normalized": "why did the pumpkin pie go to the doctor it was feeling a little crummy",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-morning"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "And you can always, always give something, even if it is only kindness!",
+      "attribution": "Anne Frank, essay “Give!” (26 March 1944)",
+      "normalized": "you can always always give something even if it is only kindness",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ],
+      "variants": [
+        "You can always, always give something, even if it is only kindness!"
+      ]
+    },
+    {
+      "text": "Be happy now, without reason — or you never will be at all.",
+      "attribution": "Dan Millman",
+      "normalized": "be happy now without reason or you never will be at all",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "attribution": "Steve Jobs, Stanford commencement address (12 June 2005)",
+      "normalized": "the only way to do great work is to love what you do",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-morning"
+      ]
+    },
+    {
+      "text": "Well done is better than well said.",
+      "attribution": "Benjamin Franklin, Poor Richard’s Almanack (1737)",
+      "normalized": "well done is better than well said",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-noon"
+      ]
+    },
+    {
+      "text": "Let us never negotiate out of fear. But let us never fear to negotiate.",
+      "attribution": "John F. Kennedy, Inaugural address (Jan. 20, 1961)",
+      "normalized": "let us never negotiate out of fear but let us never fear to negotiate",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-evening"
+      ]
+    },
+    {
+      "text": "There was no second chance. We knew that.",
+      "attribution": "Margaret Hamilton, on writing Apollo’s flight software, MIT News (2009)",
+      "normalized": "there was no second chance we knew that",
+      "first_used": "2026-10-08",
+      "editions": [
+        "2026-10-08-morning"
+      ]
+    },
+    {
+      "text": "Injustice anywhere is a threat to justice everywhere.",
+      "attribution": "Martin Luther King Jr., Letter from Birmingham Jail (1963)",
+      "normalized": "injustice anywhere is a threat to justice everywhere",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-morning"
+      ]
+    },
+    {
+      "text": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+      "attribution": "Cicero, Pro Plancio (54 BC)",
+      "normalized": "gratitude is not only the greatest of virtues but the parent of all the others",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-evening"
+      ]
+    },
+    {
+      "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+      "attribution": "James Baldwin, “As Much Truth As One Can Bear,” The New York Times Book Review (1962)",
+      "normalized": "not everything that is faced can be changed but nothing can be changed until it is faced",
+      "first_used": "2026-10-10",
+      "editions": [
+        "2026-10-10-morning"
+      ]
+    },
+    {
+      "text": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+      "attribution": "John F. Kennedy, Thanksgiving Day Proclamation (1963)",
+      "normalized": "as we express our gratitude we must never forget that the highest appreciation is not to utter words but to live by them",
+      "first_used": "2026-10-10",
+      "editions": [
+        "2026-10-10-evening"
+      ]
+    },
+    {
+      "text": "Waste no more time arguing what a good man should be. Be one.",
+      "attribution": "Marcus Aurelius, Meditations, Book 10, §16 (tr. Maxwell Staniforth, 1964)",
+      "normalized": "waste no more time arguing what a good man should be be one",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-morning"
+      ]
+    }
+  ]
+}
