@@ -985,3 +985,6 @@ details.cn-details[open] > .cn-summary .cn-chevron {
 .archive-bar[open] .archive-chevron{transform:rotate(90deg)}
 .archive-links{display:flex;flex-wrap:wrap;gap:.3rem .8rem;padding:0 .75rem .55rem}
 .viral-platform{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;opacity:.75;margin:.9rem 0 .3rem;border-bottom:1px solid rgba(127,127,127,.3);padding-bottom:.15rem}
+.pf-badge{display:inline-flex;align-items:center;justify-content:center;width:1.15em;height:1.15em;border-radius:3px;font-size:.72em;font-weight:700;color:#fff;margin-right:.4em;vertical-align:.1em;flex:none;font-family:system-ui,sans-serif}
+.pf-x{background:#000;border:1px solid #555}.pf-f{background:#1877f2}.pf-o{background:#6b7280}
+.seen-on{font-size:.85rem;opacity:.85}
