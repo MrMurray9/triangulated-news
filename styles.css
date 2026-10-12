@@ -989,3 +989,6 @@ details.cn-details[open] > .cn-summary .cn-chevron {
 .pf-x{background:#000;border:1px solid #555}.pf-f{background:#1877f2}.pf-o{background:#6b7280}
 .seen-on{font-size:.85rem;opacity:.85}
 .teen-intro{font-size:.85rem;opacity:.8;margin:0 0 .5rem}
+.bottom-bar{display:flex;align-items:flex-start;gap:.6rem;margin:1.25rem 0 .5rem}
+.bottom-bar .archive-bar{flex:1;margin:0}
+.rss-link{font-size:.88rem;font-weight:600;padding:.35rem .75rem;border:1px solid rgba(127,127,127,.35);border-radius:8px;text-decoration:none;white-space:nowrap}
