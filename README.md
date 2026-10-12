@@ -41,3 +41,4 @@ Before choosing the joke and quote of the day, read `used-jokes-quotes.json`; ne
 - **Archive pages** copy this same layout. Because they live in `archive/`, all shared assets must use `../`: `../styles.css`, `../script.js`, `../feed.xml`; links to other editions are siblings (`2026-10-11.html`), and the home page is `../`.
 - Cache-bust `styles.css`/`script.js` with a new `?v=` on each edition.
 - **No Top story banner.** Do not add a "Top story:" line above the sections; the lead story simply runs in its normal section.
+- **Viral on social is split by platform:** `h3.viral-platform` sub-heads in the order **X**, **Facebook**, **Other** (TikTok, Instagram, YouTube, Reddit, etc.). Place each item under the platform where its sources say it mainly went viral; omit any sub-head with no verified items (no padding). Existing rules still apply: mostly confirmed-true items with video, few debunks, each with a Community Note.

@@ -984,3 +984,4 @@ details.cn-details[open] > .cn-summary .cn-chevron {
 .archive-chevron{display:inline-block;transition:transform .15s}
 .archive-bar[open] .archive-chevron{transform:rotate(90deg)}
 .archive-links{display:flex;flex-wrap:wrap;gap:.3rem .8rem;padding:0 .75rem .55rem}
+.viral-platform{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;opacity:.75;margin:.9rem 0 .3rem;border-bottom:1px solid rgba(127,127,127,.3);padding-bottom:.15rem}
