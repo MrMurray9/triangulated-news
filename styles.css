@@ -5,11 +5,11 @@
   --muted: #5c5c5c;
   --card: #ffffff;
   --border: #e0ddd4;
-  --accent: #0b5f4b;
-  --accent-soft: #e6f3ef;
+  --accent: #1d4ed8;
+  --accent-soft: #e8eefc;
   --warn: #8a5a00;
   --warn-bg: #fff6e0;
-  --link: #0a4d8c;
+  --link: #1e3a8a;
   --note: #1a56a8;
   --note-bg: #eef4fc;
   --note-border: #b8cce8;
@@ -34,8 +34,8 @@
     --muted: #a8a59c;
     --card: #1c1e1c;
     --border: #2e322e;
-    --accent: #5dcea8;
-    --accent-soft: #1a2e28;
+    --accent: #6ea8ff;
+    --accent-soft: #17233d;
     --warn: #f0c060;
     --warn-bg: #2a2410;
     --link: #7eb8e8;
@@ -266,7 +266,7 @@ section.region > h2,
   color: var(--accent);
 }
 
-/* Region accordion (green section titles) */
+/* Region accordion (blue section titles) */
 details.region-details {
   margin: 0;
 }
@@ -743,14 +743,14 @@ footer.site a { color: var(--link); }
 
 /* ---------- Story accordion (browse headers first) ---------- */
 :root {
-  --visited: #4a90c8;
-  --visited-soft: #e8f2fa;
+  --visited: #7c83c4;
+  --visited-soft: #eeeff9;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --visited: #7eb6e8;
-    --visited-soft: #1a2836;
+    --visited: #b4b9ea;
+    --visited-soft: #25263a;
   }
 }
 
