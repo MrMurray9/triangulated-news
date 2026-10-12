@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -82,6 +82,14 @@
       "first_used": "2026-10-11",
       "editions": [
         "2026-10-11-evening"
+      ]
+    },
+    {
+      "text": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+      "normalized": "why did the golfer bring two pairs of pants in case he got a hole in one",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
       ]
     }
   ],
@@ -195,6 +203,15 @@
       "first_used": "2026-10-11",
       "editions": [
         "2026-10-11-evening"
+      ]
+    },
+    {
+      "text": "I would maintain that thanks are the highest form of thought; and that gratitude is happiness doubled by wonder.",
+      "attribution": "G. K. Chesterton, A Short History of England (1917), ch. VI",
+      "normalized": "i would maintain that thanks are the highest form of thought and that gratitude is happiness doubled by wonder",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
       ]
     }
   ]
