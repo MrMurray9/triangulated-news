@@ -743,14 +743,14 @@ footer.site a { color: var(--link); }
 
 /* ---------- Story accordion (browse headers first) ---------- */
 :root {
-  --visited: #7c83c4;
-  --visited-soft: #eeeff9;
+  --visited: #3fa7d6;
+  --visited-soft: #e6f4fb;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --visited: #b4b9ea;
-    --visited-soft: #25263a;
+    --visited: #8fd3f4;
+    --visited-soft: #16303d;
   }
 }
 
