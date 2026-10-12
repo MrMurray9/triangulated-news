@@ -2,7 +2,7 @@
 
 Phone-friendly daily news digest. Stories are confirmed by multiple independent outlets, each with a **Community Note** and, where available, a verified YouTube news clip. A final **Viral on social** section checks Canada and global claims circulating on social platforms. The homepage also carries a compact **Markets** ticker row (BTC, TSLA, SPCX), **Next Oilers game**, and Edmonton’s daily high.
 
-**Update schedule:** two editions a day — morning (built at 6 a.m., ready by 7 a.m.) and afternoon (4 p.m.), Edmonton time. Previous editions are kept in `archive/` (e.g. `2026-10-07-evening.html`).
+**Update schedule:** two editions a day at **6:01 a.m.** (ready by 7 a.m.) and **4:01 p.m.**, Edmonton time, every day. Nothing is posted in chat unless a run fails. Previous editions are kept in `archive/` (e.g. `2026-10-07-evening.html`).
 
 Source links on each article sit behind a small hamburger button (tap to expand).
 
@@ -33,3 +33,10 @@ Before choosing the joke and quote of the day, read `used-jokes-quotes.json`; ne
 - **Near-duplicate** means the same joke/quote reworded, trimmed, or re-punctuated, or the same premise/punchline (e.g. any "outstanding in his field" scarecrow joke). Compare against each entry's `normalized` text and any `variants` (normalize: lowercase, drop quote marks, punctuation → space, collapse spaces, drop a leading "and/but/so"); treat a `difflib` ratio ≥ 0.85 or one text containing the other as a repeat.
 - New ledger entries: jokes `{text, normalized, first_used, editions}`; quotes `{text, attribution, normalized, first_used, editions}`. `first_used` is the edition date (YYYY-MM-DD); `editions` lists edition ids (e.g. `2026-10-11-morning`).
 - Quotes must be real and accurately attributed (author, work, and translator for translated texts), verified against a reliable source — not BBC, CNN, CBC or Radio-Canada. Jokes must be clean and family-friendly.
+
+## Page layout — required every run (6:01 a.m. and 4:01 p.m.)
+
+- **Edmonton today & upcoming** (`section#yeg-events`, green collapsible region title) sits right after the meta bar, before the top story. Refresh it every run: about 5–10 compact items covering fun things in Edmonton today plus the next 1–2 weeks (festivals, concerts, Oilers/Elks/Oil Kings/Stingers when in season, markets, family activities, attraction special events). Each item needs date, time (Edmonton time), venue and a link to the official/event page. Only real events verified against official or reputable sources (Explore Edmonton, venue/team sites, City of Edmonton, ticketing pages, local outlets — never BBC, CNN, CBC or Radio-Canada). Never invent events; drop past ones; note holiday closures when relevant.
+- **Archive** is a slim `<details class="archive-bar">` ("📚 Archive ▸"), collapsed by default, placed at the very bottom just above the footer, newest edition first. The meta bar keeps only the badge and RSS link.
+- **Archive pages** copy this same layout. Because they live in `archive/`, all shared assets must use `../`: `../styles.css`, `../script.js`, `../feed.xml`; links to other editions are siblings (`2026-10-11.html`), and the home page is `../`.
+- Cache-bust `styles.css`/`script.js` with a new `?v=` on each edition.
