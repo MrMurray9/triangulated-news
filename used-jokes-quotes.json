@@ -91,6 +91,14 @@
       "editions": [
         "2026-10-12-morning"
       ]
+    },
+    {
+      "text": "What do you call a fake noodle? An impasta.",
+      "normalized": "what do you call a fake noodle an impasta",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
     }
   ],
   "quotes": [
@@ -212,6 +220,15 @@
       "first_used": "2026-10-12",
       "editions": [
         "2026-10-12-morning"
+      ]
+    },
+    {
+      "text": "He says the best way out is always through.",
+      "attribution": "Robert Frost, “A Servant to Servants,” North of Boston (1914)",
+      "normalized": "he says the best way out is always through",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
       ]
     }
   ]

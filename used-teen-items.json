@@ -39,6 +39,38 @@
    "editions": [
     "2026-10-12-morning"
    ]
+  },
+  {
+   "key": "fairs",
+   "type": "slang",
+   "first_used": "2026-10-12",
+   "editions": [
+    "2026-10-12-evening"
+   ]
+  },
+  {
+   "key": "fries",
+   "type": "slang",
+   "first_used": "2026-10-12",
+   "editions": [
+    "2026-10-12-evening"
+   ]
+  },
+  {
+   "key": "im feeling tremendous",
+   "type": "trend",
+   "first_used": "2026-10-12",
+   "editions": [
+    "2026-10-12-evening"
+   ]
+  },
+  {
+   "key": "taylor swift patient zero hot 100",
+   "type": "music",
+   "first_used": "2026-10-12",
+   "editions": [
+    "2026-10-12-evening"
+   ]
   }
  ]
 }
