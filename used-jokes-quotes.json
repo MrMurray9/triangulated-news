@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -98,6 +98,14 @@
       "first_used": "2026-10-12",
       "editions": [
         "2026-10-12-evening"
+      ]
+    },
+    {
+      "text": "Why did the bicycle fall over? Because it was two-tired.",
+      "normalized": "why did the bicycle fall over because it was two tired",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
       ]
     }
   ],
@@ -229,6 +237,15 @@
       "first_used": "2026-10-12",
       "editions": [
         "2026-10-12-evening"
+      ]
+    },
+    {
+      "text": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+      "attribution": "Mark Twain, “Pudd’nhead Wilson’s New Calendar,” Following the Equator (1897)",
+      "normalized": "courage is resistance to fear mastery of fear not absence of fear",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
       ]
     }
   ]

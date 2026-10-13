@@ -5,8 +5,85 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:30:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:00:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd&#x27;s News — Tuesday, Oct. 13, 2026 (morning edition)</title>
+      <description>Morning edition: Alberta advance polls open (310+ stations); Kenney and Notley speak for unity in Edmonton; Carney heads to Alberta after Thanksgiving pitch; Ontario pauses OSAP to private colleges after KPMG audit; Riyadh airport shut until Saturday; Kyiv high-rise drone strike as energy-ceasefire claims clash; Hurricane Simon Category 1 off Mexico; Starbucks denies Chipotle bid; Brent above US$100. Plus Science corner (MIT in-body CAR NK cells), AI (Anthropic self-replicating models warning), Viral on social, Teen, Markets and Oilers at Kings tonight.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/edition</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Advance polls are open today: about 310 stations across Alberta for the Oct. 19 referendum, most 9 a.m. to 8 p.m.</title>
+      <description>In-person advance voting for Alberta’s 10-question referendum opened Tuesday, Oct. 13, and runs through Saturday, Oct. 17. Elections Alberta says electors may vote at any advance station in their own electoral division; on Election Day they must use their assigned location. Most stations are open 9 a.m. to 8 p.m. Off-peak tip: mid-morning after lunch. About 650,000 special-ballot requests; deadline 5 p.m. Friday, Oct. 16.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-advance</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-advance</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Kenney and Notley speak for unity today at an Edmonton Chamber luncheon as the referendum enters its final week</title>
+      <description>Former premiers Jason Kenney and Rachel Notley speak today at an Edmonton Chamber of Commerce luncheon at the Royal Glenora Club. Later this week: Poilievre and Smith in Calgary Friday; Forever Canadian at the EXPO Centre Friday with Carney expected; duelling legislature rallies on the weekend.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-kenney-notley</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-kenney-notley</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Carney heads to Alberta this week after a Thanksgiving unity pitch filmed at his old Edmonton high school</title>
+      <description>Prime Minister Mark Carney’s Thanksgiving video urged Albertans to stay in Canada. He is expected in Alberta this week, including Friday’s Forever Canadian rally at the Edmonton EXPO Centre.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-carney</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-carney</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Ontario pauses OSAP payments to private colleges after a KPMG audit flags integrity risks and refers the file to police</title>
+      <description>Ontario halted OSAP funding tied to private postsecondary institutions while a KPMG audit continues. The province referred the matter to the OPP. Public colleges are unaffected.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-osap</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-osap</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Riyadh’s airport stays shut until Saturday as airlines cancel flights and Saudi Arabia keeps intercepting Houthi missiles</title>
+      <description>King Khalid International Airport remains closed until Oct. 17 after deadly Houthi strikes. Airlines cancel services; Saudi probe into air-defence failure continues.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-riyadh</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-riyadh</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Kyiv counts the dead from a high-rise drone strike as Trump insists an “energy ceasefire” is holding</title>
+      <description>A Russian drone struck a 25-storey Kyiv apartment building, killing two. Zelenskyy says Russia still hits energy sites; Trump insists a pause is in place.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-kyiv</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-kyiv</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Hurricane Simon crawls northwest as a Category 1 off western Mexico; rains of 5–15 inches still threaten Sinaloa</title>
+      <description>NHC: Simon near 150 km/h about 160 km west of Cabo Corrientes, slow northwest. Hurricane warning for Las Islas Marías; heavy rain threat continues.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-simon</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-simon</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Starbucks says it is not buying Chipotle, ending a week of takeover chatter</title>
+      <description>Starbucks told Reuters and CNBC it is not buying Chipotle, ending speculation after a Financial Times report.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-starbucks</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-starbucks</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Science corner: MIT engineers reprogram natural-killer immune cells inside the body to hunt cancerous and autoreactive T cells</title>
+      <description>MIT reports in Nature Biotechnology an in-body CAR NK approach using lipid nanoparticles and mRNA, showing promise in mouse models of cancer and autoimmune hepatitis.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-nknk</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-nknk</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Anthropic warns small AI models may be months from self-replicating across insecure home devices</title>
+      <description>Anthropic research suggests small models may soon copy themselves across IoT devices like Android TV boxes; no fully autonomous real-world worm demonstrated yet.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-oct13m-anthropic</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-13/morning/story-oct13m-anthropic</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
     <item>
       <title>Jaryd&#x27;s News — Monday, Oct. 12, 2026 (evening edition)</title>
       <description>Evening edition (Thanksgiving Monday): Riyadh’s airport stays shut until Saturday as Saudi Arabia probes how Houthi drones and missiles beat its air defences; a Russian drone kills two in a Kyiv high-rise as Zelenskyy says Moscow is ignoring the energy ceasefire; a Hezbollah submunition kills a teen on an Israeli school hike; two Indian sailors missing after a tanker drone strike off Oman; Hurricane Simon weakens but stalls off Mexico; Carney’s Thanksgiving message appeals to Albertans; Canada joins 28 countries condemning Iran over the RAF Fairford plot; Alberta advance polls open Tuesday as final-week rallies line up; economics Nobel to Hall and Woodford; Brent at US$106.65. Plus Science corner (laser plasma antenna), AI (Meta’s Muse Wonder), Viral on social, Teen, Markets and the next Oilers game.</description>
