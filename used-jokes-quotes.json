@@ -107,6 +107,14 @@
       "editions": [
         "2026-10-13-morning"
       ]
+    },
+    {
+      "text": "What do you call a bear with no teeth? A gummy bear.",
+      "normalized": "what do you call a bear with no teeth a gummy bear",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
     }
   ],
   "quotes": [
@@ -246,6 +254,15 @@
       "first_used": "2026-10-13",
       "editions": [
         "2026-10-13-morning"
+      ]
+    },
+    {
+      "text": "Without courage, we cannot practice any other virtue with consistency.",
+      "attribution": "Maya Angelou, interview with USA Today (March 5, 1988)",
+      "normalized": "without courage we cannot practice any other virtue with consistency",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
       ]
     }
   ]

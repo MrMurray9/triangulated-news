@@ -69,7 +69,8 @@
    "type": "music",
    "first_used": "2026-10-12",
    "editions": [
-    "2026-10-12-evening"
+    "2026-10-12-evening",
+    "2026-10-13-evening"
    ]
   },
   {
@@ -110,6 +111,46 @@
    "first_used": "2026-10-13",
    "editions": [
     "2026-10-13-morning"
+   ]
+  },
+  {
+   "key": "mogging",
+   "type": "slang",
+   "first_used": "2026-10-13",
+   "editions": [
+    "2026-10-13-evening"
+   ]
+  },
+  {
+   "key": "crine",
+   "type": "slang",
+   "first_used": "2026-10-13",
+   "editions": [
+    "2026-10-13-evening"
+   ]
+  },
+  {
+   "key": "clanker",
+   "type": "slang",
+   "first_used": "2026-10-13",
+   "editions": [
+    "2026-10-13-evening"
+   ]
+  },
+  {
+   "key": "glazing",
+   "type": "slang",
+   "first_used": "2026-10-13",
+   "editions": [
+    "2026-10-13-evening"
+   ]
+  },
+  {
+   "key": "algorithm check",
+   "type": "trend",
+   "first_used": "2026-10-13",
+   "editions": [
+    "2026-10-13-evening"
    ]
   }
  ]
