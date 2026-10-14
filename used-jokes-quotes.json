@@ -123,6 +123,14 @@
       "editions": [
         "2026-10-14-morning"
       ]
+    },
+    {
+      "text": "Why did the math book look so sad? Because it had too many problems.",
+      "normalized": "why did the math book look so sad because it had too many problems",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
     }
   ],
   "quotes": [
@@ -280,6 +288,15 @@
       "first_used": "2026-10-14",
       "editions": [
         "2026-10-14-morning"
+      ]
+    },
+    {
+      "text": "…if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "attribution": "Henry David Thoreau, Walden (1854), “Conclusion”",
+      "normalized": "if one advances confidently in the direction of his dreams and endeavors to live the life which he has imagined he will meet with a success unexpected in common hours",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
       ]
     }
   ]
