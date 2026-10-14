@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -114,6 +114,14 @@
       "first_used": "2026-10-13",
       "editions": [
         "2026-10-13-evening"
+      ]
+    },
+    {
+      "text": "What do you call cheese that isn't yours? Nacho cheese.",
+      "normalized": "what do you call cheese that isnt yours nacho cheese",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
       ]
     }
   ],
@@ -263,6 +271,15 @@
       "first_used": "2026-10-13",
       "editions": [
         "2026-10-13-evening"
+      ]
+    },
+    {
+      "text": "You must do the thing you think you cannot do.",
+      "attribution": "Eleanor Roosevelt, You Learn by Living (1960), ch. 2",
+      "normalized": "you must do the thing you think you cannot do",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
       ]
     }
   ]
