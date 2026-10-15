@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -130,6 +130,14 @@
       "first_used": "2026-10-14",
       "editions": [
         "2026-10-14-evening"
+      ]
+    },
+    {
+      "text": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "normalized": "what do you call a fish wearing a bowtie sofishticated",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
       ]
     }
   ],
@@ -297,6 +305,15 @@
       "first_used": "2026-10-14",
       "editions": [
         "2026-10-14-evening"
+      ]
+    },
+    {
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "attribution": "Louisa May Alcott, Little Women (1868)",
+      "normalized": "i am not afraid of storms for i am learning how to sail my ship",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
       ]
     }
   ]

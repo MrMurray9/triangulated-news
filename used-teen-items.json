@@ -1,237 +1,277 @@
 {
- "items": [
-  {
-   "key": "unc",
-   "type": "slang",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "key": "larping",
-   "type": "slang",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "key": "aura farming",
-   "type": "trend",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "key": "baby you buggin",
-   "type": "meme",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "key": "piper sandler fall 2025 apps/brands",
-   "type": "survey",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "key": "fairs",
-   "type": "slang",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening"
-   ]
-  },
-  {
-   "key": "fries",
-   "type": "slang",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening"
-   ]
-  },
-  {
-   "key": "im feeling tremendous",
-   "type": "trend",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening"
-   ]
-  },
-  {
-   "key": "taylor swift patient zero hot 100",
-   "type": "music",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening",
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "huzz",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "key": "quiet on the creek",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "key": "6-7",
-   "type": "trend",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "key": "bop insult",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "key": "skibidi still",
-   "type": "meme",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "key": "mogging",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "crine",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "clanker",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "glazing",
-   "type": "slang",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "algorithm check",
-   "type": "trend",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "key": "chopped",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "crash out",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "maxxing",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "ate",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "mid",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "delulu",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "key": "rizz",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  },
-  {
-   "key": "no cap",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  },
-  {
-   "key": "cheugy",
-   "type": "slang",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  },
-  {
-   "key": "bts lima jimin birthday train",
-   "type": "music",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  }
- ]
+  "items": [
+    {
+      "key": "unc",
+      "type": "slang",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "key": "larping",
+      "type": "slang",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "key": "aura farming",
+      "type": "trend",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "key": "baby you buggin",
+      "type": "meme",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "key": "piper sandler fall 2025 apps/brands",
+      "type": "survey",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "key": "fairs",
+      "type": "slang",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
+    },
+    {
+      "key": "fries",
+      "type": "slang",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
+    },
+    {
+      "key": "im feeling tremendous",
+      "type": "trend",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
+    },
+    {
+      "key": "taylor swift patient zero hot 100",
+      "type": "music",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening",
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "huzz",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "key": "quiet on the creek",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "key": "6-7",
+      "type": "trend",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "key": "bop insult",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "key": "skibidi still",
+      "type": "meme",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "key": "mogging",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "crine",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "clanker",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "glazing",
+      "type": "slang",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "algorithm check",
+      "type": "trend",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "key": "chopped",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "crash out",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "maxxing",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "ate",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "mid",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "delulu",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "key": "rizz",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "key": "no cap",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "key": "cheugy",
+      "type": "slang",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "key": "bts lima jimin birthday train",
+      "type": "music",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "key": "cooked",
+      "type": "slang",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "key": "lock in",
+      "type": "slang",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "key": "brain rot",
+      "type": "slang",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "key": "looksmaxxing",
+      "type": "slang",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "key": "you the birthday",
+      "type": "meme",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    }
+  ]
 }

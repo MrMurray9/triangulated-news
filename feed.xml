@@ -5,9 +5,79 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>Jaryd&#x27;s News — Thursday, Oct. 15, 2026 (morning edition)</title>
+      <description>Morning edition: AMA Pulse says 55% of responding doctors would leave if Alberta separates; advance voting day three, mail ballots due Friday 5 p.m.; Carney in Calgary for Forever Canadian (Edmonton Friday); September jobs miss shapes BoC Oct. 28; Ukraine resumes Ryazan refinery strikes; second Hormuz-area ship sinks; oil eases; Science corner (7 eV Cornell oxide semiconductor); Anthropic ~$16.8B Q3; OpenAI state suits. Plus Viral on social, Teen, Markets and Oilers vs. Utah tonight.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/edition</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
     <item>
+      <title>AMA survey: 55% of responding Alberta doctors say they would leave if the province separates</title>
+      <description>The Alberta Medical Association’s Pulse survey of 1,649 practising physicians found that 55 per cent would move to another province or territory and stop practising in Alberta if the province separated from Canada.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-ama</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-ama</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Advance voting day three is open; mail-in ballots must reach Elections Alberta by 5 p.m. Friday</title>
+      <description>Thursday is the third of five advance-voting days for Alberta’s Oct. 19 referendum. Mail-in ballots must arrive by 5 p.m. Friday, Oct. 16.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-advance</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-advance</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Carney is in Calgary today for the Forever Canadian rally — Edmonton follows Friday; Poilievre and Smith speak Friday too</title>
+      <description>Prime Minister Mark Carney’s public schedule puts him in Calgary Thursday for the Forever Canadian rally at the BMO Centre.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-carney</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-carney</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Canada’s September jobs miss still shapes the Bank of Canada’s Oct. 28 decision after a 68,000-job drop</title>
+      <description>Statistics Canada’s Labour Force Survey showed employment fell by 68,000 in September while unemployment edged up to 6.5 per cent.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-jobs</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-jobs</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Ukraine resumes strikes on Russian oil refineries as Trump’s “energy ceasefire” collapses</title>
+      <description>Ukrainian drones struck a refinery in Russia’s Ryazan region early Thursday after Zelenskyy said a brief pause on refinery attacks was over.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-ukraine</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-ukraine</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>A second cargo ship sinks near Hormuz after projectile hits, as attacks on shipping surge</title>
+      <description>Two cargo ships have sunk near the Strait of Hormuz after separate projectile strikes, including GFS Pride and Cape Dao.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-hormuz</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-hormuz</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Oil eases — WTI near US$94, Brent near US$105 — as traders weigh Hormuz risk against supply headlines</title>
+      <description>U.S. crude futures were near US$94 early Thursday and Brent near US$105 as traders weighed supply headlines against Hormuz risk.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-oil</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-oil</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Science corner: Cornell team reports a silicon-doped oxide semiconductor with a bandgap above 7 eV — and builds a working transistor</title>
+      <description>Cornell-led researchers report in Nature that silicon-doped α-(AlₓGa₁₋ₓ)₂O₃ films can reach bandgaps exceeding 7.0 eV while remaining usefully conductive.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-science</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-science</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Anthropic tells investors Q3 revenue hit about US$16.8 billion as IPO preparations accelerate</title>
+      <description>Anthropic briefed prospective investors that third-quarter revenue rose to roughly US$16.8 billion with adjusted profitability in the quarter.…</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-15-am-anthropic</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-15/morning/story-2026-10-15-am-anthropic</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+<item>
       <title>Jaryd&#x27;s News — Wednesday, Oct. 14, 2026 (evening edition)</title>
       <description>Evening edition: 174,532 Albertans voted on day one of advance polls; Smith votes remain, urges yes on other nine; Hoekstra warns Canada on midterm interference; Carney heads to Calgary and Edmonton rallies; Ontario bars three career colleges from OSAP to 2030; Russia’s massive strike on Kyiv power plants kills at least nine; Aramco HQ fire spread, Houthis vow more attacks; container ship sinks in Hormuz; hot U.S. CPI sinks TSX −400 and S&amp;P 500 −1.1%; oil firms; Science corner (chip-scale laser gyroscope); AI (eight states sue OpenAI; OpenAI–Apple files fight). Plus Viral on social, Teen, Markets and Oilers vs. Utah tomorrow.</description>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
