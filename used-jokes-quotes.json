@@ -139,6 +139,14 @@
       "editions": [
         "2026-10-15-morning"
       ]
+    },
+    {
+      "text": "Why don’t eggs tell jokes? They’d crack each other up.",
+      "normalized": "why dont eggs tell jokes theyd crack each other up",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-evening"
+      ]
     }
   ],
   "quotes": [
@@ -314,6 +322,18 @@
       "first_used": "2026-10-15",
       "editions": [
         "2026-10-15-morning"
+      ]
+    },
+    {
+      "text": "This above all: to thine own self be true, / And it must follow, as the night the day, / Thou canst not then be false to any man.",
+      "attribution": "William Shakespeare, Hamlet, Act 1, Scene 3 (Polonius); text per Folger Shakespeare Library",
+      "normalized": "this above all to thine own self be true and it must follow as the night the day thou canst not then be false to any man",
+      "variants": [
+        "to thine own self be true"
+      ],
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-evening"
       ]
     }
   ]
