@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -146,6 +146,14 @@
       "first_used": "2026-10-15",
       "editions": [
         "2026-10-15-evening"
+      ]
+    },
+    {
+      "text": "Why didn’t the skeleton go to the dance? He had no body to go with.",
+      "normalized": "why didnt the skeleton go to the dance he had no body to go with",
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-morning"
       ]
     }
   ],
@@ -334,6 +342,15 @@
       "first_used": "2026-10-15",
       "editions": [
         "2026-10-15-evening"
+      ]
+    },
+    {
+      "text": "I’m so glad I live in a world where there are Octobers.",
+      "attribution": "L. M. Montgomery, Anne of Green Gables (1908), ch. 16 (Anne Shirley); text per Project Gutenberg",
+      "normalized": "im so glad i live in a world where there are octobers",
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-morning"
       ]
     }
   ]
