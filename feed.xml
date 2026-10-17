@@ -5,8 +5,78 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:00:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd&#x27;s News — Saturday, Oct. 17, 2026 (morning edition)</title>
+      <description>Morning edition: Carney’s final Edmonton rally as more than a million Albertans have voted; early flu shots in Alberta; health ministers leave Winnipeg with bridge funding only; Trump waives new Russia sanctions; nationwide protests in France; Istanbul’s worst floods since 1942; Air Canada and United seek 10 more joint routes; AI maps CO₂-to-methanol chemistry; Claude solves the NIST curve-seed mystery. Plus Viral on social, Teen, Markets and tonight’s Oilers game.</description>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/edition</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>“This is not a game. This is not poker”: Carney closes his Alberta tour before 5,000-plus in Edmonton as more than a million ballots are already cast</title>
+      <description>Prime Minister Mark Carney wrapped up two days of campaigning against separation with a Forever Canadian rally at the Edmonton EXPO Centre on Friday night, telling a hometown crowd the Edmonton Journal put at more than 5,000: “Don’t let anyone tell you this is already decided. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-carney-final-pitch</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-carney-final-pitch</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Flu season arrives early in Alberta, so pharmacies can give flu shots now instead of waiting for Oct. 19</title>
+      <description>Alberta has told pharmacists they don’t have to wait for the planned Oct. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-early-flu-shots</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-early-flu-shots</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Health ministers leave Winnipeg with one-year “bridge” money but no long-term deal — they’ll meet again by December</title>
+      <description>The two-day meeting of federal, provincial and territorial health ministers in Winnipeg ended Friday without a long-term funding commitment from Ottawa. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-health-ministers</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-health-ministers</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Trump waives the new Russia sanctions Congress passed last month — the 500% tariffs and penalties on big buyers of Russian oil are on hold</title>
+      <description>U.S. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-russia-sanctions-waiver</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-russia-sanctions-waiver</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>France’s student protests go nationwide as yellow vests and unions join in; police fire tear gas in Paris, Marseille and Lyon</title>
+      <description>Protests over the cost of living, fuel prices and run-down schools spread across France on Saturday as high-school students, unions such as the CGT and remnants of the 2018 yellow-vest movement joined forces (The Guardian, France 24). …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-france-protests</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-france-protests</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Istanbul’s worst floods since 1942 kill four; searches continue for the missing in Sarıyer</title>
+      <description>Torrential rain on Wednesday night swamped Istanbul, a city of 16 million, which got more rain in 48 hours than the historical average for September and October combined, the state-run Anadolu Agency reported (AP). …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-istanbul-floods</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-istanbul-floods</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Air Canada and United want to coordinate fares and schedules on 10 more cross-border routes; Ottawa opens a public review</title>
+      <description>Transport Canada says Air Canada and United Airlines have notified the transport minister that they want to update the joint venture they have run since 2022, which lets them coordinate flight schedules, ticket prices, marketing, sales and revenue management on certain Canada–U.S. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-ac-united-jv</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-ac-united-jv</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Science corner: AI helps map 9,389 reactions on a copper catalyst, showing how CO₂ really turns into methanol</title>
+      <description>Turning captured carbon dioxide into methanol, a fuel and chemical building block, means reacting CO₂ with hydrogen on a catalyst. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-science</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-science</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>A 25-year cryptography mystery solved: Anthropic’s Claude traced the NIST elliptic-curve seeds to a 1997 random-number generator</title>
+      <description>The seeds behind the NIST elliptic curves P-192, P-224, P-256, P-384 and P-521, published in 2000 and used to secure much of the internet, were never explained, which fed suspicion that the NSA might have picked them to hide a weakness. …</description>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-17-morning-claude-nist-seeds</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-17/morning/story-2026-10-17-morning-claude-nist-seeds</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
     <item>
       <title>Jaryd&#x27;s News — Friday, Oct. 16, 2026 (evening edition)</title>
       <description>Evening edition: Smith and Carney together in Red Deer; fatal shooting at an Edmonton trades college; Calgary bus-crash update; Express Entry high-wage points; September housing starts; Bend, Oregon, teacher and parent who stopped the gunman; Zelenskyy’s €70-billion ask; El Niño floods in South America; Nasdaq’s worst week since June and US$110 Brent; Waymo in Toronto; a chip-sized frequency comb; ChatGPT in Chrome. Plus Viral on social, Teen, Markets and the next Oilers game.</description>

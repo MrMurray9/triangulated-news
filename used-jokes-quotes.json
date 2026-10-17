@@ -163,6 +163,14 @@
       "editions": [
         "2026-10-16-evening"
       ]
+    },
+    {
+      "text": "What do you call a sleeping dinosaur? A dino-snore.",
+      "normalized": "what do you call a sleeping dinosaur a dino snore",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-morning"
+      ]
     }
   ],
   "quotes": [
@@ -371,6 +379,19 @@
       "first_used": "2026-10-16",
       "editions": [
         "2026-10-16-evening"
+      ]
+    },
+    {
+      "text": "All that is gold does not glitter, / Not all those who wander are lost.",
+      "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book I, Chapter 10, “Strider” (Gandalf’s letter); verified via Tolkien Gateway and SparkNotes",
+      "normalized": "all that is gold does not glitter not all those who wander are lost",
+      "variants": [
+        "not all those who wander are lost",
+        "all that is gold does not glitter"
+      ],
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-morning"
       ]
     }
   ]
