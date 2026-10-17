@@ -424,6 +424,38 @@
       "editions": [
         "2026-10-17-morning"
       ]
+    },
+    {
+      "key": "rent-free",
+      "type": "slang",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
+    },
+    {
+      "key": "goat",
+      "type": "slang",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
+    },
+    {
+      "key": "salty",
+      "type": "slang",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
+    },
+    {
+      "key": "billboard hot 100 oct 17 2026 stella lefty boston no 3",
+      "type": "music",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
     }
   ]
 }

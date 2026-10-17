@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -170,6 +170,14 @@
       "first_used": "2026-10-17",
       "editions": [
         "2026-10-17-morning"
+      ]
+    },
+    {
+      "text": "What do you call a pile of cats? A meow-ntain.",
+      "normalized": "what do you call a pile of cats a meow ntain",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
       ]
     }
   ],
@@ -392,6 +400,15 @@
       "first_used": "2026-10-17",
       "editions": [
         "2026-10-17-morning"
+      ]
+    },
+    {
+      "text": "“Hope” is the thing with feathers - / That perches in the soul -",
+      "attribution": "Emily Dickinson, poem 314 (Franklin, The Poems of Emily Dickinson: Reading Edition, 1999); text per Poetry Foundation",
+      "normalized": "hope is the thing with feathers that perches in the soul",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
       ]
     }
   ]
