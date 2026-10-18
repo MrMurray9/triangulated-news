@@ -187,6 +187,14 @@
       "editions": [
         "2026-10-18-morning"
       ]
+    },
+    {
+      "text": "Why are ghosts bad liars? Because you can see right through them.",
+      "normalized": "why are ghosts bad liars because you can see right through them",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-evening"
+      ]
     }
   ],
   "quotes": [
@@ -426,6 +434,15 @@
       "first_used": "2026-10-18",
       "editions": [
         "2026-10-18-morning"
+      ]
+    },
+    {
+      "text": "“All we have to decide is what to do with the time that is given us.”",
+      "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book One, Chapter 2, “The Shadow of the Past” (Gandalf to Frodo)",
+      "normalized": "all we have to decide is what to do with the time that is given us",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-evening"
       ]
     }
   ]
