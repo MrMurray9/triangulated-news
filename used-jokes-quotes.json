@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -178,6 +178,14 @@
       "first_used": "2026-10-17",
       "editions": [
         "2026-10-17-evening"
+      ]
+    },
+    {
+      "text": "Why can’t you give Elsa a balloon? Because she will let it go.",
+      "normalized": "why cant you give elsa a balloon because she will let it go",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-morning"
       ]
     }
   ],
@@ -409,6 +417,15 @@
       "first_used": "2026-10-17",
       "editions": [
         "2026-10-17-evening"
+      ]
+    },
+    {
+      "text": "“Marilla, isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?”",
+      "attribution": "L. M. Montgomery, Anne of Green Gables (1908), Chapter 21, “A New Departure in Flavorings” (Anne Shirley); text verified against the Project Gutenberg edition",
+      "normalized": "marilla isnt it nice to think that tomorrow is a new day with no mistakes in it yet",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-morning"
       ]
     }
   ]
