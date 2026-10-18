@@ -53,7 +53,7 @@ Before choosing the joke and quote of the day, read `used-jokes-quotes.json`; ne
 
 ## Fresh stories every edition (required every run, added Oct 18, 2026)
 Jaryd wants every story updated each edition. Before choosing stories, read the headlines and topics in the current index.html (the previous edition) and the archive page of the edition before it. In every news section (Alberta, Canada, World, Business, Science corner, AI, Viral on social, Teen), no story may cover the same event or topic as either of those two editions. Replace them with different stories that meet the sourcing rules.
-- The only exception is a major new development on an ongoing story, for example a confirmed death toll or a vote result. Allow at most one per edition, give it a new headline that leads with the new fact, and rewrite the body around what changed. Don't carry over the old text.
+- The exception is a returning story that has a real, verified update since the last edition, for example a confirmed death toll or a vote result. There's no limit on how many, but each one needs a new headline that leads with the update and a body rewritten around What changed. Don't carry over the old text. A story with no real update must be dropped.
 - Edmonton events can repeat only if the event is still running, and each edition must add at least half new events.
 - If a section can't be filled with fresh stories, leave it short rather than repeating one.
 - Before pushing, check headline by headline against the previous two editions and list any overlap in the run report.
