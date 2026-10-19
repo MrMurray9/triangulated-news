@@ -203,6 +203,14 @@
       "editions": [
         "2026-10-19-morning"
       ]
+    },
+    {
+      "text": "Why do bees have sticky hair? Because they use honeycombs.",
+      "normalized": "why do bees have sticky hair because they use honeycombs",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-evening"
+      ]
     }
   ],
   "quotes": [
@@ -460,6 +468,15 @@
       "first_used": "2026-10-19",
       "editions": [
         "2026-10-19-morning"
+      ]
+    },
+    {
+      "text": "“No man is an island, entire of itself; every man is a piece of the continent, a part of the main.”",
+      "attribution": "John Donne, Devotions upon Emergent Occasions (1624), Meditation XVII",
+      "normalized": "no man is an island entire of itself every man is a piece of the continent a part of the main",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-evening"
       ]
     }
   ]
