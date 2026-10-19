@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -194,6 +194,14 @@
       "first_used": "2026-10-18",
       "editions": [
         "2026-10-18-evening"
+      ]
+    },
+    {
+      "text": "Why did the vampire read the newspaper? He heard it had great circulation.",
+      "normalized": "why did the vampire read the newspaper he heard it had great circulation",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-morning"
       ]
     }
   ],
@@ -443,6 +451,15 @@
       "first_used": "2026-10-18",
       "editions": [
         "2026-10-18-evening"
+      ]
+    },
+    {
+      "text": "“Do what you can, with what you’ve got, where you are.”",
+      "attribution": "Squire Bill Widener of Widener’s Valley, Virginia, as quoted by Theodore Roosevelt in An Autobiography (1913), Chapter IX, “Outdoors and Indoors”",
+      "normalized": "do what you can with what youve got where you are",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-morning"
       ]
     }
   ]
