@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "stories": [
   {
    "date": "2026-10-18",
@@ -909,6 +909,150 @@
    "topic": "oilers next",
    "headline": "Minnesota Wild at Edmonton Oilers",
    "id": "story-2026-10-19-late-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "bluebuddhaco online drug ring",
+   "headline": "Police say an online drug shop run out of Edmonton homes mailed about 8,700 packages across Canada — five people face 133 charges",
+   "id": "story-2026-10-20-am-bluebuddhaco-online-drug-ring",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "referendum remain landslide",
+   "headline": "Remain wins by a landslide: about 76 per cent of Albertans vote to stay in Canada — and Premier Smith will address the province at 6:45 tonight",
+   "id": "story-2026-10-20-am-referendum-remain-landslide",
+   "returning": true
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "wainwright range orders",
+   "headline": "Grass-fire rules were already on the books at Wainwright — and Canada’s top soldier promises to make public an inquiry that could take a year",
+   "id": "story-2026-10-20-am-wainwright-range-orders",
+   "returning": true
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "bc advance ballots",
+   "headline": "B.C.’s early vote trails 2024’s record pace: 440,318 ballots in three days, about 8 per cent fewer, with advance polls open through Wednesday",
+   "id": "story-2026-10-20-am-bc-advance-ballots",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "quebec lieutenant governor absent",
+   "headline": "A first for Quebec: the lieutenant-governor will stay away from Wednesday’s cabinet swearing-in, at incoming PQ premier Paul St-Pierre Plamondon’s request",
+   "id": "story-2026-10-20-am-quebec-lieutenant-governor-absent",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "helen haines car attack",
+   "headline": "Australian MP Helen Haines loses a leg after being run down outside her office in what PM Albanese calls a deliberate attack; a 43-year-old man is charged",
+   "id": "story-2026-10-20-am-helen-haines-car-attack",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "california green card voting charges",
+   "headline": "The U.S. Justice Department charges 28 green-card holders in California with illegally registering or voting — two weeks before the midterms",
+   "id": "story-2026-10-20-am-california-green-card-voting-charges",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "trump wants new ukraine negotiator",
+   "headline": "“Time for somebody else to negotiate”: Trump turns on Zelenskyy again — and Kyiv says missiles its allies already paid for are being held up in Washington",
+   "id": "story-2026-10-20-am-trump-wants-new-ukraine-negotiator",
+   "returning": true
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "business",
+   "topic": "brent crude five month high",
+   "headline": "Brent crude tops US$110 a barrel for the first time in five months as Houthi claims of strikes on Saudi oil sites and attacks on Gulf shipping rattle traders",
+   "id": "story-2026-10-20-am-brent-crude-five-month-high",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "business",
+   "topic": "gm third quarter beat",
+   "headline": "GM beats analysts’ third-quarter forecasts and announces a US$20-billion buyback — but its shares slide about 7 per cent before the opening bell",
+   "id": "story-2026-10-20-am-gm-third-quarter-beat",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "science",
+   "topic": "microbubble chip",
+   "headline": "Science corner: Cornell builds a 3-millimetre chip that blows tiny bubbles on command — then uses sound to make them pump and steer liquid",
+   "id": "story-2026-10-20-am-microbubble-chip",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "deepseek federal removal",
+   "headline": "Washington orders DeepSeek ripped out of federal civilian computers — including any outside tools built on the Chinese company’s AI models",
+   "id": "story-2026-10-20-am-deepseek-federal-removal",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "cern mistral flare",
+   "headline": "CERN teams up with Paris-based Mistral to build “Flare,” one AI model trained on billions of simulated collisions inside the Large Hadron Collider",
+   "id": "story-2026-10-20-am-cern-mistral-flare",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "bryce young prayer",
+   "headline": "Mid-game, Panthers QB Bryce Young walks back and bows his head beside the injured Eagles player who’d sacked him — “Omg it happened again,” fans post",
+   "id": "viral-2026-10-20-am-bryce-young-prayer",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "idaho moose wire",
+   "headline": "“Safe, sound, and full of apples”: an Idaho deputy talks a tangled young moose calm and cuts it free from a snarl of wire",
+   "id": "viral-2026-10-20-am-idaho-moose-wire",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-20-am-oilers-next",
    "returning": false
   }
  ]
