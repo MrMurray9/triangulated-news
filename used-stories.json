@@ -1,0 +1,915 @@
+{
+ "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
+ "updated": "2026-10-19",
+ "stories": [
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "wainwright fire",
+   "headline": "At least seven reported dead after a live-fire exercise sets off an explosion and wind-driven fire at CFB Wainwright; Edmonton hospitals declare a code orange",
+   "id": "story-2026-10-18-am-wainwright-fire",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "referendum eve",
+   "headline": "Alberta votes Monday: polls open 9 a.m. to 8 p.m., and more than 1.2 million ballots were already in before election day",
+   "id": "story-2026-10-18-am-referendum-eve",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "water bombers",
+   "headline": "De Havilland calls for a national fleet of water bombers as its Calgary-built Canadairs sell out through 2034",
+   "id": "story-2026-10-18-am-water-bombers",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "world",
+   "topic": "kolkata crush",
+   "headline": "Crush at a Durga Puja pavilion in Kolkata kills 19 as rain drives crowds for the exits; seven arrested",
+   "id": "story-2026-10-18-am-kolkata-crush",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "world",
+   "topic": "france aftermath",
+   "headline": "“It’s like we had a war”: France counts the damage — 1,800 arrests, about 1,500 businesses hit — and Macron will address the nation today",
+   "id": "story-2026-10-18-am-france-aftermath",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "world",
+   "topic": "st petersburg drones",
+   "headline": "Ukrainian drones set St. Petersburg’s oil terminal ablaze as Kyiv launches more than 1,000 drones at Russia; one killed, 15 hurt",
+   "id": "story-2026-10-18-am-st-petersburg-drones",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "business",
+   "topic": "cpi monday",
+   "headline": "Monday’s inflation number could tip the Bank of Canada toward a hike: economists expect 3.0 to 3.2 per cent as gas and heating oil jump",
+   "id": "story-2026-10-18-am-cpi-monday",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "business",
+   "topic": "stellantis vote",
+   "headline": "Stellantis workers vote on a strike mandate with the future of the Brampton plant at stake; results due Monday",
+   "id": "story-2026-10-18-am-stellantis-vote",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "science",
+   "topic": "leap hour",
+   "headline": "Science corner: the world’s timekeepers retire the leap second — clocks will be allowed to drift up to an hour from Earth’s spin",
+   "id": "story-2026-10-18-am-leap-hour",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "anthropic bill",
+   "headline": "Anthropic pitches its own AI-safety law: Washington could block a model’s release — with a judge’s OK — if it risks 50-plus deaths or $1 billion in damage",
+   "id": "story-2026-10-18-am-anthropic-bill",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "yellowstone luna",
+   "headline": "Luna the Jack Russell survives 34 days alone in Yellowstone — and is found waiting in a doghouse inside the rescue trap",
+   "id": "viral-2026-10-18-am-yellowstone-luna",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "yonkers goat",
+   "headline": "“Let’s go cops!”: a runaway baby goat crashes an elementary-school recess in Yonkers and police round it up to cheers",
+   "id": "viral-2026-10-18-am-yonkers-goat",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "qantas lullaby",
+   "headline": "A Qantas flight attendant rocks a fussy baby to sleep in the aisle for 15 minutes so the parents can eat",
+   "id": "viral-2026-10-18-am-qantas-lullaby",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "boo trend",
+   "headline": "The “Boo Trend” — the cross-eyed TikTok prank",
+   "id": "teen-2026-10-18-am-boo-trend",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "scuba",
+   "headline": "“Scuba” — not about diving",
+   "id": "teen-2026-10-18-am-scuba",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "drip",
+   "headline": "“Drip” — a great outfit or style",
+   "id": "teen-2026-10-18-am-drip",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "stupid song",
+   "headline": "On the charts: Olivia Rodrigo’s “stupid song” climbs to No. 6 in Canada",
+   "id": "teen-2026-10-18-am-stupid-song",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-18-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "wainwright four dead",
+   "headline": "Carney confirms four Armed Forces members killed in the CFB Wainwright fire — 39 people in hospital, at least 19 critical — as early reports say a training munition sparked it",
+   "id": "story-2026-10-18-pm-wainwright-four-dead",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "referendum 43 percent",
+   "headline": "43 per cent of Alberta’s voters cast ballots before referendum day — 1.36 million in all, far above 2023’s early vote — and Question 10 will be counted first",
+   "id": "story-2026-10-18-pm-referendum-43-percent",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "stelco standoff",
+   "headline": "Ottawa says its Stelco standoff will be settled “in days” — and the U.S.-owned steelmaker could be forced to sell its Canadian plants as layoffs roll on",
+   "id": "story-2026-10-18-pm-stelco-standoff",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "cape breton data centre",
+   "headline": "Anthropic signs on to a $10-billion AI data centre in Cape Breton — and a day later, Nova Scotians rally against it in Halifax",
+   "id": "story-2026-10-18-pm-cape-breton-data-centre",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "macron address",
+   "headline": "Macron addresses France: “anger and shame” after a weekend of riots with nearly 2,400 arrests and about 1,000 police hurt — and he warns gatherings may be banned",
+   "id": "story-2026-10-18-pm-macron-address",
+   "returning": true
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "graham act waiver",
+   "headline": "The Russia sanctions that were due to start today are on hold: Trump’s waiver of the Graham Act draws fire from Kyiv and from senators in his own party",
+   "id": "story-2026-10-18-pm-graham-act-waiver",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "wichita soccer crash",
+   "headline": "A pickup drives onto a youth soccer field in Wichita, killing a 6-year-old boy and a man; the driver is released pending toxicology tests",
+   "id": "story-2026-10-18-pm-wichita-soccer-crash",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "kenya ebola eight",
+   "headline": "Kenya confirms its eighth Ebola case — a hospital attendant who cleaned linens — as Congo’s outbreak spreads to an eighth province",
+   "id": "story-2026-10-18-pm-kenya-ebola-eight",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "business",
+   "topic": "earnings week",
+   "headline": "After Wall Street’s worst week since June, Tesla, SpaceX and Meta report this week — and investors want proof the AI spending is paying off",
+   "id": "story-2026-10-18-pm-earnings-week",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "business",
+   "topic": "crea september",
+   "headline": "Canadian home sales slip again in September as fixed mortgage rates jump — sales are down 7.7 per cent from a year ago",
+   "id": "story-2026-10-18-pm-crea-september",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "science",
+   "topic": "magic state",
+   "headline": "Science corner: Google grows “magic states” on its Willow quantum chip, cutting errors 40-fold in one of quantum computing’s biggest bottlenecks",
+   "id": "story-2026-10-18-pm-magic-state",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "anthropic benefit fund",
+   "headline": "Anthropic will set aside 5 per cent of its shares — possibly more as it grows — for a “public benefit fund” that could pay people hurt by AI job losses",
+   "id": "story-2026-10-18-pm-anthropic-benefit-fund",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "carmel brothers",
+   "headline": "Two teen brothers pull a grandmother and two little kids out of an Indiana pond — and help the toddler breathe again with a trick from CPR class",
+   "id": "viral-2026-10-18-pm-carmel-brothers",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "pittsburgh pelicans",
+   "headline": "Two rescued pelicans slip out of the Pittsburgh Zoo and end up in the Allegheny River — boats, a hotline and the public bring them home",
+   "id": "viral-2026-10-18-pm-pittsburgh-pelicans",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "baby king",
+   "headline": "“Baby king!”: a Cairo newborn lounges with his hands behind his head and legs crossed minutes after birth",
+   "id": "viral-2026-10-18-pm-baby-king",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "wing walker 99",
+   "headline": "At 99, Helga Duffy straps onto the top of a biplane and becomes the world’s oldest wing walker",
+   "id": "viral-2026-10-18-pm-wing-walker-99",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "runaway pumpkin",
+   "headline": "The great pumpkin escape: wind sends a giant inflatable jack-o’-lantern rolling down a North Carolina road — and an Uber driver helps catch it",
+   "id": "viral-2026-10-18-pm-runaway-pumpkin",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "housewife",
+   "headline": "On the charts: Calgary’s Tate McRae goes straight to No. 1 in Canada with “Housewife”",
+   "id": "teen-2026-10-18-pm-housewife",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "tip toein",
+   "headline": "“Tip toein’ in my Jordans” — the sneaky-walk Rumpelstiltskin meme (it’s AI, not an ’80s movie)",
+   "id": "teen-2026-10-18-pm-tip-toein",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "tra la la spongebob",
+   "headline": "“Tra La La SpongeBob” — the warped cartoon earworm",
+   "id": "teen-2026-10-18-pm-tra-la-la-spongebob",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "iykyk",
+   "headline": "“IYKYK” — if you know, you know",
+   "id": "teen-2026-10-18-pm-iykyk",
+   "returning": false
+  },
+  {
+   "date": "2026-10-18",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-18-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "wainwright named",
+   "headline": "The four soldiers killed at Wainwright are named — and the general says the grass fire was known for hours before wind drove it a kilometre in under a minute; Canadians line up to give blood",
+   "id": "story-2026-10-19-am-wainwright-named",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "referendum day",
+   "headline": "It’s referendum day: 1,405 polls open at 9 a.m. — Wainwright’s included, despite the fire — and the last polls before the vote had “remain” well ahead",
+   "id": "story-2026-10-19-am-referendum-day",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "vancouver fry",
+   "headline": "Vancouver elects a Green mayor — a first for a major Canadian city — as Pete Fry unseats Ken Sim, and Surrey brings back Doug McCallum",
+   "id": "story-2026-10-19-am-vancouver-fry",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "ukraine grid no warning",
+   "headline": "Russia pounds Ukraine’s grid with 16 ballistic missiles and 200-plus drones — 550,000 households lose power, and Zelenskyy says allies again gave no warning",
+   "id": "story-2026-10-19-am-ukraine-grid-no-warning",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "pope angelus return",
+   "headline": "Pope Leo is back at his window: about 15,000 cheer his first Angelus since lung-cancer surgery as he promises a “gradual” return to work",
+   "id": "story-2026-10-19-am-pope-angelus-return",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "trump netanyahu",
+   "headline": "Trump endorses Netanyahu nine days before Israel votes — and says the U.S. would have to take on Iran alone under anyone else",
+   "id": "story-2026-10-19-am-trump-netanyahu",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "business",
+   "topic": "cpi september",
+   "headline": "Inflation edges up to 3.1 per cent as gas prices climb — a touch below the 3.2 per cent economists expected, nine days before the Bank of Canada decides",
+   "id": "story-2026-10-19-am-cpi-september",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "business",
+   "topic": "china gdp q3",
+   "headline": "China’s economy speeds up to 4.5 per cent growth as record exports offset a deepening property slump",
+   "id": "story-2026-10-19-am-china-gdp-q3",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "science",
+   "topic": "power wallpaper",
+   "headline": "Science corner: Binghamton engineers print a paper “wallpaper” that makes electricity from the humidity in your room — enough to run a wireless keyboard",
+   "id": "story-2026-10-19-am-power-wallpaper",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "meta claude no kings",
+   "headline": "Meta says a Claude tool’s rapid-fire “reading” got the No Kings Instagram account wrongly suspended mid-protest — a warning for anyone letting AI agents use their login",
+   "id": "story-2026-10-19-am-meta-claude-no-kings",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "microsoft nscale exit",
+   "headline": "Microsoft walks away from Britain’s flagship AI data centre after the grid says it can’t deliver enough power until the 2030s",
+   "id": "story-2026-10-19-am-microsoft-nscale-exit",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "mysuru drone peacock",
+   "headline": "3,473 drones draw a giant glowing peacock over Mysuru’s Dasara festival — and earn a Guinness World Record",
+   "id": "viral-2026-10-19-am-mysuru-drone-peacock",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "brisbane runner",
+   "headline": "A year after her heart stopped mid-run, a Brisbane woman meets the strangers who brought her back with CPR and a casino’s defibrillator",
+   "id": "viral-2026-10-19-am-brisbane-runner",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "loulou avalanche",
+   "headline": "LouLou the huskydoodle survives 50 hours alone after an Alaska avalanche — and volunteer pilots find her by following her AirTag",
+   "id": "viral-2026-10-19-am-loulou-avalanche",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "eforie dolphin",
+   "headline": "A young man wades into the Black Sea to guide a stranded dolphin off a Romanian beach — and keeps helping until it swims free",
+   "id": "viral-2026-10-19-am-eforie-dolphin",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "artis hornbill beak",
+   "headline": "A world first at Amsterdam’s Artis zoo: an injured hornbill gets 3D-printed upper and lower beaks — and picks up a mouse the next morning",
+   "id": "viral-2026-10-19-am-artis-hornbill-beak",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "lies zach lana",
+   "headline": "On the charts: Zach Bryan and Lana Del Rey’s new duet “Lies” jumps to No. 2 in Canada",
+   "id": "teen-2026-10-19-am-lies-zach-lana",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "shan shen bu",
+   "headline": "“Shan Shen Bu” — the folk-dance move turned TikTok dodge",
+   "id": "teen-2026-10-19-am-shan-shen-bu",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "periodt",
+   "headline": "“Periodt” — end of discussion",
+   "id": "teen-2026-10-19-am-periodt",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "teen",
+   "topic": "spill the tea",
+   "headline": "“Spill the tea” — share the gossip",
+   "id": "teen-2026-10-19-am-spill-the-tea",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-19-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "wainwright commons",
+   "headline": "“United in grief”: Carney tells the Commons about 50 investigators are now at Wainwright, with the RCMP helping military police find what started the fire",
+   "id": "story-2026-10-19-pm-wainwright-commons",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "referendum hiccups",
+   "headline": "Referendum-day hiccups: a First Nation polling station runs out of ballots and late-opening polls will stay open past 8 p.m. — and no results appear until every poll has closed",
+   "id": "story-2026-10-19-pm-referendum-hiccups",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "stellantis mandate",
+   "headline": "Stellantis workers give Unifor a 97.3 per cent strike mandate as talks stall over the sale of the idled Brampton plant",
+   "id": "story-2026-10-19-pm-stellantis-mandate",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "faint hope",
+   "headline": "A B.C. judge rules the ban on “faint hope” early-parole reviews for multiple murderers unconstitutional — delaying sentencing again in the Abbotsford De Jong killings",
+   "id": "story-2026-10-19-pm-faint-hope",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "france curfews",
+   "headline": "France orders curfews in parts of Paris, Lille and other cities as the interior minister admits police “lost control” — and Macron refuses his resignation",
+   "id": "story-2026-10-19-pm-france-curfews",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "yemen camp",
+   "headline": "Houthi ballistic missiles kill at least 53 recruits at a Yemeni government training camp — the deadliest single attack since the civil war reignited in September",
+   "id": "story-2026-10-19-pm-yemen-camp",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "wfp gaza",
+   "headline": "UN food agency cuts aid to half a million people in Gaza and halves rations as funding runs short — while Gaza’s crossings stay shut for a sixth day",
+   "id": "story-2026-10-19-pm-wfp-gaza",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "business",
+   "topic": "boc outlook",
+   "headline": "Bank of Canada survey: business moods improved over the summer — but the new tariffs since trade talks collapsed are now dragging on outlooks and pushing price expectations up",
+   "id": "story-2026-10-19-pm-boc-outlook",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "business",
+   "topic": "markets rebound",
+   "headline": "AI stocks pull Wall Street back up after its worst week since June — while Europe slides on France’s unrest and the TSX slips 0.7 per cent",
+   "id": "story-2026-10-19-pm-markets-rebound",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "science",
+   "topic": "mmx phobos",
+   "headline": "Science corner: Japan launches MMX, a robotic sampler headed for Mars’ moon Phobos — aiming to be the first spacecraft to bring home soil from a Martian moon",
+   "id": "story-2026-10-19-pm-mmx-phobos",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "publishers sue anthropic",
+   "headline": "Canada’s biggest news publishers sue Anthropic in Ontario, saying Claude was built on their journalism without a licence",
+   "id": "story-2026-10-19-pm-publishers-sue-anthropic",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "torchneuron",
+   "headline": "Amazon releases TorchNeuron so ordinary PyTorch code can run on its Trainium AI chips with one setting change — its biggest swing yet at Nvidia’s software lock-in",
+   "id": "story-2026-10-19-pm-torchneuron",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "kelowna unqualified",
+   "headline": "“I barely want to do this”: a Kelowna candidate who called himself unqualified on his campaign signs wins a council seat",
+   "id": "viral-2026-10-19-pm-kelowna-unqualified",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "fermin abuela",
+   "headline": "“My boy, look, this girl came from Huelva”: Fermín López’s grandmother gets him to give his shirt to a young fan — then hands him a raincoat",
+   "id": "viral-2026-10-19-pm-fermin-abuela",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "laurentides dogs",
+   "headline": "Three fox terriers stranded on a Laurentian cliff ledge are lowered to safety by rope — in rain and darkness, after days stuck on the rock",
+   "id": "viral-2026-10-19-pm-laurentides-dogs",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "overdue book",
+   "headline": "“No judgment, just happy reunions”: a library book due in 1983 comes back to Greater Victoria Public Library, 43 years late and fine-free",
+   "id": "viral-2026-10-19-pm-overdue-book",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "ashe stop the wedding",
+   "headline": "On the charts: Ashe’s “Stop The Wedding!” climbs to a new peak of No. 9 in Canada",
+   "id": "teen-2026-10-19-pm-ashe-stop-the-wedding",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "kyle old photo",
+   "headline": "The “Kyle looking at an old photo” slideshow — TikTok’s how-long-ago-was-that nostalgia trend",
+   "id": "teen-2026-10-19-pm-kyle-old-photo",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "hit different",
+   "headline": "“Hits different” — feels special, in a way that’s hard to explain",
+   "id": "teen-2026-10-19-pm-hit-different",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "teen",
+   "topic": "say less",
+   "headline": "“Say less” — I’m in, no need to explain",
+   "id": "teen-2026-10-19-pm-say-less",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-19-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "alberta",
+   "topic": "flu shots open",
+   "headline": "Flu shots open to every Albertan as influenza arrives early — book online, call 811 or try a pharmacy",
+   "id": "story-2026-10-19-late-flu-shots-open",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "alberta",
+   "topic": "referendum count overnight",
+   "headline": "Polls finally close at 10 p.m. after late openings at 106 stations — Alberta’s hand count on separation runs into the small hours",
+   "id": "story-2026-10-19-late-referendum-count-overnight",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "canada",
+   "topic": "measles outbreak over",
+   "headline": "Canada’s two-year measles outbreak is officially over — after more than 6,400 infections in 10 provinces and the loss of elimination status",
+   "id": "story-2026-10-19-late-measles-outbreak-over",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "canada",
+   "topic": "wallin resigns",
+   "headline": "Pamela Wallin quits the Senate two years early: “You shouldn’t go to the Senate for life”",
+   "id": "story-2026-10-19-late-wallin-resigns",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "world",
+   "topic": "shakahola verdict",
+   "headline": "Kenyan doomsday preacher Paul Mackenzie is found guilty of murdering 190 children and one adult in the Shakahola starvation cult",
+   "id": "story-2026-10-19-late-shakahola-verdict",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "world",
+   "topic": "sudan al dibab drone",
+   "headline": "A drone strikes twice at a Sudanese market-day transport hub, killing 80 villagers waiting for rides home",
+   "id": "story-2026-10-19-late-sudan-al-dibab-drone",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "world",
+   "topic": "west bank settler arrests",
+   "headline": "In a rare raid, Israeli police arrest 10 over weekend settler attacks on a Washington Post photographer and European diplomats",
+   "id": "story-2026-10-19-late-west-bank-settler-arrests",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "business",
+   "topic": "air canada phone fee",
+   "headline": "Booking Air Canada by phone now costs $30 a passenger — $120 for a family of four",
+   "id": "story-2026-10-19-late-air-canada-phone-fee",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "business",
+   "topic": "stelco goncalves carney",
+   "headline": "Stelco posts its best quarter since the takeover — and its owner’s CEO says laid-off workers could return tomorrow if Ottawa blocks galvanized-steel imports",
+   "id": "story-2026-10-19-late-stelco-goncalves-carney",
+   "returning": true
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "science",
+   "topic": "moon shrinking faults",
+   "headline": "Science corner: 10,000 fresh cracks show the moon has shrunk by about 45 metres — and it’s still contracting",
+   "id": "story-2026-10-19-late-moon-shrinking-faults",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "ai",
+   "topic": "ai agent hacker 100 sites",
+   "headline": "One hacker’s “army” of AI agents broke into more than 100 company websites — including John Deere and SharkNinja — with little human help",
+   "id": "story-2026-10-19-late-ai-agent-hacker-100-sites",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "viral",
+   "topic": "dhoni ice cream",
+   "headline": "“Professional ragebaiter”: MS Dhoni offers his wife Sakshi a spoonful of ice cream — then eats it himself, twice",
+   "id": "viral-2026-10-19-late-dhoni-ice-cream",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "viral",
+   "topic": "santa cruz emu",
+   "headline": "“Different bird, same agenda: wreak havoc”: California deputies coax a runaway emu out of traffic with treats",
+   "id": "viral-2026-10-19-late-santa-cruz-emu",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "teen",
+   "topic": "mr brightside no 6",
+   "headline": "On the charts: The Killers’ 2004 hit “Mr. Brightside” jumps seven spots to No. 6 in Canada",
+   "id": "teen-2026-10-19-late-mr-brightside-no-6",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "teen",
+   "topic": "black cat clapping",
+   "headline": "The “Black Cat Clapping” meme — an AI cat with human hands, slowly applauding",
+   "id": "teen-2026-10-19-late-black-cat-clapping",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "teen",
+   "topic": "biddy blas scrib doon",
+   "headline": "“Biddy Blas — scrib doon” — the Star Wars: Galactic Racer trash-talk meme",
+   "id": "teen-2026-10-19-late-biddy-blas-scrib-doon",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "teen",
+   "topic": "blatantly not me nan",
+   "headline": "“You’re blatantly just not me nan” — the TikTok audio for spotting an imposter",
+   "id": "teen-2026-10-19-late-blatantly-not-me-nan",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "teen",
+   "topic": "scientists reveal the hi",
+   "headline": "“Scientists reveal the hi” — the deadpan cat-caption format",
+   "id": "teen-2026-10-19-late-scientists-reveal-the-hi",
+   "returning": false
+  },
+  {
+   "date": "2026-10-19",
+   "edition": "late",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-19-late-oilers-next",
+   "returning": false
+  }
+ ]
+}

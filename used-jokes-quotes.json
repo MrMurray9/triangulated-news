@@ -211,6 +211,14 @@
       "editions": [
         "2026-10-19-evening"
       ]
+    },
+    {
+      "text": "What did one wall say to the other wall? I’ll meet you at the corner.",
+      "normalized": "what did one wall say to the other wall i ll meet you at the corner",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-late"
+      ]
     }
   ],
   "quotes": [
@@ -477,6 +485,15 @@
       "first_used": "2026-10-19",
       "editions": [
         "2026-10-19-evening"
+      ]
+    },
+    {
+      "text": "“Hold fast to dreams / For if dreams die / Life is a broken-winged bird / That cannot fly.”",
+      "attribution": "Langston Hughes, “Dreams” (1923)",
+      "normalized": "hold fast to dreams for if dreams die life is a broken winged bird that cannot fly",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-late"
       ]
     }
   ]

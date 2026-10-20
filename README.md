@@ -57,3 +57,13 @@ Jaryd wants every story updated each edition. Before choosing stories, read the 
 - Edmonton events can repeat only if the event is still running, and each edition must add at least half new events.
 - If a section can't be filled with fresh stories, leave it short rather than repeating one.
 - Before pushing, check headline by headline against the previous two editions and list any overlap in the run report.
+
+## Freshness gate and rotation rules (required every run, added Oct 19, 2026)
+
+- **Run the checker before every push.** Run `python3 /workspace/news-review/freshness_check.py --repo /workspace/triangulated-news [candidate.html]` on the finished build. It exits 1 on failure: fix the build and rerun until it passes. Never push a failing build, and keep its output for the run report.
+- **Never publish a stale build.** A build more than 90 minutes old must not be published. Rebuild it, or skip the slot if the next scheduled run is close.
+- **Returning stories go below new ones.** Within each section, new stories come first. A returning story (a real, verified update, with a new headline leading with the update and a "What changed since the last edition" paragraph) sits below every new story in that section.
+- **No lead topic more than 2 editions in a row.** The same topic may not lead a section for more than two consecutive editions. Pick a different lead even if the topic is still running.
+- **Keep the topic ledger and compare the last 4 editions.** `used-stories.json` records date, edition, section, topic and headline for every story. Check candidates against the last 4 editions in it (not just the last one), and append this edition's entries in the same commit. Recurring topics (for example Wainwright, Anthropic, France, Ukraine) run only with a genuine update, marked as returning.
+- **Edmonton events: half new by name, honest "New" labels.** At least half the listed events must be different events, by name, from the previous edition. Label an event "New" only if it appeared in neither of the two previous editions, and state the real new count in the section footer.
+- **Rotate the Markets and Science wording.** Write the Markets note and the Science corner text fresh each edition. Never lightly edit the previous edition's paragraph, which the checker flags as near-identical.
