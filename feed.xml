@@ -5,8 +5,92 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:24:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:14:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Tuesday, October 20, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/edition</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Evening edition: first counts on Alberta’s nine other referendum questions, the Nov. 5 federal budget date and the PBO’s deficit warning, Libya ratifying Turkey’s sea deal, Yemen’s camp toll rising to 73, SpaceX’s first profit, Netflix’s ad cut, Stanford’s thermal-noise radio, OpenAI buying Orchestra Bio, Nvidia’s Nemotron 3.5, and Edmonton events.</description>
+    </item>
+    <item>
+      <title>Yes leads on eight of the nine other ballot questions — about 55 per cent want more provincial say over immigration, while the constitutional questions split almost down the middle</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-referendum-nine-questions</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-referendum-nine-questions</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Counting moved on Tuesday from the separation question to the nine questions Premier Danielle Smith’s government added to the ballot. …</description>
+    </item>
+    <item>
+      <title>The federal budget lands Nov. 5 — and on the same day, the budget watchdog says deficits will stay above $63 billion a year into the next decade</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-budget-date-pbo-deficits</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-budget-date-pbo-deficits</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Finance Minister François-Philippe Champagne announced the date during question period on Tuesday. …</description>
+    </item>
+    <item>
+      <title>Eastern Libya’s parliament reverses itself and ratifies Turkey’s 2019 sea-boundary pact — Greece says it breaks the law of the sea, and the EU stands with Athens and Cyprus</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-libya-turkey-sea-deal</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-libya-turkey-sea-deal</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>The Tobruk-based House of Representatives, aligned with military commander Khalifa Haftar, voted unanimously on Tuesday to approve the 2019 memorandum that carved out maritime zones between Turkey and Libya in the eastern Mediterranean. …</description>
+    </item>
+    <item>
+      <title>Death toll at Yemen’s Shabwa training camp climbs to 73 with 14 still missing — and Britain will send Typhoon jets to help shield Saudi Arabia from Houthi fire</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-shabwa-camp-toll-73</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-shabwa-camp-toll-73</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Provincial authorities in Shabwa now say 73 security-force recruits were killed when three Houthi ballistic missiles hit their training camp on Monday; 14 people are still missing and more than 200 were hurt (Reuters, Al Arabiya, AP). …</description>
+    </item>
+    <item>
+      <title>SpaceX books its first profit as a public company — US$4.4 billion — as renting computing power to AI labs overtakes Starlink as its biggest business</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-spacex-q3-first-profit</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-spacex-q3-first-profit</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>SpaceX’s third-quarter revenue jumped 161 per cent to US$14.6 billion, well above the US$12.7 billion analysts expected, and it earned US$4.4 billion after losing US$1.1 billion a year earlier, the company reported after the bell Tuesday (SpaceX filing, Reuters, Wall Street Journal). …</description>
+    </item>
+    <item>
+      <title>Netflix beats on profit but cuts its 2026 ad-revenue target to about US$2.7 billion — and its shares fall about 6 per cent after hours</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-netflix-q3-ad-cut</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-netflix-q3-ad-cut</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Netflix earned 87 cents a share in the third quarter, ahead of the 82 cents analysts expected, on revenue of US$12.87 billion, up almost 12 per cent and right on forecasts. …</description>
+    </item>
+    <item>
+      <title>Science corner: Stanford engineers send data with no radio signal at all — a tag flips how its antenna reflects the faint electrical “static” all around it</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-thermal-noise-radio</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-thermal-noise-radio</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Every conductor hums with thermal noise: electrons jiggling enough to make a faint background hiss that radio engineers normally try to filter out. …</description>
+    </item>
+    <item>
+      <title>OpenAI buys Orchestra Bio, a startup whose AI agents track drug trials and flag delays — folding it into its Rosalind life-sciences tools</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-openai-orchestra-bio</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-openai-orchestra-bio</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>OpenAI said Tuesday it has acquired Orchestra Bio, whose platform lets drug-company scientists hand off chores like monitoring studies, tracking timelines and spotting knock-on delays — say, a failed manufacturing batch that would push back a clinical trial — to AI agents. …</description>
+    </item>
+    <item>
+      <title>Nvidia releases free-to-download Nemotron 3.5 models — a 120-billion-parameter one for business agents and a “Bolt” model that runs on a 24 GB laptop</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-20-pm-nvidia-nemotron-35</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/story-2026-10-20-pm-nvidia-nemotron-35</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>Nvidia’s new open-weight Nemotron 3.5 Super VL can read images and documents as well as text and is built for companies running AI agents on their own servers. …</description>
+    </item>
+    <item>
+      <title>“I just did what any friend would have done”: a Pennsylvania homecoming king hands his crown and sash to his classmate with Down syndrome</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-2026-10-20-pm-mahanoy-homecoming-crown</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/viral-2026-10-20-pm-mahanoy-homecoming-crown</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>At a packed pep rally at Mahanoy Area High School, senior Keny Cedanio Ramirez, 17, was named homecoming king. …</description>
+    </item>
+    <item>
+      <title>One by one, a whole class files up to give their tie-loving professor a new tie for his birthday — and he can barely keep it together</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#viral-2026-10-20-pm-professor-tie-birthday</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-20/evening/viral-2026-10-20-pm-professor-tie-birthday</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:00 -0600</pubDate>
+      <description>The clip shows an older education professor at the front of a lecture room as student after student walks up and hands him a tie for his collection. …</description>
+    </item>
     <item>
       <title>Jaryd’s News — Tuesday, October 20, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>

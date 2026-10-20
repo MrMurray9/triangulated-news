@@ -227,6 +227,14 @@
       "editions": [
         "2026-10-20-morning"
       ]
+    },
+    {
+      "text": "What do you call an alligator in a vest? An investigator.",
+      "normalized": "what do you call an alligator in a vest an investigator",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-evening"
+      ]
     }
   ],
   "quotes": [
@@ -511,6 +519,15 @@
       "first_used": "2026-10-20",
       "editions": [
         "2026-10-20-morning"
+      ]
+    },
+    {
+      "text": "“It does not do to dwell on dreams and forget to live.”",
+      "attribution": "J.K. Rowling, Harry Potter and the Philosopher’s Stone (Bloomsbury, 1997), chapter 12 “The Mirror of Erised” (Albus Dumbledore)",
+      "normalized": "it does not do to dwell on dreams and forget to live",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-evening"
       ]
     }
   ]

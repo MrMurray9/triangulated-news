@@ -1054,6 +1054,114 @@
    "headline": "Minnesota Wild at Edmonton Oilers",
    "id": "story-2026-10-20-am-oilers-next",
    "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "referendum nine questions",
+   "headline": "Yes leads on eight of the nine other ballot questions — about 55 per cent want more provincial say over immigration, while the constitutional questions split almost down the middle",
+   "id": "story-2026-10-20-pm-referendum-nine-questions",
+   "returning": true
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "federal budget date pbo outlook",
+   "headline": "The federal budget lands Nov. 5 — and on the same day, the budget watchdog says deficits will stay above $63 billion a year into the next decade",
+   "id": "story-2026-10-20-pm-budget-date-pbo-deficits",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "world",
+   "topic": "libya turkey maritime deal",
+   "headline": "Eastern Libya’s parliament reverses itself and ratifies Turkey’s 2019 sea-boundary pact — Greece says it breaks the law of the sea, and the EU stands with Athens and Cyprus",
+   "id": "story-2026-10-20-pm-libya-turkey-sea-deal",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "world",
+   "topic": "yemen camp",
+   "headline": "Death toll at Yemen’s Shabwa training camp climbs to 73 with 14 still missing — and Britain will send Typhoon jets to help shield Saudi Arabia from Houthi fire",
+   "id": "story-2026-10-20-pm-shabwa-camp-toll-73",
+   "returning": true
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "business",
+   "topic": "spacex q3 earnings",
+   "headline": "SpaceX books its first profit as a public company — US$4.4 billion — as renting computing power to AI labs overtakes Starlink as its biggest business",
+   "id": "story-2026-10-20-pm-spacex-q3-first-profit",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "business",
+   "topic": "netflix q3 earnings",
+   "headline": "Netflix beats on profit but cuts its 2026 ad-revenue target to about US$2.7 billion — and its shares fall about 6 per cent after hours",
+   "id": "story-2026-10-20-pm-netflix-q3-ad-cut",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "science",
+   "topic": "thermal noise communication",
+   "headline": "Science corner: Stanford engineers send data with no radio signal at all — a tag flips how its antenna reflects the faint electrical “static” all around it",
+   "id": "story-2026-10-20-pm-thermal-noise-radio",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai orchestra bio",
+   "headline": "OpenAI buys Orchestra Bio, a startup whose AI agents track drug trials and flag delays — folding it into its Rosalind life-sciences tools",
+   "id": "story-2026-10-20-pm-openai-orchestra-bio",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "nvidia nemotron 3.5",
+   "headline": "Nvidia releases free-to-download Nemotron 3.5 models — a 120-billion-parameter one for business agents and a “Bolt” model that runs on a 24 GB laptop",
+   "id": "story-2026-10-20-pm-nvidia-nemotron-35",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "homecoming king crown",
+   "headline": "“I just did what any friend would have done”: a Pennsylvania homecoming king hands his crown and sash to his classmate with Down syndrome",
+   "id": "viral-2026-10-20-pm-mahanoy-homecoming-crown",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "professor ties birthday",
+   "headline": "One by one, a whole class files up to give their tie-loving professor a new tie for his birthday — and he can barely keep it together",
+   "id": "viral-2026-10-20-pm-professor-tie-birthday",
+   "returning": false
+  },
+  {
+   "date": "2026-10-20",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Minnesota Wild at Edmonton Oilers",
+   "id": "story-2026-10-20-pm-oilers-next",
+   "returning": false
   }
  ]
 }
