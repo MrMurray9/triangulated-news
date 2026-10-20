@@ -45,13 +45,13 @@ Before choosing the joke and quote of the day, read `used-jokes-quotes.json`; ne
 - **Platform targets and badges:** each edition aims for **2 X items and 2 Facebook items** in Viral on social (verified only, never padded), plus Other as available. Every viral headline starts with a small square badge `span.pf-badge` — `pf-x` **X** (black), `pf-f` **F** (Facebook blue), `pf-o` **O** (grey) — and each body has a `p.seen-on` "Seen on: …" line citing where an outlet/fact-checker says it spread, linking the original post when it can be verified.
 - **Viral on social tone:** prioritize funny, beautiful or uplifting TRUE stories (feel-good, wholesome, funny animals, stunning nature/sky, kind gestures) that mainstream outlets report went viral on that platform (that coverage counts as platform evidence; light items may rest on 2 independent reputable outlets if the Community Note says so). Debunks are rare: **max 1** per edition, only for a major story. If nothing qualifies for a platform, show fewer items instead of filling with debunks.
 
-## Section order and Teen (required every run)
+## Section order (required every run)
 
-**No slang or language items in Teen** (Jaryd removed them on Oct 19, 2026): no slang words, catchphrases or phrase memes. Use music and artists, apps, games, visual memes, fashion and products, and TikTok trends instead.
+**There is NO Teen section** (Jaryd removed it Oct 19, 2026). Do not build `section#teen` or add teen items; used-teen-items.json is retired.
 
-**Order:** Edmonton → Alberta → Canada → World → Business → Science corner → AI → **Viral on social** → **Teen** → Markets → Next Oilers game → collapsed Archive bar → footer.
 
-**Teen** (`section#teen`, blue collapsible): 4–6 short, school-appropriate items on what teens are into right now: trending apps, games, music and artists, memes, fashion and products, TikTok trends. Each item needs a verified, current source behind the burger menu (reputable media, Pew, Piper Sandler, Know Your Meme, Dictionary.com, Merriam-Webster, Spotify or Billboard charts; never BBC, CNN, CBC or Radio-Canada) and a note of its date or recency. Never invent slang or trends. Check `used-teen-items.json` first, and don't repeat an item unless it's still notably current; append new items after publishing.
+**Order:** Edmonton → Alberta → Canada → World → Business → Science corner → AI → **Viral on social** → Markets → Next Oilers game → collapsed Archive bar → footer.
+
 
 ## Fresh stories every edition (required every run, added Oct 18, 2026)
 Jaryd wants every story updated each edition. Before choosing stories, read the headlines and topics in the current index.html (the previous edition) and the archive page of the edition before it. In every news section (Alberta, Canada, World, Business, Science corner, AI, Viral on social, Teen), no story may cover the same event or topic as either of those two editions. Replace them with different stories that meet the sourcing rules.
