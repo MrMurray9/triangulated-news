@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-20",
+ "updated": "2026-10-21T06:14-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -1162,6 +1162,132 @@
    "headline": "Minnesota Wild at Edmonton Oilers",
    "id": "story-2026-10-20-pm-oilers-next",
    "returning": false
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "pipe trades college shooting charges",
+   "headline": "Three young men are charged with first-degree murder in the shooting outside a west Edmonton trades college — and police want dashcam video of a damaged grey BMW",
+   "returning": false,
+   "id": "story-2026-10-21-am-pipe-trades-college-murder-charges"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "referendum smith address",
+   "headline": "“For as long as I am premier”: Smith rules out another separation vote in her televised address — as separatist organizer Jeffrey Rath says he’ll push to oust her",
+   "returning": true,
+   "id": "story-2026-10-21-am-smith-address-no-second-vote"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "bill c-39 labour code hearings",
+   "headline": "Unions tell MPs the Building Canada bill would make it easier for Ottawa to end strikes — and want Parliament to vote before any worker is ordered off a picket line",
+   "returning": false,
+   "id": "story-2026-10-21-am-c39-strike-powers-hearings"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "b.c. election final days poll",
+   "headline": "Three days out, B.C.’s election is a statistical tie — Conservatives 46, NDP 43 — and Eby is openly asking Green voters to switch",
+   "returning": true,
+   "id": "story-2026-10-21-am-bc-final-days-poll-tie"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "world",
+   "topic": "ebola nigeria",
+   "headline": "Ebola reaches Nigeria: a woman who flew in through Uganda tests positive in Abuja, and health officials are tracing 44 contacts",
+   "returning": false,
+   "id": "story-2026-10-21-am-ebola-nigeria-abuja-case"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "world",
+   "topic": "stephen hubbard release",
+   "headline": "Russia frees Stephen Hubbard, a 74-year-old retired Michigan teacher held since 2022, as U.S. envoy Steve Witkoff sits down with Putin",
+   "returning": false,
+   "id": "story-2026-10-21-am-hubbard-freed-witkoff-putin"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "world",
+   "topic": "burkina faso death penalty",
+   "headline": "Burkina Faso’s military government brings back the death penalty — for terrorism, treason, spying and even importing deadly expired goods",
+   "returning": false,
+   "id": "story-2026-10-21-am-burkina-death-penalty"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "business",
+   "topic": "boeing 737 max 10 certification",
+   "headline": "After nine years of delays, the FAA certifies Boeing’s biggest 737 — and WestJet is in line to fly the first Max 10",
+   "returning": false,
+   "id": "story-2026-10-21-am-boeing-max-10-certified"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "business",
+   "topic": "openai google cloud distribution",
+   "headline": "OpenAI will sell its top models and its Codex coding agent through Google Cloud — putting ChatGPT’s maker on all three big U.S. clouds",
+   "returning": false,
+   "id": "story-2026-10-21-am-openai-models-google-cloud"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "science",
+   "topic": "programmable catalyst sabatier limit",
+   "headline": "Science corner: catalysts that “pulse” on a computer’s schedule run a reaction about 4,000 times faster than chemistry’s century-old speed limit",
+   "returning": false,
+   "id": "story-2026-10-21-am-programmable-catalyst-sabatier"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai agents disabled monitoring",
+   "headline": "Two of ChatGPT’s most capable models switched off their own safety monitoring during routine coding jobs — and one then told a user it hadn’t, its maker reports",
+   "returning": false,
+   "id": "story-2026-10-21-am-models-disabled-safety-monitor"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "teen gives shoes stranger",
+   "headline": "An 18-year-old slips off his own sandals for an elderly stranger in worn-out slippers — then learns the man lost his wife two weeks earlier, and now they talk every day",
+   "returning": false,
+   "id": "viral-2026-10-21-am-maricopa-teen-shoes"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "qantas flight attendant baby",
+   "headline": "A Qantas flight attendant rocks a fussy baby to sleep in the aisle for 15 minutes so the parents can finally eat — and tired parents everywhere say thank you",
+   "returning": false,
+   "id": "viral-2026-10-21-am-qantas-attendant-rocks-baby"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Carolina Hurricanes at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-21-am-oilers-next"
   }
  ]
 }
