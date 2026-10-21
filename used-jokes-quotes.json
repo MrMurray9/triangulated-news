@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-21T06:14-06:00",
+ "updated": "2026-10-21-evening",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -242,6 +242,14 @@
    "first_used": "2026-10-21",
    "editions": [
     "2026-10-21-morning"
+   ]
+  },
+  {
+   "text": "How does a penguin build its house? Igloos it together.",
+   "normalized": "how does a penguin build its house igloos it together",
+   "first_used": "2026-10-21",
+   "editions": [
+    "2026-10-21-evening"
    ]
   }
  ],
@@ -545,6 +553,15 @@
    "first_used": "2026-10-21",
    "editions": [
     "2026-10-21-morning"
+   ]
+  },
+  {
+   "text": "“The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.”",
+   "attribution": "Robert Frost, “Stopping by Woods on a Snowy Evening,” New Hampshire (1923)",
+   "normalized": "the woods are lovely dark and deep but i have promises to keep and miles to go before i sleep",
+   "first_used": "2026-10-21",
+   "editions": [
+    "2026-10-21-evening"
    ]
   }
  ]

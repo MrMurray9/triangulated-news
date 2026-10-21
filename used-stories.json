@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-21T06:14-06:00",
+ "updated": "2026-10-21-evening",
  "stories": [
   {
    "date": "2026-10-18",
@@ -1288,6 +1288,141 @@
    "headline": "Carolina Hurricanes at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-21-am-oilers-next"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "grey nuns er death fatality inquiry",
+   "headline": "A torn aorta, a crowded waiting room and an eight-hour wait: the inquiry into a father’s death at the Grey Nuns ER hears its first week of testimony",
+   "returning": false,
+   "id": "story-2026-10-21-pm-grey-nuns-er-inquiry"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "referendum smith immigration accord",
+   "headline": "Smith tells Carney she wants a Quebec-style immigration deal for Alberta — and the prime minister’s answer is “We’ll see”",
+   "returning": true,
+   "id": "story-2026-10-21-pm-smith-quebec-style-immigration-deal"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "carney ford tariff aid package",
+   "headline": "Ottawa and Ontario put up $8.7 billion for steel mills, auto plants and a Ring of Fire road to blunt U.S. tariffs",
+   "returning": false,
+   "id": "story-2026-10-21-pm-ottawa-ontario-tariff-aid-package"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "food bank visits record hungercount",
+   "headline": "Food bank visits hit a record 2.35 million a month — and nearly one in five people in line now has a job",
+   "returning": false,
+   "id": "story-2026-10-21-pm-hungercount-record-food-bank-visits"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "un emissions gap report",
+   "headline": "The UN now says 1.5°C will be breached — current policies point to 2.8°C — but cutting emissions 18 per cent by 2030 could still pull warming back down",
+   "returning": false,
+   "id": "story-2026-10-21-pm-un-emissions-gap-2-8-degrees"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "saudi houthi attacks us ordered departure",
+   "headline": "Debris from a drone shot down over Saudi Arabia’s Shaybah oilfield kills two workers — and Washington orders non-essential diplomats and families out of the kingdom",
+   "returning": true,
+   "id": "story-2026-10-21-pm-shaybah-drone-debris-us-departure"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "ukraine trilateral talks resume",
+   "headline": "After three hours with Witkoff, Putin agrees in principle to restart three-way peace talks with Ukraine and the U.S. around Nov. 10 — the first since February",
+   "returning": true,
+   "id": "story-2026-10-21-pm-putin-agrees-trilateral-talks-november"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "business",
+   "topic": "tesla q3 earnings",
+   "headline": "Tesla’s profit falls 43 per cent, but it spends billions less than feared, swings back to positive cash flow and starts building Optimus robots",
+   "returning": false,
+   "id": "story-2026-10-21-pm-tesla-q3-cash-flow-optimus"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "business",
+   "topic": "meta q3 earnings non-voting shares",
+   "headline": "Meta beats on revenue and creates a new class of non-voting shares — a way to pay for its AI build-out without diluting Zuckerberg’s control",
+   "returning": false,
+   "id": "story-2026-10-21-pm-meta-q3-nonvoting-class-c"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "science",
+   "topic": "red microled record efficiency",
+   "headline": "Science corner: UC Santa Barbara builds a tiny red LED that sets an efficiency record and keeps shining at 200°C — the missing colour for next-generation screens",
+   "returning": false,
+   "id": "story-2026-10-21-pm-red-microled-record-efficiency"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "anthropic draft ipo compute commitments",
+   "headline": "Claude’s maker has signed up for about US$450 billion of cloud computing, its draft IPO filing shows — and says Amazon, Google and Microsoft still aren’t giving it enough",
+   "returning": false,
+   "id": "story-2026-10-21-pm-anthropic-draft-ipo-compute-bill"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "maasai herders baby giraffe",
+   "headline": "Two young Maasai herders walk a lost baby giraffe through the Kenyan bush — wearing a bright yellow baseball cap against the sun",
+   "returning": false,
+   "id": "viral-2026-10-21-pm-maasai-herders-giraffe-cap"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "bye bye ai library class",
+   "headline": "A tiny New York library with 800 cardholders offers a “Bye Bye AI” class to switch off the chatbots in your phone — and the whole internet wants a seat",
+   "returning": false,
+   "id": "viral-2026-10-21-pm-bye-bye-ai-library-class"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "suffolk police officer soccer teens",
+   "headline": "Teens on Long Island thought two cops were coming to shut down their soccer game — instead one hopped the fence and beat them one-on-one in full uniform and boots",
+   "returning": false,
+   "id": "viral-2026-10-21-pm-suffolk-cop-soccer-elastico"
+  },
+  {
+   "date": "2026-10-21",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Carolina Hurricanes at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-21-pm-oilers-next"
   }
  ]
 }
