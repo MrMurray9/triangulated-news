@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-22-morning",
+ "updated": "2026-10-22",
  "stories": [
   {
    "date": "2026-10-18",
@@ -1558,6 +1558,141 @@
    "headline": "Carolina Hurricanes at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-22-am-oilers-next"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "world juniors pre tournament alberta",
+   "headline": "World juniors warm-ups are coming to six Alberta towns: Team Canada plays Finland and Sweden in Red Deer before the tournament",
+   "returning": false,
+   "id": "story-2026-10-22-pm-world-juniors-pretournament-six-towns"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "cfb wainwright fire investigation",
+   "headline": "Wainwright fire started on a grenade-launcher range, military police say — and the Board of Inquiry could take up to a year",
+   "returning": true,
+   "id": "story-2026-10-22-pm-wainwright-fire-grenade-range-inquiry"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta referendum count results",
+   "headline": "Referendum count blows past its 48-hour deadline, and “No” now leads four constitutional questions — including Senate abolition",
+   "returning": true,
+   "id": "story-2026-10-22-pm-referendum-count-misses-deadline-no-gains"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "supreme court emergencies act appeal",
+   "headline": "The Supreme Court will have the last word on whether Ottawa lawfully invoked the Emergencies Act against the 2022 convoy protests",
+   "returning": false,
+   "id": "story-2026-10-22-pm-scc-emergencies-act-appeal"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "stelco cleveland cliffs layoffs joly",
+   "headline": "Ottawa gives Stelco’s U.S. owner 15 days to reverse up to 500 Hamilton layoffs or face court action",
+   "returning": false,
+   "id": "story-2026-10-22-pm-joly-stelco-15-day-ultimatum"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "world",
+   "topic": "tibet earthquake nagqu",
+   "headline": "Magnitude-7.0 earthquake hits a remote part of Tibet late at night, killing at least 16 and flattening hundreds of homes",
+   "returning": false,
+   "id": "story-2026-10-22-pm-tibet-m7-quake-nagqu"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "world",
+   "topic": "finland onkalo nuclear waste repository",
+   "headline": "Finland licenses the world’s first permanent underground tomb for spent nuclear fuel",
+   "returning": false,
+   "id": "story-2026-10-22-pm-finland-onkalo-operating-licence"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "business",
+   "topic": "spotify q3 earnings",
+   "headline": "Spotify shares jump about 10% as it forecasts a record quarterly profit and passes 300 million paying subscribers",
+   "returning": false,
+   "id": "story-2026-10-22-pm-spotify-q3-profit-guidance"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "business",
+   "topic": "blackstone q3 earnings",
+   "headline": "Blackstone’s payout earnings slip as choppy markets slow asset sales — but assets under management hit $1.37 trillion",
+   "returning": false,
+   "id": "story-2026-10-22-pm-blackstone-q3-exits-aum-record"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "science",
+   "topic": "touchscreen garment fibre display",
+   "headline": "A shirt sleeve that works like a phone screen: NUS engineers weave a washable, touch-sensitive colour display out of thread",
+   "returning": false,
+   "id": "story-2026-10-22-pm-nus-touchscreen-sleeve-fibres"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "canva craft image model",
+   "headline": "Canva launches Craft, its first home-built AI image model, trained on millions of human-made templates",
+   "returning": false,
+   "id": "story-2026-10-22-pm-canva-craft-image-model"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "grandpa calls chatgpt sir",
+   "headline": "A 77-year-old on a flight plans a vertical-farming business with ChatGPT — and politely calls it “sir” three times in three sentences",
+   "returning": false,
+   "id": "viral-2026-10-22-pm-grandpa-calls-chatgpt-sir"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "kolkata family rickshaw durga puja",
+   "headline": "Twenty seconds of pure joy: a Kolkata family sings together on a rickshaw under festival lights",
+   "returning": false,
+   "id": "viral-2026-10-22-pm-kolkata-rickshaw-family-durga-puja"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "romania shelter dog lord facebook",
+   "headline": "Volunteers post “the saddest dog in the shelter” on Facebook — and his family, who’d been told he was dead, see it and bring him home",
+   "returning": false,
+   "id": "viral-2026-10-22-pm-romania-shelter-dog-lord-family"
+  },
+  {
+   "date": "2026-10-22",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Carolina Hurricanes at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-22-pm-oilers-next"
   }
  ]
 }
