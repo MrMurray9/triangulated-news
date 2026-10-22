@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-21-evening",
+ "updated": "2026-10-22-morning",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -250,6 +250,14 @@
    "first_used": "2026-10-21",
    "editions": [
     "2026-10-21-evening"
+   ]
+  },
+  {
+   "text": "What do you call a belt made out of watches? A waist of time.",
+   "normalized": "what do you call a belt made out of watches a waist of time",
+   "first_used": "2026-10-22",
+   "editions": [
+    "2026-10-22-morning"
    ]
   }
  ],
@@ -562,6 +570,15 @@
    "first_used": "2026-10-21",
    "editions": [
     "2026-10-21-evening"
+   ]
+  },
+  {
+   "text": "“There is no charm equal to tenderness of heart.”",
+   "attribution": "Jane Austen, Emma (1815)",
+   "normalized": "there is no charm equal to tenderness of heart",
+   "first_used": "2026-10-22",
+   "editions": [
+    "2026-10-22-morning"
    ]
   }
  ]
