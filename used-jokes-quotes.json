@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -266,6 +266,14 @@
    "first_used": "2026-10-22",
    "editions": [
     "2026-10-22-evening"
+   ]
+  },
+  {
+   "text": "Why did the coffee file a police report? It got mugged.",
+   "normalized": "why did the coffee file a police report it got mugged",
+   "first_used": "2026-10-23",
+   "editions": [
+    "2026-10-23-morning"
    ]
   }
  ],
@@ -596,6 +604,15 @@
    "first_used": "2026-10-22",
    "editions": [
     "2026-10-22-evening"
+   ]
+  },
+  {
+   "text": "“Our life is frittered away by detail.… Simplicity, simplicity, simplicity!”",
+   "attribution": "Henry David Thoreau, Walden (1854), ch. 2, “Where I Lived, and What I Lived For”; text verified against the Project Gutenberg edition",
+   "normalized": "our life is frittered away by detail simplicity simplicity simplicity",
+   "first_used": "2026-10-23",
+   "editions": [
+    "2026-10-23-morning"
    ]
   }
  ]

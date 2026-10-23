@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "stories": [
   {
    "date": "2026-10-18",
@@ -1693,6 +1693,123 @@
    "headline": "Carolina Hurricanes at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-22-pm-oilers-next"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "grande prairie police service rcmp transition",
+   "headline": "Grande Prairie now has its own police force: the city’s new service took over from the RCMP this week, two years ahead of schedule",
+   "returning": false,
+   "id": "story-2026-10-23-am-grande-prairie-police-takes-over"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "smith ucp separatists party unity",
+   "headline": "Smith to separatists in her own party: accept the referendum or join “a different party” — and one riding president says he isn’t leaving",
+   "returning": false,
+   "id": "story-2026-10-23-am-smith-ucp-separatists-leave"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada post community mailboxes weekend parcels annual meeting",
+   "headline": "Canada Post opens a postal-code lookup for its switch to community mailboxes — and says it is still losing money even as parcels grow",
+   "returning": false,
+   "id": "story-2026-10-23-am-canada-post-community-mailbox-tool"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "yukon eagle gold mine boroo sale",
+   "headline": "Singapore’s Boroo agrees to buy Yukon’s collapsed Eagle Gold mine for up to $140 million — and Yukon would get its cleanup money back first",
+   "returning": false,
+   "id": "story-2026-10-23-am-yukon-eagle-gold-boroo-sale"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "world",
+   "topic": "sakharov prize icc us sanctions",
+   "headline": "Europe’s top human-rights prize goes to the International Criminal Court — days after new U.S. sanctions on its judges",
+   "returning": false,
+   "id": "story-2026-10-23-am-sakharov-prize-icc"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "world",
+   "topic": "italy truckers diesel protest shortages",
+   "headline": "Italian truckers’ fuel-price blockades empty supermarket shelves in the south and leave two airports without jet fuel",
+   "returning": false,
+   "id": "story-2026-10-23-am-italy-truckers-fuel-protest"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "business",
+   "topic": "western digital earnings ai storage",
+   "headline": "Western Digital’s sales jump 55% on AI data-centre demand, but shares slip as memory costs and spending climb",
+   "returning": false,
+   "id": "story-2026-10-23-am-western-digital-ai-storage-quarter"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "business",
+   "topic": "strathcona crude by rail prince rupert tanker ban",
+   "headline": "Calgary’s Strathcona Resources wants to ship 250,000 barrels a day of oil by rail to Prince Rupert — which would need an exemption from the B.C. tanker ban",
+   "returning": false,
+   "id": "story-2026-10-23-am-strathcona-prince-rupert-rail-oil"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "science",
+   "topic": "mrna personalized cancer vaccine melanoma phase 3",
+   "headline": "A personalized mRNA cancer vaccine cut melanoma’s return by 42% in a large phase 3 trial",
+   "returning": false,
+   "id": "story-2026-10-23-am-personalized-mrna-melanoma-phase3"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "hugging face carbon-x dna open source",
+   "headline": "Hugging Face releases Carbon-X, a free, open AI that lets researchers “chat with” DNA",
+   "returning": false,
+   "id": "story-2026-10-23-am-hugging-face-carbon-x-dna"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "chicago marathon solo runner facebook strangers cheer",
+   "headline": "His uncle asked a Chicago Marathon Facebook group to cheer for a runner who came alone from Guernsey — and strangers lined the course with his name",
+   "returning": false,
+   "id": "viral-2026-10-23-am-chicago-marathon-solo-runner-cheered"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "abc reporter floodwater rescue queensland",
+   "headline": "A TV reporter covering floods north of Brisbane ends up diving in to pull a driver from his sinking car — on camera",
+   "returning": false,
+   "id": "viral-2026-10-23-am-brisbane-reporter-floodwater-rescue"
+  },
+  {
+   "date": "2026-10-23",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Toronto Maple Leafs at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-23-am-oilers-next"
   }
  ]
 }
