@@ -1,619 +1,636 @@
 {
- "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-23",
- "jokes": [
-  {
-   "text": "What happened when the lion ate the comedian? He felt funny.",
-   "normalized": "what happened when the lion ate the comedian he felt funny",
-   "first_used": "2026-10-06",
-   "editions": [
-    "2026-10-06-evening"
-   ]
-  },
-  {
-   "text": "What goes after USA? USB.",
-   "normalized": "what goes after usa usb",
-   "first_used": "2026-10-06",
-   "editions": [
-    "2026-10-06-evening"
-   ]
-  },
-  {
-   "text": "Why don’t scientists trust atoms? Because they make up everything.",
-   "normalized": "why dont scientists trust atoms because they make up everything",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-morning"
-   ]
-  },
-  {
-   "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-   "normalized": "i told my wife she was drawing her eyebrows too high she looked surprised",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-noon"
-   ]
-  },
-  {
-   "text": "I’m reading a book about anti-gravity. It’s impossible to put down.",
-   "normalized": "im reading a book about anti gravity its impossible to put down",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-evening"
-   ]
-  },
-  {
-   "text": "Why did the scarecrow win an award? Because he was outstanding in his field.",
-   "normalized": "why did the scarecrow win an award because he was outstanding in his field",
-   "first_used": "2026-10-08",
-   "editions": [
-    "2026-10-08-morning",
-    "2026-10-10-morning"
-   ]
-  },
-  {
-   "text": "Why did the turkey join the band? Because it had the drumsticks.",
-   "normalized": "why did the turkey join the band because it had the drumsticks",
-   "first_used": "2026-10-09",
-   "editions": [
-    "2026-10-09-morning",
-    "2026-10-10-evening"
-   ]
-  },
-  {
-   "text": "What do snowmen eat for breakfast? Frosted Flakes.",
-   "normalized": "what do snowmen eat for breakfast frosted flakes",
-   "first_used": "2026-10-09",
-   "editions": [
-    "2026-10-09-evening"
-   ]
-  },
-  {
-   "text": "Why did the pumpkin pie go to the doctor? It was feeling a little crummy.",
-   "normalized": "why did the pumpkin pie go to the doctor it was feeling a little crummy",
-   "first_used": "2026-10-11",
-   "editions": [
-    "2026-10-11-morning"
-   ]
-  },
-  {
-   "text": "Why did the cranberries turn red? Because they saw the turkey dressing.",
-   "normalized": "why did the cranberries turn red because they saw the turkey dressing",
-   "first_used": "2026-10-11",
-   "editions": [
-    "2026-10-11-evening"
-   ]
-  },
-  {
-   "text": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
-   "normalized": "why did the golfer bring two pairs of pants in case he got a hole in one",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "text": "What do you call a fake noodle? An impasta.",
-   "normalized": "what do you call a fake noodle an impasta",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening"
-   ]
-  },
-  {
-   "text": "Why did the bicycle fall over? Because it was two-tired.",
-   "normalized": "why did the bicycle fall over because it was two tired",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "text": "What do you call a bear with no teeth? A gummy bear.",
-   "normalized": "what do you call a bear with no teeth a gummy bear",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "text": "What do you call cheese that isn't yours? Nacho cheese.",
-   "normalized": "what do you call cheese that isnt yours nacho cheese",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "text": "Why did the math book look so sad? Because it had too many problems.",
-   "normalized": "why did the math book look so sad because it had too many problems",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  },
-  {
-   "text": "What do you call a fish wearing a bowtie? Sofishticated.",
-   "normalized": "what do you call a fish wearing a bowtie sofishticated",
-   "first_used": "2026-10-15",
-   "editions": [
-    "2026-10-15-morning"
-   ]
-  },
-  {
-   "text": "Why don’t eggs tell jokes? They’d crack each other up.",
-   "normalized": "why dont eggs tell jokes theyd crack each other up",
-   "first_used": "2026-10-15",
-   "editions": [
-    "2026-10-15-evening"
-   ]
-  },
-  {
-   "text": "Why didn’t the skeleton go to the dance? He had no body to go with.",
-   "normalized": "why didnt the skeleton go to the dance he had no body to go with",
-   "first_used": "2026-10-16",
-   "editions": [
-    "2026-10-16-morning"
-   ]
-  },
-  {
-   "text": "What did the ocean say to the beach? Nothing — it just waved.",
-   "normalized": "what did the ocean say to the beach nothing it just waved",
-   "first_used": "2026-10-16",
-   "editions": [
-    "2026-10-16-evening"
-   ]
-  },
-  {
-   "text": "What do you call a sleeping dinosaur? A dino-snore.",
-   "normalized": "what do you call a sleeping dinosaur a dino snore",
-   "first_used": "2026-10-17",
-   "editions": [
-    "2026-10-17-morning"
-   ]
-  },
-  {
-   "text": "What do you call a pile of cats? A meow-ntain.",
-   "normalized": "what do you call a pile of cats a meow ntain",
-   "first_used": "2026-10-17",
-   "editions": [
-    "2026-10-17-evening"
-   ]
-  },
-  {
-   "text": "Why can’t you give Elsa a balloon? Because she will let it go.",
-   "normalized": "why cant you give elsa a balloon because she will let it go",
-   "first_used": "2026-10-18",
-   "editions": [
-    "2026-10-18-morning"
-   ]
-  },
-  {
-   "text": "Why are ghosts bad liars? Because you can see right through them.",
-   "normalized": "why are ghosts bad liars because you can see right through them",
-   "first_used": "2026-10-18",
-   "editions": [
-    "2026-10-18-evening"
-   ]
-  },
-  {
-   "text": "Why did the vampire read the newspaper? He heard it had great circulation.",
-   "normalized": "why did the vampire read the newspaper he heard it had great circulation",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-morning"
-   ]
-  },
-  {
-   "text": "Why do bees have sticky hair? Because they use honeycombs.",
-   "normalized": "why do bees have sticky hair because they use honeycombs",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-evening"
-   ]
-  },
-  {
-   "text": "What did one wall say to the other wall? I’ll meet you at the corner.",
-   "normalized": "what did one wall say to the other wall i ll meet you at the corner",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-late"
-   ]
-  },
-  {
-   "text": "What do you call a factory that makes products that are just OK? A satisfactory.",
-   "normalized": "what do you call a factory that makes products that are just ok a satisfactory",
-   "first_used": "2026-10-20",
-   "editions": [
-    "2026-10-20-morning"
-   ]
-  },
-  {
-   "text": "What do you call an alligator in a vest? An investigator.",
-   "normalized": "what do you call an alligator in a vest an investigator",
-   "first_used": "2026-10-20",
-   "editions": [
-    "2026-10-20-evening"
-   ]
-  },
-  {
-   "text": "How do you organize a party in outer space? You planet.",
-   "normalized": "how do you organize a party in outer space you planet",
-   "first_used": "2026-10-21",
-   "editions": [
-    "2026-10-21-morning"
-   ]
-  },
-  {
-   "text": "How does a penguin build its house? Igloos it together.",
-   "normalized": "how does a penguin build its house igloos it together",
-   "first_used": "2026-10-21",
-   "editions": [
-    "2026-10-21-evening"
-   ]
-  },
-  {
-   "text": "What do you call a belt made out of watches? A waist of time.",
-   "normalized": "what do you call a belt made out of watches a waist of time",
-   "first_used": "2026-10-22",
-   "editions": [
-    "2026-10-22-morning"
-   ]
-  },
-  {
-   "text": "Why don’t skeletons fight each other? They don’t have the guts.",
-   "normalized": "why dont skeletons fight each other they dont have the guts",
-   "first_used": "2026-10-22",
-   "editions": [
-    "2026-10-22-evening"
-   ]
-  },
-  {
-   "text": "Why did the coffee file a police report? It got mugged.",
-   "normalized": "why did the coffee file a police report it got mugged",
-   "first_used": "2026-10-23",
-   "editions": [
-    "2026-10-23-morning"
-   ]
-  }
- ],
- "quotes": [
-  {
-   "text": "And you can always, always give something, even if it is only kindness!",
-   "attribution": "Anne Frank, essay “Give!” (26 March 1944)",
-   "normalized": "you can always always give something even if it is only kindness",
-   "first_used": "2026-10-06",
-   "editions": [
-    "2026-10-06-evening"
-   ],
-   "variants": [
-    "You can always, always give something, even if it is only kindness!"
-   ]
-  },
-  {
-   "text": "Be happy now, without reason — or you never will be at all.",
-   "attribution": "Dan Millman",
-   "normalized": "be happy now without reason or you never will be at all",
-   "first_used": "2026-10-06",
-   "editions": [
-    "2026-10-06-evening"
-   ]
-  },
-  {
-   "text": "The only way to do great work is to love what you do.",
-   "attribution": "Steve Jobs, Stanford commencement address (12 June 2005)",
-   "normalized": "the only way to do great work is to love what you do",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-morning"
-   ]
-  },
-  {
-   "text": "Well done is better than well said.",
-   "attribution": "Benjamin Franklin, Poor Richard’s Almanack (1737)",
-   "normalized": "well done is better than well said",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-noon"
-   ]
-  },
-  {
-   "text": "Let us never negotiate out of fear. But let us never fear to negotiate.",
-   "attribution": "John F. Kennedy, Inaugural address (Jan. 20, 1961)",
-   "normalized": "let us never negotiate out of fear but let us never fear to negotiate",
-   "first_used": "2026-10-07",
-   "editions": [
-    "2026-10-07-evening"
-   ]
-  },
-  {
-   "text": "There was no second chance. We knew that.",
-   "attribution": "Margaret Hamilton, on writing Apollo’s flight software, MIT News (2009)",
-   "normalized": "there was no second chance we knew that",
-   "first_used": "2026-10-08",
-   "editions": [
-    "2026-10-08-morning"
-   ]
-  },
-  {
-   "text": "Injustice anywhere is a threat to justice everywhere.",
-   "attribution": "Martin Luther King Jr., Letter from Birmingham Jail (1963)",
-   "normalized": "injustice anywhere is a threat to justice everywhere",
-   "first_used": "2026-10-09",
-   "editions": [
-    "2026-10-09-morning"
-   ]
-  },
-  {
-   "text": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
-   "attribution": "Cicero, Pro Plancio (54 BC)",
-   "normalized": "gratitude is not only the greatest of virtues but the parent of all the others",
-   "first_used": "2026-10-09",
-   "editions": [
-    "2026-10-09-evening"
-   ]
-  },
-  {
-   "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-   "attribution": "James Baldwin, “As Much Truth As One Can Bear,” The New York Times Book Review (1962)",
-   "normalized": "not everything that is faced can be changed but nothing can be changed until it is faced",
-   "first_used": "2026-10-10",
-   "editions": [
-    "2026-10-10-morning"
-   ]
-  },
-  {
-   "text": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
-   "attribution": "John F. Kennedy, Thanksgiving Day Proclamation (1963)",
-   "normalized": "as we express our gratitude we must never forget that the highest appreciation is not to utter words but to live by them",
-   "first_used": "2026-10-10",
-   "editions": [
-    "2026-10-10-evening"
-   ]
-  },
-  {
-   "text": "Waste no more time arguing what a good man should be. Be one.",
-   "attribution": "Marcus Aurelius, Meditations, Book 10, §16 (tr. Maxwell Staniforth, 1964)",
-   "normalized": "waste no more time arguing what a good man should be be one",
-   "first_used": "2026-10-11",
-   "editions": [
-    "2026-10-11-morning"
-   ]
-  },
-  {
-   "text": "The world will little note, nor long remember what we say here, but it can never forget what they did here.",
-   "attribution": "Abraham Lincoln, Gettysburg Address (Nov. 19, 1863; Bliss copy)",
-   "normalized": "the world will little note nor long remember what we say here but it can never forget what they did here",
-   "first_used": "2026-10-11",
-   "editions": [
-    "2026-10-11-evening"
-   ]
-  },
-  {
-   "text": "I would maintain that thanks are the highest form of thought; and that gratitude is happiness doubled by wonder.",
-   "attribution": "G. K. Chesterton, A Short History of England (1917), ch. VI",
-   "normalized": "i would maintain that thanks are the highest form of thought and that gratitude is happiness doubled by wonder",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-morning"
-   ]
-  },
-  {
-   "text": "He says the best way out is always through.",
-   "attribution": "Robert Frost, “A Servant to Servants,” North of Boston (1914)",
-   "normalized": "he says the best way out is always through",
-   "first_used": "2026-10-12",
-   "editions": [
-    "2026-10-12-evening"
-   ]
-  },
-  {
-   "text": "Courage is resistance to fear, mastery of fear—not absence of fear.",
-   "attribution": "Mark Twain, “Pudd’nhead Wilson’s New Calendar,” Following the Equator (1897)",
-   "normalized": "courage is resistance to fear mastery of fear not absence of fear",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-morning"
-   ]
-  },
-  {
-   "text": "Without courage, we cannot practice any other virtue with consistency.",
-   "attribution": "Maya Angelou, interview with USA Today (March 5, 1988)",
-   "normalized": "without courage we cannot practice any other virtue with consistency",
-   "first_used": "2026-10-13",
-   "editions": [
-    "2026-10-13-evening"
-   ]
-  },
-  {
-   "text": "You must do the thing you think you cannot do.",
-   "attribution": "Eleanor Roosevelt, You Learn by Living (1960), ch. 2",
-   "normalized": "you must do the thing you think you cannot do",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-morning"
-   ]
-  },
-  {
-   "text": "…if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
-   "attribution": "Henry David Thoreau, Walden (1854), “Conclusion”",
-   "normalized": "if one advances confidently in the direction of his dreams and endeavors to live the life which he has imagined he will meet with a success unexpected in common hours",
-   "first_used": "2026-10-14",
-   "editions": [
-    "2026-10-14-evening"
-   ]
-  },
-  {
-   "text": "I am not afraid of storms, for I am learning how to sail my ship.",
-   "attribution": "Louisa May Alcott, Little Women (1868)",
-   "normalized": "i am not afraid of storms for i am learning how to sail my ship",
-   "first_used": "2026-10-15",
-   "editions": [
-    "2026-10-15-morning"
-   ]
-  },
-  {
-   "text": "This above all: to thine own self be true, / And it must follow, as the night the day, / Thou canst not then be false to any man.",
-   "attribution": "William Shakespeare, Hamlet, Act 1, Scene 3 (Polonius); text per Folger Shakespeare Library",
-   "normalized": "this above all to thine own self be true and it must follow as the night the day thou canst not then be false to any man",
-   "variants": [
-    "to thine own self be true"
-   ],
-   "first_used": "2026-10-15",
-   "editions": [
-    "2026-10-15-evening"
-   ]
-  },
-  {
-   "text": "I’m so glad I live in a world where there are Octobers.",
-   "attribution": "L. M. Montgomery, Anne of Green Gables (1908), ch. 16 (Anne Shirley); text per Project Gutenberg",
-   "normalized": "im so glad i live in a world where there are octobers",
-   "first_used": "2026-10-16",
-   "editions": [
-    "2026-10-16-morning"
-   ]
-  },
-  {
-   "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness…",
-   "attribution": "Charles Dickens, A Tale of Two Cities (1859), Book 1, Chapter 1; text per Project Gutenberg",
-   "normalized": "it was the best of times it was the worst of times it was the age of wisdom it was the age of foolishness",
-   "variants": [
-    "It was the best of times, it was the worst of times"
-   ],
-   "first_used": "2026-10-16",
-   "editions": [
-    "2026-10-16-evening"
-   ]
-  },
-  {
-   "text": "All that is gold does not glitter, / Not all those who wander are lost.",
-   "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book I, Chapter 10, “Strider” (Gandalf’s letter); verified via Tolkien Gateway and SparkNotes",
-   "normalized": "all that is gold does not glitter not all those who wander are lost",
-   "variants": [
-    "not all those who wander are lost",
-    "all that is gold does not glitter"
-   ],
-   "first_used": "2026-10-17",
-   "editions": [
-    "2026-10-17-morning"
-   ]
-  },
-  {
-   "text": "“Hope” is the thing with feathers - / That perches in the soul -",
-   "attribution": "Emily Dickinson, poem 314 (Franklin, The Poems of Emily Dickinson: Reading Edition, 1999); text per Poetry Foundation",
-   "normalized": "hope is the thing with feathers that perches in the soul",
-   "first_used": "2026-10-17",
-   "editions": [
-    "2026-10-17-evening"
-   ]
-  },
-  {
-   "text": "“Marilla, isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?”",
-   "attribution": "L. M. Montgomery, Anne of Green Gables (1908), Chapter 21, “A New Departure in Flavorings” (Anne Shirley); text verified against the Project Gutenberg edition",
-   "normalized": "marilla isnt it nice to think that tomorrow is a new day with no mistakes in it yet",
-   "first_used": "2026-10-18",
-   "editions": [
-    "2026-10-18-morning"
-   ]
-  },
-  {
-   "text": "“All we have to decide is what to do with the time that is given us.”",
-   "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book One, Chapter 2, “The Shadow of the Past” (Gandalf to Frodo)",
-   "normalized": "all we have to decide is what to do with the time that is given us",
-   "first_used": "2026-10-18",
-   "editions": [
-    "2026-10-18-evening"
-   ]
-  },
-  {
-   "text": "“Do what you can, with what you’ve got, where you are.”",
-   "attribution": "Squire Bill Widener of Widener’s Valley, Virginia, as quoted by Theodore Roosevelt in An Autobiography (1913), Chapter IX, “Outdoors and Indoors”",
-   "normalized": "do what you can with what youve got where you are",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-morning"
-   ]
-  },
-  {
-   "text": "“No man is an island, entire of itself; every man is a piece of the continent, a part of the main.”",
-   "attribution": "John Donne, Devotions upon Emergent Occasions (1624), Meditation XVII",
-   "normalized": "no man is an island entire of itself every man is a piece of the continent a part of the main",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-evening"
-   ]
-  },
-  {
-   "text": "“Hold fast to dreams / For if dreams die / Life is a broken-winged bird / That cannot fly.”",
-   "attribution": "Langston Hughes, “Dreams” (1923)",
-   "normalized": "hold fast to dreams for if dreams die life is a broken winged bird that cannot fly",
-   "first_used": "2026-10-19",
-   "editions": [
-    "2026-10-19-late"
-   ]
-  },
-  {
-   "text": "“All the world’s a stage, / And all the men and women merely players.”",
-   "attribution": "William Shakespeare, As You Like It, Act 2, Scene 7 (Jaques); text per Folger Shakespeare Library",
-   "normalized": "all the world s a stage and all the men and women merely players",
-   "first_used": "2026-10-20",
-   "editions": [
-    "2026-10-20-morning"
-   ]
-  },
-  {
-   "text": "“It does not do to dwell on dreams and forget to live.”",
-   "attribution": "J.K. Rowling, Harry Potter and the Philosopher’s Stone (Bloomsbury, 1997), chapter 12 “The Mirror of Erised” (Albus Dumbledore)",
-   "normalized": "it does not do to dwell on dreams and forget to live",
-   "first_used": "2026-10-20",
-   "editions": [
-    "2026-10-20-evening"
-   ]
-  },
-  {
-   "text": "“The only thing we have to fear is fear itself.”",
-   "attribution": "Franklin D. Roosevelt, First Inaugural Address (Washington, D.C., March 4, 1933)",
-   "normalized": "the only thing we have to fear is fear itself",
-   "first_used": "2026-10-21",
-   "editions": [
-    "2026-10-21-morning"
-   ]
-  },
-  {
-   "text": "“The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.”",
-   "attribution": "Robert Frost, “Stopping by Woods on a Snowy Evening,” New Hampshire (1923)",
-   "normalized": "the woods are lovely dark and deep but i have promises to keep and miles to go before i sleep",
-   "first_used": "2026-10-21",
-   "editions": [
-    "2026-10-21-evening"
-   ]
-  },
-  {
-   "text": "“There is no charm equal to tenderness of heart.”",
-   "attribution": "Jane Austen, Emma (1815)",
-   "normalized": "there is no charm equal to tenderness of heart",
-   "first_used": "2026-10-22",
-   "editions": [
-    "2026-10-22-morning"
-   ]
-  },
-  {
-   "text": "“I am no bird; and no net ensnares me: I am a free human being with an independent will.”",
-   "attribution": "Charlotte Brontë, Jane Eyre (1847), Chapter 23",
-   "normalized": "i am no bird and no net ensnares me i am a free human being with an independent will",
-   "first_used": "2026-10-22",
-   "editions": [
-    "2026-10-22-evening"
-   ]
-  },
-  {
-   "text": "“Our life is frittered away by detail.… Simplicity, simplicity, simplicity!”",
-   "attribution": "Henry David Thoreau, Walden (1854), ch. 2, “Where I Lived, and What I Lived For”; text verified against the Project Gutenberg edition",
-   "normalized": "our life is frittered away by detail simplicity simplicity simplicity",
-   "first_used": "2026-10-23",
-   "editions": [
-    "2026-10-23-morning"
-   ]
-  }
- ]
+  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
+  "updated": "2026-10-23",
+  "jokes": [
+    {
+      "text": "What happened when the lion ate the comedian? He felt funny.",
+      "normalized": "what happened when the lion ate the comedian he felt funny",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "What goes after USA? USB.",
+      "normalized": "what goes after usa usb",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "Why don’t scientists trust atoms? Because they make up everything.",
+      "normalized": "why dont scientists trust atoms because they make up everything",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-morning"
+      ]
+    },
+    {
+      "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+      "normalized": "i told my wife she was drawing her eyebrows too high she looked surprised",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-noon"
+      ]
+    },
+    {
+      "text": "I’m reading a book about anti-gravity. It’s impossible to put down.",
+      "normalized": "im reading a book about anti gravity its impossible to put down",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-evening"
+      ]
+    },
+    {
+      "text": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "normalized": "why did the scarecrow win an award because he was outstanding in his field",
+      "first_used": "2026-10-08",
+      "editions": [
+        "2026-10-08-morning",
+        "2026-10-10-morning"
+      ]
+    },
+    {
+      "text": "Why did the turkey join the band? Because it had the drumsticks.",
+      "normalized": "why did the turkey join the band because it had the drumsticks",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-morning",
+        "2026-10-10-evening"
+      ]
+    },
+    {
+      "text": "What do snowmen eat for breakfast? Frosted Flakes.",
+      "normalized": "what do snowmen eat for breakfast frosted flakes",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-evening"
+      ]
+    },
+    {
+      "text": "Why did the pumpkin pie go to the doctor? It was feeling a little crummy.",
+      "normalized": "why did the pumpkin pie go to the doctor it was feeling a little crummy",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-morning"
+      ]
+    },
+    {
+      "text": "Why did the cranberries turn red? Because they saw the turkey dressing.",
+      "normalized": "why did the cranberries turn red because they saw the turkey dressing",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-evening"
+      ]
+    },
+    {
+      "text": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+      "normalized": "why did the golfer bring two pairs of pants in case he got a hole in one",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "text": "What do you call a fake noodle? An impasta.",
+      "normalized": "what do you call a fake noodle an impasta",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
+    },
+    {
+      "text": "Why did the bicycle fall over? Because it was two-tired.",
+      "normalized": "why did the bicycle fall over because it was two tired",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "text": "What do you call a bear with no teeth? A gummy bear.",
+      "normalized": "what do you call a bear with no teeth a gummy bear",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "text": "What do you call cheese that isn't yours? Nacho cheese.",
+      "normalized": "what do you call cheese that isnt yours nacho cheese",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "text": "Why did the math book look so sad? Because it had too many problems.",
+      "normalized": "why did the math book look so sad because it had too many problems",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "text": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "normalized": "what do you call a fish wearing a bowtie sofishticated",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "text": "Why don’t eggs tell jokes? They’d crack each other up.",
+      "normalized": "why dont eggs tell jokes theyd crack each other up",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-evening"
+      ]
+    },
+    {
+      "text": "Why didn’t the skeleton go to the dance? He had no body to go with.",
+      "normalized": "why didnt the skeleton go to the dance he had no body to go with",
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-morning"
+      ]
+    },
+    {
+      "text": "What did the ocean say to the beach? Nothing — it just waved.",
+      "normalized": "what did the ocean say to the beach nothing it just waved",
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-evening"
+      ]
+    },
+    {
+      "text": "What do you call a sleeping dinosaur? A dino-snore.",
+      "normalized": "what do you call a sleeping dinosaur a dino snore",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-morning"
+      ]
+    },
+    {
+      "text": "What do you call a pile of cats? A meow-ntain.",
+      "normalized": "what do you call a pile of cats a meow ntain",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
+    },
+    {
+      "text": "Why can’t you give Elsa a balloon? Because she will let it go.",
+      "normalized": "why cant you give elsa a balloon because she will let it go",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-morning"
+      ]
+    },
+    {
+      "text": "Why are ghosts bad liars? Because you can see right through them.",
+      "normalized": "why are ghosts bad liars because you can see right through them",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-evening"
+      ]
+    },
+    {
+      "text": "Why did the vampire read the newspaper? He heard it had great circulation.",
+      "normalized": "why did the vampire read the newspaper he heard it had great circulation",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-morning"
+      ]
+    },
+    {
+      "text": "Why do bees have sticky hair? Because they use honeycombs.",
+      "normalized": "why do bees have sticky hair because they use honeycombs",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-evening"
+      ]
+    },
+    {
+      "text": "What did one wall say to the other wall? I’ll meet you at the corner.",
+      "normalized": "what did one wall say to the other wall i ll meet you at the corner",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-late"
+      ]
+    },
+    {
+      "text": "What do you call a factory that makes products that are just OK? A satisfactory.",
+      "normalized": "what do you call a factory that makes products that are just ok a satisfactory",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-morning"
+      ]
+    },
+    {
+      "text": "What do you call an alligator in a vest? An investigator.",
+      "normalized": "what do you call an alligator in a vest an investigator",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-evening"
+      ]
+    },
+    {
+      "text": "How do you organize a party in outer space? You planet.",
+      "normalized": "how do you organize a party in outer space you planet",
+      "first_used": "2026-10-21",
+      "editions": [
+        "2026-10-21-morning"
+      ]
+    },
+    {
+      "text": "How does a penguin build its house? Igloos it together.",
+      "normalized": "how does a penguin build its house igloos it together",
+      "first_used": "2026-10-21",
+      "editions": [
+        "2026-10-21-evening"
+      ]
+    },
+    {
+      "text": "What do you call a belt made out of watches? A waist of time.",
+      "normalized": "what do you call a belt made out of watches a waist of time",
+      "first_used": "2026-10-22",
+      "editions": [
+        "2026-10-22-morning"
+      ]
+    },
+    {
+      "text": "Why don’t skeletons fight each other? They don’t have the guts.",
+      "normalized": "why dont skeletons fight each other they dont have the guts",
+      "first_used": "2026-10-22",
+      "editions": [
+        "2026-10-22-evening"
+      ]
+    },
+    {
+      "text": "Why did the coffee file a police report? It got mugged.",
+      "normalized": "why did the coffee file a police report it got mugged",
+      "first_used": "2026-10-23",
+      "editions": [
+        "2026-10-23-morning"
+      ]
+    },
+    {
+      "text": "What do you call a can opener that doesn’t work? A can’t opener.",
+      "normalized": "what do you call a can opener that doesnt work a cant opener",
+      "first_used": "2026-10-23",
+      "editions": [
+        "2026-10-23-evening"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "And you can always, always give something, even if it is only kindness!",
+      "attribution": "Anne Frank, essay “Give!” (26 March 1944)",
+      "normalized": "you can always always give something even if it is only kindness",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ],
+      "variants": [
+        "You can always, always give something, even if it is only kindness!"
+      ]
+    },
+    {
+      "text": "Be happy now, without reason — or you never will be at all.",
+      "attribution": "Dan Millman",
+      "normalized": "be happy now without reason or you never will be at all",
+      "first_used": "2026-10-06",
+      "editions": [
+        "2026-10-06-evening"
+      ]
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "attribution": "Steve Jobs, Stanford commencement address (12 June 2005)",
+      "normalized": "the only way to do great work is to love what you do",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-morning"
+      ]
+    },
+    {
+      "text": "Well done is better than well said.",
+      "attribution": "Benjamin Franklin, Poor Richard’s Almanack (1737)",
+      "normalized": "well done is better than well said",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-noon"
+      ]
+    },
+    {
+      "text": "Let us never negotiate out of fear. But let us never fear to negotiate.",
+      "attribution": "John F. Kennedy, Inaugural address (Jan. 20, 1961)",
+      "normalized": "let us never negotiate out of fear but let us never fear to negotiate",
+      "first_used": "2026-10-07",
+      "editions": [
+        "2026-10-07-evening"
+      ]
+    },
+    {
+      "text": "There was no second chance. We knew that.",
+      "attribution": "Margaret Hamilton, on writing Apollo’s flight software, MIT News (2009)",
+      "normalized": "there was no second chance we knew that",
+      "first_used": "2026-10-08",
+      "editions": [
+        "2026-10-08-morning"
+      ]
+    },
+    {
+      "text": "Injustice anywhere is a threat to justice everywhere.",
+      "attribution": "Martin Luther King Jr., Letter from Birmingham Jail (1963)",
+      "normalized": "injustice anywhere is a threat to justice everywhere",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-morning"
+      ]
+    },
+    {
+      "text": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+      "attribution": "Cicero, Pro Plancio (54 BC)",
+      "normalized": "gratitude is not only the greatest of virtues but the parent of all the others",
+      "first_used": "2026-10-09",
+      "editions": [
+        "2026-10-09-evening"
+      ]
+    },
+    {
+      "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+      "attribution": "James Baldwin, “As Much Truth As One Can Bear,” The New York Times Book Review (1962)",
+      "normalized": "not everything that is faced can be changed but nothing can be changed until it is faced",
+      "first_used": "2026-10-10",
+      "editions": [
+        "2026-10-10-morning"
+      ]
+    },
+    {
+      "text": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+      "attribution": "John F. Kennedy, Thanksgiving Day Proclamation (1963)",
+      "normalized": "as we express our gratitude we must never forget that the highest appreciation is not to utter words but to live by them",
+      "first_used": "2026-10-10",
+      "editions": [
+        "2026-10-10-evening"
+      ]
+    },
+    {
+      "text": "Waste no more time arguing what a good man should be. Be one.",
+      "attribution": "Marcus Aurelius, Meditations, Book 10, §16 (tr. Maxwell Staniforth, 1964)",
+      "normalized": "waste no more time arguing what a good man should be be one",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-morning"
+      ]
+    },
+    {
+      "text": "The world will little note, nor long remember what we say here, but it can never forget what they did here.",
+      "attribution": "Abraham Lincoln, Gettysburg Address (Nov. 19, 1863; Bliss copy)",
+      "normalized": "the world will little note nor long remember what we say here but it can never forget what they did here",
+      "first_used": "2026-10-11",
+      "editions": [
+        "2026-10-11-evening"
+      ]
+    },
+    {
+      "text": "I would maintain that thanks are the highest form of thought; and that gratitude is happiness doubled by wonder.",
+      "attribution": "G. K. Chesterton, A Short History of England (1917), ch. VI",
+      "normalized": "i would maintain that thanks are the highest form of thought and that gratitude is happiness doubled by wonder",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-morning"
+      ]
+    },
+    {
+      "text": "He says the best way out is always through.",
+      "attribution": "Robert Frost, “A Servant to Servants,” North of Boston (1914)",
+      "normalized": "he says the best way out is always through",
+      "first_used": "2026-10-12",
+      "editions": [
+        "2026-10-12-evening"
+      ]
+    },
+    {
+      "text": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+      "attribution": "Mark Twain, “Pudd’nhead Wilson’s New Calendar,” Following the Equator (1897)",
+      "normalized": "courage is resistance to fear mastery of fear not absence of fear",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-morning"
+      ]
+    },
+    {
+      "text": "Without courage, we cannot practice any other virtue with consistency.",
+      "attribution": "Maya Angelou, interview with USA Today (March 5, 1988)",
+      "normalized": "without courage we cannot practice any other virtue with consistency",
+      "first_used": "2026-10-13",
+      "editions": [
+        "2026-10-13-evening"
+      ]
+    },
+    {
+      "text": "You must do the thing you think you cannot do.",
+      "attribution": "Eleanor Roosevelt, You Learn by Living (1960), ch. 2",
+      "normalized": "you must do the thing you think you cannot do",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-morning"
+      ]
+    },
+    {
+      "text": "…if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "attribution": "Henry David Thoreau, Walden (1854), “Conclusion”",
+      "normalized": "if one advances confidently in the direction of his dreams and endeavors to live the life which he has imagined he will meet with a success unexpected in common hours",
+      "first_used": "2026-10-14",
+      "editions": [
+        "2026-10-14-evening"
+      ]
+    },
+    {
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "attribution": "Louisa May Alcott, Little Women (1868)",
+      "normalized": "i am not afraid of storms for i am learning how to sail my ship",
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-morning"
+      ]
+    },
+    {
+      "text": "This above all: to thine own self be true, / And it must follow, as the night the day, / Thou canst not then be false to any man.",
+      "attribution": "William Shakespeare, Hamlet, Act 1, Scene 3 (Polonius); text per Folger Shakespeare Library",
+      "normalized": "this above all to thine own self be true and it must follow as the night the day thou canst not then be false to any man",
+      "variants": [
+        "to thine own self be true"
+      ],
+      "first_used": "2026-10-15",
+      "editions": [
+        "2026-10-15-evening"
+      ]
+    },
+    {
+      "text": "I’m so glad I live in a world where there are Octobers.",
+      "attribution": "L. M. Montgomery, Anne of Green Gables (1908), ch. 16 (Anne Shirley); text per Project Gutenberg",
+      "normalized": "im so glad i live in a world where there are octobers",
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-morning"
+      ]
+    },
+    {
+      "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness…",
+      "attribution": "Charles Dickens, A Tale of Two Cities (1859), Book 1, Chapter 1; text per Project Gutenberg",
+      "normalized": "it was the best of times it was the worst of times it was the age of wisdom it was the age of foolishness",
+      "variants": [
+        "It was the best of times, it was the worst of times"
+      ],
+      "first_used": "2026-10-16",
+      "editions": [
+        "2026-10-16-evening"
+      ]
+    },
+    {
+      "text": "All that is gold does not glitter, / Not all those who wander are lost.",
+      "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book I, Chapter 10, “Strider” (Gandalf’s letter); verified via Tolkien Gateway and SparkNotes",
+      "normalized": "all that is gold does not glitter not all those who wander are lost",
+      "variants": [
+        "not all those who wander are lost",
+        "all that is gold does not glitter"
+      ],
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-morning"
+      ]
+    },
+    {
+      "text": "“Hope” is the thing with feathers - / That perches in the soul -",
+      "attribution": "Emily Dickinson, poem 314 (Franklin, The Poems of Emily Dickinson: Reading Edition, 1999); text per Poetry Foundation",
+      "normalized": "hope is the thing with feathers that perches in the soul",
+      "first_used": "2026-10-17",
+      "editions": [
+        "2026-10-17-evening"
+      ]
+    },
+    {
+      "text": "“Marilla, isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?”",
+      "attribution": "L. M. Montgomery, Anne of Green Gables (1908), Chapter 21, “A New Departure in Flavorings” (Anne Shirley); text verified against the Project Gutenberg edition",
+      "normalized": "marilla isnt it nice to think that tomorrow is a new day with no mistakes in it yet",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-morning"
+      ]
+    },
+    {
+      "text": "“All we have to decide is what to do with the time that is given us.”",
+      "attribution": "J. R. R. Tolkien, The Fellowship of the Ring (1954), Book One, Chapter 2, “The Shadow of the Past” (Gandalf to Frodo)",
+      "normalized": "all we have to decide is what to do with the time that is given us",
+      "first_used": "2026-10-18",
+      "editions": [
+        "2026-10-18-evening"
+      ]
+    },
+    {
+      "text": "“Do what you can, with what you’ve got, where you are.”",
+      "attribution": "Squire Bill Widener of Widener’s Valley, Virginia, as quoted by Theodore Roosevelt in An Autobiography (1913), Chapter IX, “Outdoors and Indoors”",
+      "normalized": "do what you can with what youve got where you are",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-morning"
+      ]
+    },
+    {
+      "text": "“No man is an island, entire of itself; every man is a piece of the continent, a part of the main.”",
+      "attribution": "John Donne, Devotions upon Emergent Occasions (1624), Meditation XVII",
+      "normalized": "no man is an island entire of itself every man is a piece of the continent a part of the main",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-evening"
+      ]
+    },
+    {
+      "text": "“Hold fast to dreams / For if dreams die / Life is a broken-winged bird / That cannot fly.”",
+      "attribution": "Langston Hughes, “Dreams” (1923)",
+      "normalized": "hold fast to dreams for if dreams die life is a broken winged bird that cannot fly",
+      "first_used": "2026-10-19",
+      "editions": [
+        "2026-10-19-late"
+      ]
+    },
+    {
+      "text": "“All the world’s a stage, / And all the men and women merely players.”",
+      "attribution": "William Shakespeare, As You Like It, Act 2, Scene 7 (Jaques); text per Folger Shakespeare Library",
+      "normalized": "all the world s a stage and all the men and women merely players",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-morning"
+      ]
+    },
+    {
+      "text": "“It does not do to dwell on dreams and forget to live.”",
+      "attribution": "J.K. Rowling, Harry Potter and the Philosopher’s Stone (Bloomsbury, 1997), chapter 12 “The Mirror of Erised” (Albus Dumbledore)",
+      "normalized": "it does not do to dwell on dreams and forget to live",
+      "first_used": "2026-10-20",
+      "editions": [
+        "2026-10-20-evening"
+      ]
+    },
+    {
+      "text": "“The only thing we have to fear is fear itself.”",
+      "attribution": "Franklin D. Roosevelt, First Inaugural Address (Washington, D.C., March 4, 1933)",
+      "normalized": "the only thing we have to fear is fear itself",
+      "first_used": "2026-10-21",
+      "editions": [
+        "2026-10-21-morning"
+      ]
+    },
+    {
+      "text": "“The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.”",
+      "attribution": "Robert Frost, “Stopping by Woods on a Snowy Evening,” New Hampshire (1923)",
+      "normalized": "the woods are lovely dark and deep but i have promises to keep and miles to go before i sleep",
+      "first_used": "2026-10-21",
+      "editions": [
+        "2026-10-21-evening"
+      ]
+    },
+    {
+      "text": "“There is no charm equal to tenderness of heart.”",
+      "attribution": "Jane Austen, Emma (1815)",
+      "normalized": "there is no charm equal to tenderness of heart",
+      "first_used": "2026-10-22",
+      "editions": [
+        "2026-10-22-morning"
+      ]
+    },
+    {
+      "text": "“I am no bird; and no net ensnares me: I am a free human being with an independent will.”",
+      "attribution": "Charlotte Brontë, Jane Eyre (1847), Chapter 23",
+      "normalized": "i am no bird and no net ensnares me i am a free human being with an independent will",
+      "first_used": "2026-10-22",
+      "editions": [
+        "2026-10-22-evening"
+      ]
+    },
+    {
+      "text": "“Our life is frittered away by detail.… Simplicity, simplicity, simplicity!”",
+      "attribution": "Henry David Thoreau, Walden (1854), ch. 2, “Where I Lived, and What I Lived For”; text verified against the Project Gutenberg edition",
+      "normalized": "our life is frittered away by detail simplicity simplicity simplicity",
+      "first_used": "2026-10-23",
+      "editions": [
+        "2026-10-23-morning"
+      ]
+    },
+    {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "attribution": "Antoine de Saint-Exupéry, The Little Prince (1943), ch. XXI, tr. Katherine Woods",
+      "normalized": "it is only with the heart that one can see rightly what is essential is invisible to the eye",
+      "first_used": "2026-10-23",
+      "editions": [
+        "2026-10-23-evening"
+      ]
+    }
+  ]
 }
