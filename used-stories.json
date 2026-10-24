@@ -1,6 +1,6 @@
 {
   "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
-  "updated": "2026-10-23",
+  "updated": "2026-10-24T06:16-06:00",
   "stories": [
     {
       "date": "2026-10-18",
@@ -1927,6 +1927,114 @@
       "headline": "Toronto Maple Leafs at Edmonton Oilers",
       "returning": false,
       "id": "story-2026-10-23-pm-oilers-next"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "alberta",
+      "topic": "edmonton calgary infill zoning order in council",
+      "headline": "Edmonton has three months to bring back its old house-size and parking rules under a provincial order — and builders mid-permit don’t know where they stand",
+      "returning": false,
+      "id": "story-2026-10-24-am-infill-order-three-months"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "canada",
+      "topic": "b.c. election voting day doerkson eby",
+      "headline": "British Columbians vote today, and the last poll has Lorne Doerkson’s Conservatives five points ahead of David Eby’s NDP",
+      "returning": false,
+      "id": "story-2026-10-24-am-bc-election-day-doerkson-eby"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "world",
+      "topic": "greece under-15 social media ban law",
+      "headline": "Greece passes a law keeping children under 15 off social media from Jan. 1",
+      "returning": false,
+      "id": "story-2026-10-24-am-greece-under15-social-ban"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "world",
+      "topic": "storm austen france power outages",
+      "headline": "Storm Austen leaves one man dead and about 120,000 French homes still without power, mostly in Normandy and Brittany",
+      "returning": false,
+      "id": "story-2026-10-24-am-storm-austen-france"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "business",
+      "topic": "slb q3 oilfield services oil above 100",
+      "headline": "U.S. oil tops $100 a barrel and oilfield giant SLB jumps 7% on a better-than-expected quarter",
+      "returning": false,
+      "id": "story-2026-10-24-am-slb-q3-beat-crude-spike"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "business",
+      "topic": "spacex cell towers crown castle wireless carrier",
+      "headline": "SpaceX is reported to be negotiating for 80,000 U.S. cell sites to become a fourth national phone carrier — and AT&amp;T and T-Mobile shares fall 5%",
+      "returning": false,
+      "id": "story-2026-10-24-am-spacex-80000-cell-sites"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "science",
+      "topic": "brookhaven superconducting neuromorphic chip fusion plasma",
+      "headline": "A chip that runs on superconducting circuits keeps pace with a million fusion-plasma readings a second, watching for a meltdown-style collapse",
+      "returning": false,
+      "id": "story-2026-10-24-am-superconducting-chip-fusion"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "ai",
+      "topic": "moonshot kimi k3.1 pro open model cyber data removed",
+      "headline": "China’s Moonshot releases Kimi K3.1 Pro, an open model it says is nearly as good at coding as the top U.S. systems — after stripping out hacking material first",
+      "returning": false,
+      "id": "story-2026-10-24-am-kimi-k31-pro-cyber-trimmed"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "viral",
+      "topic": "batangas identical quadruplets dad facebook",
+      "headline": "A new dad in the Philippines can’t tell his identical quadruplet daughters apart — and 22 million people have watched him try",
+      "returning": false,
+      "id": "viral-2026-10-24-am-batangas-quadruplets-dad"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "viral",
+      "topic": "coyote pear trail camera facebook",
+      "headline": "A trail camera catches a coyote missing a pear, lining up again and leaping high enough to pluck it off the tree",
+      "returning": false,
+      "id": "viral-2026-10-24-am-coyote-pear-leap"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "viral",
+      "topic": "molly carlson iceberg dive newfoundland",
+      "headline": "Canadian cliff diver Molly Carlson climbs a floating iceberg off Newfoundland and backflips about 15 metres into the North Atlantic",
+      "returning": false,
+      "id": "viral-2026-10-24-am-molly-carlson-iceberg-dive"
+    },
+    {
+      "date": "2026-10-24",
+      "edition": "morning",
+      "section": "oilers",
+      "topic": "oilers next game leafs",
+      "headline": "Toronto Maple Leafs at Edmonton Oilers",
+      "returning": false,
+      "id": "story-2026-10-24-am-oilers-next"
     }
   ]
 }

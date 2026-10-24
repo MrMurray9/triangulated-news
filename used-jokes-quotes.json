@@ -283,6 +283,14 @@
       "editions": [
         "2026-10-23-evening"
       ]
+    },
+    {
+      "text": "What do you call a dog that does magic tricks? A labracadabrador.",
+      "normalized": "what do you call a dog that does magic tricks a labracadabrador",
+      "first_used": "2026-10-24",
+      "editions": [
+        "2026-10-24-morning"
+      ]
     }
   ],
   "quotes": [
@@ -630,6 +638,15 @@
       "first_used": "2026-10-23",
       "editions": [
         "2026-10-23-evening"
+      ]
+    },
+    {
+      "text": "We shall not cease from exploration / And the end of all our exploring / Will be to arrive where we started / And know the place for the first time.",
+      "attribution": "T. S. Eliot, “Little Gidding,” Four Quartets (1942)",
+      "normalized": "we shall not cease from exploration  and the end of all our exploring  will be to arrive where we started  and know the place for the first time",
+      "first_used": "2026-10-24",
+      "editions": [
+        "2026-10-24-morning"
       ]
     }
   ]
