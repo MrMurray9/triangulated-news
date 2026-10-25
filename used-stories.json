@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-25",
+ "updated": "2026-10-25T16:19-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -2269,6 +2269,132 @@
    "headline": "Detroit Red Wings at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-25-am-oilers-next"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "etihad airways abu dhabi calgary nonstop flight",
+   "headline": "Etihad lands Calgary’s first non-stop flight from the Persian Gulf, with Abu Dhabi service four times a week",
+   "returning": false,
+   "id": "story-2026-10-25-pm-etihad-abu-dhabi-calgary-first-flight"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "misericordia grey nuns emergency weapons detection screening",
+   "headline": "Misericordia and Grey Nuns emergency rooms add walk-through weapons scanners, joining the Royal Alex and University of Alberta",
+   "returning": false,
+   "id": "story-2026-10-25-pm-covenant-er-weapons-screening"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "ontario municipal elections toronto mayor chow bradford",
+   "headline": "Ontario picks mayors and councils Monday: Olivia Chow and Brad Bradford are neck and neck in the country’s biggest city race",
+   "returning": false,
+   "id": "story-2026-10-25-pm-ontario-municipal-elections-chow-bradford"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "stelco cleveland-cliffs joly job cuts investment canada act",
+   "headline": "Joly gives Stelco’s U.S. owner until early November to reverse Hamilton job cuts or face a forced sale",
+   "returning": false,
+   "id": "story-2026-10-25-pm-joly-stelco-cleveland-cliffs-ultimatum"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "world",
+   "topic": "houthi missiles saudi arabia intercepted mecca riyadh",
+   "headline": "Saudi defences shoot down a Houthi missile and drone barrage, with debris falling near Mecca and Jeddah",
+   "returning": false,
+   "id": "story-2026-10-25-pm-houthi-barrage-saudi-arabia-mecca"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "world",
+   "topic": "tallahassee famu homecoming shooting perry street",
+   "headline": "Twelve hurt, six of them children, in a shooting near Florida A&M’s stadium after the homecoming game",
+   "returning": false,
+   "id": "story-2026-10-25-pm-famu-homecoming-shooting-tallahassee"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "world",
+   "topic": "brazil presidential runoff lula bolsonaro",
+   "headline": "Court keeps Brazil’s polls open two extra hours; early count has Lula slightly ahead of Flávio Bolsonaro, with no winner yet",
+   "returning": true,
+   "id": "story-2026-10-25-pm-brazil-runoff-count-extended-voting"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "business",
+   "topic": "teck highland valley copper strike usw",
+   "headline": "Workers strike at Canada’s largest copper mine as Teck’s Highland Valley talks break down",
+   "returning": false,
+   "id": "story-2026-10-25-pm-teck-highland-valley-copper-strike"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "business",
+   "topic": "earnings week alphabet amazon fed meeting",
+   "headline": "Alphabet, Amazon and about 160 S&P 500 companies report this week, the same week as a Federal Reserve decision",
+   "returning": false,
+   "id": "story-2026-10-25-pm-big-tech-earnings-fed-week"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "science",
+   "topic": "protonic ceramic electrolyser hydrogen groningen",
+   "headline": "A ceramic cell that grows its own nanoparticles doubles the hydrogen made from steam using the same electricity",
+   "returning": false,
+   "id": "story-2026-10-25-pm-groningen-ceramic-electrolyser-hydrogen"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "block dessa speech-to-speech voice model jack dorsey",
+   "headline": "Jack Dorsey’s Block unveils Dessa, a voice AI that listens and talks at the same time and runs on a laptop",
+   "returning": false,
+   "id": "story-2026-10-25-pm-block-dessa-voice-model"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "banana costume woman reports crash orlando moderne bar",
+   "headline": "“Banana hero”: a woman in a banana costume calls police after an SUV ploughs through an Orlando patio",
+   "returning": false,
+   "id": "viral-2026-10-25-pm-banana-costume-crash-hero-orlando"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "oregon zoo sea otters slam dunk pumpkins",
+   "headline": "Oregon Zoo sea otters slam-dunk mini pumpkins through a hoop to mark the start of basketball season",
+   "returning": false,
+   "id": "viral-2026-10-25-pm-oregon-zoo-otters-pumpkin-dunk"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next game",
+   "headline": "Detroit Red Wings at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-25-pm-oilers-next"
   }
  ]
 }

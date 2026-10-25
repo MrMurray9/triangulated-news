@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-25",
+ "updated": "2026-10-25T16:19-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -306,6 +306,14 @@
    "first_used": "2026-10-25",
    "editions": [
     "2026-10-25-morning"
+   ]
+  },
+  {
+   "text": "Why do witches wear name tags? So they know which witch is which.",
+   "normalized": "why do witches wear name tags so they know which witch is which",
+   "first_used": "2026-10-25",
+   "editions": [
+    "2026-10-25-evening"
    ]
   }
  ],
@@ -681,6 +689,15 @@
    "first_used": "2026-10-25",
    "editions": [
     "2026-10-25-morning"
+   ]
+  },
+  {
+   "text": "Delicious autumn! My very soul is wedded to it, and if I were a bird I would fly about the earth seeking the successive autumns.",
+   "attribution": "George Eliot, letter to Maria Lewis, Oct. 1, 1841",
+   "normalized": "delicious autumn my very soul is wedded to it and if i were a bird i would fly about the earth seeking the successive autumns",
+   "first_used": "2026-10-25",
+   "editions": [
+    "2026-10-25-evening"
    ]
   }
  ]
