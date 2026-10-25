@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -298,6 +298,14 @@
    "first_used": "2026-10-24",
    "editions": [
     "2026-10-24-evening"
+   ]
+  },
+  {
+   "text": "Why did the cookie go to the doctor? Because it was feeling crummy.",
+   "normalized": "why did the cookie go to the doctor because it was feeling crummy",
+   "first_used": "2026-10-25",
+   "editions": [
+    "2026-10-25-morning"
    ]
   }
  ],
@@ -664,6 +672,15 @@
    "first_used": "2026-10-24",
    "editions": [
     "2026-10-24-evening"
+   ]
+  },
+  {
+   "text": "“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”",
+   "attribution": "Alan Watts, The Wisdom of Insecurity (1951), ch. 3 “The Great Stream”; verified via WIST Quotations",
+   "normalized": "the only way to make sense out of change is to plunge into it move with it and join the dance",
+   "first_used": "2026-10-25",
+   "editions": [
+    "2026-10-25-morning"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "stories": [
   {
    "date": "2026-10-18",
@@ -2152,6 +2152,123 @@
    "headline": "Toronto Maple Leafs at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-24-pm-oilers-next"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "macewan pro-palestinian protest police",
+   "headline": "Edmonton police in riot gear at MacEwan University after security detains a student with a megaphone at a pro-Palestinian protest",
+   "returning": false,
+   "id": "story-2026-10-25-am-macewan-protest-police-response"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta flu season acute care spaces triage physicians",
+   "headline": "Alberta readies 194 temporary hospital spaces and puts doctors in ER waiting rooms before flu season peaks",
+   "returning": false,
+   "id": "story-2026-10-25-am-flu-season-hospital-spaces"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "crime stoppers navigate360 data breach",
+   "headline": "Crime Stoppers breach exposed more than 1.5 million Canadian tips — Toronto, Ottawa, Winnipeg and others stop taking online reports",
+   "returning": false,
+   "id": "story-2026-10-25-am-crime-stoppers-tip-breach"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "first nations first ministers meeting ottawa",
+   "headline": "Carney, premiers and First Nations chiefs meet Monday in Ottawa — the first meeting of its kind — after a day of ceremony today",
+   "returning": false,
+   "id": "story-2026-10-25-am-first-nations-first-ministers-monday"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "b.c. election result conservative majority",
+   "headline": "Results in: B.C. Conservatives win a big majority — 64 of 93 seats — and David Eby steps down as NDP leader",
+   "returning": true,
+   "id": "story-2026-10-25-am-bc-conservative-majority-eby-resigns"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "world",
+   "topic": "france cost of living protests arrests",
+   "headline": "Paris, Marseille and Bordeaux see clashes as nationwide cost-of-living marches end with 1,314 arrests",
+   "returning": false,
+   "id": "story-2026-10-25-am-nationwide-marches-arrests"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "world",
+   "topic": "brazil presidential runoff lula bolsonaro",
+   "headline": "Brazil votes today in a coin-flip runoff: Lula against Flávio Bolsonaro, with polls closing at 2 p.m. Edmonton time",
+   "returning": false,
+   "id": "story-2026-10-25-am-brazil-runoff-lula-flavio"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "business",
+   "topic": "audi georgia factory",
+   "headline": "Audi will build its first U.S. factory in Georgia — a $4-billion SUV plant with 4,500 jobs — as tariffs push carmakers south of the border",
+   "returning": false,
+   "id": "story-2026-10-25-am-audi-georgia-first-us-plant"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "science",
+   "topic": "washable touchscreen fabric sleeve nus",
+   "headline": "A touchscreen you can throw in the wash: Singapore engineers weave a working colour display into a shirt sleeve",
+   "returning": false,
+   "id": "story-2026-10-25-am-nus-washable-sleeve-touchscreen"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "storm-0940 artex ai agents microsoft 365",
+   "headline": "Microsoft: Chinese state hackers used AI agents to hit more than 2,250 Microsoft 365 organizations after breaching ConnectWise",
+   "returning": false,
+   "id": "story-2026-10-25-am-artex-ai-agents-connectwise"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "langur hugs shopkeeper odisha",
+   "headline": "A wild langur walks into a phone-repair shop in India, climbs into the owner’s lap and hugs him — and the CCTV clip has the internet melting",
+   "returning": false,
+   "id": "viral-2026-10-25-am-odisha-langur-hugs-shopkeeper"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "bukangi shark busan canal",
+   "headline": "Bukangi the shark is free: after a month stuck in a Busan canal and 1.6 million visitors, she has been spotted healthy out at sea",
+   "returning": false,
+   "id": "viral-2026-10-25-am-busan-shark-bukangi-free"
+  },
+  {
+   "date": "2026-10-25",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next game",
+   "headline": "Detroit Red Wings at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-25-am-oilers-next"
   }
  ]
 }
