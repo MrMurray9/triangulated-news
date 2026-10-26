@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-25T16:19-06:00",
+ "updated": "2026-10-26T06:17-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -314,6 +314,14 @@
    "first_used": "2026-10-25",
    "editions": [
     "2026-10-25-evening"
+   ]
+  },
+  {
+   "text": "Why did the pumpkin take the elevator? It wanted to get to the gourd floor.",
+   "normalized": "why did the pumpkin take the elevator it wanted to get to the gourd floor",
+   "first_used": "2026-10-26",
+   "editions": [
+    "2026-10-26-morning"
    ]
   }
  ],
@@ -698,6 +706,15 @@
    "first_used": "2026-10-25",
    "editions": [
     "2026-10-25-evening"
+   ]
+  },
+  {
+   "text": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+   "attribution": "Samuel Beckett, Worstward Ho (1983)",
+   "normalized": "ever tried ever failed no matter try again fail again fail better",
+   "first_used": "2026-10-26",
+   "editions": [
+    "2026-10-26-morning"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-25T16:19-06:00",
+ "updated": "2026-10-26T06:17-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -2395,6 +2395,123 @@
    "headline": "Detroit Red Wings at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-25-pm-oilers-next"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "northeast edmonton hyperscale ai data centre",
+   "headline": "A U.S. developer wants to build an AI data centre campus five times the size of West Edmonton Mall in northeast Edmonton",
+   "returning": false,
+   "id": "story-2026-10-26-am-northeast-edmonton-hyperscale-ai-data-centre"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "telus copper wire theft edmonton pedestals",
+   "headline": "Thieves broke into 30 Telus phone boxes in three weeks as copper-wire theft knocks out internet and street lights across Edmonton",
+   "returning": false,
+   "id": "story-2026-10-26-am-telus-copper-wire-theft-edmonton-pedestals"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada eu summit montreal associate membership",
+   "headline": "Carney hosts EU leaders in Montreal this week; a draft text would set out what Canada’s ‘associate membership’ could mean by 2027",
+   "returning": false,
+   "id": "story-2026-10-26-am-canada-eu-summit-montreal-associate-membership"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "rcaf first two f35 jets delivered luke",
+   "headline": "The RCAF receives its first two F-35 fighters in Arizona, even as Ottawa still reviews the full 88-jet order",
+   "returning": false,
+   "id": "story-2026-10-26-am-rcaf-first-two-f35-jets-delivered-luke"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "serbia student list defeats vucic election",
+   "headline": "Serbia’s student protest movement wins a parliamentary majority, and Vučić concedes: “It is clear we have lost”",
+   "returning": false,
+   "id": "story-2026-10-26-am-serbia-student-list-defeats-vucic-election"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "machado returns venezuela caracas crowds",
+   "headline": "María Corina Machado returns to Venezuela after almost a year in exile, and crowds turn her drive to Caracas into an all-day procession",
+   "returning": false,
+   "id": "story-2026-10-26-am-machado-returns-venezuela-caracas-crowds"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "lula wins fourth term flavio seeks annulment",
+   "headline": "Lula wins a fourth term with 51.8 per cent; Flávio Bolsonaro refuses to concede and says he will ask courts to annul the vote",
+   "returning": true,
+   "id": "story-2026-10-26-am-lula-wins-fourth-term-flavio-seeks-annulment"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "business",
+   "topic": "oil plunges iran diplomacy tehran mediators",
+   "headline": "Oil drops more than 6 per cent from near-wartime highs as mediators head to Tehran",
+   "returning": false,
+   "id": "story-2026-10-26-am-oil-plunges-iran-diplomacy-tehran-mediators"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "science",
+   "topic": "weizmann dna programmed shape shifting material",
+   "headline": "A gel with no living cells moves on its own because DNA tells it which molecular motors to build",
+   "returning": false,
+   "id": "story-2026-10-26-am-weizmann-dna-programmed-shape-shifting-material"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "rfd4 proteina open protein designer",
+   "headline": "UW and NVIDIA release a free AI protein designer they say succeeds 5 to 10 times as often, and Manchester used it to make a drug-making enzyme",
+   "returning": false,
+   "id": "story-2026-10-26-am-rfd4-proteina-open-protein-designer"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "kurseong elephant calf reunited mother",
+   "headline": "Elephant calf waits seven hours, then runs back to its mother: forest crew’s reunion in India wins hearts on X",
+   "returning": false,
+   "id": "viral-2026-10-26-am-kurseong-elephant-calf-reunited-mother"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "giant 292cm catfish rybnik german angler",
+   "headline": "A 2.92-metre catfish: a German angler’s Instagram photos of a giant fish caught and released in Poland go viral",
+   "returning": false,
+   "id": "viral-2026-10-26-am-giant-292cm-catfish-rybnik-german-angler"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next game",
+   "headline": "Detroit Red Wings at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-26-am-oilers-next"
   }
  ]
 }
