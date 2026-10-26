@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-26T06:17-06:00",
+ "updated": "2026-10-26",
  "stories": [
   {
    "date": "2026-10-18",
@@ -2512,6 +2512,141 @@
    "headline": "Detroit Red Wings at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-26-am-oilers-next"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta optometrists minor surgical laser procedures scope",
+   "headline": "Alberta becomes the first province to let optometrists do minor surgery and some laser eye treatments, starting Nov. 1",
+   "returning": false,
+   "id": "story-2026-10-26-pm-optometrists-minor-surgery-laser-nov-1"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "tanker ban repeal bill c-264 smith conservatives",
+   "headline": "Smith joins the Conservative push to scrap the B.C. north-coast oil tanker ban, with a Commons vote set for Wednesday",
+   "returning": false,
+   "id": "story-2026-10-26-pm-smith-backs-bill-c264-tanker-ban-repeal"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "eric bauza looney tunes voice actor dies",
+   "headline": "Eric Bauza, the Toronto-born voice of today’s Bugs Bunny and Daffy Duck, has died at 46",
+   "returning": false,
+   "id": "story-2026-10-26-pm-eric-bauza-looney-tunes-voice-dies-46"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "first nations first ministers meeting ottawa",
+   "headline": "Update: Carney promises a process to “move Canada beyond the Indian Act” after the first First Nations–first ministers meeting since 2005",
+   "returning": true,
+   "id": "story-2026-10-26-pm-first-nations-first-ministers-indian-act-process"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "world",
+   "topic": "maurene comey firing ruled unlawful furman",
+   "headline": "U.S. judge rules the Justice Department illegally fired prosecutor Maurene Comey, James Comey’s daughter",
+   "returning": false,
+   "id": "story-2026-10-26-pm-judge-rules-maurene-comey-firing-unlawful"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "world",
+   "topic": "israel vote polls netanyahu eisenkot deadlock",
+   "headline": "Israel votes Tuesday, and the final polls show neither Netanyahu’s bloc nor Eisenkot’s reaching a majority",
+   "returning": false,
+   "id": "story-2026-10-26-pm-israel-vote-eve-polls-deadlock"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "world",
+   "topic": "jordan karak church attack arrests",
+   "headline": "Update: Jordan arrests three suspects in the Karak church attack after a three-hour gunfight",
+   "returning": true,
+   "id": "story-2026-10-26-pm-jordan-arrests-three-karak-church-attack"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "business",
+   "topic": "anthropic ipo s-1 filing nasdaq",
+   "headline": "Anthropic files to go public on the Nasdaq as “ANT,” showing $16.3 billion in revenue for the first half of 2026",
+   "returning": false,
+   "id": "story-2026-10-26-pm-anthropic-files-s1-ipo-nasdaq-ant"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "business",
+   "topic": "high liner foods umios takeover",
+   "headline": "Japan’s Umios agrees to buy Nova Scotia’s High Liner Foods for $27 a share, and the stock jumps 77 per cent",
+   "returning": false,
+   "id": "story-2026-10-26-pm-umios-buys-high-liner-foods-27-share"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "science",
+   "topic": "mit lucid ultrasound brain implant glioblastoma drug delivery",
+   "headline": "MIT builds a paper-thin brain implant that uses ultrasound to push cancer drugs deeper into tissue",
+   "returning": false,
+   "id": "story-2026-10-26-pm-mit-lucid-ultrasound-brain-implant"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai gpt-6.1 terra launch",
+   "headline": "OpenAI’s new GPT-6.1 Terra halves API prices while scoring higher on coding and computer-use tests",
+   "returning": false,
+   "id": "story-2026-10-26-pm-openai-gpt-61-terra-launch"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "odisha langur hugs shopkeeper repair shop",
+   "headline": "A wild langur walks into a repair shop in India, climbs up and hugs the shopkeeper, and X can’t get enough",
+   "returning": false,
+   "id": "viral-2026-10-26-pm-odisha-langur-hugs-shopkeeper"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "bandarban basic guitar learning school children",
+   "headline": "Kids from a hill-country guitar school in Bangladesh go viral on Facebook, then get to play with the rock band they covered",
+   "returning": false,
+   "id": "viral-2026-10-26-pm-bandarban-kids-guitar-school-warfaze"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "kolkata family rickshaw durga puja reel",
+   "headline": "A Kolkata family’s 20-second rickshaw ride during Durga Puja becomes India’s feel-good video of the season",
+   "returning": false,
+   "id": "viral-2026-10-26-pm-kolkata-family-rickshaw-puja-reel"
+  },
+  {
+   "date": "2026-10-26",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next game",
+   "headline": "Detroit Red Wings at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-26-pm-oilers-next"
   }
  ]
 }
