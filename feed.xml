@@ -5,8 +5,85 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:13:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:16:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Tuesday, October 27, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/edition</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Evening edition: Alberta’s DEI hiring and deepfake bill, Edmonton council’s autonomy vote, the MAID advance-request bill, the Canada–UAE trade deal, Egypt’s vote on helping Saudi Arabia, Israel’s exit polls, Microsoft’s buyout offer, Boeing’s slower 737 ramp-up, folded-aluminum origami structures, DeepMind’s Genie 4, and Edmonton events.</description>
+    </item>
+    <item>
+      <title>Alberta moves to end DEI hiring at public bodies and to punish sharing sexual deepfakes, on the sitting’s first day</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-dei-hiring-deepfakes-justice-amendments</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-dei-hiring-deepfakes-justice-amendments</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Justice Minister Mickey Amery tabled Bill 33, the Justice Statutes Amendment Act, 2026 (No. 2), on Tuesday afternoon as the legislature returned. It would stop provincial bodies, including agencies, Crown corporations, post-secondaries, school boards and municipalities, from using diversity, equity and inclusion policies in hiring and promotion, and would ban mandatory DEI training. Voluntary training stays allowed, and any mandatory training must be neutral and job-related (Edmonton Journal, CTV News, Global News).</description>
+    </item>
+    <item>
+      <title>Edmonton council votes 9–3 to push for more power from the province, as Mayor Knack meets the premier</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-council-autonomy-vote-knack-premier</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-council-autonomy-vote-knack-premier</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Council passed Coun. Aaron Paquette’s motion to lobby for greater municipal autonomy through the Federation of Canadian Municipalities, Big City Mayors and Alberta Municipalities. Supporters pointed to provincial moves on infill rules and photo radar as overreach. Couns. Thu Parmar, Mike Elliott and Karen Principe voted against, warning it could hurt the city’s relationship with the province (Edmonton Journal, CTV News, Taproot Edmonton).</description>
+    </item>
+    <item>
+      <title>Ottawa tables Bill C-41 to allow advance requests for medical assistance in dying and to keep mental illness alone excluded</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-maid-bill-c41-advance-requests-mental-illness</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-maid-bill-c41-advance-requests-mental-illness</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Justice Minister Sean Fraser introduced the MAID Safeguards Act on Tuesday. It would let adults diagnosed with a serious, incurable illness expected to take away their capacity, such as Alzheimer’s, sign an advance request so MAID could be provided later, once all eligibility rules and safeguards are met (Department of Justice Canada, Parliament of Canada, The Canadian Press).</description>
+    </item>
+    <item>
+      <title>Canada and the UAE sign a free trade deal negotiated in a record 47 days, cutting tariffs on more than 99 per cent of Canadian exports there</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-uae-cepa-free-trade-signed</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-uae-cepa-free-trade-signed</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Trade ministers Maninder Sidhu and Thani Al Zeyoudi signed the Canada–UAE Comprehensive Economic Partnership Agreement on Tuesday, during the first-ever visit to Canada by Abu Dhabi’s Crown Prince, Sheikh Khaled bin Mohamed bin Zayed Al Nahyan. Ottawa says it is the fastest free trade agreement either country has negotiated (Prime Minister’s Office, The Globe and Mail, Al-Monitor).</description>
+    </item>
+    <item>
+      <title>Egypt’s parliament lets el-Sisi send military help to Saudi Arabia after Houthi attacks</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-egypt-parliament-authorizes-saudi-military-support</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-egypt-parliament-authorizes-saudi-military-support</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Egypt’s House of Representatives voted by the required two-thirds majority to authorize President Abdel Fattah el-Sisi to give Saudi Arabia military support if Riyadh asks for it, following Houthi attacks on the kingdom (AP, The National, Euronews).</description>
+    </item>
+    <item>
+      <title>Exit polls: Netanyahu’s bloc falls to about 50 seats and neither side reaches a majority in Israel’s election</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-israel-exit-polls-no-majority-netanyahu</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-israel-exit-polls-no-majority-netanyahu</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>All three main TV exit polls (Kan 11, Channel 12 and Channel 13) gave Gadi Eisenkot’s opposition bloc 52 seats, Benjamin Netanyahu’s bloc 50 and Arab-led parties 18, out of 120. A government needs 61. Likud is projected as the largest single party with 24 to 25 seats, ahead of Eisenkot’s Yashar at 21 to 23 (Reuters, AP, The Guardian).</description>
+    </item>
+    <item>
+      <title>Microsoft offers voluntary buyouts to about 60,000 workers, more than a quarter of its staff, including in Canada</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-microsoft-voluntary-exit-offer-60000</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-microsoft-voluntary-exit-offer-60000</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Microsoft announced a “voluntary exit offer” for employees at level 70 and below on participating teams in the U.S., Canada, India and the U.K. About 60,000 people are eligible. Terms are similar to standard severance, with financial support and career-planning help (Microsoft, CNBC, GeekWire).</description>
+    </item>
+    <item>
+      <title>Boeing stock drops about 9 per cent as it pushes its 737 MAX production goal to late 2027</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-boeing-q3-loss-737-rate-delay</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-boeing-q3-loss-737-rate-delay</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Boeing lost US$116 million, or 26 cents a share, in the third quarter. Its adjusted loss of 34 cents was wider than the roughly 21 cents analysts expected, though revenue rose 4 per cent to US$24.19 billion, helped by a 15 per cent jump in defence sales (CNBC, Investing.com, AFP).</description>
+    </item>
+    <item>
+      <title>Flat aluminum sheets, folded like origami, become rigid blocks that screw together into a room-sized shell with no welding</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-folded-aluminum-origami-building-shells</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-folded-aluminum-origami-building-shells</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Researchers at the Center for Bits and Atoms in Cambridge, Mass., designed origami-style units, inspired by artist Ron Resch’s folded tessellations, that are cut from flat sheets by a CNC machine, folded by hand and screwed together. Each block is locked rigid, and together they form a load-bearing shell with no interior columns (MIT News, International Journal of Solids and Structures).</description>
+    </item>
+    <item>
+      <title>Google DeepMind’s Genie 4 builds playable 3D worlds with sound and lets you change them mid-scene by typing</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-10-27-pm-deepmind-genie-4-world-model-audio</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-10-27/evening/story-2026-10-27-pm-deepmind-genie-4-world-model-audio</guid>
+      <pubDate>Tue, 27 Oct 2026 16:16:00 -0600</pubDate>
+      <description>Genie 4 is a “world model”: it generates an interactive, realistic scene you can move through in real time. New this version is native audio, including music, background sound and dialogue, plus the ability to steer a scene with text prompts, such as changing the weather or camera angle or adding people and objects (Google DeepMind, TechCrunch, The Verge).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Tuesday, October 27, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
