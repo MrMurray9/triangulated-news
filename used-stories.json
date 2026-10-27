@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "stories": [
   {
    "date": "2026-10-18",
@@ -2647,6 +2647,123 @@
    "headline": "Detroit Red Wings at Edmonton Oilers",
    "returning": false,
    "id": "story-2026-10-26-pm-oilers-next"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "shane getson resigns ucp mla",
+   "headline": "UCP MLA Shane Getson quits the legislature effective immediately, hours before the fall sitting opens",
+   "returning": false,
+   "id": "story-2026-10-27-am-getson-quits-legislature-eve-of-sitting"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "anne stevenson leaves edmonton police commission prisoner dropoffs",
+   "headline": "Coun. Anne Stevenson steps off Edmonton’s police commission to focus on prisoners released into Chinatown",
+   "returning": false,
+   "id": "story-2026-10-27-am-stevenson-leaves-police-commission-dropoffs"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "us canada section 232 steel auto tariff deal talks",
+   "headline": "Ottawa and Washington are working on a deal to ease U.S. steel and auto tariffs before next week’s midterms, sources say",
+   "returning": false,
+   "id": "story-2026-10-27-am-us-canada-section-232-steel-auto-deal-talks"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "ontario municipal elections toronto mayor chow bradford results",
+   "headline": "Chow beats Bradford by 13 points to win a second term as Toronto mayor; Sutcliffe holds Ottawa",
+   "returning": true,
+   "id": "story-2026-10-27-am-chow-wins-second-term-sutcliffe-ottawa"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "world",
+   "topic": "antalya turkey tornado construction workers killed",
+   "headline": "A tornado rips apart workers’ shelters at a construction site in Antalya, Turkey, killing four",
+   "returning": false,
+   "id": "story-2026-10-27-am-antalya-tornado-kills-four-workers"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "world",
+   "topic": "ukraine oleshky local ceasefire melania trump takes effect",
+   "headline": "Guns fall silent in occupied Oleshky as the Melania Trump–brokered truce takes effect and holds",
+   "returning": true,
+   "id": "story-2026-10-27-am-oleshky-truce-takes-effect-holding"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "world",
+   "topic": "israel vote turnout election day netanyahu",
+   "headline": "Israeli turnout hits its highest midday level in decades as voters pick a new Knesset",
+   "returning": true,
+   "id": "story-2026-10-27-am-israel-turnout-surges-voting-day"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "business",
+   "topic": "hsbc q3 earnings buyback",
+   "headline": "HSBC’s quarterly profit jumps 32 per cent to US$9.6 billion, but shares slide on a revenue miss",
+   "returning": false,
+   "id": "story-2026-10-27-am-hsbc-q3-profit-up-32-shares-slide"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "business",
+   "topic": "whirlpool q3 guidance cut",
+   "headline": "Whirlpool cuts its outlook for a third time and now expects a full-year loss; shares hit a 52-week low",
+   "returning": false,
+   "id": "story-2026-10-27-am-whirlpool-third-guidance-cut-shares-low"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "science",
+   "topic": "umass biohybrid mesh harvester cardiac cells",
+   "headline": "Living heart cells power their own electronics: UMass Amherst’s “biohybrid mesh” turns each heartbeat into electricity",
+   "returning": false,
+   "id": "story-2026-10-27-am-umass-biohybrid-mesh-heart-cells-power"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "noyb gdpr complaints scale ai outlier surveillance",
+   "headline": "Privacy group noyb files five complaints accusing Scale AI of spying on the gig workers who train AI models",
+   "returning": false,
+   "id": "story-2026-10-27-am-noyb-gdpr-complaints-scale-ai-outlier"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "maggie highland cow carmel runaway",
+   "headline": "Maggie the runaway Highland cow outfoxes Carmel police for four days, including a lasso from a cruiser window, before going home to her calf",
+   "returning": false,
+   "id": "viral-2026-10-27-am-maggie-highland-cow-carmel-lasso-home"
+  },
+  {
+   "date": "2026-10-27",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next game flames",
+   "headline": "Calgary Flames at Edmonton Oilers",
+   "returning": false,
+   "id": "story-2026-10-27-am-oilers-next"
   }
  ]
 }
