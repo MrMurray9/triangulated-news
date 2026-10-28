@@ -355,6 +355,14 @@
       "editions": [
         "2026-10-28-morning"
       ]
+    },
+    {
+      "text": "What kind of tree fits in your hand? A palm tree.",
+      "normalized": "what kind of tree fits in your hand a palm tree",
+      "first_used": "2026-10-28",
+      "editions": [
+        "2026-10-28-evening"
+      ]
     }
   ],
   "quotes": [
@@ -783,6 +791,15 @@
       "first_used": "2026-10-28",
       "editions": [
         "2026-10-28-morning"
+      ]
+    },
+    {
+      "text": "“We know what we are, but know not what we may be.”",
+      "attribution": "William Shakespeare, Hamlet, Act 4, Scene 5 (Ophelia)",
+      "normalized": "we know what we are but know not what we may be",
+      "first_used": "2026-10-28",
+      "editions": [
+        "2026-10-28-evening"
       ]
     }
   ]

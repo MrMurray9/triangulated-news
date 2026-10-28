@@ -1,6 +1,6 @@
 {
   "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
-  "updated": "2026-10-28T06:22-06:00",
+  "updated": "2026-10-28T16:15-06:00",
   "stories": [
     {
       "date": "2026-10-18",
@@ -2952,6 +2952,105 @@
       "topic": "point may residents free stranded whales",
       "headline": "A Newfoundland town grabs buckets, hoses and the mayor’s excavator to push two stranded whales back to sea",
       "id": "viral-2026-10-28-am-point-may-residents-free-stranded-whales",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "alberta",
+      "topic": "teachers year after back to school act",
+      "headline": "A year after being ordered back to work, Alberta teachers say classes are still packed and the relationship with the province is “frosty”",
+      "id": "story-2026-10-28-pm-teachers-year-after-back-to-school-act",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "canada",
+      "topic": "quebec premier eu summit speaking dispute",
+      "headline": "Quebec’s new premier is refused a speaking role at this week’s Canada-EU summit in Montreal, and turns down the dinner invitation",
+      "id": "story-2026-10-28-pm-quebec-premier-eu-summit-speaking-dispute",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "world",
+      "topic": "congo ebola tops 10000 cases",
+      "headline": "Congo’s Ebola outbreak passes 10,000 cases, now the second-largest on record, as vaccine trials begin",
+      "id": "story-2026-10-28-pm-congo-ebola-tops-10000-cases",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "world",
+      "topic": "spain crash toll 68 control centre order",
+      "headline": "Toll climbs to 68 as Spain says a control-centre order sent one train into another that was stopped on the track",
+      "id": "story-2026-10-28-pm-spain-crash-toll-68-control-centre-order",
+      "returning": true
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "business",
+      "topic": "fed holds steady two dissents",
+      "headline": "The Fed holds U.S. rates at 3.75 to 4 per cent, but two officials vote to raise them",
+      "id": "story-2026-10-28-pm-fed-holds-steady-two-dissents",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "business",
+      "topic": "alphabet shares sink cash burn",
+      "headline": "Alphabet shares drop about 9 per cent after hours as heavy AI spending pushes its cash flow negative",
+      "id": "story-2026-10-28-pm-alphabet-shares-sink-cash-burn",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "business",
+      "topic": "bank of canada hikes to 2 5",
+      "headline": "Variable-rate borrowers will pay more after Macklem’s quarter-point move to 2.5 per cent, and more increases are possible",
+      "id": "story-2026-10-28-pm-bank-of-canada-hikes-to-2-5",
+      "returning": true
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "science",
+      "topic": "mit snake soft robot small intestine",
+      "headline": "Science corner: a snake-like soft robot can crawl through the small intestine to find and treat problems",
+      "id": "story-2026-10-28-pm-mit-snake-soft-robot-small-intestine",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "ai",
+      "topic": "gemini 4 carbon cyber defenders first",
+      "headline": "Gemini 4 Carbon tops a major AI leaderboard, but at first only vetted cyber defenders can use it",
+      "id": "story-2026-10-28-pm-gemini-4-carbon-cyber-defenders-first",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "viral",
+      "topic": "robot dog walkers wanted 20 an hour",
+      "headline": "Wanted: dog walkers, US$20 an hour. The catch: the dogs are robots, and you carry them home if they overheat",
+      "id": "viral-2026-10-28-pm-robot-dog-walkers-wanted-20-an-hour",
+      "returning": false
+    },
+    {
+      "date": "2026-10-28",
+      "edition": "evening",
+      "section": "viral",
+      "topic": "samba capybara alive seven months on",
+      "headline": "Seven months after escaping, Samba the capybara turns up alive and well on a wildlife camera in England",
+      "id": "viral-2026-10-28-pm-samba-capybara-alive-seven-months-on",
       "returning": false
     }
   ]
