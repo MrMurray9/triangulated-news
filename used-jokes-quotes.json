@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -362,6 +362,14 @@
       "first_used": "2026-10-28",
       "editions": [
         "2026-10-28-evening"
+      ]
+    },
+    {
+      "text": "What is a ghost’s favourite dessert? I scream.",
+      "normalized": "what is a ghosts favourite dessert i scream",
+      "first_used": "2026-10-29",
+      "editions": [
+        "2026-10-29-morning"
       ]
     }
   ],
@@ -800,6 +808,15 @@
       "first_used": "2026-10-28",
       "editions": [
         "2026-10-28-evening"
+      ]
+    },
+    {
+      "text": "Optimism is the faith that leads to achievement; nothing can be done without hope.",
+      "attribution": "Helen Keller, Optimism: An Essay (1903); text verified via Wikisource and the American Foundation for the Blind",
+      "normalized": "optimism is the faith that leads to achievement nothing can be done without hope",
+      "first_used": "2026-10-29",
+      "editions": [
+        "2026-10-29-morning"
       ]
     }
   ]

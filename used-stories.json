@@ -1,6 +1,6 @@
 {
   "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
-  "updated": "2026-10-28T16:15-06:00",
+  "updated": "2026-10-29",
   "stories": [
     {
       "date": "2026-10-18",
@@ -3051,6 +3051,123 @@
       "topic": "samba capybara alive seven months on",
       "headline": "Seven months after escaping, Samba the capybara turns up alive and well on a wildlife camera in England",
       "id": "viral-2026-10-28-pm-samba-capybara-alive-seven-months-on",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "alberta",
+      "topic": "bill 34 right to repair lemon law ticket resale",
+      "headline": "Alberta’s new consumer bill would force makers to sell repair parts and manuals, add a car “lemon law,” and make ticket resellers show the full price up front",
+      "id": "story-2026-10-29-am-bill-34-right-to-repair-lemon-law-ticket-resale",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "alberta",
+      "topic": "avi lewis bioware worker buyout proposal",
+      "headline": "Avi Lewis wants Ottawa to help BioWare’s laid-off staff buy the Edmonton studio and run it themselves",
+      "id": "story-2026-10-29-am-avi-lewis-bioware-worker-buyout-proposal",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "canada",
+      "topic": "kutryk first spacewalk iss solar array",
+      "headline": "Joshua Kutryk heads out this morning on his first spacewalk, the first by a Canadian since 2019",
+      "id": "story-2026-10-29-am-kutryk-first-spacewalk-iss-solar-array",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "canada",
+      "topic": "canada eu summit opens associate member label dropped",
+      "headline": "Europe drops the “associate member” label as Carney opens the Canada-EU summit in Montreal today",
+      "id": "story-2026-10-29-am-eu-summit-opens-associate-member-label-dropped",
+      "returning": true
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "world",
+      "topic": "north korea ten ballistic missiles wonsan",
+      "headline": "North Korea fires about 10 short-range ballistic missiles into the sea, South Korea says",
+      "id": "story-2026-10-29-am-north-korea-ten-ballistic-missiles-wonsan",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "world",
+      "topic": "iran says three tankers hit mines hormuz",
+      "headline": "Iran says three oil tankers hit mines and caught fire trying to slip out of the Strait of Hormuz; the U.S. military says the main shipping lanes are clear",
+      "id": "story-2026-10-29-am-iran-says-three-tankers-hit-mines",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "world",
+      "topic": "flavio bolsonaro lands in miami refuses concede",
+      "headline": "Flávio Bolsonaro flies to Miami with his family and calls himself Brazil’s “leader,” still refusing to accept Lula’s win",
+      "id": "story-2026-10-29-am-flavio-bolsonaro-lands-in-miami",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "business",
+      "topic": "eli lilly q3 mounjaro zepbound sales",
+      "headline": "Eli Lilly lifts its 2026 sales forecast by about US$5 billion as Mounjaro and Zepbound sales keep climbing",
+      "id": "story-2026-10-29-am-eli-lilly-q3-mounjaro-zepbound-sales",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "business",
+      "topic": "villa vie odyssey cruise halts cambodia fuel costs",
+      "headline": "A “live at sea for years” cruise ship halts in Cambodia over fuel costs, leaving about 200 passengers looking for somewhere to stay",
+      "id": "story-2026-10-29-am-villa-vie-odyssey-halts-in-cambodia",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "science",
+      "topic": "bismuth sulfide pseudo direct solar semiconductor",
+      "headline": "Science corner: a common, cheap mineral could help solar panels hang on to the energy they catch",
+      "id": "story-2026-10-29-am-bismuth-sulfide-pseudo-direct-solar-semiconductor",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "ai",
+      "topic": "netherlands 25000 government jobs ai",
+      "headline": "The Netherlands plans to cut 25,000 civil-service jobs over 10 years, leaning on AI to do more of the work",
+      "id": "story-2026-10-29-am-netherlands-25000-government-jobs-ai",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "ai",
+      "topic": "trump rename ai super intelligence",
+      "headline": "Trump says he will “ban” the term artificial intelligence and wants it called “Super Intelligence” instead",
+      "id": "story-2026-10-29-am-trump-rename-ai-super-intelligence",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "morning",
+      "section": "viral",
+      "topic": "liberty biberty mascot protest boston",
+      "headline": "Dozens of people march in Boston to demand Liberty Mutual drop “Liberty Biberty,” its fuzzy yellow mascot",
+      "id": "viral-2026-10-29-am-liberty-biberty-mascot-protest-boston",
       "returning": false
     }
   ]
