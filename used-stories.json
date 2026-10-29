@@ -1,6 +1,6 @@
 {
   "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
-  "updated": "2026-10-29",
+  "updated": "2026-10-29-evening",
   "stories": [
     {
       "date": "2026-10-18",
@@ -3168,6 +3168,114 @@
       "topic": "liberty biberty mascot protest boston",
       "headline": "Dozens of people march in Boston to demand Liberty Mutual drop “Liberty Biberty,” its fuzzy yellow mascot",
       "id": "viral-2026-10-29-am-liberty-biberty-mascot-protest-boston",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "alberta",
+      "topic": "alberta report card standards daycare incident notification",
+      "headline": "Alberta moves to set province-wide report-card standards and make daycares warn parents fast about abuse or neglect",
+      "id": "story-2026-10-29-pm-report-card-standards-daycare-incident-notice",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "alberta",
+      "topic": "referendum official results turnout record",
+      "headline": "Referendum results are now official: 70.4 per cent turnout, the highest in a provincial vote in at least 50 years, and 74.95 per cent chose to stay in Canada",
+      "id": "story-2026-10-29-pm-referendum-official-results-turnout-record",
+      "returning": true
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "canada",
+      "topic": "ottawa stake in cohere sovereign ai",
+      "headline": "Ottawa will invest up to $1.6 billion for a stake in Toronto AI company Cohere, which promises to keep its headquarters and 1,000 new jobs in Canada",
+      "id": "story-2026-10-29-pm-ottawa-stake-in-cohere-sovereign-ai",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "canada",
+      "topic": "kutryk spacewalk complete solar array deployed",
+      "headline": "Kutryk’s first spacewalk is a success: he and Anil Menon spend 7 hours 11 minutes outside and unroll a new solar array",
+      "id": "story-2026-10-29-pm-kutryk-spacewalk-complete-solar-array-deployed",
+      "returning": true
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "world",
+      "topic": "dnipro train station drone strike 14 killed",
+      "headline": "Russian drone hits a crowded train station in Dnipro, killing 14 people",
+      "id": "story-2026-10-29-pm-dnipro-train-station-drone-strike-14-killed",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "world",
+      "topic": "oleshky demining done aid convoy ready",
+      "headline": "Oleshky aid convoy cleared to roll: Russia and Ukraine say mine clearing is done and residents can start leaving",
+      "id": "story-2026-10-29-pm-oleshky-demining-done-aid-convoy-ready",
+      "returning": true
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "business",
+      "topic": "ecb rate pause lagarde early exit",
+      "headline": "European Central Bank leaves its rate at 2.5 per cent as Christine Lagarde announces she will step down early, in February",
+      "id": "story-2026-10-29-pm-ecb-rate-pause-lagarde-early-exit",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "business",
+      "topic": "amazon q3 miss weak holiday guidance",
+      "headline": "Amazon shares slide after hours as profit and holiday-quarter forecast fall short, despite cloud sales jumping 39 per cent",
+      "id": "story-2026-10-29-pm-amazon-q3-miss-weak-holiday-guidance",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "business",
+      "topic": "alphabet worst day ever close",
+      "headline": "Alphabet has its worst day ever, closing down 12.6 per cent and erasing about US$500 billion in value",
+      "id": "story-2026-10-29-pm-alphabet-worst-day-ever-close",
+      "returning": true
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "science",
+      "topic": "ultrathin multiferroic bismuth ferrite no dead layer",
+      "headline": "Science corner: engineers keep a promising chip material working even when it is just a few atoms thick",
+      "id": "story-2026-10-29-pm-ultrathin-multiferroic-no-dead-layer",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "ai",
+      "topic": "mistral large 4 open weights",
+      "headline": "Mistral releases its trillion-parameter Large 4 model free to download, pitching it at cybersecurity work",
+      "id": "story-2026-10-29-pm-mistral-large-4-open-weights",
+      "returning": false
+    },
+    {
+      "date": "2026-10-29",
+      "edition": "evening",
+      "section": "viral",
+      "topic": "salon glass door shatters me when",
+      "headline": "A salon glass door explodes on a new hire’s first shift, and her deadpan “Me when…” line wins over X",
+      "id": "viral-2026-10-29-pm-salon-glass-door-me-when",
       "returning": false
     }
   ]

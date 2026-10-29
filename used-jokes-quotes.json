@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-10-29",
+  "updated": "2026-10-29-evening",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -370,6 +370,14 @@
       "first_used": "2026-10-29",
       "editions": [
         "2026-10-29-morning"
+      ]
+    },
+    {
+      "text": "How do you fix a cracked pumpkin? With a pumpkin patch.",
+      "normalized": "how do you fix a cracked pumpkin with a pumpkin patch",
+      "first_used": "2026-10-29",
+      "editions": [
+        "2026-10-29-evening"
       ]
     }
   ],
@@ -817,6 +825,15 @@
       "first_used": "2026-10-29",
       "editions": [
         "2026-10-29-morning"
+      ]
+    },
+    {
+      "text": "Lost time is never found again.",
+      "attribution": "Benjamin Franklin, Poor Richard’s Almanack (1748)",
+      "normalized": "lost time is never found again",
+      "first_used": "2026-10-29",
+      "editions": [
+        "2026-10-29-evening"
       ]
     }
   ]
