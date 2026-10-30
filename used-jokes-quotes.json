@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-30",
+ "updated": "2026-10-30-evening",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -386,6 +386,14 @@
    "first_used": "2026-10-30",
    "editions": [
     "2026-10-30-morning"
+   ]
+  },
+  {
+   "text": "What do you call a witch at the beach? A sand-witch.",
+   "normalized": "what do you call a witch at the beach a sand witch",
+   "first_used": "2026-10-30",
+   "editions": [
+    "2026-10-30-evening"
    ]
   }
  ],
@@ -851,6 +859,15 @@
    "first_used": "2026-10-30",
    "editions": [
     "2026-10-30-morning"
+   ]
+  },
+  {
+   "text": "“Things do not change; we change.”",
+   "attribution": "Henry David Thoreau, Walden, “Conclusion”",
+   "normalized": "things do not change we change",
+   "first_used": "2026-10-30",
+   "editions": [
+    "2026-10-30-evening"
    ]
   }
  ]

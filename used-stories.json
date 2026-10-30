@@ -3403,6 +3403,159 @@
    "headline": "Edmonton Oilers at New York Islanders",
    "id": "story-2026-10-30-am-oilers-next",
    "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "edmonton speed on green cameras one of eight approved knack",
+   "headline": "Edmonton asked to switch eight speed-on-green cameras back on; Alberta says yes to one",
+   "id": "story-2026-10-30-pm-edmonton-speed-on-green-cameras-one-approved",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "smith rath leaked texts petition timing nenshi question period",
+   "headline": "Leaked texts put Premier Smith on the spot: she told a separatist lawyer to wait for new petition rules",
+   "id": "story-2026-10-30-pm-smith-rath-texts-petition-rules-question-period",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "parks canada banff search rescue dog program cut petition",
+   "headline": "Parks Canada scraps its 55-year-old search-and-rescue dog program in Banff, and thousands sign a petition to save it",
+   "id": "story-2026-10-30-pm-parks-canada-banff-search-dog-program-cut",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada eu summit alliance for the future associate member june 2027",
+   "headline": "Summit ends with an “Alliance for the Future”: Carney sets June 2027 to make Canada the EU’s first associate member",
+   "id": "story-2026-10-30-pm-canada-eu-alliance-future-june-2027-deadline",
+   "returning": true
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "world",
+   "topic": "patrick stewart dies 86 star trek picard x men",
+   "headline": "Patrick Stewart, Star Trek’s Captain Picard and X-Men’s Professor X, dies at 86",
+   "id": "story-2026-10-30-pm-patrick-stewart-dies-at-86",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "world",
+   "topic": "novaya gazeta closure muratov kremlin pressure",
+   "headline": "“They killed us”: Novaya Gazeta, the Russian paper of Anna Politkovskaya and a Nobel-winning editor, will close Nov. 9",
+   "id": "story-2026-10-30-pm-novaya-gazeta-closes-nov-9",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "world",
+   "topic": "pope leo votes us midterms mail ballot first",
+   "headline": "Pope Leo mails in his ballot, the first pope known to vote in a U.S. general election",
+   "id": "story-2026-10-30-pm-pope-leo-mail-ballot-us-midterms",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "world",
+   "topic": "oleshky evacuation begins buses through russia belarus",
+   "headline": "Buses roll out of Oleshky: hundreds of residents leave the besieged town, by way of Russia and Belarus",
+   "id": "story-2026-10-30-pm-oleshky-evacuation-buses-leave",
+   "returning": true
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "business",
+   "topic": "intel worst day since 1970s guidance fab explosion pc slump",
+   "headline": "Intel stock crashes 29 per cent, its worst day since the 1970s, on a weak forecast and a deadly plant explosion",
+   "id": "story-2026-10-30-pm-intel-shares-plunge-29-per-cent",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "business",
+   "topic": "statcan august gdp flat september decline q3 0 3",
+   "headline": "Canada’s economy stalls for a second straight month, and an early read says it shrank in September",
+   "id": "story-2026-10-30-pm-statcan-august-output-flat-september-dip",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "science",
+   "topic": "carbon pentaheptite nanoribbon covalent metal ustc nature",
+   "headline": "Science corner: chemists build a carbon ribbon less than a nanometre wide that conducts like a metal",
+   "id": "story-2026-10-30-pm-carbon-pentaheptite-nanoribbon-metal-wire",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "uk cma investigation commercial terms publishers ai crawl",
+   "headline": "Britain opens a competition probe into Facebook’s owner over terms that could let it feed publishers’ content to its AI",
+   "id": "story-2026-10-30-pm-uk-cma-probe-publisher-terms-ai-crawling",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "reddit logged in experience ai scraping search traffic",
+   "headline": "Reddit will start requiring logins to shield its posts from AI scrapers, as AI search cuts its Google traffic",
+   "id": "story-2026-10-30-pm-reddit-logged-in-ai-scraping",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "obama mic toss detroit rally slow motion",
+   "headline": "Obama tosses his mic to an aide without looking, and a slow-motion replay racks up five million views",
+   "id": "viral-2026-10-30-pm-obama-mic-toss-slow-motion",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "marilyn hampton aubrey school named custodian",
+   "headline": "A Texas school board asks its retired janitor to unroll a red carpet, and she reads her own name on a new school",
+   "id": "viral-2026-10-30-pm-marilyn-hampton-school-named-custodian",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "strawberry farmer phone number english exam student peking duck",
+   "headline": "A strawberry farmer’s real phone number ended up in a Chinese English exam, and one curious student finally came for dinner",
+   "id": "viral-2026-10-30-pm-strawberry-farmer-exam-phone-number",
+   "returning": false
+  },
+  {
+   "date": "2026-10-30",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next game islanders",
+   "headline": "Edmonton Oilers at New York Islanders",
+   "id": "story-2026-10-30-pm-oilers-next",
+   "returning": false
   }
  ]
 }
