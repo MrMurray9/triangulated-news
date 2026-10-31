@@ -3700,6 +3700,105 @@
    "headline": "Edmonton Oilers at New York Islanders",
    "id": "story-2026-10-31-am-oilers-next",
    "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "elections alberta electoral boundaries 2027 election delay",
+   "headline": "Alberta’s chief electoral officer tells MLAs to shelve the new riding map or push back the October 2027 election",
+   "id": "story-2026-10-31-pm-elections-alberta-delay-map-or-vote",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canadian banks block third-party personal ai agents rbc bmo td",
+   "headline": "Canada’s biggest banks shut personal AI agents out of online banking, starting with RBC",
+   "id": "story-2026-10-31-pm-rbc-td-bmo-block-personal-ai-agents",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "world",
+   "topic": "poland constitutional tribunal president suspended crisis",
+   "headline": "Poland’s top court splits in two as a judge suspends its chief, and protesters face police for a second night",
+   "id": "story-2026-10-31-pm-poland-top-court-chief-suspended",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "world",
+   "topic": "us patriot pac-3 interceptor sale ukraine canada germany norway",
+   "headline": "Washington clears a US$2.1-billion sale of 500 Patriot interceptors to Ukraine, paid for partly by Canada",
+   "id": "story-2026-10-31-pm-us-approves-patriot-sale-ukraine",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "business",
+   "topic": "doordash acquire instacart merger competition bureau",
+   "headline": "DoorDash agrees to buy Instacart for about US$17 billion, and Canada’s Competition Bureau will take a look",
+   "id": "story-2026-10-31-pm-doordash-instacart-deal-review",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "business",
+   "topic": "bank of japan inflation target reached rates hold",
+   "headline": "After 13 years of trying, the Bank of Japan says it has finally hit its 2% inflation goal",
+   "id": "story-2026-10-31-pm-boj-declares-inflation-target-met",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "science",
+   "topic": "university of tokyo mid-infrared photothermal 3d live cell chemical imaging",
+   "headline": "Science corner: a Tokyo microscope films the chemistry inside living cells in 3D, about 400 times faster than before",
+   "id": "story-2026-10-31-pm-video-rate-3d-chemical-cell-imaging",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "shared robots.txt ai training opt-out signal ietf",
+   "headline": "OpenAI, Google, Microsoft and Anthropic agree to honour one shared ‘don’t train on my site’ signal",
+   "id": "story-2026-10-31-pm-shared-ai-training-opt-out-signal",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai funding round target cut valuation",
+   "headline": "OpenAI trims its fundraising goal by US$10 billion as the AI stock slide makes investors cautious",
+   "id": "story-2026-10-31-pm-ai-lab-funding-round-target-cut",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "indonesian firefighters celebrate rain kalimantan wildfires",
+   "headline": "Firefighters in Borneo dance, jump and kiss the ground as rain finally falls after months of wildfire smoke",
+   "id": "viral-2026-10-31-pm-indonesia-firefighters-rain-joy",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers next game rangers",
+   "headline": "Edmonton Oilers at New York Rangers",
+   "id": "story-2026-10-31-pm-oilers-next",
+   "returning": false
   }
  ]
 }
