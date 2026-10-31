@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-10-30-evening",
+ "updated": "2026-10-31-morning",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -394,6 +394,14 @@
    "first_used": "2026-10-30",
    "editions": [
     "2026-10-30-evening"
+   ]
+  },
+  {
+   "text": "What do you call a ghost’s true love? His ghoul-friend.",
+   "normalized": "what do you call a ghosts true love his ghoul friend",
+   "first_used": "2026-10-31",
+   "editions": [
+    "2026-10-31-morning"
    ]
   }
  ],
@@ -868,6 +876,15 @@
    "first_used": "2026-10-30",
    "editions": [
     "2026-10-30-evening"
+   ]
+  },
+  {
+   "text": "“Double, double toil and trouble; / Fire burn and cauldron bubble.”",
+   "attribution": "William Shakespeare, Macbeth, Act 4, Scene 1",
+   "normalized": "double double toil and trouble fire burn and cauldron bubble",
+   "first_used": "2026-10-31",
+   "editions": [
+    "2026-10-31-morning"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "stories": [
   {
    "date": "2026-10-18",
@@ -3555,6 +3555,150 @@
    "topic": "oilers next game islanders",
    "headline": "Edmonton Oilers at New York Islanders",
    "id": "story-2026-10-30-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "education property tax single rate freeze three years nixon",
+   "headline": "Alberta will charge one education property tax rate everywhere and freeze it for three years, trimming about $99 million",
+   "id": "story-2026-10-31-am-education-property-tax-rate-freeze",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton bike lanes removal cost 150 170 million 132 avenue",
+   "headline": "Tearing out Edmonton’s bike lanes would cost $150 million to $170 million, city staff estimate, as a provincial bill looms",
+   "id": "story-2026-10-31-am-edmonton-bike-lane-removal-cost",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "roberts bank terminal 2 national interest port vancouver",
+   "headline": "Ottawa fast-tracks a $5.9-billion container terminal at the Port of Vancouver, aiming to open it four years sooner",
+   "id": "story-2026-10-31-am-roberts-bank-terminal-2-national-interest",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "supreme court moshfeghi zadeh dangerous driving momentary inattention new trial",
+   "headline": "Supreme Court orders a new trial in the crash that killed a Vancouver toddler, ruling a moment of inattention can be dangerous driving",
+   "id": "story-2026-10-31-am-scc-new-trial-momentary-inattention",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "world",
+   "topic": "congo ebola bundibugyo 5000 deaths",
+   "headline": "Congo’s Ebola outbreak passes 5,000 deaths, the second-largest on record, with no approved vaccine for this strain",
+   "id": "story-2026-10-31-am-congo-ebola-passes-5000-deaths",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "world",
+   "topic": "g20 foreign ministers atlanta no consensus lavrov photo",
+   "headline": "G20 foreign ministers wrap up in Atlanta with no joint statement, after Europe refused a group photo with Russia’s Lavrov",
+   "id": "story-2026-10-31-am-g20-atlanta-no-consensus-lavrov-photo",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "world",
+   "topic": "france youth protests third weekend cost of living 70000 police",
+   "headline": "France deploys 70,000 police for a third weekend of youth-led cost-of-living protests, on Halloween",
+   "id": "story-2026-10-31-am-france-third-weekend-protests-70000-police",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "world",
+   "topic": "western sahara minurso mandate expires veto us russia",
+   "headline": "The UN’s Western Sahara mission loses its mandate at midnight after the U.S. and Russia block each other’s plans",
+   "id": "story-2026-10-31-am-western-sahara-minurso-mandate-lapses",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "business",
+   "topic": "exxon chevron q3 refining diesel profits",
+   "headline": "Exxon and Chevron shares hit all-time highs as tight diesel supply swells refining profits",
+   "id": "story-2026-10-31-am-exxon-chevron-refining-profits-highs",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "business",
+   "topic": "gold one year low silver below 50 liquidation",
+   "headline": "Gold sinks below US$3,900 to a one-year low and silver drops under US$50, pulled down by the tech sell-off",
+   "id": "story-2026-10-31-am-gold-one-year-low-silver-under-50",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "science",
+   "topic": "robot moth artificial circulatory system grows uv sensor tartu",
+   "headline": "Science corner: a robot moth with artificial blood grows a brand-new light sensor where UV light hits its wing",
+   "id": "story-2026-10-31-am-robot-moth-grows-uv-sensor",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "google project suncatcher satellite tpu gemma orbit haiku",
+   "headline": "Google’s first data-centre satellite runs an AI model in orbit, and its first message home is a haiku",
+   "id": "story-2026-10-31-am-google-suncatcher-satellite-first-ai-response",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai teens weapons limits end violent chats",
+   "headline": "OpenAI will cut off chats that fixate on violence and hold back weapons details from teen users",
+   "id": "story-2026-10-31-am-openai-violence-teen-weapons-limits",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "walt red baron worker prank gofundme",
+   "headline": "A pizza delivery worker loses his cool at a $10 prank, and strangers raise more than half a million dollars for him",
+   "id": "viral-2026-10-31-am-walt-red-baron-prank-gofundme",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "visit norway spectacular toilets trump insult",
+   "headline": "Insulted by Trump, Norway’s tourism board answers with photos of its most stunning toilets",
+   "id": "viral-2026-10-31-am-visit-norway-spectacular-toilets",
+   "returning": false
+  },
+  {
+   "date": "2026-10-31",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next game islanders",
+   "headline": "Edmonton Oilers at New York Islanders",
+   "id": "story-2026-10-31-am-oilers-next",
    "returning": false
   }
  ]
