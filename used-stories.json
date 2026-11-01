@@ -3898,6 +3898,105 @@
    "headline": "A chocolate Lab named Tank becomes the chocolate in a s’more costume, and his glare wins 14 million views",
    "id": "viral-2026-11-01-am-tank-chocolate-lab-smore-costume",
    "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "cas ruling russia reinstated iihf world juniors edmonton red deer",
+   "headline": "A sports court lets Russia back into world hockey, and its federation says its next stop is the world juniors in Edmonton and Red Deer",
+   "id": "story-2026-11-01-pm-russia-world-juniors-alberta-cas",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "carney trump call formal trade talks resume keystone xl concept of a deal",
+   "headline": "Canada–U.S. trade talks are set to restart after a Carney–Trump call, and Trump says Keystone XL is part of the deal",
+   "id": "story-2026-11-01-pm-carney-trump-call-trade-talks-resume",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "poilievre letter budget demands diesel taxes gst fuel alto rail cancel",
+   "headline": "Poilievre’s budget wish list: no federal diesel tax until Canada Day, and cancel the Toronto–Quebec City fast train",
+   "id": "story-2026-11-01-pm-poilievre-budget-demands-diesel-alto",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "world",
+   "topic": "bulgaria presidential runoff yotova wins first female president gyurov concedes",
+   "headline": "Bulgaria elects its first woman president, Iliana Yotova, who wants dialogue with Russia",
+   "id": "story-2026-11-01-pm-bulgaria-yotova-wins-runoff",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "world",
+   "topic": "frankfurt riots looting gen z regelt protest 54 arrests 100 police injured",
+   "headline": "Germany’s “Gen Z” protests turn violent in Frankfurt: 17 shops damaged and more than 100 police hurt",
+   "id": "story-2026-11-01-pm-frankfurt-gen-z-protest-riots",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "world",
+   "topic": "mayon volcano eruption alert level 3 albay evacuees all saints day",
+   "headline": "Hundreds of Philippine families spend All Saints’ Day in shelters after Mayon volcano erupts",
+   "id": "story-2026-11-01-pm-mayon-eruption-albay-evacuees",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "business",
+   "topic": "aramco closes 49 percent stake humain pif 2.6 billion saudi ai",
+   "headline": "Oil giant Aramco closes a US$2.6-billion deal for 49% of Saudi Arabia’s national AI company",
+   "id": "story-2026-11-01-pm-aramco-humain-49-percent-closes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "business",
+   "topic": "binance hack 6 3 billion north korea tradertraitor fbi attribution",
+   "headline": "The FBI now blames North Korea for the record US$6.3-billion Binance heist",
+   "id": "story-2026-11-01-pm-binance-heist-fbi-north-korea",
+   "returning": true
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "science",
+   "topic": "egyptian blue pigment nanosheets near-infrared glow brain mice",
+   "headline": "Science corner: a 4,500-year-old Egyptian paint, rebuilt as glowing flakes that light up the living brain",
+   "id": "story-2026-11-01-pm-egyptian-blue-nanosheets-brain-glow",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "deepseek dsh-superagent open source coding agent router worker github mit",
+   "headline": "DeepSeek open-sources an always-on coding agent that waits in a GitHub repo and answers with pull requests",
+   "id": "story-2026-11-01-pm-deepseek-dsh-superagent-open-source",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "florida teachers bench bus stop girl little library tiktok viral",
+   "headline": "A student kept sitting in the dirt at a bus stop, so the couple who lived there built her a bench, then a little library",
+   "id": "viral-2026-11-01-pm-florida-bus-stop-bench-library",
+   "returning": false
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-01-morning",
+ "updated": "2026-11-01-evening",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -418,6 +418,14 @@
    "first_used": "2026-11-01",
    "editions": [
     "2026-11-01-morning"
+   ]
+  },
+  {
+   "text": "Why did the arena get so chilly after the game? All the fans left.",
+   "normalized": "why did the arena get so chilly after the game all the fans left",
+   "first_used": "2026-11-01",
+   "editions": [
+    "2026-11-01-evening"
    ]
   }
  ],
@@ -919,6 +927,15 @@
    "first_used": "2026-11-01",
    "editions": [
     "2026-11-01-morning"
+   ]
+  },
+  {
+   "text": "“A thing of beauty is a joy for ever.”",
+   "attribution": "John Keats, Endymion (1818), Book I, line 1",
+   "normalized": "a thing of beauty is a joy for ever",
+   "first_used": "2026-11-01",
+   "editions": [
+    "2026-11-01-evening"
    ]
   }
  ]
