@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "stories": [
   {
    "date": "2026-10-18",
@@ -3798,6 +3798,105 @@
    "topic": "oilers next game rangers",
    "headline": "Edmonton Oilers at New York Rangers",
    "id": "story-2026-10-31-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta school flag display regulation pride flags pflag canada january 4",
+   "headline": "Pflag Canada says Alberta’s new school flag rules will effectively ban Pride flags from January",
+   "id": "story-2026-11-01-am-pflag-school-flag-regulation",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "enoch cree nation 166 homes groundbreaking canada infrastructure bank loan",
+   "headline": "Enoch Cree Nation breaks ground on 166 family homes just west of Edmonton, the first step toward 500",
+   "id": "story-2026-11-01-am-enoch-cree-166-homes-groundbreaking",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "federal deficit first five months 2026-27 fiscal monitor 5.36 billion",
+   "headline": "Ottawa’s deficit for the first five months of the year is less than half last year’s, at $5.36 billion",
+   "id": "story-2026-11-01-am-federal-deficit-halves-fiscal-monitor",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "world",
+   "topic": "iran araghchi hormuz reopen two days qatar mediators conditions",
+   "headline": "Iran says it could reopen the Strait of Hormuz within two days, if Washington meets its terms",
+   "id": "story-2026-11-01-am-iran-hormuz-two-day-reopening-offer",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "world",
+   "topic": "us midterms early voting record 50 million ballots",
+   "headline": "More than 50 million Americans have already voted ahead of Tuesday’s midterms, a record",
+   "id": "story-2026-11-01-am-us-midterm-early-ballots-record",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "world",
+   "topic": "taiwan pride parade taipei 150000 marchers 24th",
+   "headline": "About 150,000 people march through Taipei for Taiwan Pride, calling for an end to stigma seven years after marriage equality",
+   "id": "story-2026-11-01-am-taiwan-pride-150000-taipei",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "business",
+   "topic": "opec+ seven members hold december production september levels",
+   "headline": "OPEC+ holds oil output flat for December, with Brent near US$118 and Hormuz still closed",
+   "id": "story-2026-11-01-am-opec-plus-december-output-steady",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "science",
+   "topic": "eth zurich echo implant electrocatalytic glucose gluconate diabetes mice science",
+   "headline": "Science corner: a USB-stick-sized implant that burns off extra blood sugar with a dash of electricity",
+   "id": "story-2026-11-01-am-eth-zurich-echo-glucose-implant",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "anthropic beacon data centers sturgeon county hyperscale campus lease talks",
+   "headline": "Anthropic is negotiating to lease an 800-megawatt AI data-centre campus in Sturgeon County, sources say",
+   "id": "story-2026-11-01-am-anthropic-sturgeon-county-campus-talks",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "apple intelligence china ios 27.3 alibaba qwen beta november 4",
+   "headline": "Apple Intelligence finally reaches China, with Alibaba’s Qwen built into Siri, in a beta starting Wednesday",
+   "id": "story-2026-11-01-am-apple-intelligence-china-alibaba-qwen",
+   "returning": false
+  },
+  {
+   "date": "2026-11-01",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "tank chocolate labrador smore halloween costume viral",
+   "headline": "A chocolate Lab named Tank becomes the chocolate in a s’more costume, and his glare wins 14 million views",
+   "id": "viral-2026-11-01-am-tank-chocolate-lab-smore-costume",
    "returning": false
   }
  ]
