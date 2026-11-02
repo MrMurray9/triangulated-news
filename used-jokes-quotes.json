@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-01-evening",
+ "updated": "2026-11-02-morning",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -426,6 +426,14 @@
    "first_used": "2026-11-01",
    "editions": [
     "2026-11-01-evening"
+   ]
+  },
+  {
+   "text": "What do you call a sleeping bull? A bulldozer.",
+   "normalized": "what do you call a sleeping bull a bulldozer",
+   "first_used": "2026-11-02",
+   "editions": [
+    "2026-11-02-morning"
    ]
   }
  ],
@@ -936,6 +944,15 @@
    "first_used": "2026-11-01",
    "editions": [
     "2026-11-01-evening"
+   ]
+  },
+  {
+   "text": "“Why, sometimes I’ve believed as many as six impossible things before breakfast.”",
+   "attribution": "Lewis Carroll, Through the Looking-Glass (1871), Chapter 5 (the White Queen); text verified against the Project Gutenberg edition",
+   "normalized": "why sometimes ive believed as many as six impossible things before breakfast",
+   "first_used": "2026-11-02",
+   "editions": [
+    "2026-11-02-morning"
    ]
   }
  ]

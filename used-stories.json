@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "stories": [
   {
    "date": "2026-10-18",
@@ -3996,6 +3996,105 @@
    "topic": "florida teachers bench bus stop girl little library tiktok viral",
    "headline": "A student kept sitting in the dirt at a bus stop, so the couple who lived there built her a bench, then a little library",
    "id": "viral-2026-11-01-pm-florida-bus-stop-bench-library",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta time abt first workday permanent daylight phones wrong time telus",
+   "headline": "Alberta’s first workday on permanent “Alberta Time”: darker school mornings, a one-hour gap to Toronto, and some phones still showing the wrong hour",
+   "id": "story-2026-11-02-am-alberta-time-first-workday",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "elections alberta electoral boundaries 2027 election delay amery rejects report tabled",
+   "headline": "Justice minister refuses to delay Alberta’s 2027 election, as the disputed riding-map report heads to the legislature",
+   "id": "story-2026-11-02-am-amery-rejects-election-delay-boundaries-report",
+   "returning": true
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "six federal byelections december 7 yorkton melville scarborough brantford quebec",
+   "headline": "Six federal byelections set for Dec. 7, from Saskatchewan’s Yorkton–Melville to three Quebec seats",
+   "id": "story-2026-11-02-am-six-federal-byelections-dec-7",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "world",
+   "topic": "yemen 300000 displaced iom lahj taiz aden fighting",
+   "headline": "More than 300,000 Yemenis forced from their homes in two months as fighting flares in the west, UN migration agency says",
+   "id": "story-2026-11-02-am-yemen-300000-displaced-iom",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "world",
+   "topic": "oleshky local truce expires kherson evacuations 167 civilians",
+   "headline": "Kherson braces for shelling again as the six-day Oleshky truce expires, after Ukraine moves 167 civilians to safety",
+   "id": "story-2026-11-02-am-oleshky-truce-ends-kherson-evacuations",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "business",
+   "topic": "marvell acquire lumentum 115 billion all stock optical ai",
+   "headline": "Marvell agrees to buy laser maker Lumentum in a US$115-billion all-stock bet on AI data-centre links",
+   "id": "story-2026-11-02-am-marvell-lumentum-115-billion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "business",
+   "topic": "affle acquire perion take private 420 million ad tech",
+   "headline": "India’s Affle will take Israeli ad-tech firm Perion private for US$420 million in cash",
+   "id": "story-2026-11-02-am-affle-perion-420-million",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "science",
+   "topic": "nus eluminator electronic skin light pressure map nature communications",
+   "headline": "Science corner: a paper-thin electronic skin that draws a picture of every touch in light",
+   "id": "story-2026-11-02-am-nus-eluminator-light-touch-e-skin",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "sensetime sensenova loop 9b open source looped decoder",
+   "headline": "SenseTime gives away a 9-billion-parameter model that runs its own layers twice to think deeper",
+   "id": "story-2026-11-02-am-sensetime-sensenova-loop-9b",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "yunnan orphan xu chenghong wedding strangers douyin thousands",
+   "headline": "An orphan in China with almost no family invited strangers to his wedding, and thousands drove to his mountain village to celebrate",
+   "id": "viral-2026-11-02-am-yunnan-orphan-wedding-strangers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-02",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next game devils",
+   "headline": "Edmonton Oilers at New Jersey Devils",
+   "id": "story-2026-11-02-am-oilers-next",
    "returning": false
   }
  ]
