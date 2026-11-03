@@ -1,6 +1,6 @@
 {
   "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
-  "updated": "2026-11-02T17:16-06:00",
+  "updated": "2026-11-03T06:15-06:00",
   "stories": [
     {
       "date": "2026-10-18",
@@ -4194,6 +4194,96 @@
       "topic": "oilers next game devils",
       "headline": "Edmonton Oilers at New Jersey Devils",
       "id": "story-2026-11-02-pm-oilers-next",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "alberta",
+      "topic": "porter airlines edmonton puerto vallarta phoenix los cabos las vegas first international flights alberta",
+      "headline": "Porter flies its first international routes from Alberta starting today, with Edmonton to Puerto Vallarta",
+      "id": "story-2026-11-03-am-porter-first-international-flights-alberta",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "canada",
+      "topic": "champagne federal budget small medium business tax simplification sr&ed canadian club",
+      "headline": "Champagne promises Thursday’s federal budget will simplify taxes for small and medium-sized businesses",
+      "id": "story-2026-11-03-am-champagne-budget-small-business-tax",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "world",
+      "topic": "komyshuvakha zaporizhzhia aid centre shelter russian glide bombs 31 dead",
+      "headline": "Russian bombs destroy a Ukrainian aid centre and its shelter in Zaporizhzhia, killing at least 31",
+      "id": "story-2026-11-03-am-komyshuvakha-aid-centre-bombing",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "world",
+      "topic": "belgium de wever resignation budget talks collapse king philippe consultations",
+      "headline": "Belgian PM De Wever offers to resign after budget talks collapse, and the King puts the decision on hold",
+      "id": "story-2026-11-03-am-belgium-de-wever-offers-resignation",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "world",
+      "topic": "supermarket fridges freezers cyberattack defrost belgium ireland sweden europe danfoss",
+      "headline": "Cyberattack switches supermarket fridges to defrost overnight in at least nine European countries",
+      "id": "story-2026-11-03-am-supermarket-fridge-cyberattack-europe",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "business",
+      "topic": "ryanair half year profit falls 15 percent fuel costs pay freeze crew o leary",
+      "headline": "Ryanair’s half-year profit falls 15% as fuel costs double, and it weighs pay freezes and smaller cabin crews",
+      "id": "story-2026-11-03-am-ryanair-h1-profit-fuel-costs",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "science",
+      "topic": "osaka automated robot perovskite solar cell film machine learning droplet imaging acs nano",
+      "headline": "Science corner: a robot that watches solar-cell films form in milliseconds, then learns how to make better ones",
+      "id": "story-2026-11-03-am-osaka-robot-perovskite-solar-film",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "ai",
+      "topic": "openai grid protectors program data centre demand response effingham georgia power gigawatt",
+      "headline": "OpenAI pledges to cut up to a gigawatt of data-centre power use whenever the grid is under strain, starting in Georgia",
+      "id": "story-2026-11-03-am-openai-grid-protectors-georgia",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "viral",
+      "topic": "mount tai robot climbing competition humanoid robot dog eggs watermelons china viral",
+      "headline": "Robots raced up China’s Mount Tai carrying eggs and watermelons, and a few of them tumbled down the stairs",
+      "id": "viral-2026-11-03-am-mount-tai-robot-climb",
+      "returning": false
+    },
+    {
+      "date": "2026-11-03",
+      "edition": "morning",
+      "section": "oilers",
+      "topic": "oilers next game devils tonight",
+      "headline": "Edmonton Oilers at New Jersey Devils",
+      "id": "story-2026-11-03-am-oilers-next",
       "returning": false
     }
   ]

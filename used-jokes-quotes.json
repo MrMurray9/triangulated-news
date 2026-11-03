@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-11-02-morning",
+  "updated": "2026-11-03-morning",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -442,6 +442,14 @@
       "first_used": "2026-11-02",
       "editions": [
         "2026-11-02-evening"
+      ]
+    },
+    {
+      "text": "Why do cows wear bells? Because their horns don’t work.",
+      "normalized": "why do cows wear bells because their horns dont work",
+      "first_used": "2026-11-03",
+      "editions": [
+        "2026-11-03-morning"
       ]
     }
   ],
@@ -970,6 +978,15 @@
       "first_used": "2026-11-02",
       "editions": [
         "2026-11-02-evening"
+      ]
+    },
+    {
+      "text": "I dwell in Possibility – / A fairer House than Prose –",
+      "attribution": "Emily Dickinson, “I dwell in Possibility” (c. 1862)",
+      "normalized": "i dwell in possibility a fairer house than prose",
+      "first_used": "2026-11-03",
+      "editions": [
+        "2026-11-03-morning"
       ]
     }
   ]
