@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-04T06:15-06:00",
+ "updated": "2026-11-04T16:19-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -4491,6 +4491,114 @@
    "topic": "oilers lost shootout devils home anaheim thursday vancouver rangers",
    "headline": "Anaheim Ducks at Edmonton Oilers",
    "id": "story-2026-11-04-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta eps cellphone scam lahore call centres",
+   "headline": "Edmonton police say a phone-delivery scam run from Pakistani call centres has cost Edmontonians an estimated $20 million",
+   "id": "story-2026-11-04-pm-alberta-eps-cellphone-scam-lahore-call-centres",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta de havilland dhc515 second line edc loans",
+   "headline": "Ottawa backs De Havilland with up to $2.5 billion in loans to double water-bomber output, adding about 1,200 jobs",
+   "id": "story-2026-11-04-pm-alberta-de-havilland-dhc515-second-line-edc-loans",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada china tariff relief canola peas lobster 2028",
+   "headline": "China keeps tariffs off Canadian canola meal, peas and lobster until the end of 2028, and Canada extends a steel break in return",
+   "id": "story-2026-11-04-pm-canada-china-tariff-relief-canola-peas-lobster-2028",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada bella coola grizzly mother daughter killed",
+   "headline": "A mother and daughter are killed in a suspected grizzly attack near Bella Coola, B.C., and officers say more than one bear may be involved",
+   "id": "story-2026-11-04-pm-canada-bella-coola-grizzly-mother-daughter-killed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "world",
+   "topic": "world abu dhabi trilateral ukraine talks nov 10",
+   "headline": "Russia confirms it will send negotiators to U.S.-brokered talks with Ukraine in Abu Dhabi next week, the first such round since February",
+   "id": "story-2026-11-04-pm-world-abu-dhabi-trilateral-ukraine-talks-nov-10",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "world",
+   "topic": "world serbia police detained garage abuse protesters",
+   "headline": "Serbia detains elite police officers accused of torturing protesters in a government garage during last year’s anti-corruption demonstrations",
+   "id": "story-2026-11-04-pm-world-serbia-police-detained-garage-abuse-protesters",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "world",
+   "topic": "world ebola british health worker evacuated uk",
+   "headline": "Ebola reaches a British patient for the first time in this outbreak as a health worker is flown from Congo to the U.K.",
+   "id": "story-2026-11-04-pm-world-ebola-british-health-worker-evacuated-uk",
+   "returning": true
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "business",
+   "topic": "cvs split aetna caremark drugstores",
+   "headline": "CVS will break itself in two, splitting Aetna and Caremark from its 9,000 drugstores a decade after the Aetna megamerger",
+   "id": "story-2026-11-04-pm-cvs-split-aetna-caremark-drugstores",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science flip webb digital twin exoplanet imaging",
+   "headline": "Science corner: a software “twin” of the Webb telescope pulls a faint planet out of the starlight in two-year-old data",
+   "id": "story-2026-11-04-pm-science-flip-webb-digital-twin-exoplanet-imaging",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "ai google classroom search off default students",
+   "headline": "Google will switch Gemini and even Google Search off by default for K-12 student accounts, but schools can’t turn on Search without its AI",
+   "id": "story-2026-11-04-pm-ai-google-classroom-search-off-default-students",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral layla clark thunderstruck mallets",
+   "headline": "A Pittsburgh-area marching-band senior nails AC/DC’s “Thunderstruck” riff on mallets, and the clip passes 5 million views",
+   "id": "story-2026-11-04-pm-viral-layla-clark-thunderstruck-mallets",
+   "returning": false
+  },
+  {
+   "date": "2026-11-04",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers anaheim thursday homestand vancouver rangers philadelphia",
+   "headline": "Anaheim Ducks at Edmonton Oilers",
+   "id": "story-2026-11-04-pm-oilers-next",
    "returning": false
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-04T06:15-06:00",
+ "updated": "2026-11-04T16:19-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -466,6 +466,14 @@
    "first_used": "2026-11-04",
    "editions": [
     "2026-11-04-morning"
+   ]
+  },
+  {
+   "text": "What do clouds wear under their shorts? Thunderwear.",
+   "normalized": "what do clouds wear under their shorts thunderwear",
+   "first_used": "2026-11-04",
+   "editions": [
+    "2026-11-04-evening"
    ]
   }
  ],
@@ -1021,6 +1029,15 @@
    "first_used": "2026-11-04",
    "editions": [
     "2026-11-04-morning"
+   ]
+  },
+  {
+   "text": "There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.",
+   "attribution": "Jane Austen, Pride and Prejudice (1813), Elizabeth Bennet, Chapter 31",
+   "normalized": "there is a stubbornness about me that never can bear to be frightened at the will of others my courage always rises with every attempt to intimidate me",
+   "first_used": "2026-11-04",
+   "editions": [
+    "2026-11-04-evening"
    ]
   }
  ]
