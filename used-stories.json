@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-05T06:12-06:00",
+ "updated": "2026-11-05T16:08-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -4725,6 +4725,123 @@
    "topic": "oilers anaheim ducks tonight homestand vancouver rangers philadelphia",
    "headline": "Anaheim Ducks at Edmonton Oilers",
    "id": "story-2026-11-05-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta new licence plate moraine lake strong and free motto registry november 9",
+   "headline": "Alberta unveils its first new licence plate in more than 40 years: Moraine Lake, and a “Strong and Free” motto",
+   "id": "story-2026-11-05-pm-alberta-licence-plate-moraine-lake-strong-free",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta optometrists scope expansion laser minor surgery ophthalmologists pushback justin wright glaucoma",
+   "headline": "Eye surgeons ask Alberta to reverse a new rule letting trained optometrists do laser treatments and minor surgery; the minister says no",
+   "id": "story-2026-11-05-pm-alberta-optometrists-laser-surgery-ophthalmologists-pushback",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 39 health statutes amendment compassionate intervention involuntary addiction treatment beds psychiatric nurses lab tests",
+   "headline": "Bill 39 rewrites how Alberta’s involuntary addiction-treatment law will work before it opens next spring, and ends funding for some lab tests",
+   "id": "story-2026-11-05-pm-alberta-bill-39-compassionate-intervention-changes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada nanos ctv poll immigration levels 2027 fewer permanent temporary residents 52 percent",
+   "headline": "Most Canadians still want fewer newcomers in 2027: 52% back lower immigration levels, a Nanos poll finds",
+   "id": "story-2026-11-05-pm-canada-nanos-immigration-fewer-arrivals-2027",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada federal budget 2026 champagne carney november 5 deficit 62.3 billion productivity mega deduction groceries benefit",
+   "headline": "Ottawa projects a $62.3-billion deficit in “Masters of our Destiny,” pairing a 50% grocery-benefit boost with $36 billion in business write-offs",
+   "id": "story-2026-11-05-pm-canada-budget-62-billion-deficit-supercycle",
+   "returning": true
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "joshua kutryk second spacewalk iss crew-13 anil menon eighth rollout solar array nasa csa complete",
+   "headline": "Done in 6 hours 59 minutes: Kutryk and Menon bolt on the ISS’s eighth and final new solar array",
+   "id": "story-2026-11-05-pm-canada-kutryk-final-solar-array-installed",
+   "returning": true
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "world",
+   "topic": "paraguay president santiago pena resigns impeached ueno bank collapse savings frozen alliana",
+   "headline": "Paraguay’s president quits, then is impeached 78–0, after a bank tied to him collapses and freezes the savings of 3 million people",
+   "id": "story-2026-11-05-pm-world-paraguay-pena-resigns-ueno-bank",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "business",
+   "topic": "nasdaq plunges 5.5 percent chip stocks rout qualcomm nvidia amd micron correction s&p 500 4.4 dow",
+   "headline": "Nasdaq plunges 5.5%, its worst day since April 2025, as a Qualcomm warning sets off a chip-stock wipeout",
+   "id": "story-2026-11-05-pm-business-nasdaq-chip-rout-correction-qualcomm-nvidia",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "business",
+   "topic": "bank of england raises bank rate 4 percent first hike since 2023 bailey energy inflation iran war",
+   "headline": "Bank of England raises rates to 4%, its first hike in more than three years, and warns another may follow",
+   "id": "story-2026-11-05-pm-business-bank-of-england-hike-4-percent",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner ohio state scentronic ai e-nose wearable scent release olfactory interface science advances jinghua li",
+   "headline": "Science corner: Scentronic, an AI “e-nose” and a scent-puffing wristband that can send a smell over the internet",
+   "id": "story-2026-11-05-pm-science-scentronic-e-nose-wearable-smell",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "meta acquires conductor ai coding startup parallel agents charlie holtz superintelligence labs muse code cloud shutdown november 20",
+   "headline": "Meta buys Conductor, a two-year-old startup that runs teams of AI coding agents side by side, and its cloud service shuts Nov. 20",
+   "id": "story-2026-11-05-pm-ai-meta-buys-conductor-parallel-coding-agents",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral snl uk nigerian wicked cynthia erivo nollywood sketch youtube 7 million views",
+   "headline": "SNL UK’s “Nigerian Wicked,” a Nollywood-style spoof with Cynthia Erivo as Glinda, passes 7 million YouTube views",
+   "id": "story-2026-11-05-pm-viral-snl-uk-nigerian-wicked-youtube",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers anaheim ducks tonight homestand vancouver rangers philadelphia",
+   "headline": "Anaheim Ducks at Edmonton Oilers",
+   "id": "story-2026-11-05-pm-oilers-next",
    "returning": false
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-05T06:12-06:00",
+ "updated": "2026-11-05T16:08-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -482,6 +482,14 @@
    "first_used": "2026-11-05",
    "editions": [
     "2026-11-05-morning"
+   ]
+  },
+  {
+   "text": "What did one plate say to the other? Dinner’s on me.",
+   "normalized": "what did one plate say to the other dinners on me",
+   "first_used": "2026-11-05",
+   "editions": [
+    "2026-11-05-evening"
    ]
   }
  ],
@@ -1055,6 +1063,15 @@
    "first_used": "2026-11-05",
    "editions": [
     "2026-11-05-morning"
+   ]
+  },
+  {
+   "text": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+   "attribution": "Stephen King, Rita Hayworth and Shawshank Redemption, in Different Seasons (1982)",
+   "normalized": "hope is a good thing maybe the best of things and no good thing ever dies",
+   "first_used": "2026-11-05",
+   "editions": [
+    "2026-11-05-evening"
    ]
   }
  ]
