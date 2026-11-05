@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-04T16:19-06:00",
+ "updated": "2026-11-05T06:12-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -474,6 +474,14 @@
    "first_used": "2026-11-04",
    "editions": [
     "2026-11-04-evening"
+   ]
+  },
+  {
+   "text": "How do you make a tissue dance? Put a little boogie in it.",
+   "normalized": "how do you make a tissue dance put a little boogie in it",
+   "first_used": "2026-11-05",
+   "editions": [
+    "2026-11-05-morning"
    ]
   }
  ],
@@ -1038,6 +1046,15 @@
    "first_used": "2026-11-04",
    "editions": [
     "2026-11-04-evening"
+   ]
+  },
+  {
+   "text": "Do I dare disturb the universe?",
+   "attribution": "T. S. Eliot, The Love Song of J. Alfred Prufrock (1915)",
+   "normalized": "do i dare disturb the universe",
+   "first_used": "2026-11-05",
+   "editions": [
+    "2026-11-05-morning"
    ]
   }
  ]

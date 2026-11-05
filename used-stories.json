@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-04T16:19-06:00",
+ "updated": "2026-11-05T06:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -4599,6 +4599,132 @@
    "topic": "oilers anaheim thursday homestand vancouver rangers philadelphia",
    "headline": "Anaheim Ducks at Edmonton Oilers",
    "id": "story-2026-11-04-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta ucp electoral boundaries map motion amery nenshi gerrymander hybrid ridings lethbridge calgary 91 seats",
+   "headline": "UCP MLAs vote to turn Alberta’s contested 91-seat riding map into a bill, as Nenshi vows a court fight",
+   "id": "story-2026-11-05-am-alberta-ucp-electoral-map-motion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton city budget 2027-2030 knack 4.9 percent property tax increase snow clearing police fire halls",
+   "headline": "Mayor Knack backs Edmonton’s draft budget with a 4.9% property-tax hike for 2027, saying about $20 a month more buys real services",
+   "id": "story-2026-11-05-am-alberta-edmonton-budget-tax-4-9",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "joshua kutryk second spacewalk iss crew-13 anil menon eighth rollout solar array nasa csa november 5",
+   "headline": "Canadian astronaut Joshua Kutryk heads outside the ISS today for his second spacewalk, to finish the station’s solar-array upgrade",
+   "id": "story-2026-11-05-am-canada-kutryk-second-spacewalk-iss-solar",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada federal budget 2026 champagne carney november 5 economists fiscal restraint oil windfall defense spending",
+   "headline": "Budget day in Ottawa: Champagne tables Carney’s second budget this afternoon as economists warn against spending the oil windfall",
+   "id": "story-2026-11-05-am-canada-budget-day-economists-restraint",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "world",
+   "topic": "europe bomb threats flights diverted aer lingus dublin rome wizz air ryanair copenhagen helsinki madrid milan warsaw hoax",
+   "headline": "More than a dozen European flights divert or land early after a fresh wave of bomb threats, the second scare this week",
+   "id": "story-2026-11-05-am-world-europe-flight-bomb-threats-diverted",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "world",
+   "topic": "persian gulf qatar tanker projectiles ukmto hormuz irgc oil tankers tugboat mines iran war",
+   "headline": "A tanker is hit by projectiles off Qatar while Iran’s Guard says two oil tankers and a tug caught fire in the Strait of Hormuz",
+   "id": "story-2026-11-05-am-world-hormuz-qatar-tanker-projectiles-irgc",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "business",
+   "topic": "organigram aurora cannabis friendly takeover 561 million curaleaf hostile edmonton bat atb",
+   "headline": "Organigram agrees to buy Edmonton-based Aurora Cannabis for about $561-million, topping Curaleaf’s hostile bid",
+   "id": "story-2026-11-05-am-organigram-aurora-takeover",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "business",
+   "topic": "brent crude oil below 100 midterms iran war de-escalation bets wti jp morgan surplus",
+   "headline": "Brent slides back under US$100 as traders bet the U.S. midterm rout cools Iran-war escalation risk",
+   "id": "story-2026-11-05-am-oil-brent-below-100-midterms",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner autodna shanghai jiao tong university ai agents robotic biology lab dna synthesis sequencing nature",
+   "headline": "Science corner: a Shanghai “self-driving” biology lab where AI agents and robots run DNA experiments from a single prompt",
+   "id": "story-2026-11-05-am-science-autodna-shanghai-self-driving-lab",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai images 2.6 gpt-image-2.6 flare sunburst gif svg complexity parameter chatgpt api november 4",
+   "headline": "OpenAI ships Images 2.6 with native GIFs, SVG export and a six-second “Flare” model for faster AI pictures",
+   "id": "story-2026-11-05-am-ai-openai-images-2-6-gif-svg",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral tennis racket contortionist odigie efe alex benin city nigeria x 23 million views usa today",
+   "headline": "A contortionist “stuck” in a tennis racket baffles the internet — and the man who filmed it says the performer walked it off",
+   "id": "story-2026-11-05-am-viral-tennis-racket-contortionist-x",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral chance dunaway sand springs oklahoma halloween candy bowl refill doorbell facebook",
+   "headline": "A Sand Springs 12-year-old refills a stranger’s empty Halloween bowl with his own candy — then still says “trick or treat”",
+   "id": "story-2026-11-05-am-viral-chance-dunaway-candy-bowl-facebook",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral elmo sesame street election day 2026 love message instagram usa today",
+   "headline": "Elmo drops a simple Election Day reminder — “Elmo loves you” — and exhausted voters reply in droves",
+   "id": "story-2026-11-05-am-viral-elmo-election-day-instagram",
+   "returning": false
+  },
+  {
+   "date": "2026-11-05",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers anaheim ducks tonight homestand vancouver rangers philadelphia",
+   "headline": "Anaheim Ducks at Edmonton Oilers",
+   "id": "story-2026-11-05-am-oilers-next",
    "returning": false
   }
  ]
