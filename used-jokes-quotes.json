@@ -499,6 +499,14 @@
       "editions": [
         "2026-11-06-morning"
       ]
+    },
+    {
+      "text": "I told my computer I needed a break, and now it won’t stop sending me KitKat ads.",
+      "normalized": "i told my computer i needed a break and now it won t stop sending me kitkat ads",
+      "first_used": "2026-11-06",
+      "editions": [
+        "2026-11-06-evening"
+      ]
     }
   ],
   "quotes": [
@@ -1089,6 +1097,15 @@
       "first_used": "2026-11-06",
       "editions": [
         "2026-11-06-morning"
+      ]
+    },
+    {
+      "text": "“Try to be a rainbow in someone else’s cloud.”",
+      "attribution": "Maya Angelou, Letter to My Daughter (2008)",
+      "normalized": "try to be a rainbow in someone else s cloud",
+      "first_used": "2026-11-06",
+      "editions": [
+        "2026-11-06-evening"
       ]
     }
   ]
