@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-05T16:08-06:00",
+ "updated": "2026-11-06",
  "stories": [
   {
    "date": "2026-10-18",
@@ -4842,6 +4842,132 @@
    "topic": "oilers anaheim ducks tonight homestand vancouver rangers philadelphia",
    "headline": "Anaheim Ducks at Edmonton Oilers",
    "id": "story-2026-11-05-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta student aid parental income reversed",
+   "headline": "Alberta scraps parental income from student-aid math for 2026–27, and will reassess about 21,000 applications",
+   "id": "story-2026-11-06-am-alberta-student-aid-parental-income-reversed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta knack gerrymandering electoral map",
+   "headline": "Mayor Knack calls Alberta’s new 91-seat map “textbook gerrymandering,” pointing to Edmonton-Nisku’s odd borders",
+   "id": "story-2026-11-06-am-alberta-knack-gerrymandering-electoral-map",
+   "returning": true
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada boc renews 2 percent inflation target 2031",
+   "headline": "Bank of Canada and Ottawa renew the 2% inflation target through 2031, keeping the 1–3% control range",
+   "id": "story-2026-11-06-am-canada-boc-renews-2-percent-inflation-target-2031",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada temp residents pr pathway 200000",
+   "headline": "Ottawa will process permanent residency for 200,000 temporary residents already in the country",
+   "id": "story-2026-11-06-am-canada-temp-residents-pr-pathway-200000",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world france cost of living protests 600000",
+   "headline": "About 600,000 people march across France over living costs as unions back a day of strikes",
+   "id": "story-2026-11-06-am-world-france-cost-of-living-protests-600000",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world sweden schengen internal border controls",
+   "headline": "Sweden will bring back internal Schengen border checks for six months starting Nov. 12",
+   "id": "story-2026-11-06-am-world-sweden-schengen-internal-border-controls",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world eisenkot mandate israel joint list",
+   "headline": "Joint List backing puts Gadi Eisenkot near a Knesset majority to form Israel’s next government",
+   "id": "story-2026-11-06-am-world-eisenkot-mandate-israel-joint-list",
+   "returning": true
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "business",
+   "topic": "osfi competition mandate cdic coverage 250k",
+   "headline": "Ottawa will give OSFI a secondary competition goal and aims to lift CDIC coverage to $250,000",
+   "id": "story-2026-11-06-am-osfi-competition-mandate-cdic-coverage-250k",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science piezoelectric toothbrush plaque",
+   "headline": "Science corner: a battery-free toothbrush that makes its own electricity to zap plaque bacteria",
+   "id": "story-2026-11-06-am-science-piezoelectric-toothbrush-plaque",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "ai gemini omni 12 flash 15s video",
+   "headline": "Google makes Gemini Omni 1.2 Flash generally available, with AI video clips up to 15 seconds",
+   "id": "story-2026-11-06-am-ai-gemini-omni-12-flash-15s-video",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral bengaluru wedding invites highway",
+   "headline": "Strangers stop on a Bengaluru highway to scoop up a man’s scattered wedding invitations",
+   "id": "story-2026-11-06-am-viral-bengaluru-wedding-invites-highway",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral california souvenir facebook friendship",
+   "headline": "A broken California travel souvenir turns into a Facebook friendship across the ocean",
+   "id": "story-2026-11-06-am-viral-california-souvenir-facebook-friendship",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral florida bus stop bench tiktok",
+   "headline": "A Florida couple builds a bus-stop bench — then a little library — for the schoolgirl at their driveway",
+   "id": "story-2026-11-06-am-viral-florida-bus-stop-bench-tiktok",
+   "returning": false
+  },
+  {
+   "date": "2026-11-06",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Vancouver Canucks at Edmonton Oilers",
+   "id": "story-2026-11-06-am-oilers-next",
    "returning": false
   }
  ]
