@@ -515,6 +515,14 @@
       "editions": [
         "2026-11-07-morning"
       ]
+    },
+    {
+      "text": "I asked the librarian if the library had any books on paranoia. She whispered, “They’re right behind you.”",
+      "normalized": "i asked the librarian if the library had any books on paranoia she whispered theyre right behind you",
+      "first_used": "2026-11-07",
+      "editions": [
+        "2026-11-07-evening"
+      ]
     }
   ],
   "quotes": [
@@ -1123,6 +1131,15 @@
       "first_used": "2026-11-07",
       "editions": [
         "2026-11-07-morning"
+      ]
+    },
+    {
+      "text": "“Ask not what your country can do for you — ask what you can do for your country.”",
+      "attribution": "John F. Kennedy, Inaugural address (Jan. 20, 1961); text per JFK Presidential Library",
+      "normalized": "ask not what your country can do for you ask what you can do for your country",
+      "first_used": "2026-11-07",
+      "editions": [
+        "2026-11-07-evening"
       ]
     }
   ]

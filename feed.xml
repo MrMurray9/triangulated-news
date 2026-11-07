@@ -5,8 +5,92 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 07 Nov 2026 06:14:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:18:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Saturday, November 7, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/edition</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Evening edition: triage doctors start in six Alberta ERs; a $2 stamp in 2027; Ottawa’s $22.1-billion supplementary estimates; the Kraków market-square shooting; Stephen Miller becomes Trump’s chief of staff; Airbnb’s blowout quarter; a cuff-free smartwatch hypertension check; an AI-found proof of the Aaronson–Ambainis conjecture; and Edmonton events.</description>
+    </item>
+    <item>
+      <title>Triage doctors are now working in six Alberta emergency rooms, the premier says, nearly a year after the Grey Nuns death</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-alberta-er-triage-doctors-six-sites</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-alberta-er-triage-doctors-six-sites</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Premier Danielle Smith said on her Saturday call-in radio show that physician triage teams were in place as of Saturday in six emergency departments. …</description>
+    </item>
+    <item>
+      <title>A stamp will cost $2 in 2027, up from $1.44, and then rise about 7% a year under the budget’s Canada Post plan</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-canada-stamp-price-2-dollars-2027</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-canada-stamp-price-2-dollars-2027</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>The federal budget says the price of a single domestic stamp will jump from $1.44 to $2 sometime in 2027, about a 40% increase, and then climb roughly 7% every year after that. …</description>
+    </item>
+    <item>
+      <title>Ottawa asks MPs for another $22.1 billion, led by icebreakers, Arctic satellites and child care</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-canada-supplementary-estimates-b-22-billion</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-canada-supplementary-estimates-b-22-billion</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Treasury Board President Shafqat Ali tabled Supplementary Estimates (B) for 2026–27 on Friday, asking Parliament to approve $22.1 billion in new voted spending. …</description>
+    </item>
+    <item>
+      <title>A gunman kills six people in Kraków’s Main Market Square, and police find three more bodies at his home</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-world-krakow-market-square-shooting</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-world-krakow-market-square-shooting</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>A Polish man drove into Kraków’s busy Main Market Square at about 3 p.m. …</description>
+    </item>
+    <item>
+      <title>Trump makes Stephen Miller his White House chief of staff, replacing Susie Wiles after the midterm defeat</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-world-stephen-miller-chief-of-staff</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-world-stephen-miller-chief-of-staff</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>President Donald Trump named Stephen Miller, his deputy chief of staff and the architect of his hard-line immigration agenda, as the 33rd White House chief of staff. …</description>
+    </item>
+    <item>
+      <title>Airbnb jumps about 12% after a blowout quarter, a $12-billion buyback and a promise of its own travel AI agent</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-airbnb-q3-beat-growth-mode-buyback</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-airbnb-q3-beat-growth-mode-buyback</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Airbnb said third-quarter revenue rose 19% to $4.87 billion, its fastest growth in three years, with earnings of $3.16 a share against the roughly $2.85 analysts expected. …</description>
+    </item>
+    <item>
+      <title>Science corner: a smartwatch that flags signs of high blood pressure without ever using a cuff</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-science-smartwatch-hypertension-no-cuff</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-science-smartwatch-hypertension-no-cuff</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Google Research scientists report in Nature that an AI model can spot signs of hypertension using only a consumer smartwatch’s optical pulse sensor and its motion sensor, plus the wearer’s height, without the cuff calibration that earlier wearables needed. …</description>
+    </item>
+    <item>
+      <title>An AI research system cracks an 18-year-old quantum-computing puzzle, the Aaronson–Ambainis conjecture, with a proof a computer has checked line by line</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-ai-psi-quantum-conjecture-lean-proof</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-ai-psi-quantum-conjecture-lean-proof</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Physical Superintelligence (PSI), a research lab, says its in-house AI system found a proof of the Aaronson–Ambainis conjecture on the third day of a run. …</description>
+    </item>
+    <item>
+      <title>Israel’s embassy in India plays “Chinese whispers” with a Diwali greeting, and it comes out hilariously mangled</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-viral-israel-embassy-diwali-whispers-x</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-viral-israel-embassy-diwali-whispers-x</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>In a clip posted on X by @IsraelinIndia, an Indian staffer whispers “Diwali ki shubhkamnaye” (Happy Diwali) to an Israeli diplomat, and the phrase is passed down a line of colleagues. …</description>
+    </item>
+    <item>
+      <title>A drone drops bananas to chimps stranded by Florida floodwater, and Kaleb, 38, digs right in</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-viral-save-the-chimps-drone-bananas-facebook</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-viral-save-the-chimps-drone-bananas-facebook</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>About 19 inches of rain left much of the 150-acre Save the Chimps sanctuary in Fort Pierce, Fla., underwater. …</description>
+    </item>
+    <item>
+      <title>An Ohio groom spends his vows swatting bees off his bride, and the clip of him “protecting” her takes off</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-07-pm-viral-ohio-groom-swats-bees-wedding-instagram</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-07/evening/story-2026-11-07-pm-viral-ohio-groom-swats-bees-wedding-instagram</guid>
+      <pubDate>Sat, 07 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Bees swarmed Andrew and Savannah Shelek’s outdoor ceremony at Glass on Enchanted Acres in Dennison, Ohio, last month. …</description>
+    </item>
         <item>
       <title>Jaryd’s News — Saturday, November 7, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
