@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -506,6 +506,14 @@
       "first_used": "2026-11-06",
       "editions": [
         "2026-11-06-evening"
+      ]
+    },
+    {
+      "text": "What’s a vampire’s favorite fruit? A neck-tarine.",
+      "normalized": "whats a vampires favorite fruit a neck tarine",
+      "first_used": "2026-11-07",
+      "editions": [
+        "2026-11-07-morning"
       ]
     }
   ],
@@ -1106,6 +1114,15 @@
       "first_used": "2026-11-06",
       "editions": [
         "2026-11-06-evening"
+      ]
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "attribution": "William James",
+      "normalized": "act as if what you do makes a difference it does",
+      "first_used": "2026-11-07",
+      "editions": [
+        "2026-11-07-morning"
       ]
     }
   ]

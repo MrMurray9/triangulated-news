@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5103,6 +5103,141 @@
    "topic": "oilers next",
    "headline": "Vancouver Canucks at Edmonton Oilers",
    "id": "story-2026-11-06-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta foothills highway 2a transfer",
+   "headline": "Alberta offers up to $5 million for Highway 2A intersections in a Foothills County road swap",
+   "id": "story-2026-11-07-am-alberta-foothills-highway-2a-transfer",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta menopause her strategy",
+   "headline": "Primary Care Alberta launches a menopause “HER Strategy” with Calgary partners, aiming for February release",
+   "id": "story-2026-11-07-am-alberta-menopause-her-strategy",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada tfw reforms 15 percent",
+   "headline": "Ottawa lengthens low-wage TFW permits to two years and lets provinces opt into a 15% hiring cap",
+   "id": "story-2026-11-07-am-canada-tfw-reforms-15-percent",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada rrsp for life",
+   "headline": "Budget 2026 floats an “RRSP for life,” ending the forced RRIF conversion at 71",
+   "id": "story-2026-11-07-am-canada-rrsp-for-life",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world nz election too close",
+   "headline": "New Zealand’s election ends in a cliffhanger as National and Labour sit nearly tied on party vote",
+   "id": "story-2026-11-07-am-world-nz-election-too-close",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world iran missile range limit",
+   "headline": "Iran’s Revolutionary Guard says it has lifted its self-imposed 2,000-km missile-range limit",
+   "id": "story-2026-11-07-am-world-iran-missile-range-limit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "business",
+   "topic": "spacex dual catch nov13",
+   "headline": "SpaceX targets Nov. 13 to catch both Super Heavy and Starship with tower “chopsticks”",
+   "id": "story-2026-11-07-am-spacex-dual-catch-nov13",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science chemeleon mit",
+   "headline": "Science corner: MIT’s CheMeleon predicts how molecules behave when lab data are scarce",
+   "id": "story-2026-11-07-am-science-chemeleon-mit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "ai anthropic ipo valuation cut",
+   "headline": "Anthropic’s IPO talk cools to about $1.2–$1.3 trillion after the tech sell-off",
+   "id": "story-2026-11-07-am-ai-anthropic-ipo-valuation-cut",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral punjab suthra bollywood x",
+   "headline": "Suthra Punjab crew’s Bollywood break mid-shift becomes an X feel-good hit",
+   "id": "story-2026-11-07-am-viral-punjab-suthra-bollywood-x",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral warriors pride anthem x",
+   "headline": "Pride Night anthem singer waves a rainbow flag — and a clip of Warriors players reacting clears 4 million views",
+   "id": "story-2026-11-07-am-viral-warriors-pride-anthem-x",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral smurf reunion facebook",
+   "headline": "Smurf the airport runaway is home after Johannesburg Facebook networks tracked him down",
+   "id": "story-2026-11-07-am-viral-smurf-reunion-facebook",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral kentucky roman horseys facebook",
+   "headline": "Kentucky trail riders find missing Roman, 6, after he steps out saying “E-I-E-I-O horsey”",
+   "id": "story-2026-11-07-am-viral-kentucky-roman-horseys-facebook",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral cobb firefighters puppies",
+   "headline": "Cobb County firefighters help deliver 15 puppies a shift after pet-CPR class",
+   "id": "story-2026-11-07-am-viral-cobb-firefighters-puppies",
+   "returning": false
+  },
+  {
+   "date": "2026-11-07",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Vancouver Canucks at Edmonton Oilers",
+   "id": "story-2026-11-07-am-oilers-next",
    "returning": false
   }
  ]
