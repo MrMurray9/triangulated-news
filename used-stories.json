@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-07",
+ "updated": "2026-11-09",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5346,6 +5346,114 @@
    "topic": "oilers next",
    "headline": "Vancouver Canucks at Edmonton Oilers",
    "id": "story-2026-11-07-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta womens shelters cost of leaving",
+   "headline": "Most calls to Alberta women’s shelters don’t end in an admission, and a new report says many women can’t afford to leave",
+   "id": "story-2026-11-09-am-alberta-womens-shelters-cost-of-leaving",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta kennedy towers rent hike",
+   "headline": "Tenants at Old Strathcona’s Kennedy Towers push back on rent hikes of up to 60% from the building’s new owner",
+   "id": "story-2026-11-09-am-alberta-kennedy-towers-rent-hike",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada philippines asean free trade manila",
+   "headline": "Canada is set to close a free-trade deal with the Philippines at next week’s ASEAN summit in Manila",
+   "id": "story-2026-11-09-am-canada-philippines-asean-free-trade-manila",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world japan shizuoka aichi earthquake",
+   "headline": "A magnitude 5.7 quake jolts central Japan overnight, injuring 22 people and shattering shop windows",
+   "id": "story-2026-11-09-am-world-japan-shizuoka-aichi-earthquake",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world gaza winter storm tents flooded",
+   "headline": "Gaza’s first winter storm floods about 70,000 tents, and five people, four of them children, die when a sandbank collapses",
+   "id": "story-2026-11-09-am-world-gaza-winter-storm-tents-flooded",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world eisenkot mandate form government",
+   "headline": "Herzog formally hands Gadi Eisenkot the mandate, and he now has 28 days to form Israel’s next government",
+   "id": "story-2026-11-09-am-world-eisenkot-mandate-form-government",
+   "returning": true
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "business",
+   "topic": "business week ahead cpi tech rout",
+   "headline": "After the Nasdaq’s worst day since April 2025, investors look to Tuesday’s inflation report and CoreWeave’s earnings",
+   "id": "story-2026-11-09-am-business-week-ahead-cpi-tech-rout",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science gradient hydrogel eeg electrode",
+   "headline": "Science corner: a skin-like gel electrode that reads brain signals all day without the usual sticky-cap hassle",
+   "id": "story-2026-11-09-am-science-gradient-hydrogel-eeg-electrode",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "ai rebellions skt nvlink fusion korea",
+   "headline": "Nvidia opens its chip-linking tech to a Korean AI chip for the first time, pairing Rebellions’ R200 with its GPUs at SK Telecom",
+   "id": "story-2026-11-09-am-ai-rebellions-skt-nvlink-fusion-korea",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral panthers halftime corgi escape x",
+   "headline": "A corgi skips the halftime race at an NFL game and jukes about half a dozen handlers across the field",
+   "id": "story-2026-11-09-am-viral-panthers-halftime-corgi-escape-x",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral palm bay teens paddleboard flood rescue facebook",
+   "headline": "A trapped Florida mom posts on Facebook from her kitchen counter, and two teen brothers paddle over to rescue her, her son and three dogs",
+   "id": "story-2026-11-09-am-viral-palm-bay-teens-paddleboard-flood-rescue-facebook",
+   "returning": false
+  },
+  {
+   "date": "2026-11-09",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "New York Rangers at Edmonton Oilers",
+   "id": "story-2026-11-09-am-oilers-next",
    "returning": false
   }
  ]

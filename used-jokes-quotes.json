@@ -1,6 +1,6 @@
 {
   "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
-  "updated": "2026-11-07",
+  "updated": "2026-11-09",
   "jokes": [
     {
       "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -522,6 +522,14 @@
       "first_used": "2026-11-07",
       "editions": [
         "2026-11-07-evening"
+      ]
+    },
+    {
+      "text": "What’s orange and sounds like a parrot? A carrot.",
+      "normalized": "whats orange and sounds like a parrot a carrot",
+      "first_used": "2026-11-09",
+      "editions": [
+        "2026-11-09-morning"
       ]
     }
   ],
@@ -1140,6 +1148,15 @@
       "first_used": "2026-11-07",
       "editions": [
         "2026-11-07-evening"
+      ]
+    },
+    {
+      "text": "“Two roads diverged in a wood, and I— / I took the one less traveled by, / And that has made all the difference.”",
+      "attribution": "Robert Frost, “The Road Not Taken,” Mountain Interval (1916); text per Poetry Foundation",
+      "normalized": "two roads diverged in a wood and i i took the one less traveled by and that has made all the difference",
+      "first_used": "2026-11-09",
+      "editions": [
+        "2026-11-09-morning"
       ]
     }
   ]
