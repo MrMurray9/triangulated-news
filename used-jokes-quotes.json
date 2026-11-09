@@ -531,6 +531,14 @@
       "editions": [
         "2026-11-09-morning"
       ]
+    },
+    {
+      "text": "What do you call a deer with no eyes? No idea.",
+      "normalized": "what do you call a deer with no eyes no idea",
+      "first_used": "2026-11-09",
+      "editions": [
+        "2026-11-09-evening"
+      ]
     }
   ],
   "quotes": [
@@ -1157,6 +1165,15 @@
       "first_used": "2026-11-09",
       "editions": [
         "2026-11-09-morning"
+      ]
+    },
+    {
+      "text": "“They shall grow not old, as we that are left grow old: / Age shall not weary them, nor the years condemn.”",
+      "attribution": "Laurence Binyon, “For the Fallen” (first published in The Times, Sept. 21, 1914)",
+      "normalized": "they shall grow not old as we that are left grow old age shall not weary them nor the years condemn",
+      "first_used": "2026-11-09",
+      "editions": [
+        "2026-11-09-evening"
       ]
     }
   ]
