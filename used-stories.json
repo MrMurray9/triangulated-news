@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-09",
+ "updated": "2026-11-10T06:17-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5533,6 +5533,83 @@
    "section": "oilers",
    "topic": "oilers next",
    "headline": "New York Rangers at Edmonton Oilers"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta 250m seniors housing lodges",
+   "headline": "Alberta opens $250 million in funding to build about 550 continuing care spaces and fix up 300 seniors’ lodge rooms"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada strong fund karniol tambour",
+   "headline": "Carney names Bridgewater co-investment chief Karen Karniol-Tambour as the first CEO of the $25-billion Canada Strong Fund"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada real time rail instant payments launch",
+   "headline": "After a decade of delays, Canada’s Real-Time Rail goes live for 24/7 instant payments, but none of the Big Six banks are on it yet"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world france blames iran supermarket fridge hacks",
+   "headline": "France says Iran’s Revolutionary Guards hacked the fridges in about 700 French supermarkets, pushing some past 50°C"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world abu dhabi russia ukraine us talks",
+   "headline": "Russia, Ukraine and the U.S. sit down in Abu Dhabi for their first real peace talks since February, with security guarantees on the table"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "world",
+   "topic": "world egypt ayyat train collision",
+   "headline": "A train slams into the back of another south of Cairo, killing seven, and prosecutors say its driver had switched off the automatic brakes"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "business",
+   "topic": "qantas 850 jobs accenture india",
+   "headline": "Qantas will cut about 850 head-office jobs and hand much of the work to Accenture teams in India, and its shares jump 6%"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science jhu robot kidney tumor removal",
+   "headline": "Science corner: a Johns Hopkins robot cuts tumours out of eight model kidneys on its own, making 77 cuts without a single error"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "ai meta muse ember small model",
+   "headline": "Meta releases Muse Ember, a tiny, cheap AI model built to do the repetitive grunt work for AI agents at 10 US cents per million input tokens"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral iraqi boy carries sister anbar rain",
+   "headline": "An Iraqi boy carries his little sister through a flooded road in Anbar to keep her dry, and the clip passes six million views in hours"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers next",
+   "headline": "Philadelphia Flyers at Edmonton Oilers"
   }
  ]
 }
