@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-10T06:17-06:00",
+ "updated": "2026-11-10T16:12-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -546,6 +546,14 @@
    "first_used": "2026-11-10",
    "editions": [
     "2026-11-10-morning"
+   ]
+  },
+  {
+   "text": "Why can’t a leopard ever hide? Because he’s always spotted.",
+   "normalized": "why cant a leopard ever hide because hes always spotted",
+   "first_used": "2026-11-10",
+   "editions": [
+    "2026-11-10-evening"
    ]
   }
  ],
@@ -1191,6 +1199,15 @@
    "first_used": "2026-11-10",
    "editions": [
     "2026-11-10-morning"
+   ]
+  },
+  {
+   "text": "My subject is War, and the pity of War. The Poetry is in the pity.",
+   "attribution": "Wilfred Owen, draft preface to Poems (written 1918, published 1920)",
+   "normalized": "my subject is war and the pity of war the poetry is in the pity",
+   "first_used": "2026-11-10",
+   "editions": [
+    "2026-11-10-evening"
    ]
   }
  ]

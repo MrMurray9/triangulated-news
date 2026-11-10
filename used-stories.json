@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-10T06:17-06:00",
+ "updated": "2026-11-10T16:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5610,6 +5610,114 @@
    "section": "oilers",
    "topic": "oilers next",
    "headline": "Philadelphia Flyers at Edmonton Oilers"
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "veterans house canada edmonton athlone homeless veterans 40 studio units supportive housing ribbon cutting mulawyshyn",
+   "headline": "A 40-unit home for veterans who have nowhere else to go opens in Edmonton’s Athlone neighbourhood, two days before Remembrance Day",
+   "id": "story-2026-11-10-pm-alberta-veterans-house-athlone",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "british columbia storm vancouver island rainfall warning 250 mm flood watch bc hydro outages zeballos surrey omega block",
+   "headline": "Another “very robust” Pacific storm hits B.C., with up to 250 mm of rain forecast for Vancouver Island after weekend storms that left two people dead",
+   "id": "story-2026-11-10-pm-canada-bc-storm-vancouver-island-rain",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada sanctions iranian entities anand global affairs reimposes 11 banks tanker nuclear ballistic missile iaea jcpoa",
+   "headline": "Canada reimposes sanctions on 11 Iranian banks, insurers and a tanker firm, a decade after lifting them under the nuclear deal",
+   "id": "story-2026-11-10-pm-canada-anand-iran-sanctions-reimposed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "world",
+   "topic": "storm charles portugal lisbon web summit cancelled day two state of alert schools closed sting jet ipma",
+   "headline": "Portugal closes schools nationwide and Web Summit cancels its second day as Storm Charles brings a risk of 160 km/h gusts to Lisbon",
+   "id": "story-2026-11-10-pm-world-storm-charles-portugal-web-summit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "world",
+   "topic": "pope leo xiv argentina buenos aires mass 2.5 million cottolengo disabilities milei austerity cordoba",
+   "headline": "Pope Leo draws an estimated 2.5 million people to Buenos Aires, his biggest Mass yet, after visiting a disability home hit by Milei’s cuts",
+   "id": "story-2026-11-10-pm-world-pope-leo-buenos-aires-mass",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "business",
+   "topic": "us consumer price index october 0.4 inflation hotter federal reserve december rate hike treasury yield 5 percent waller",
+   "headline": "U.S. prices rose 0.4% in October, a bit hotter than forecast, and traders now see a December Fed rate hike as a sure thing",
+   "id": "story-2026-11-10-pm-business-us-october-cpi-fed-hike",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "business",
+   "topic": "ant ipo price range 70 78 nasdaq listing claude maker valuation 1.4 trillion class a shares private placement google nvidia",
+   "headline": "The Claude maker sets its IPO at $70 to $78 a share, which would value it at up to about US$1.4 trillion when it lists as “ANT”",
+   "id": "story-2026-11-10-pm-business-ant-ipo-price-range",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "science",
+   "topic": "gallium oxide ultrawide bandgap semiconductor module megawatt pulsed power hku virginia tech nanjing nature communications",
+   "headline": "Science corner: a six-chip gallium oxide switch handles a megawatt in bursts, more than 100 times what this class of chip had managed before",
+   "id": "story-2026-11-10-pm-science-gallium-oxide-megawatt-module",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "google gemini 4 carbon release ultra subscribers api antigravity swarm agents argon pricing",
+   "headline": "Google opens Gemini 4 Carbon, which it calls its strongest model yet, to paying developers and Ultra subscribers, and previews agent “swarms”",
+   "id": "story-2026-11-10-pm-ai-google-gemini-4-carbon-swarm",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "south carolina dnr k9 picture day game wardens dogs chaos zoomies today show",
+   "headline": "South Carolina’s game-warden K-9s get picture day, and almost none of them will sit still for it",
+   "id": "story-2026-11-10-pm-viral-scdnr-k9-picture-day",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "indigo pilot pradeep krishnan diwali phone torches flashlights cabin passengers instagram",
+   "headline": "An IndiGo pilot asks passengers to switch on their phone torches for Diwali, and the whole cabin lights up mid-flight",
+   "id": "story-2026-11-10-pm-viral-indigo-pilot-diwali-torches",
+   "returning": false
+  },
+  {
+   "date": "2026-11-10",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers philadelphia flyers home remembrance day road trip toronto",
+   "headline": "Philadelphia Flyers at Edmonton Oilers",
+   "id": "story-2026-11-10-pm-oilers-next",
+   "returning": false
   }
  ]
 }
