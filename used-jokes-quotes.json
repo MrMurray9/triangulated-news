@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-11T06:17-06:00",
+ "updated": "2026-11-11T16:13-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -562,6 +562,14 @@
    "first_used": "2026-11-11",
    "editions": [
     "2026-11-11-morning"
+   ]
+  },
+  {
+   "text": "Why did the hockey player bring string to the game? So he could tie the score.",
+   "normalized": "why did the hockey player bring string to the game so he could tie the score",
+   "first_used": "2026-11-11",
+   "editions": [
+    "2026-11-11-evening"
    ]
   }
  ],
@@ -1225,6 +1233,15 @@
    "first_used": "2026-11-11",
    "editions": [
     "2026-11-11-morning"
+   ]
+  },
+  {
+   "text": "I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity.",
+   "attribution": "Dwight D. Eisenhower, speech to the Canadian Club, Ottawa, Jan. 10, 1946",
+   "normalized": "i hate war as only a soldier who has lived it can only as one who has seen its brutality its futility its stupidity",
+   "first_used": "2026-11-11",
+   "editions": [
+    "2026-11-11-evening"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-11T06:17-06:00",
+ "updated": "2026-11-11T16:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5807,6 +5807,96 @@
    "topic": "oilers flyers home remembrance day tonight road trip toronto philadelphia florida tampa",
    "headline": "Philadelphia Flyers at Edmonton Oilers",
    "id": "story-2026-11-11-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "remembrance day wainwright fire four soldiers honoured st albert ppcli",
+   "headline": "About 300 members of the soldiers’ own battalion march to the cenotaph as Alberta’s Remembrance Day ceremonies honour the four killed in the Wainwright training fire",
+   "id": "story-2026-11-11-pm-remembrance-day-honours-wainwright-four",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "quebec saint-georges beauce remembrance day plane crash pilot killed tsb",
+   "headline": "A pilot in his 60s is killed when his small plane crashes near Saint-Georges, Que., minutes after flying in the town’s Remembrance Day ceremony",
+   "id": "story-2026-11-11-pm-beauce-remembrance-flypast-crash",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "world",
+   "topic": "raf fairford iran plot indictment kataib hezbollah irgc us charges",
+   "headline": "U.S. prosecutors say a jailed operative for Tehran’s Revolutionary Guards used coded calls home to help plan September’s foiled attack on RAF Fairford, the British base hosting American bombers",
+   "id": "story-2026-11-11-pm-raf-fairford-iran-plot-indictment",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "world",
+   "topic": "russia ukraine abu dhabi talks prisoner exchange kushner witkoff moscow",
+   "headline": "Two days of talks end with a deal for a large prisoner swap but no breakthrough on territory, and Kushner and Witkoff head to Moscow to brief Putin",
+   "id": "story-2026-11-11-pm-abu-dhabi-talks-end-prisoner-swap",
+   "returning": true
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "business",
+   "topic": "bank of canada deliberations summary more rate hikes energy prices",
+   "headline": "Bank of Canada notes show its leaders think more rate hikes may be needed as high energy costs start feeding into other prices",
+   "id": "story-2026-11-11-pm-boc-governing-council-summary",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "business",
+   "topic": "coreweave shares surge earnings ai trade rebound profit 2028",
+   "headline": "Shares soar almost 25%, their best day in more than three months, after CoreWeave says it expects an adjusted profit by early 2028",
+   "id": "story-2026-11-11-pm-coreweave-shares-surge-25",
+   "returning": true
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "science",
+   "topic": "alphagenome 2 deepmind dna variants cell types",
+   "headline": "Science corner: DeepMind’s AlphaGenome 2 predicts which cell types a DNA spelling change affects, matching in minutes a lab finding that took 18 months",
+   "id": "story-2026-11-11-pm-alphagenome-2-cell-types",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "anthropic office suite claude sheets whiteboards meetings data microsoft",
+   "headline": "An AI office suite to rival Microsoft’s: Claude Sheets, Whiteboards and Meetings arrive, and Microsoft stock slips for a second day",
+   "id": "story-2026-11-11-pm-claude-office-suite-sheets-whiteboards",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "jackie bald eagle ojai raptor center cards room kindness big bear",
+   "headline": "Fans of Jackie, Big Bear’s famous livestream eagle, sent so many cards to the centre that cared for her that it papered a whole room with them",
+   "id": "story-2026-11-11-pm-ojai-raptor-room-of-kindness",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers philadelphia flyers home remembrance day road trip toronto",
+   "headline": "Philadelphia Flyers at Edmonton Oilers",
+   "id": "story-2026-11-11-pm-oilers-next",
    "returning": false
   }
  ]
