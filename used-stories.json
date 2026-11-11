@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-10T16:12-06:00",
+ "updated": "2026-11-11T06:17-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5717,6 +5717,96 @@
    "topic": "oilers philadelphia flyers home remembrance day road trip toronto",
    "headline": "Philadelphia Flyers at Edmonton Oilers",
    "id": "story-2026-11-10-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "ndp bill 214 dual practice",
+   "headline": "An NDP private member’s bill would ban Alberta doctors from billing medicare and charging patients privately at the same time",
+   "id": "story-2026-11-11-am-ndp-bill-214-dual-practice",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "stellantis brampton roshel sale",
+   "headline": "Carney calls Stellantis’s sale of its idle Brampton car plant to armoured-vehicle maker Roshel a “betrayal” and vows to claw back public money",
+   "id": "story-2026-11-11-am-stellantis-brampton-roshel-sale",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "world",
+   "topic": "bulgaria trakia motorway fog pileups",
+   "headline": "Thick fog sets off pile-ups involving about 86 vehicles on Bulgaria’s main Sofia–Burgas motorway, killing 11 people",
+   "id": "story-2026-11-11-am-bulgaria-trakia-motorway-fog-pileups",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "world",
+   "topic": "hegseth impeachment massie tabled",
+   "headline": "The U.S. House votes 211–204 to shelve Thomas Massie’s bid to impeach Defense Secretary Pete Hegseth",
+   "id": "story-2026-11-11-am-hegseth-impeachment-massie-tabled",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "business",
+   "topic": "costco 30 special dividend",
+   "headline": "Costco declares a record US$30-a-share special dividend, about US$13.3 billion in cash, and renews a US$4-billion buyback",
+   "id": "story-2026-11-11-am-costco-30-special-dividend",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "business",
+   "topic": "coreweave q3 beat backlog",
+   "headline": "CoreWeave beats revenue forecasts with US$3.66 billion in the quarter and raises its outlook, easing some worries about an AI data-centre slowdown",
+   "id": "story-2026-11-11-am-coreweave-q3-beat-backlog",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "science",
+   "topic": "caltech astra truss orbit",
+   "headline": "Science corner: a Caltech robot puts together part of an antenna frame in orbit, the first structure built in space by a machine",
+   "id": "story-2026-11-11-am-caltech-astra-truss-orbit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "tpu 8tx 8i max confidential chips",
+   "headline": "Two more custom AI chips in one year: TPU 8tx keeps data encrypted while it’s being processed, and TPU 8i Max doubles up for huge prompts",
+   "id": "story-2026-11-11-am-tpu-8tx-8i-max-confidential-chips",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "punch macaque ichikawa watches newborn",
+   "headline": "Punch, the orphaned zoo monkey who once clung to a stuffed orangutan, is now filmed gently watching over a newborn",
+   "id": "story-2026-11-11-am-punch-macaque-ichikawa-watches-newborn",
+   "returning": false
+  },
+  {
+   "date": "2026-11-11",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers flyers home remembrance day tonight road trip toronto philadelphia florida tampa",
+   "headline": "Philadelphia Flyers at Edmonton Oilers",
+   "id": "story-2026-11-11-am-oilers-next",
    "returning": false
   }
  ]
