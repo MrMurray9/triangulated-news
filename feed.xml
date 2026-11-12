@@ -5,77 +5,84 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:13:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:14:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Jaryd’s News — Thursday, November 12, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
       <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/edition</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
       <description>Morning edition: November wildfire advisories across Alberta, Ottawa bars Russian players from the world juniors in Edmonton and Red Deer, Spain’s first general strike in 14 years, a deadly Brooklyn building collapse, Russia’s U.S. ambassador dies, Foxconn’s record AI quarter, Nvidia’s board weighs ousting Jensen Huang, leaf-vein metamaterials from MIT, Gemini Robotics 2.5, a viral −15°C parka-testing room, and the Oilers head to Toronto.</description>
     </item>
     <item>
-      <title>About 300 members of the soldiers’ own battalion march to the cenotaph as Alberta’s Remembrance Day ceremonies honour the four killed in the Wainwright training fire</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-remembrance-day-honours-wainwright-four</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-remembrance-day-honours-wainwright-four</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>The 3rd Battalion, Princess Patricia’s Canadian Light Infantry paraded to the cenotaph in St. Albert on Wednesday, where Sgt. Morgan Wong, 26, of Edmonton; Pte. Shaun Farrell, 23; Pte. Aidan Goulding, 23; and Pte. Hayden Lykkemark, 19, were remembered by name. The Globe and Mail reported that at least 2,000 people lined the downtown street for the service (Global News, The Globe and Mail).</description>
+      <title>It’s mid-November and Alberta is under wildfire advisories: Edmonton has had only 58% of its normal fall precipitation</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-november-wildfire-advisories</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-november-wildfire-advisories</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>A dry, unusually warm start to November has pushed fire warnings well past the usual season. Alberta Wildfire issued fire advisories on Nov. 9 for the Rocky Mountain House and Grande Prairie forest areas, citing dry conditions, strong winds and rising fire danger, and is asking people not to burn when winds top 15 km/h. Calgary issued a city fire advisory on Nov. 10, and Lethbridge banned all open fires in its river valley on Nov. 9, with several surrounding counties adding restrictions (Alberta Wildfire, City of Calgary, Global News).</description>
     </item>
     <item>
-      <title>A pilot in his 60s is killed when his small plane crashes near Saint-Georges, Que., minutes after flying in the town’s Remembrance Day ceremony</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-beauce-remembrance-flypast-crash</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-beauce-remembrance-flypast-crash</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>Quebec provincial police say the crash happened around 11 a.m. local time Wednesday in a wooded area near the Saint-Georges airport, in the Beauce region about 100 kilometres south of Quebec City. The pilot, a local man in his 60s, was alone on board and was pronounced dead at the scene. The city says he had just taken part in its Remembrance Day commemoration and was coming in to land when the plane went down and caught fire (Global News, Toronto Sun, The Globe and Mail).</description>
+      <title>Ottawa says Russian players won’t be allowed into the world juniors in Edmonton and Red Deer, even if they already hold Canadian visas</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-world-juniors-russians-barred</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-world-juniors-russians-barred</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Secretary of State for Sport Adam van Koeverden said Wednesday that Immigration, Refugees and Citizenship Canada will individually assess and stop Russian and Belarusian athletes and officials from entering Canada to compete at the tournament, which starts Dec. 26 in Edmonton and Red Deer. The ban covers players who already have valid visas, including Russians now playing in the Canadian Hockey League (The Canadian Press via Global News, AP, TSN).</description>
     </item>
     <item>
-      <title>U.S. prosecutors say a jailed operative for Tehran’s Revolutionary Guards used coded calls home to help plan September’s foiled attack on RAF Fairford, the British base hosting American bombers</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-raf-fairford-iran-plot-indictment</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-raf-fairford-iran-plot-indictment</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>An eight-count indictment unsealed in New York on Tuesday charges three men linked to Iran’s Revolutionary Guards and the Iraqi militia Kata’ib Hezbollah: Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani. Prosecutors say al-Saadi, held in a U.S. jail since May on earlier terrorism charges, passed messages through relatives in Iraq, and that al-Hassani then paid people in Britain to scout the base, buy vans and fuel barrels, research chemical accelerants and buy metal that could serve as shrapnel (U.S. Justice Department, The Guardian, Politico).</description>
+      <title>Millions join Spain’s first general strike in 14 years, called by tenants’ groups over sky-high rents and home prices</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-spain-general-strike-housing</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-spain-general-strike-housing</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>The 24-hour stoppage on Wednesday was started by tenants’ associations and then backed by the big unions. Unions reported about 90% participation in the car and port sectors, many schools and universities closed or ran at minimum, and the tenants’ confederation said about 4 million people took part by midday. Pickets and burning-tyre roadblocks shut roads into Barcelona, and public transport there nearly stopped (The Guardian, AP, NBC News, EFE).</description>
     </item>
     <item>
-      <title>Two days of talks end with a deal for a large prisoner swap but no breakthrough on territory, and Kushner and Witkoff head to Moscow to brief Putin</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-abu-dhabi-talks-end-prisoner-swap</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-abu-dhabi-talks-end-prisoner-swap</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>The U.S.-brokered talks between Russia and Ukraine in Abu Dhabi, their first face-to-face round since February, closed Wednesday. Russia’s chief negotiator, Vladimir Medinsky, said both sides agreed on a large-scale exchange of prisoners and reached “mutual understanding” on some issues. U.S. envoy Jared Kushner called it “the biggest humanitarian release of prisoners” and said numbers would be settled Thursday. Russia’s TASS news agency says the swap should happen in two to three weeks (Al Jazeera, AP, Euronews).</description>
+      <title>A three-storey apartment building in Brooklyn collapses into a neighbouring construction pit, killing four people and injuring at least 23</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-brooklyn-flatbush-collapse</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-brooklyn-flatbush-collapse</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>The building at 2625 Bedford Ave. in Flatbush came down just after 4 p.m. local time Wednesday, falling into a hole where crews had been digging that day for a new building on the next lot. FDNY Commissioner Lillian Bonsignore said four people were killed and at least 23 hurt, seven of them children, and that officials didn’t yet know how many people might still be in the collapse zone (Gothamist, Engineering News-Record, NBC New York).</description>
     </item>
     <item>
-      <title>Bank of Canada notes show its leaders think more rate hikes may be needed as high energy costs start feeding into other prices</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-boc-governing-council-summary</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-boc-governing-council-summary</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>The central bank’s summary of the talks behind its Oct. 28 decision, released Tuesday, shows the six-member governing council weighed holding its key rate at 2.25% or raising it to 2.5%. It chose the hike, its first since 2023, because oil was about US$35 a barrel above what it assumed in July and businesses were signalling they would pass more of their fuel, chemical, plastic and computer-chip costs on to customers (Bank of Canada, The Globe and Mail, Financial Post).</description>
+      <title>Russia’s ambassador to the United States, Alexander Darchiev, dies suddenly at 66</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-darchiev-dies</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-darchiev-dies</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Russia’s Foreign Ministry said Wednesday that Darchiev had died in Moscow. Spokeswoman Maria Zakharova said he died of a chronic illness she didn’t name. No funeral details were released (AP, Politico, ABC News).</description>
     </item>
     <item>
-      <title>Shares soar almost 25%, their best day in more than three months, after CoreWeave says it expects an adjusted profit by early 2028</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-coreweave-shares-surge-25</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-coreweave-shares-surge-25</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>Investors piled back into the AI cloud company on Wednesday, the day after its results. CoreWeave closed up 24.7%, its biggest one-day gain in more than three months and its highest close in two weeks, after telling investors it would turn profitable on an adjusted basis in the first half of 2028 (Reuters via Investing.com, Yahoo Finance, CNBC).</description>
+      <title>Foxconn posts a record quarterly profit, up 34%, as AI server racks now bring in more than half its revenue</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-foxconn-record-q3</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-foxconn-record-q3</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Hon Hai Precision, better known as Foxconn, said Thursday that it earned NT$77.5 billion (about US$2.35 billion) from July to September, up 34% from a year earlier and ahead of analysts’ forecasts. Revenue rose 46% to NT$3.02 trillion. Its cloud and networking division, which builds AI servers for Nvidia and big cloud companies, made up 54% of revenue, up from 51% the quarter before (Focus Taiwan, Reuters via Investing.com, Malay Mail).</description>
     </item>
     <item>
-      <title>Science corner: DeepMind’s AlphaGenome 2 predicts which cell types a DNA spelling change affects, matching in minutes a lab finding that took 18 months</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-alphagenome-2-cell-types</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-alphagenome-2-cell-types</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>Almost all of our DNA doesn’t code for proteins. Instead it works like a set of switches that turn genes up or down, and different switches matter in different cells. AlphaGenome 2, released Wednesday, takes a stretch of DNA up to a million letters long plus a chosen cell type, such as a gut immune cell or a heart muscle cell, and predicts how a single-letter change will affect gene activity in that cell. It was trained on measurements from more than 100 million individual cells across 68 tissues, and it can be pointed at a new cell state, like vaccine-activated immune cells, using a sample of just a few dozen cells (Google DeepMind, Nature, The Verge).</description>
+      <title>Nvidia’s board meets late into the night on whether to oust Jensen Huang after a report of a second affair, and the stock drops about 8% after hours</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-nvidia-board-weighs-ousting-huang</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-nvidia-board-weighs-ousting-huang</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>The board met Wednesday evening after The Wall Street Journal reported it was preparing to force out the co-founder and CEO, minutes after The New York Times reported he’d had a relationship with Kimberly Powell, Nvidia’s vice-president of health care, who reported to him. No decision had been announced by Thursday morning. Bloomberg reported the board is working with an outside firm on possible replacements (CNBC, The Verge, The Next Web/Reuters).</description>
     </item>
     <item>
-      <title>An AI office suite to rival Microsoft’s: Claude Sheets, Whiteboards and Meetings arrive, and Microsoft stock slips for a second day</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-claude-office-suite-sheets-whiteboards</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-claude-office-suite-sheets-whiteboards</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>At an event in San Francisco on Tuesday, Anthropic launched new Claude tools for office workers who don’t write code. Claude Sheets lets the AI build and edit spreadsheets alongside people, Claude Whiteboards gives teams a shared brainstorming board, and Claude Meetings can join a call, take notes and turn the discussion into tasks. Sheets and Whiteboards are in beta for all paid plans, Meetings is in beta for Team and Enterprise customers, and Claude Data, a dashboard tool, is now generally available (The Verge, TechCrunch, Anthropic).</description>
+      <title>Science corner: MIT engineers 3D-print a material patterned like leaf veins, and it soaks up impacts better than neat honeycomb designs</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-scale-rich-metamaterials</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-scale-rich-metamaterials</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Most engineered “metamaterials” repeat one tiny building block over and over, like a honeycomb. That works, but if one spot cracks, the identical cells around it tend to give way in the same manner. A team from MIT and Northeastern University tried the opposite: a web of beams of many different sizes, from microns to centimetres, like the veins in a leaf or a dragonfly’s wing. An algorithm draws random lines that get shorter and thinner each round, and two simple settings tune how stiff the result is (MIT News, Nature).</description>
     </item>
     <item>
-      <title>Fans of Jackie, Big Bear’s famous livestream eagle, sent so many cards to the centre that cared for her that it papered a whole room with them</title>
-      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-11-pm-ojai-raptor-room-of-kindness</link>
-      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-11-pm-ojai-raptor-room-of-kindness</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:00 -0600</pubDate>
-      <description>Jackie and her mate, Shadow, had been watched by millions on a nest camera above Big Bear Lake, California, since 2018. In July she was found weak and unable to fly after a fight with two younger eagles, and she was treated at the Ojai Raptor Center until she died in August (Los Angeles Times, NBC Los Angeles).</description>
+      <title>Google’s new robot brain ties bows and sorts car parts in Mercedes-Benz factories, hitting 96% success, and comes with an open test for tricking robots</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-gemini-robotics-2-5</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-gemini-robotics-2-5</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Google DeepMind released Gemini Robotics 2.5, the AI model that turns instructions and camera video into robot movements. Google says it succeeds 30% to 100% more often than the previous version on lab tasks and works 20% to 30% faster. In tests, Apptronik’s Apollo 2 humanoid used it to tie a bow with five-fingered hands, a hard job because ribbon bends and flops (Google DeepMind, Ars Technica, The Verge).</description>
+    </item>
+    <item>
+      <title>“Only in Canada”: a Toronto store lets shoppers test parkas at −15°C, and the video tops 18 million views</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-am-canada-goose-parka-freezer-viral</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/morning/story-2026-11-12-am-canada-goose-parka-freezer-viral</guid>
+      <pubDate>Thu, 12 Nov 2026 06:14:00 -0600</pubDate>
+      <description>Toronto- and L.A.-based creator Josie Ewing filmed herself stepping through two glass doors into the Cold Room at a Canada Goose store, a small fitting room chilled to −15°C and decorated with fake snowy rocks, so shoppers can see how a parka really feels before buying it. “Only in Canada would they have a −15 degree winter simulation room,” her caption reads, set to an instrumental O Canada (Know Your Meme, Index.hr).</description>
     </item>
     <item>
       <title>Jaryd’s News — Wednesday, November 11, 2026 (evening edition)</title>

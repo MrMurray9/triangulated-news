@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-11T16:13-06:00",
+ "updated": "2026-11-12T06:14-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5903,81 +5903,90 @@
    "date": "2026-11-12",
    "edition": "morning",
    "section": "alberta",
-   "topic": "remembrance day wainwright fire four soldiers honoured st albert ppcli",
-   "headline": "About 300 members of the soldiers’ own battalion march to the cenotaph as Alberta’s Remembrance Day ceremonies honour the four killed in the Wainwright training fire",
-   "id": "story-2026-11-11-pm-remembrance-day-honours-wainwright-four",
+   "topic": "alberta november wildfire advisories dry warm fall lethbridge river valley fire ban calgary advisory el nino",
+   "headline": "It’s mid-November and Alberta is under wildfire advisories: Edmonton has had only 58% of its normal fall precipitation",
+   "id": "story-2026-11-12-am-november-wildfire-advisories",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "canada",
-   "topic": "quebec saint-georges beauce remembrance day plane crash pilot killed tsb",
-   "headline": "A pilot in his 60s is killed when his small plane crashes near Saint-Georges, Que., minutes after flying in the town’s Remembrance Day ceremony",
-   "id": "story-2026-11-11-pm-beauce-remembrance-flypast-crash",
+   "topic": "world juniors 2027 russia belarus players barred visas van koeverden edmonton red deer norway iihf",
+   "headline": "Ottawa says Russian players won’t be allowed into the world juniors in Edmonton and Red Deer, even if they already hold Canadian visas",
+   "id": "story-2026-11-12-am-world-juniors-russians-barred",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "world",
-   "topic": "raf fairford iran plot indictment kataib hezbollah irgc us charges",
-   "headline": "U.S. prosecutors say a jailed operative for Tehran’s Revolutionary Guards used coded calls home to help plan September’s foiled attack on RAF Fairford, the British base hosting American bombers",
-   "id": "story-2026-11-11-pm-raf-fairford-iran-plot-indictment",
+   "topic": "spain general strike housing crisis 14 years tenants unions election november 29",
+   "headline": "Millions join Spain’s first general strike in 14 years, called by tenants’ groups over sky-high rents and home prices",
+   "id": "story-2026-11-12-am-spain-general-strike-housing",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "world",
-   "topic": "russia ukraine abu dhabi talks prisoner exchange kushner witkoff moscow",
-   "headline": "Two days of talks end with a deal for a large prisoner swap but no breakthrough on territory, and Kushner and Witkoff head to Moscow to brief Putin",
-   "id": "story-2026-11-11-pm-abu-dhabi-talks-end-prisoner-swap",
-   "returning": true
+   "topic": "brooklyn flatbush building collapse bedford avenue excavation four dead 23 injured mamdani",
+   "headline": "A three-storey apartment building in Brooklyn collapses into a neighbouring construction pit, killing four people and injuring at least 23",
+   "id": "story-2026-11-12-am-brooklyn-flatbush-collapse",
+   "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
-   "section": "business",
-   "topic": "bank of canada deliberations summary more rate hikes energy prices",
-   "headline": "Bank of Canada notes show its leaders think more rate hikes may be needed as high energy costs start feeding into other prices",
-   "id": "story-2026-11-11-pm-boc-governing-council-summary",
+   "section": "world",
+   "topic": "russia ambassador to united states alexander darchiev dies 66 zakharova",
+   "headline": "Russia’s ambassador to the United States, Alexander Darchiev, dies suddenly at 66",
+   "id": "story-2026-11-12-am-darchiev-dies",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "business",
-   "topic": "coreweave shares surge earnings ai trade rebound profit 2028",
-   "headline": "Shares soar almost 25%, their best day in more than three months, after CoreWeave says it expects an adjusted profit by early 2028",
-   "id": "story-2026-11-11-pm-coreweave-shares-surge-25",
+   "topic": "foxconn hon hai q3 record profit 34 percent ai servers racks supply tightness",
+   "headline": "Foxconn posts a record quarterly profit, up 34%, as AI server racks now bring in more than half its revenue",
+   "id": "story-2026-11-12-am-foxconn-record-q3",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "morning",
+   "section": "business",
+   "topic": "nvidia board meets oust jensen huang kimberly powell affair shares fall after hours",
+   "headline": "Nvidia’s board meets late into the night on whether to oust Jensen Huang after a report of a second affair, and the stock drops about 8% after hours",
+   "id": "story-2026-11-12-am-nvidia-board-weighs-ousting-huang",
    "returning": true
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "science",
-   "topic": "alphagenome 2 deepmind dna variants cell types",
-   "headline": "Science corner: DeepMind’s AlphaGenome 2 predicts which cell types a DNA spelling change affects, matching in minutes a lab finding that took 18 months",
-   "id": "story-2026-11-11-pm-alphagenome-2-cell-types",
+   "topic": "mit northeastern scale-rich network metamaterials impact absorbing 3d printed nature barabasi portela",
+   "headline": "Science corner: MIT engineers 3D-print a material patterned like leaf veins, and it soaks up impacts better than neat honeycomb designs",
+   "id": "story-2026-11-12-am-scale-rich-metamaterials",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "ai",
-   "topic": "anthropic office suite claude sheets whiteboards meetings data microsoft",
-   "headline": "An AI office suite to rival Microsoft’s: Claude Sheets, Whiteboards and Meetings arrive, and Microsoft stock slips for a second day",
-   "id": "story-2026-11-11-pm-claude-office-suite-sheets-whiteboards",
+   "topic": "google deepmind gemini robotics 2.5 apptronik apollo mercedes-benz asimov jailbreak safety benchmark",
+   "headline": "Google’s new robot brain ties bows and sorts car parts in Mercedes-Benz factories, hitting 96% success, and comes with an open test for tricking robots",
+   "id": "story-2026-11-12-am-gemini-robotics-2-5",
    "returning": false
   },
   {
    "date": "2026-11-12",
    "edition": "morning",
    "section": "viral",
-   "topic": "jackie bald eagle ojai raptor center cards room kindness big bear",
-   "headline": "Fans of Jackie, Big Bear’s famous livestream eagle, sent so many cards to the centre that cared for her that it papered a whole room with them",
-   "id": "story-2026-11-11-pm-ojai-raptor-room-of-kindness",
+   "topic": "canada goose minus 15 freezer fitting parka test josie ewing instagram tiktok toronto",
+   "headline": "“Only in Canada”: a Toronto store lets shoppers test parkas at −15°C, and the video tops 18 million views",
+   "id": "story-2026-11-12-am-canada-goose-parka-freezer-viral",
    "returning": false
   },
   {
