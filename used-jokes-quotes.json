@@ -571,6 +571,14 @@
    "editions": [
     "2026-11-11-evening"
    ]
+  },
+  {
+   "text": "Why was the calendar so nervous? Its days were numbered.",
+   "normalized": "why was the calendar so nervous its days were numbered",
+   "first_used": "2026-11-12",
+   "editions": [
+    "2026-11-12-morning"
+   ]
   }
  ],
  "quotes": [
@@ -1242,6 +1250,15 @@
    "first_used": "2026-11-11",
    "editions": [
     "2026-11-11-evening"
+   ]
+  },
+  {
+   "text": "The best way to predict the future is to invent it.",
+   "attribution": "Alan Kay, Xerox PARC planning meeting, 1971",
+   "normalized": "the best way to predict the future is to invent it",
+   "first_used": "2026-11-12",
+   "editions": [
+    "2026-11-12-morning"
    ]
   }
  ]
