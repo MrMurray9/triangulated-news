@@ -5,8 +5,78 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:14:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:08:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Thursday, November 12, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/edition</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Evening edition: Alberta’s $14-million AI boost for MRI scanners, Carney at the European summit in Dublin, the SS United States sunk as a reef, Scott Colom’s Mississippi Senate upset, Putin lets Europe into Ukraine talks, Nebius cuts its forecast, Jensen Huang resigns from Nvidia, self-sensing artificial muscles from Penn, OpenAI’s Daybreak security agents, and the Oilers head to Toronto.</description>
+    </item>
+    <item>
+      <title>Alberta puts $14 million into AI software that speeds up MRI scans, after a pilot on 10 machines added almost 12,000 exams</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-ai-mri-expansion</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-ai-mri-expansion</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>The province and Acute Care Alberta announced Thursday that they will spend about $14 million to install artificial-intelligence software directly on hospital MRI scanners across Alberta. The software, approved by Health Canada, sharpens images so that scans can be done in less time. A pilot on 10 scanners that began in April 2025 led to almost 12,000 more MRIs (The Canadian Press via Global News and CTV News, CityNews Edmonton).</description>
+    </item>
+    <item>
+      <title>In Dublin, Carney is again the only non-European leader at Europe’s big security summit, and he presses Greece and Cyprus on the Canada-EU trade deal</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-carney-dublin-epc</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-carney-dublin-epc</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Prime Minister Mark Carney attended the European Political Community summit in Dublin on Thursday, the second time he’s been the only leader from outside Europe at the table. Leaders discussed economic resilience, security and Ukraine, and Carney joined a meeting with Ukrainian President Volodymyr Zelenskyy on peace efforts and Europe’s security arrangements (Prime Minister’s Office, Global News, The Globe and Mail).</description>
+    </item>
+    <item>
+      <title>America’s record-breaking 1950s ocean liner is sunk on purpose off Florida to become the world’s largest artificial reef</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-big-u-ocean-liner-reef</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-big-u-ocean-liner-reef</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>The SS United States, a 990-foot liner longer than the Titanic, slowly went down on Wednesday about 22 nautical miles southwest of Destin–Fort Walton Beach. Crews flooded it without explosives, and it took hours to disappear; NPR reports it went under about 10 p.m. Eastern time and settled upright roughly 180 feet down. Okaloosa County bought the ship in 2024 after the conservancy that owned it couldn’t turn it into a hotel or museum (AP, NPR, Pensacola News Journal).</description>
+    </item>
+    <item>
+      <title>Democrat Scott Colom unseats Sen. Cindy Hyde-Smith by about 5,600 votes, becoming Mississippi’s first Black U.S. senator since Reconstruction</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-colom-mississippi-senate</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-colom-mississippi-senate</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>The Associated Press called the race for Colom on Wednesday, eight days after the Nov. 3 midterm vote, once updated counts from Jackson County put him ahead for good. The latest tally has him at about 474,800 votes to Hyde-Smith’s 469,200, or 49.2% to 48.7% (AP, NPR, The Guardian).</description>
+    </item>
+    <item>
+      <title>Putin agrees Europeans can join the next round of Ukraine peace talks, after U.S. envoys meet him in the Kremlin and then Zelenskyy in Dublin</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-putin-europe-join-talks</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-putin-europe-join-talks</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>U.S. envoy Steve Witkoff told Russian state TV after Thursday’s Kremlin meeting that “the Europeans will join at the next meeting.” Putin said Russia had never refused to talk with Europe, but warned that sending Western troops into Ukraine after a deal would restart the war. He also proposed a joint Russian-Ukrainian humanitarian mission to Kostiantynivka in eastern Ukraine (Reuters, AP, The Moscow Times).</description>
+    </item>
+    <item>
+      <title>AI cloud company Nebius cuts its 2026 sales forecast because data-centre space it rents is running late, and its stock drops about 17%</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-nebius-cuts-forecast</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-nebius-cuts-forecast</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Amsterdam-based Nebius, which rents out Nvidia-powered computing to AI companies, said Thursday that some third-party data-centre capacity due this year, including a site in New Jersey, has slipped into the first half of 2027. It trimmed its 2026 revenue forecast to US$3 billion to $3.2 billion, from up to $3.4 billion, even though third-quarter revenue of $981 million beat estimates (Reuters via CNA, CNBC, The Next Web).</description>
+    </item>
+    <item>
+      <title>Jensen Huang resigns as Nvidia’s CEO; finance chief Colette Kress takes over for now and the stock closes down about 4%</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-huang-resigns-kress-interim</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-huang-resigns-kress-interim</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Nvidia said Thursday that its board accepted Huang’s resignation as president, chief executive and director on Wednesday night, effective immediately. Chief financial officer Colette Kress, 59, becomes interim CEO while keeping her finance job, and longtime director Harvey Jones, a former Synopsys CEO, becomes the company’s first board chair. The board will consider inside and outside candidates for a permanent CEO (Nvidia, SEC filing, TechCrunch, Reuters).</description>
+    </item>
+    <item>
+      <title>Science corner: Penn engineers make soft artificial muscles that feel their own position, so a robot finger can play piano keys and robot eyes can hold a gaze</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-coillce-artificial-muscles</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-coillce-artificial-muscles</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Soft “muscles” made from liquid crystal elastomers shrink when they’re heated, but they’re hard to stop halfway: they keep contracting or relax as they cool. A team led by Shu Yang and Cynthia Sung at the University of Pennsylvania threaded an ultrathin copper coil through a fibre of elastomer mixed with graphene. The coil does two jobs at once. It heats the fibre to make it contract, and its electrical resistance changes as the fibre moves, so it doubles as a built-in sensor (Penn Engineering, Advanced Functional Materials).</description>
+    </item>
+    <item>
+      <title>OpenAI launches AI agents that try to hack a company’s own apps and then write the fixes, and says firms will be only as secure as the AI they defend with</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-12-pm-openai-daybreak-security</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-12/evening/story-2026-11-12-pm-openai-daybreak-security</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:00 -0600</pubDate>
+      <description>OpenAI unveiled two products in its Daybreak security line on Thursday. Daybreak Red Team, in early access, uses a fleet of AI agents to probe a company’s web apps for weaknesses, check bug reports from scanners and bug bounties, and test whether patches actually work. Daybreak Defense Factory scans codebases for flaws and drafts patches, using OpenAI’s GPT-6 Cyber model, and engineers review and approve each fix before it ships (The Register, OpenAI, The Deep View).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Thursday, November 12, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>

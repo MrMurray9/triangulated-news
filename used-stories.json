@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-12T06:14-06:00",
+ "updated": "2026-11-12T16:08-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -5996,6 +5996,96 @@
    "topic": "oilers at toronto maple leafs road trip after 3-2 win over flyers",
    "headline": "Edmonton Oilers at Toronto Maple Leafs",
    "id": "story-2026-11-12-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta ai mri scanners 14 million acute care alberta lagrange pilot 12000 more scans provincewide 2028",
+   "headline": "Alberta puts $14 million into AI software that speeds up MRI scans, after a pilot on 10 machines added almost 12,000 exams",
+   "id": "story-2026-11-12-pm-ai-mri-expansion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "carney dublin european political community summit greece cyprus ceta ratification zelenskyy security guarantees",
+   "headline": "In Dublin, Carney is again the only non-European leader at Europe’s big security summit, and he presses Greece and Cyprus on the Canada-EU trade deal",
+   "id": "story-2026-11-12-pm-carney-dublin-epc",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "world",
+   "topic": "historic 1950s ocean liner big u sunk artificial reef destin okaloosa county gulf",
+   "headline": "America’s record-breaking 1950s ocean liner is sunk on purpose off Florida to become the world’s largest artificial reef",
+   "id": "story-2026-11-12-pm-big-u-ocean-liner-reef",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "world",
+   "topic": "scott colom mississippi senate win hyde-smith first black senator since reconstruction midterms",
+   "headline": "Democrat Scott Colom unseats Sen. Cindy Hyde-Smith by about 5,600 votes, becoming Mississippi’s first Black U.S. senator since Reconstruction",
+   "id": "story-2026-11-12-pm-colom-mississippi-senate",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "world",
+   "topic": "ukraine peace talks witkoff kushner putin kremlin europe join next round zelenskyy dublin starshield",
+   "headline": "Putin agrees Europeans can join the next round of Ukraine peace talks, after U.S. envoys meet him in the Kremlin and then Zelenskyy in Dublin",
+   "id": "story-2026-11-12-pm-putin-europe-join-talks",
+   "returning": true
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "business",
+   "topic": "nebius q3 results cuts 2026 revenue forecast capacity delays capex 27 billion shares fall 16 percent neocloud",
+   "headline": "AI cloud company Nebius cuts its 2026 sales forecast because data-centre space it rents is running late, and its stock drops about 17%",
+   "id": "story-2026-11-12-pm-nebius-cuts-forecast",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "business",
+   "topic": "nvidia jensen huang resigns ceo colette kress interim harvey jones chair shares fall",
+   "headline": "Jensen Huang resigns as Nvidia’s CEO; finance chief Colette Kress takes over for now and the stock closes down about 4%",
+   "id": "story-2026-11-12-pm-huang-resigns-kress-interim",
+   "returning": true
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "science",
+   "topic": "penn coillce artificial muscles liquid crystal elastomer graphene copper coil self-sensing robot finger piano eyes",
+   "headline": "Science corner: Penn engineers make soft artificial muscles that feel their own position, so a robot finger can play piano keys and robot eyes can hold a gaze",
+   "id": "story-2026-11-12-pm-coillce-artificial-muscles",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai daybreak red team defense factory gpt-6 cyber security agents penetration testing brockman",
+   "headline": "OpenAI launches AI agents that try to hack a company’s own apps and then write the fixes, and says firms will be only as secure as the AI they defend with",
+   "id": "story-2026-11-12-pm-openai-daybreak-security",
+   "returning": false
+  },
+  {
+   "date": "2026-11-12",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at toronto maple leafs saturday eastern road trip",
+   "headline": "Edmonton Oilers at Toronto Maple Leafs",
+   "id": "story-2026-11-12-pm-oilers-next",
    "returning": false
   }
  ]

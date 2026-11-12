@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-12T06:14-06:00",
+ "updated": "2026-11-12T16:08-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -578,6 +578,14 @@
    "first_used": "2026-11-12",
    "editions": [
     "2026-11-12-morning"
+   ]
+  },
+  {
+   "text": "What do you call a parade of rabbits hopping backwards? A receding hare-line.",
+   "normalized": "what do you call a parade of rabbits hopping backwards a receding hare line",
+   "first_used": "2026-11-12",
+   "editions": [
+    "2026-11-12-evening"
    ]
   }
  ],
@@ -1259,6 +1267,15 @@
    "first_used": "2026-11-12",
    "editions": [
     "2026-11-12-morning"
+   ]
+  },
+  {
+   "text": "Simplicity is prerequisite for reliability.",
+   "attribution": "Edsger W. Dijkstra, How do we tell truths that might hurt? (EWD 498), 1975",
+   "normalized": "simplicity is prerequisite for reliability",
+   "first_used": "2026-11-12",
+   "editions": [
+    "2026-11-12-evening"
    ]
   }
  ]
