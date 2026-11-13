@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-12T16:08-06:00",
+ "updated": "2026-11-13T06:10-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6086,6 +6086,105 @@
    "topic": "oilers at toronto maple leafs saturday eastern road trip",
    "headline": "Edmonton Oilers at Toronto Maple Leafs",
    "id": "story-2026-11-12-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta surface rights federation landowners resist oil gas development refuse leases orphan wells heidecker letter premier",
+   "headline": "Alberta’s main landowner group tells farmers and ranchers to refuse new oil and gas leases until the province deals with orphan wells and unpaid bills",
+   "id": "story-2026-11-13-am-landowners-resist-drilling",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "impact assessment act ottawa will not appeal alberta court of appeal amend bill c-69 dabrusin smith alberta wins again",
+   "headline": "Ottawa won’t take its loss on the federal project-review law to the Supreme Court, and will rewrite the act instead; Smith says “Alberta wins again”",
+   "id": "story-2026-11-13-am-iaa-no-appeal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "stellantis brampton roshel sale joly notice of default funding agreement 30 days repay subsidies unifor",
+   "headline": "Ottawa serves Stellantis a formal default notice over the Brampton plant sale and gives it 30 days to fix the breach or face a fight to claw back subsidies",
+   "id": "story-2026-11-13-am-stellantis-default-notice",
+   "returning": true
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "world",
+   "topic": "indonesia vice president gibran rakabuming raka resigns education credentials court ruling prabowo accepts jokowi 60 days",
+   "headline": "Indonesia’s vice-president, the son of former president Joko Widodo, resigns after a court ruling questions whether his overseas schooling met the legal requirements",
+   "id": "story-2026-11-13-am-indonesia-vp-gibran-quits",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "world",
+   "topic": "brooklyn flatbush building collapse construction pit death toll eight two children investigation mamdani",
+   "headline": "Brooklyn building collapse death toll doubles to eight, including two children, as investigators begin the slow search for a cause",
+   "id": "story-2026-11-13-am-brooklyn-collapse-toll-eight",
+   "returning": true
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "business",
+   "topic": "cisco q1 fiscal 2027 record revenue 18.5 billion raises guidance ai infrastructure hyperscalers 9 billion",
+   "headline": "Cisco posts its fastest growth in more than 15 years, with record sales of US$18.5 billion, and now expects US$9 billion in AI networking orders from cloud giants",
+   "id": "story-2026-11-13-am-cisco-ai-networking-beat",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "science",
+   "topic": "penn state microscopic solar cells photovoltaic microcells chip light align fibroblast cells bioprinting wireless",
+   "headline": "Science corner: tiny solar cells on a chip use light, not wires, to line up living cells, a step toward lab-printed tissue that grows the right way",
+   "id": "story-2026-11-13-am-solar-cells-align-tissue",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "google gemini 4 hydrogen flash successor fast model 1 million token context agentic coding free gemini app",
+   "headline": "Google’s new everyday AI model, Gemini 4 Hydrogen, replaces its “Flash” line and outscores a bigger sibling on a common benchmark while running faster",
+   "id": "story-2026-11-13-am-google-hydrogen-model",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "chicago bears fans x search luther burden australian user yuri burden post support",
+   "headline": "Bears fans searching X for “Burden” injury news find a struggling teen in Australia instead, and flood them with kindness",
+   "id": "story-2026-11-13-am-bears-fans-yuri",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "san antonio zoo four year old ezekiel sings god bless america bald eagle chinook field trip",
+   "headline": "A four-year-old on a zoo field trip sings “God Bless America” to a rescued bald eagle, and the zoo invites him back",
+   "id": "story-2026-11-13-am-boy-sings-to-eagle",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at toronto maple leafs saturday eastern road trip",
+   "headline": "Edmonton Oilers at Toronto Maple Leafs",
+   "id": "story-2026-11-13-am-oilers-next",
    "returning": false
   }
  ]
