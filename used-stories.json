@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-13T06:10-06:00",
+ "updated": "2026-11-13T16:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6185,6 +6185,87 @@
    "topic": "oilers at toronto maple leafs saturday eastern road trip",
    "headline": "Edmonton Oilers at Toronto Maple Leafs",
    "id": "story-2026-11-13-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta oil sands growth program reduced royalty 2 per cent new projects double production 8 million barrels brian jean",
+   "headline": "Alberta offers new oilsands projects a 2% royalty for their first five years, its biggest incentive yet in the push to double output by 2035",
+   "id": "story-2026-11-13-pm-oilsands-royalty-cut",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "stelco hamilton recall 175 laid-off workers december 1 cleveland-cliffs joly investment canada act no legal action",
+   "headline": "Stelco backs down and will recall all 175 laid-off Hamilton workers by Dec. 1, with back pay, after Ottawa threatened court action",
+   "id": "story-2026-11-13-pm-stelco-recall",
+   "returning": true
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "world",
+   "topic": "faa nationwide ground stop all us departures air traffic control communications outage air route traffic control centers duffy",
+   "headline": "The FAA orders every departing flight in the U.S. to stay on the ground after the country’s air traffic control centres lose communications",
+   "id": "story-2026-11-13-pm-faa-ground-stop",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "world",
+   "topic": "us supreme court agrees to hear trump asylum suspension proclamation southern border mullin v raices dc circuit",
+   "headline": "The U.S. Supreme Court agrees to decide whether Trump can shut off asylum at the Mexican border, with arguments likely next spring",
+   "id": "story-2026-11-13-pm-scotus-asylum-case",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "business",
+   "topic": "microsoft outlook teams exchange online global outage 24 hours recovery downdetector insured losses",
+   "headline": "Microsoft’s Outlook and Teams outage stretches past 24 hours, forcing some firms back to fax and paper, before service finally starts to recover",
+   "id": "story-2026-11-13-pm-microsoft-outage",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "science",
+   "topic": "hkust bionic eye hemispherical artificial retina 367500 pixels 160 degree field of view event-driven motion detection nature materials",
+   "headline": "Science corner: a dome-shaped camera ‘retina’ with 367,500 pixels sees in colour across 160 degrees and spots motion while sending almost no data",
+   "id": "story-2026-11-13-pm-bionic-eye",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai chatgpt wallet dots ai agents make purchases payment tokens amex mastercard visa pro subscribers",
+   "headline": "OpenAI’s new ChatGPT Wallet lets its AI agents buy things for you, using one-time payment tokens and your approval on every purchase",
+   "id": "story-2026-11-13-pm-chatgpt-wallet",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "sos prairie rescue saskatoon spite for strays divorce ex-husband donation match cats 30000",
+   "headline": "“Spite for Strays”: a divorcée’s $10,000 donation, made to annoy her ex, turns a Saskatoon cat rescue’s cheeky post into a $30,000 worldwide fundraiser",
+   "id": "story-2026-11-13-pm-spite-for-strays",
+   "returning": false
+  },
+  {
+   "date": "2026-11-13",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at toronto maple leafs saturday four game eastern trip",
+   "headline": "Edmonton Oilers at Toronto Maple Leafs",
+   "id": "story-2026-11-13-pm-oilers-next",
    "returning": false
   }
  ]

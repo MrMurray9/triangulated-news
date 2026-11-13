@@ -5,8 +5,71 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:10:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:12:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Friday, November 13, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/edition</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Evening edition: Alberta’s 2% royalty offer for new oilsands projects, Stelco recalls all 175 laid-off Hamilton workers, a nationwide FAA ground stop, the U.S. Supreme Court takes up Trump’s asylum ban, Microsoft’s day-long Outlook outage, a 367,500-pixel bionic eye, OpenAI’s ChatGPT Wallet, a Saskatoon cat rescue’s “Spite for Strays” windfall, and the Oilers in Toronto Saturday.</description>
+    </item>
+    <item>
+      <title>Alberta offers new oilsands projects a 2% royalty for their first five years, its biggest incentive yet in the push to double output by 2035</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-oilsands-royalty-cut</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-oilsands-royalty-cut</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>The province unveiled its Oil Sands Growth Program on Friday. Approved new mines, in-situ projects and expansions would pay a royalty of just 2% of gross revenue for their first five years of production, rising one point a year to 6% in years nine and 10. After that, or if a project misses its production, environmental or regulatory commitments, it drops back to the regular royalty system (Edmonton Journal, The Globe and Mail, Government of Alberta).</description>
+    </item>
+    <item>
+      <title>Stelco backs down and will recall all 175 laid-off Hamilton workers by Dec. 1, with back pay, after Ottawa threatened court action</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-stelco-recall</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-stelco-recall</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Stelco said Friday it will restart its Hamilton finishing lines on Dec. 1 and bring back all 175 temporarily laid-off workers, paying them retroactively for the wages they missed. The company said it had lined up enough customer orders to restart, though it will take several weeks to get the lines running again (The Canadian Press via Global News, The Globe and Mail, Reuters via U.S. News).</description>
+    </item>
+    <item>
+      <title>The FAA orders every departing flight in the U.S. to stay on the ground after the country’s air traffic control centres lose communications</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-faa-ground-stop</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-faa-ground-stop</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>The Federal Aviation Administration ordered a nationwide ground stop at 3:54 p.m. Eastern (2:54 p.m. Edmonton time) on Friday, holding all departing flights at U.S. airports “due to extraordinary circumstance and reasons for safety.” Transportation Secretary Sean Duffy said a communications problem was affecting all of the country’s Air Route Traffic Control Centers, the hubs that guide planes between airports. Planes already in the air could keep flying, and international flights headed to the U.S. were handled case by case (AP, The Washington Post, USA Today).</description>
+    </item>
+    <item>
+      <title>The U.S. Supreme Court agrees to decide whether Trump can shut off asylum at the Mexican border, with arguments likely next spring</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-scotus-asylum-case</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-scotus-asylum-case</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>The justices said Friday they will review a federal appeals court ruling that struck down President Donald Trump’s January 2025 proclamation declaring “an invasion” at the southern border and the Homeland Security guidance that stopped people who cross from applying for asylum. The case is called Mullin v. Refugee and Immigrant Center for Education and Legal Services (AP, SCOTUSblog, Supreme Court order list).</description>
+    </item>
+    <item>
+      <title>Microsoft’s Outlook and Teams outage stretches past 24 hours, forcing some firms back to fax and paper, before service finally starts to recover</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-microsoft-outage</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-microsoft-outage</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Problems began Thursday morning Edmonton time and spread worldwide, knocking out Exchange Online, the cloud system behind Outlook email and calendars, along with Copilot and some security and admin tools. Microsoft says a large number of its servers unexpectedly went down, found no sign of a cyberattack and ruled out AI as the cause. By Friday afternoon a wider rollout of fixes was stabilising things, though the company still had no timeline for full recovery (Reuters, TechCrunch, The Guardian).</description>
+    </item>
+    <item>
+      <title>Science corner: a dome-shaped camera ‘retina’ with 367,500 pixels sees in colour across 160 degrees and spots motion while sending almost no data</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-bionic-eye</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-bionic-eye</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Our eyes work so well partly because the retina is curved, so light lands in focus all the way to the edges. Flat camera chips need stacks of extra lenses to fake that. Engineers at the Hong Kong University of Science and Technology have built a hemispherical artificial retina instead, using a 3D laser technique to pack 1,905 pixels per inch onto a dome. Their first version, in 2020, had just 100 pixels; this one has 367,500 (HKUST, Nature Materials).</description>
+    </item>
+    <item>
+      <title>OpenAI’s new ChatGPT Wallet lets its AI agents buy things for you, using one-time payment tokens and your approval on every purchase</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-chatgpt-wallet</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>OpenAI on Friday launched ChatGPT Wallet, which lets its “dots” agents finish a purchase after finding what you asked for. It was built with American Express, Mastercard and Visa: you add a card once, and for each purchase the card network hands the agent a single-use payment token instead of your real card number. You review and approve every purchase with a security check, and you keep your card’s usual rewards and fraud protections (OpenAI, CNBC, Bloomberg Law).</description>
+    </item>
+    <item>
+      <title>“Spite for Strays”: a divorcée’s $10,000 donation, made to annoy her ex, turns a Saskatoon cat rescue’s cheeky post into a $30,000 worldwide fundraiser</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-13-pm-spite-for-strays</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-13/evening/story-2026-11-13-pm-spite-for-strays</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:00 -0600</pubDate>
+      <description>A supporter of SOS Prairie Rescue came into some money in her divorce and offered to match donations up to $10,000, knowing that spending it on rescue cats would bother her ex-husband. Rescue president Ashlyn Weninger wrote it up as a joke one Thursday night (“Somewhere, an ex-husband is having a very bad day”), and by the next morning it was circling the world (The Canadian Press via Global News, CTV News Saskatoon, WestCentralOnline).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Friday, November 13, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
