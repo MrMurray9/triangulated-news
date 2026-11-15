@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-15T06:15-06:00",
+ "updated": "2026-11-15T16:13-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -626,6 +626,14 @@
    "first_used": "2026-11-15",
    "editions": [
     "2026-11-15-morning"
+   ]
+  },
+  {
+   "text": "Why are frogs always so happy? They eat whatever bugs them.",
+   "normalized": "why are frogs always so happy they eat whatever bugs them",
+   "first_used": "2026-11-15",
+   "editions": [
+    "2026-11-15-evening"
    ]
   }
  ],
@@ -1364,6 +1372,15 @@
    "first_used": "2026-11-15",
    "editions": [
     "2026-11-15-morning"
+   ]
+  },
+  {
+   "text": "Hitch your wagon to a star.",
+   "attribution": "Ralph Waldo Emerson, “Civilization,” Society and Solitude (1870)",
+   "normalized": "hitch your wagon to a star",
+   "first_used": "2026-11-15",
+   "editions": [
+    "2026-11-15-evening"
    ]
   }
  ]

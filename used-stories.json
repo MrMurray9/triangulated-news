@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-15T06:15-06:00",
+ "updated": "2026-11-15T16:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6563,6 +6563,105 @@
    "topic": "oilers at philadelphia flyers sunday back to back road trip",
    "headline": "Edmonton Oilers at Philadelphia Flyers",
    "id": "story-2026-11-15-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "mayerthorpe main street fire hardware store gym health food store destroyed water restrictions rcmp malcolm",
+   "headline": "An early-morning fire wipes out three businesses on Mayerthorpe’s Main Street, including the town hardware store",
+   "id": "story-2026-11-15-pm-mayerthorpe-main-street-fire",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "edmonton 98 cats seized downtown residence animal care and control centre pauses stray intake animal protection act",
+   "headline": "Edmonton seizes 98 cats from one downtown home, and the city’s animal shelter stops taking in healthy strays",
+   "id": "story-2026-11-15-pm-edmonton-98-cats-seized",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "carney st-pierre plamondon first meeting phnom penh francophonie homelessness quebec economic summit 2027 phone numbers",
+   "headline": "Carney and Quebec’s sovereigntist premier finally meet, in Cambodia, and agree on homelessness money and a 2027 trade summit",
+   "id": "story-2026-11-15-pm-carney-plamondon-first-meeting",
+   "returning": true
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "world",
+   "topic": "yemen houthis advance 60 km aden government forces withdraw bab el-mandeb strait lahj dhubab",
+   "headline": "Yemen’s government pulls its last troops back from the Bab el-Mandeb Strait, and Houthi fighters close to within 60 km of Aden",
+   "id": "story-2026-11-15-pm-houthis-near-aden",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "world",
+   "topic": "iran irgc six drones al rifaa helicopter base us radar bahrain nationwide alert intercepted second attack",
+   "headline": "Bahrain sounds its first nationwide alert since September as Iran sends drones at a U.S. helicopter base",
+   "id": "story-2026-11-15-pm-iran-drones-bahrain",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "business",
+   "topic": "new world development hong kong rights issue 11 for 1 hk 0.90 81.5 percent discount 24.9 billion chow tai fook cheng family debt",
+   "headline": "Hong Kong developer New World asks shareholders for US$3.2 billion, selling 11 new shares for every one at an 81% discount",
+   "id": "story-2026-11-15-pm-new-world-rights-issue",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "business",
+   "topic": "federal reserve financial stability report november 2026 survey 87 percent ai salient risk valuations cyber data centre financing hedge fund leverage",
+   "headline": "AI is now the top worry for the U.S. financial system, named by 87% of people in a Federal Reserve survey, up from 50% in the spring",
+   "id": "story-2026-11-15-pm-fed-survey-ai-top-risk",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner flexible rubber tidal turbine blades edinburgh michelin nature flowave pitch control fatigue loads",
+   "headline": "Science corner: rubber turbine blades that bend with the tide make as much power as rigid ones, with far less wear",
+   "id": "story-2026-11-15-pm-rubber-tidal-turbine-blades",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "runway praxis-1 open weights apache 2.0 world action model robots video pretraining robolab noble machines standard bots",
+   "headline": "Runway, known for AI video, gives away its robot-control model, which learns how the world moves by watching video",
+   "id": "story-2026-11-15-pm-runway-praxis-1-open-weights",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral stephen king x post aliens have landed real reason flights grounded joke millions of views",
+   "headline": "Stephen King jokes on X that “the aliens have landed” and that’s why U.S. flights were grounded, and millions of people play along",
+   "id": "story-2026-11-15-pm-stephen-king-aliens-joke",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at philadelphia flyers sunday night back to back road trip",
+   "headline": "Edmonton Oilers at Philadelphia Flyers",
+   "id": "story-2026-11-15-pm-oilers-next",
    "returning": false
   }
  ]
