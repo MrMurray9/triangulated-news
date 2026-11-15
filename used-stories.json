@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-14T16:14-06:00",
+ "updated": "2026-11-15T06:15-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6446,6 +6446,123 @@
    "topic": "oilers at toronto maple leafs saturday night six game road trip",
    "headline": "Edmonton Oilers at Toronto Maple Leafs",
    "id": "story-2026-11-14-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton elks montreal alouettes 113th grey cup mcmahon stadium calgary fajardo mack maas kilam first since 2015",
+   "headline": "The Elks play Montreal for the Grey Cup in Calgary tonight, their first shot at the trophy since 2015",
+   "id": "story-2026-11-15-am-grey-cup-elks-alouettes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "cfb wainwright fire fifth soldier dies pte william douglas dal bianco 3 ppcli 24 in hospital",
+   "headline": "A fifth soldier, Pte. William Dal Bianco, dies of injuries from last month’s CFB Wainwright fire, with 24 others still in hospital",
+   "id": "story-2026-11-15-am-wainwright-fifth-soldier",
+   "returning": true
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "carney lula tropical forest forever facility tfff 560 million manila asean brazil norway francophonie cambodia plamondon",
+   "headline": "Carney pledges up to $560 million to a Brazil-led fund that pays countries to keep tropical forests standing",
+   "id": "story-2026-11-15-am-tropical-forests-fund",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "world",
+   "topic": "zelensky us floated ukraine withdraw donbas in exchange nato membership referendum security guarantees abu dhabi",
+   "headline": "U.S. negotiators ask whether Ukraine would leave Donbas in exchange for NATO membership, Zelensky says, the first time the idea has come up",
+   "id": "story-2026-11-15-am-donbas-for-nato",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "world",
+   "topic": "iran revolutionary guard navy three oil tankers struck mines fire strait of hormuz supertanker unauthorised route",
+   "headline": "Iran says three oil tankers caught fire after hitting mines in the Strait of Hormuz, one of them a supertanker",
+   "id": "story-2026-11-15-am-hormuz-tankers-mines",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "business",
+   "topic": "tesla cybercab personal use pre-orders 29990 299 monthly autonomy subscription geofence austin robotaxi",
+   "headline": "Tesla starts taking orders for a personal Cybercab at US$29,990, but it only works with a US$299-a-month subscription and inside Robotaxi zones",
+   "id": "story-2026-11-15-am-cybercab-personal-orders",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "business",
+   "topic": "nvidia jensen huang reinstate petition musk 100000 signatures board rene haas arm successor kress interim",
+   "headline": "More than 100,000 people, including Elon Musk, sign a petition to bring back Jensen Huang, as Nvidia’s board reportedly sounds out Arm’s CEO",
+   "id": "story-2026-11-15-am-nvidia-reinstate-huang-petition",
+   "returning": true
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner spacex starship flight 15 upper stage caught by tower chopsticks mechazilla first full reusability",
+   "headline": "Science corner: SpaceX catches a Starship spacecraft with giant tower arms as it returns from orbit, the first time a spaceship has been caught this way",
+   "id": "story-2026-11-15-am-starship-tower-catch",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "langchain 300 million series c 3 billion valuation capitalg ai agents langsmith langgraph open source",
+   "headline": "LangChain, whose free tools are used to build AI agents, raises US$300 million and is now valued at US$3 billion",
+   "id": "story-2026-11-15-am-langchain-300m",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral detroit two horses board ddot city bus urban city cowboys facebook video real",
+   "headline": "Two saddled horses climb onto a Detroit city bus and walk straight off the other end, and the city confirms the viral video is real",
+   "id": "story-2026-11-15-am-detroit-horses-bus",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral wadsworth ohio sheep loose 45 days teen roper reagan crumpler horse catalena whispering acres facebook",
+   "headline": "A teenage roper and her horse finally lasso a sheep that outran an entire Ohio town for 45 days",
+   "id": "story-2026-11-15-am-wadsworth-sheep-teen-roper",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral anchorage alaska moose slides down icy driveway ring camera saporito",
+   "headline": "A moose steps onto an icy Anchorage driveway and slides all the way to the street on its backside",
+   "id": "story-2026-11-15-am-anchorage-moose-icy-driveway",
+   "returning": false
+  },
+  {
+   "date": "2026-11-15",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at philadelphia flyers sunday back to back road trip",
+   "headline": "Edmonton Oilers at Philadelphia Flyers",
+   "id": "story-2026-11-15-am-oilers-next",
    "returning": false
   }
  ]

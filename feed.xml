@@ -5,8 +5,99 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:14:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:15:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Sunday, November 15, 2026 (morning edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/edition</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Morning edition: the Elks in tonight’s Grey Cup, a fifth soldier’s death after the CFB Wainwright fire, Canada’s $560-million pledge for tropical forests, a U.S. Donbas-for-NATO question, Iran’s mined tankers in Hormuz, Tesla’s personal Cybercab orders, the push to reinstate Jensen Huang, SpaceX’s first Starship catch, LangChain’s $300-million raise, horses on a Detroit bus, a lassoed Ohio sheep, a sliding moose, and the Oilers in Philadelphia tonight.</description>
+    </item>
+    <item>
+      <title>The Elks play Montreal for the Grey Cup in Calgary tonight, their first shot at the trophy since 2015</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-grey-cup-elks-alouettes</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-grey-cup-elks-alouettes</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Kickoff for the 113th Grey Cup is 5 p.m. Edmonton time at McMahon Stadium, on TSN. Edmonton (13-5) and Montreal (14-4) had the CFL’s two best records this season. The Elks beat the BC Lions 28-16 in the Western Final, and the Alouettes beat Winnipeg 33-23 in the East. The teams split their regular-season games, with the Elks winning 32-29 in overtime at Commonwealth Stadium in June and Montreal winning 48-30 at home in August (Edmonton Elks, TSN).</description>
+    </item>
+    <item>
+      <title>A fifth soldier, Pte. William Dal Bianco, dies of injuries from last month’s CFB Wainwright fire, with 24 others still in hospital</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-wainwright-fifth-soldier</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-wainwright-fifth-soldier</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>The Canadian Armed Forces said Private William Douglas Dal Bianco of the 3rd Battalion, Princess Patricia’s Canadian Light Infantry, died on Nov. 13 in an Ontario hospital, where he’d been treated since the Oct. 17 fire. Of the 38 soldiers injured, 24 are still in hospital and 14 have been released (National Defence, Global News, AP).</description>
+    </item>
+    <item>
+      <title>Carney pledges up to $560 million to a Brazil-led fund that pays countries to keep tropical forests standing</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-tropical-forests-fund</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-tropical-forests-fund</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Prime Minister Mark Carney announced the four-year contribution on Sunday after meeting Brazil’s President Luiz Inácio Lula da Silva at the ASEAN summit in Manila. The Tropical Forest Forever Facility, co-led by Brazil and Norway and launched at last year’s COP30 in Belém, wants to raise US$35 billion from governments to draw in up to US$140 billion of private money. Investment returns would pay more than 70 countries for forest they can prove they’ve protected, with at least 20% going to Indigenous Peoples and local communities (Prime Minister’s Office, Bloomberg, The Jerusalem Post).</description>
+    </item>
+    <item>
+      <title>U.S. negotiators ask whether Ukraine would leave Donbas in exchange for NATO membership, Zelensky says, the first time the idea has come up</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-donbas-for-nato</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-donbas-for-nato</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>“The Americans raised the question: ‘What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?’ This was the first time this issue had been raised,” Ukrainian President Volodymyr Zelensky told reporters, in remarks his office released Saturday. Donbas is the eastern region of Donetsk and Luhansk, part of which Russia has never managed to capture (Kyiv Independent, CNBC with Reuters).</description>
+    </item>
+    <item>
+      <title>Iran says three oil tankers caught fire after hitting mines in the Strait of Hormuz, one of them a supertanker</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-hormuz-tankers-mines</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-hormuz-tankers-mines</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Iran’s Revolutionary Guards navy said two tankers that had switched off their radar and tracking systems exploded and caught fire after striking a mine while trying to slip through the south of the strait on an unauthorized route; it said one was a supertanker. Iran’s regular navy said a third tanker hit a mine and stopped in a “prohibited zone” east of the strait. Neither named the ships or said where they were from (Reuters via CNA, AFP via Arab News, Anadolu Agency).</description>
+    </item>
+    <item>
+      <title>Tesla starts taking orders for a personal Cybercab at US$29,990, but it only works with a US$299-a-month subscription and inside Robotaxi zones</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-cybercab-personal-orders</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-cybercab-personal-orders</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Tesla invited “select customers” on Friday to order the two-seat, steering-wheel-free car for personal use, with a US$1,000 non-refundable deposit and an estimated December delivery in Austin, Texas. The US$299 monthly “Autonomy Subscription” is mandatory: without it the car can’t drive, since there are no manual controls. It will only operate inside Tesla’s Robotaxi service areas, which are in Texas and Florida (Electrek, The Verge, TechCrunch).</description>
+    </item>
+    <item>
+      <title>More than 100,000 people, including Elon Musk, sign a petition to bring back Jensen Huang, as Nvidia’s board reportedly sounds out Arm’s CEO</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-nvidia-reinstate-huang-petition</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-nvidia-reinstate-huang-petition</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>The “Stand with Jensen” petition says Huang was pushed out “without meaningful due process” and asks the board to bring him back while an independent investigation runs. By Saturday afternoon its website listed more than 115,000 signatures, including about 6,000 people who say they’re current Nvidia employees; Musk, Replit’s Amjad Masad, Epic Games’ Tim Sweeney and Y Combinator’s Garry Tan signed on. Organizers said they were removing fakes, such as one signed “Xi Jingping” (TechCrunch, Business Insider).</description>
+    </item>
+    <item>
+      <title>Science corner: SpaceX catches a Starship spacecraft with giant tower arms as it returns from orbit, the first time a spaceship has been caught this way</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-starship-tower-catch</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-starship-tower-catch</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Rockets usually throw away their upper stage, the part that reaches orbit. On Saturday, after 22 hours and 14 laps of Earth, SpaceX’s Starship spacecraft descended through cloud over Starbase, Texas, flipped upright and settled between two mechanical “chopstick” arms on its launch tower, nicknamed Mechazilla. SpaceX says its heat shield and other systems appear to have worked well (Al Jazeera with AP and Reuters, CNBC, The Verge).</description>
+    </item>
+    <item>
+      <title>LangChain, whose free tools are used to build AI agents, raises US$300 million and is now valued at US$3 billion</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-langchain-300m</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-langchain-300m</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Alphabet’s CapitalG fund led the round, joined by IVP, Sapphire Ventures, Singapore’s GIC and DFJ Growth, the Wall Street Journal first reported. The San Francisco startup’s open-source software helps developers hook an AI model up to tools and instructions, link several agents into one workflow, and add steps where a human must approve sensitive actions (SiliconANGLE, Reuters, LangChain).</description>
+    </item>
+    <item>
+      <title>Two saddled horses climb onto a Detroit city bus and walk straight off the other end, and the city confirms the viral video is real</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-detroit-horses-bus</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-detroit-horses-bus</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>The riders led the horses up the front steps of a Detroit Department of Transportation bus near Seven Mile Road and Strasburg Street on Nov. 7, then out the rear door. The mayor’s office confirmed the video is real, and the city later released the bus’s own camera footage (Detroit Free Press, AP, WXYZ).</description>
+    </item>
+    <item>
+      <title>A teenage roper and her horse finally lasso a sheep that outran an entire Ohio town for 45 days</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-wadsworth-sheep-teen-roper</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-wadsworth-sheep-teen-roper</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>An American Blackbelly sheep had dodged volunteers, sheriff’s deputies and even drones around Wadsworth, Ohio, for more than six weeks. On Wednesday, Reagan Crumpler rode out on her 18-year-old horse, Catalena. After hours of near-misses, she told her horse, “Come on, Cat. We got this,” and they got in front of the sheep and roped it (New York Post, UPI, News 5 Cleveland).</description>
+    </item>
+    <item>
+      <title>A moose steps onto an icy Anchorage driveway and slides all the way to the street on its backside</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-15-am-anchorage-moose-icy-driveway</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-15/morning/story-2026-11-15-am-anchorage-moose-icy-driveway</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 -0600</pubDate>
+      <description>Jeremy Saporito’s security camera caught the moose stepping off his lawn early on Tuesday, Nov. 10. Its hooves went out from under it on the sloped, icy driveway, and it slid down on its rear end before reaching the road (UPI, Alaska’s News Source).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Saturday, November 14, 2026 (evening edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
