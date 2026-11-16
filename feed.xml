@@ -5,8 +5,78 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:13:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:18:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Monday, November 16, 2026 (morning edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/edition</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>Morning edition: the Elks win the Grey Cup, AMA cameras catch 72 near-misses at Alberta school crosswalks, Canada and allies press Israel on Gaza tents, Estonia closes its Russian border, Ebola still out of control after six months, a Vulcan rocket loses 40 Amazon satellites, a 22-million-person French data breach, a new CRISPR safety test, Meituan’s free LongCat-2.5, and the Oilers in Florida on Tuesday.</description>
+    </item>
+    <item>
+      <title>Cameras at 12 Edmonton and Calgary school crosswalks catch 72 near-misses between cars and pedestrians in just five school days</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-ama-school-crosswalk-near-misses</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-ama-school-crosswalk-near-misses</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>The Alberta Motor Association and the Canadian Automobile Association had traffic-data company Miovision film 30 school-route crossings in 11 Canadian cities and use AI to flag every time a vehicle came close to hitting someone. Across Canada that worked out to 660 near-misses, or about 4.5 a day, and one in every 84 people using the crosswalks had a close call (Edmonton Journal, Global News, CTV News Edmonton).</description>
+    </item>
+    <item>
+      <title>The Elks are Grey Cup champions: Cody Fajardo scores four touchdowns as Edmonton beats Montreal 37-30 in Calgary</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-elks-win-grey-cup</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-elks-win-grey-cup</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>Fajardo, named the game’s most valuable player, threw two touchdown passes to Joshua Cephus and ran for two more, going 16 of 22 for 199 yards. The lead changed hands six times before kicker Vincent Blanchard settled it with two late field goals, from 42 yards with 2:14 left and 43 yards with 1:05 left, after Edmonton’s defence stopped Montreal on downs (CFL.ca, Sportsnet, The Associated Press).</description>
+    </item>
+    <item>
+      <title>Canada joins Australia, Italy and Britain in telling Israel to let 150,000 tents into Gaza now, as winter floods swamp camps</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-gaza-tents-joint-statement</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-gaza-tents-joint-statement</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>In a joint statement on Sunday, the four foreign ministers said the tents and other supplies are being held at the border, and urged Israel to “stop the delays now” and open the crossings. They said items Israel treats as having possible military uses, but that aid groups need, must also be let in “before it is too late” (Global Affairs Canada, SBS News, Anadolu Agency).</description>
+    </item>
+    <item>
+      <title>Estonia will shut all its road crossings into Russia on Dec. 1 after a foiled arson attack on a drone maker that it blames on Russia’s spy agency</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-estonia-closes-russia-border</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-estonia-closes-russia-border</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>Police detained eight Latvian citizens early Saturday as they tried to break into Threod Systems, which builds long-range reconnaissance and attack drones, in Viimsi just outside Tallinn. Estonia’s security service says the group meant to set off an explosion and start a fire on the orders of Russia’s GRU military intelligence. It’s the second attempted arson at an Estonian defence company since August (ERR News, Reuters, Politico Europe).</description>
+    </item>
+    <item>
+      <title>Six months in, Africa’s health agency says Congo’s Ebola outbreak is still out of control, with more than 11,200 cases and 5,500 deaths</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-ebola-six-months-not-controlled</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-ebola-six-months-not-controlled</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>“If we don’t stop this outbreak now, it would be the worst Ebola outbreak that the world will have,” Africa CDC director-general Jean Kaseya told Reuters on Sunday. More than 80% of new cases are turning up in people who weren’t on any contact list, and most deaths are happening at home rather than in treatment centres. Cases have now been reported in East, Central and West Africa, the widest spread of any Ebola outbreak on the continent (Al Jazeera with Reuters, Africa CDC, The Hindu).</description>
+    </item>
+    <item>
+      <title>A ULA Vulcan rocket fails 10 minutes after launch and destroys 40 Amazon Leo internet satellites, the company’s first outright failure in 20 years</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-vulcan-fails-amazon-leo</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-vulcan-fails-amazon-leo</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>The rocket lifted off from Cape Canaveral at 10:40 a.m. Edmonton time on Sunday. United Launch Alliance, owned by Boeing and Lockheed Martin, said it suffered an “anomaly” during the upper-stage engine burn and failed to reach orbit. The cause isn’t known yet, and Vulcan is expected to be grounded during the investigation (Spaceflight Now, The Verge, Reuters).</description>
+    </item>
+    <item>
+      <title>Hackers steal the names and addresses of 22 million people in France from a La Poste mailing company most of them had never heard of</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-maileva-breach-22-million</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-maileva-breach-22-million</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>Maileva, part of the French postal group, sends payslips, registered letters and invoices on behalf of more than 70,000 business users. It says first names, last names and postal addresses of 22 million people who received those documents were stolen in a mid-September attack; bank details were not. It has told France’s privacy regulator, the CNIL, and filed a criminal complaint (Security Affairs, franceinfo, Anadolu Agency).</description>
+    </item>
+    <item>
+      <title>Science corner: Superb-seq, a new test that shows every place CRISPR cut a cell’s DNA, including the ones it wasn’t supposed to</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-superb-seq-crispr-off-target</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-superb-seq-crispr-off-target</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>CRISPR gene editing works like molecular scissors guided to a chosen stretch of DNA, but it sometimes cuts in the wrong places too. Existing tests can find where those stray cuts happen across a batch of cells, but not which cell got them or what they did. Salk Institute scientists built Superb-seq to do both. It tags each cut with a short DNA marker, then reads that tag along with the cell’s gene activity, one cell at a time (Salk Institute via Phys.org, Nature Methods, GEN).</description>
+    </item>
+    <item>
+      <title>China’s Meituan gives away the full weights of LongCat-2.5, a giant AI agent model trained without Nvidia chips, under a licence anyone can use</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-16-am-meituan-longcat-25-open-weights</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-16/morning/story-2026-11-16-am-meituan-longcat-25-open-weights</guid>
+      <pubDate>Mon, 16 Nov 2026 06:18:00 -0600</pubDate>
+      <description>The food-delivery company released LongCat-2.5 under the MIT licence, which allows commercial use and changes. It has 1.6 trillion parameters but uses only about 48 billion for each word it writes, can read text, images and video, and is built for long, multi-step coding jobs. Meituan says it was trained entirely on Chinese-made AI chips (The Decoder, VentureBeat, TokenPost).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Sunday, November 15, 2026 (evening edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>

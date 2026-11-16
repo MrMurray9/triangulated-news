@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-15T16:13-06:00",
+ "updated": "2026-11-16T06:18-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6662,6 +6662,96 @@
    "topic": "oilers at philadelphia flyers sunday night back to back road trip",
    "headline": "Edmonton Oilers at Philadelphia Flyers",
    "id": "story-2026-11-15-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "ama caa miovision study school crosswalks near misses 4.5 per day edmonton calgary 72 pedestrians 3 to 4 pm",
+   "headline": "Cameras at 12 Edmonton and Calgary school crosswalks catch 72 near-misses between cars and pedestrians in just five school days",
+   "id": "story-2026-11-16-am-ama-school-crosswalk-near-misses",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton elks win 113th grey cup 37-30 montreal alouettes fajardo mvp blanchard field goals mcmahon stadium calgary record 15th",
+   "headline": "The Elks are Grey Cup champions: Cody Fajardo scores four touchdowns as Edmonton beats Montreal 37-30 in Calgary",
+   "id": "story-2026-11-16-am-elks-win-grey-cup",
+   "returning": true
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada australia italy uk foreign ministers joint statement gaza 150,000 tents held at border winter floods israel crossings",
+   "headline": "Canada joins Australia, Italy and Britain in telling Israel to let 150,000 tents into Gaza now, as winter floods swamp camps",
+   "id": "story-2026-11-16-am-gaza-tents-joint-statement",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "world",
+   "topic": "estonia close road border crossings russia december 1 gru sabotage arson threod systems drone maker eight latvians narva",
+   "headline": "Estonia will shut all its road crossings into Russia on Dec. 1 after a foiled arson attack on a drone maker that it blames on Russia’s spy agency",
+   "id": "story-2026-11-16-am-estonia-closes-russia-border",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "world",
+   "topic": "ebola bundibugyo six months africa cdc not under control 11,200 cases 5,500 deaths kaseya funding 1.3 billion of 2.9 billion",
+   "headline": "Six months in, Africa’s health agency says Congo’s Ebola outbreak is still out of control, with more than 11,200 cases and 5,500 deaths",
+   "id": "story-2026-11-16-am-ebola-six-months-not-controlled",
+   "returning": true
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "business",
+   "topic": "ula vulcan rocket failure centaur upper stage anomaly 40 amazon leo satellites lost first mission failure boeing lockheed",
+   "headline": "A ULA Vulcan rocket fails 10 minutes after launch and destroys 40 Amazon Leo internet satellites, the company’s first outright failure in 20 years",
+   "id": "story-2026-11-16-am-vulcan-fails-amazon-leo",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "business",
+   "topic": "maileva la poste docaposte cyberattack data breach 22 million people names addresses france cnil kiwee patients",
+   "headline": "Hackers steal the names and addresses of 22 million people in France from a La Poste mailing company most of them had never heard of",
+   "id": "story-2026-11-16-am-maileva-breach-22-million",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner superb-seq salk crispr cas9 off-target edits single cell rna sequencing nature methods mcvicker",
+   "headline": "Science corner: Superb-seq, a new test that shows every place CRISPR cut a cell’s DNA, including the ones it wasn’t supposed to",
+   "id": "story-2026-11-16-am-superb-seq-crispr-off-target",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "meituan longcat-2.5 open weights mit licence 1.6 trillion parameters chinese chips huawei ascend 194 terminal bench",
+   "headline": "China’s Meituan gives away the full weights of LongCat-2.5, a giant AI agent model trained without Nvidia chips, under a licence anyone can use",
+   "id": "story-2026-11-16-am-meituan-longcat-25-open-weights",
+   "returning": true
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at florida panthers tuesday road trip after 5-2 win in philadelphia",
+   "headline": "Edmonton Oilers at Florida Panthers",
+   "id": "story-2026-11-16-am-oilers-next",
    "returning": false
   }
  ]

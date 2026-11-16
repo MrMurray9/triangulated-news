@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-15T16:13-06:00",
+ "updated": "2026-11-16T06:18-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -634,6 +634,14 @@
    "first_used": "2026-11-15",
    "editions": [
     "2026-11-15-evening"
+   ]
+  },
+  {
+   "text": "Why can’t a nose be 12 inches long? Because then it would be a foot.",
+   "normalized": "why can t a nose be 12 inches long because then it would be a foot",
+   "first_used": "2026-11-16",
+   "editions": [
+    "2026-11-16-morning"
    ]
   }
  ],
@@ -1381,6 +1389,15 @@
    "first_used": "2026-11-15",
    "editions": [
     "2026-11-15-evening"
+   ]
+  },
+  {
+   "text": "I wandered lonely as a cloud / That floats on high o’er vales and hills",
+   "attribution": "William Wordsworth, “I Wandered Lonely as a Cloud,” Poems, in Two Volumes (1807)",
+   "normalized": "i wandered lonely as a cloud that floats on high o er vales and hills",
+   "first_used": "2026-11-16",
+   "editions": [
+    "2026-11-16-morning"
    ]
   }
  ]
