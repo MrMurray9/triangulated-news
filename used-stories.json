@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-16T06:18-06:00",
+ "updated": "2026-11-16T16:09-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6752,6 +6752,96 @@
    "topic": "oilers at florida panthers tuesday road trip after 5-2 win in philadelphia",
    "headline": "Edmonton Oilers at Florida Panthers",
    "id": "story-2026-11-16-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 40 electoral divisions act 91 seat riding map tabled amery nenshi court challenge hybrid ridings calgary lethbridge",
+   "headline": "Alberta tables Bill 40 to lock in its 91-seat riding map, and the NDP promises a court fight if it passes",
+   "id": "story-2026-11-16-pm-bill-40-electoral-map",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "tc energy alberta growth connector 370 km 48-inch natural gas pipeline ngtl expansion oilsands data centres power plants",
+   "headline": "TC Energy proposes a 370-km gas pipeline across Alberta to feed the oilsands, new power plants and data centres",
+   "id": "story-2026-11-16-pm-tc-alberta-growth-connector",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "statistics canada consumer price index october 2026 inflation 3.1 per cent gasoline 30.9 groceries bank of canada december rate",
+   "headline": "Canada’s inflation stays at 3.1% in October as gas and grocery prices climb, but cheaper phone plans help",
+   "id": "story-2026-11-16-pm-cpi-october-3-1",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "world",
+   "topic": "ukraine drones hit kerch crimean bridge 1,336 drones moscow 600 intercepted peskov minor damage shenzhen summit",
+   "headline": "Ukrainian drones hit the bridge linking Russia to Crimea during a barrage of more than 1,300 drones",
+   "id": "story-2026-11-16-pm-kerch-bridge-drone-barrage",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "world",
+   "topic": "south africa two mass shootings 17 killed atteridgeville pretoria jeffsville pietermaritzburg masemola police",
+   "headline": "Two mass shootings on the same day in South Africa kill at least 17 people near Pretoria and Pietermaritzburg",
+   "id": "story-2026-11-16-pm-south-africa-two-mass-shootings",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "business",
+   "topic": "quebecor videotron 31 billion takeover bid telus 6.35 cash 0.17 shares 60 per cent premium competition bureau crtc dodig peladeau",
+   "headline": "Quebecor bids $31 billion for Telus, and Telus says the deal has “serious” regulatory problems",
+   "id": "story-2026-11-16-pm-quebecor-bids-for-telus",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner ucla capped nanovials hydrogel cell-sized test tubes lids di carlo science advances bacteria yeast colonies antibody screening",
+   "headline": "Science corner: UCLA puts tiny lids on cell-sized “test tubes,” so hundreds of thousands of single-cell experiments can run at once",
+   "id": "story-2026-11-16-pm-capped-nanovials",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "commerce bis rule remote access advanced ai chips overseas data centres china indonesia malaysia singapore thailand brazil license megaspeed",
+   "headline": "The U.S. moves to stop Chinese companies renting top AI chips from data centres in Southeast Asia and Brazil",
+   "id": "story-2026-11-16-pm-bis-remote-chip-access-rule",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral instagram motorcycle rider stops traffic rescues kitten hiding under car radwan_unfiltered jacket pocket",
+   "headline": "A motorcyclist stops a busy road to rescue a terrified kitten from under a car, and tucks it into his jacket",
+   "id": "story-2026-11-16-pm-biker-stops-traffic-kitten",
+   "returning": false
+  },
+  {
+   "date": "2026-11-16",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at florida panthers tuesday sportsnet road trip ends thursday tampa bay",
+   "headline": "Edmonton Oilers at Florida Panthers",
+   "id": "story-2026-11-16-pm-oilers-next",
    "returning": false
   }
  ]
