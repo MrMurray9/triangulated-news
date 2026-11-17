@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-17T06:11-06:00",
+ "updated": "2026-11-17T16:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6932,6 +6932,123 @@
    "topic": "oilers at florida panthers tonight 6 pm sportsnet road trip ends thursday tampa",
    "headline": "Edmonton Oilers at Florida Panthers",
    "id": "story-2026-11-17-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "calgary council 13-2 wyness motion land use bylaw moratorium large-scale hyperscale ai data centres stantec redstone",
+   "headline": "Calgary council votes 13-2 to start building the legal tools for a pause on giant AI data centres",
+   "id": "story-2026-11-17-pm-calgary-council-data-centre-pause-step",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "trixstar productions bankruptcy great outdoors comedy festival matt rife kinsmen park cancelled refunds mnp trustee edmonton",
+   "headline": "Edmonton fans still owed refunds for a rained-out Matt Rife show are left waiting as festival company Trixstar goes bankrupt",
+   "id": "story-2026-11-17-pm-trixstar-bankrupt-comedy-refunds",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "giller prize 2026 nicholas herring your breath in charcoal goose lane pei bookseller jury",
+   "headline": "P.E.I. fisherman and carpenter Nicholas Herring wins the $100,000 Giller Prize for Your Breath in Charcoal",
+   "id": "story-2026-11-17-pm-giller-herring-breath-in-charcoal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "manitoba throne speech kinew middle-class mega-deduction tax cut free shingles vaccine victoria hospital er ai real estate ads",
+   "headline": "Manitoba promises a middle-class “mega-deduction” and free shingles shots for seniors in Kinew’s last throne speech before the 2027 vote",
+   "id": "story-2026-11-17-pm-manitoba-throne-speech-mega-deduction",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "world",
+   "topic": "lpg tanker gas husky sinks black sea bulgaria eez byala 19 filipino crew rescued drones stealth maritime betul 8",
+   "headline": "A gas tanker sinks off Bulgaria, the second ship lost there in two days, and all 19 crew are rescued from a life raft",
+   "id": "story-2026-11-17-pm-gas-husky-sinks-off-bulgaria",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "world",
+   "topic": "kerch crimea bridge road arch collapse ukraine strike two dead road traffic suspended 1441 drones peskov rebuild",
+   "headline": "Crimea bridge’s main road arch now lies in the Kerch Strait: two dead, the road link to Russia cut, and Moscow vows to rebuild",
+   "id": "story-2026-11-17-pm-crimea-bridge-arch-collapses",
+   "returning": true
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "business",
+   "topic": "nvidia q3 fiscal 2027 earnings 115.8 billion revenue colette kress interim ceo vera rubin guidance 130 billion sec probe",
+   "headline": "Nvidia’s sales more than double to US$115.8 billion in its first report since Jensen Huang’s exit, and the stock rises after hours",
+   "id": "story-2026-11-17-pm-nvidia-q3-beat-kress-first-report",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "business",
+   "topic": "home depot names cfo richard mcphail ceo ted decker chair q3 2026 results comparable sales",
+   "headline": "Home Depot makes finance chief Richard McPhail its next CEO as its sales recovery holds",
+   "id": "story-2026-11-17-pm-home-depot-mcphail-next-ceo",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "science",
+   "topic": "hkust bionic eye hemispherical artificial retina 367500 pixels 160 degree field of view event-driven motion detection nature materials",
+   "headline": "Science corner: a dome-shaped camera sensor packs 367,500 pixels and sees in full colour across 160 degrees",
+   "id": "story-2026-11-17-pm-hkust-curved-bionic-eye-sensor",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai gpt-6.2 astra sol release chatgpt api price cut artificial analysis",
+   "headline": "GPT-6.2 Astra and Sol arrive in ChatGPT, with Astra’s developer price cut 20% and better slides, spreadsheets and science work",
+   "id": "story-2026-11-17-pm-gpt-6-2-astra-sol-release",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "robert pattinson cast james bond 007 amazon mgm villeneuve viral x announcement",
+   "headline": "Robert Pattinson is the new James Bond, and the official 007 announcement takes over X",
+   "id": "story-2026-11-17-pm-pattinson-named-007",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral video wild macaque monkey rides car hood kam shan country park hong kong",
+   "headline": "A wild monkey hitches a ride on a car’s hood in Hong Kong, hugging the mirror and refusing to get off",
+   "id": "story-2026-11-17-pm-hong-kong-monkey-hood-ride",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at florida panthers tonight 6 pm sportsnet sixth straight win mcdavid 22-game streak",
+   "headline": "Edmonton Oilers at Florida Panthers",
+   "id": "story-2026-11-17-pm-oilers-next",
    "returning": false
   }
  ]

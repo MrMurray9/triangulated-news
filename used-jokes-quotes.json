@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-17T06:11-06:00",
+ "updated": "2026-11-17T16:12-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -658,6 +658,14 @@
    "first_used": "2026-11-17",
    "editions": [
     "2026-11-17-morning"
+   ]
+  },
+  {
+   "text": "Why did the student eat his homework? The teacher told him it was a piece of cake.",
+   "normalized": "why did the student eat his homework the teacher told him it was a piece of cake",
+   "first_used": "2026-11-17",
+   "editions": [
+    "2026-11-17-evening"
    ]
   }
  ],
@@ -1432,6 +1440,15 @@
    "first_used": "2026-11-17",
    "editions": [
     "2026-11-17-morning"
+   ]
+  },
+  {
+   "text": "Our doubts are traitors / And makes us lose the good we oft might win / By fearing to attempt.",
+   "attribution": "William Shakespeare, Measure for Measure, Act 1, Scene 4 (Lucio); text per the Folger Shakespeare Library",
+   "normalized": "our doubts are traitors and makes us lose the good we oft might win by fearing to attempt",
+   "first_used": "2026-11-17",
+   "editions": [
+    "2026-11-17-evening"
    ]
   }
  ]

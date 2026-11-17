@@ -5,8 +5,99 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:11:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:12:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Tuesday, November 17, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/edition</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Evening edition: Calgary moves toward a pause on giant data centres, Edmonton fans left waiting after Trixstar’s bankruptcy, Nicholas Herring wins the Giller, Manitoba’s “mega-deduction” throne speech, a gas tanker sinks off Bulgaria, the Crimea bridge’s road arch collapses, Nvidia’s first report since Huang’s exit, Home Depot’s new CEO, a curved bionic-eye camera, GPT-6.2 Astra and Sol, Robert Pattinson as Bond, a hitchhiking Hong Kong monkey, and the Oilers in Florida tonight.</description>
+    </item>
+    <item>
+      <title>Calgary council votes 13-2 to start building the legal tools for a pause on giant AI data centres</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-calgary-council-data-centre-pause-step</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-calgary-council-data-centre-pause-step</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Calgary city council voted 13-2 on Tuesday for a motion from Ward 2 Coun. Jennifer Wyness that tells city staff to draft Land Use Bylaw changes by March 2027. Those changes would let the city temporarily freeze land-use applications for large-scale data centres. Wyness said provincial law allows a moratorium, but Calgary’s bylaw has no way to impose one yet (Calgary Herald, LiveWire Calgary).</description>
+    </item>
+    <item>
+      <title>Edmonton fans still owed refunds for a rained-out Matt Rife show are left waiting as festival company Trixstar goes bankrupt</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-trixstar-bankrupt-comedy-refunds</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-trixstar-bankrupt-comedy-refunds</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Trixstar Productions, the company behind the Great Outdoors Comedy Festival, has filed for bankruptcy. A storm cancelled its July 18 show at Kinsmen Park, headlined by Matt Rife, and ticket holders say they’re still waiting for refunds more than three months later (CityNews Edmonton, Culture Alberta, Taproot Edmonton).</description>
+    </item>
+    <item>
+      <title>P.E.I. fisherman and carpenter Nicholas Herring wins the $100,000 Giller Prize for Your Breath in Charcoal</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-giller-herring-breath-in-charcoal</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-giller-herring-breath-in-charcoal</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Nicholas Herring, who lives in Murray Harbour, P.E.I., and works as a fisherman and carpenter, won the 2026 Giller Prize on Monday night for his second novel, Your Breath in Charcoal. It follows Knickle, a young Islander who drifts through life, on a road trip from Prince Edward Island to Toronto. The jury called it “a riotously funny working-class odyssey filled with love, loss, and profound hope” (Giller Prize, The Canadian Press, The Globe and Mail).</description>
+    </item>
+    <item>
+      <title>Manitoba promises a middle-class “mega-deduction” and free shingles shots for seniors in Kinew’s last throne speech before the 2027 vote</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-manitoba-throne-speech-mega-deduction</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-manitoba-throne-speech-mega-deduction</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Manitoba’s NDP government promised a broad middle-class tax cut on Tuesday, describing it as a “mega-deduction” to help families with their bills. Premier Wab Kinew called it his last throne speech before Manitobans vote in 2027. Details, including the cost, are coming in next spring’s budget (Winnipeg Free Press, The Canadian Press, Winnipeg Sun).</description>
+    </item>
+    <item>
+      <title>A gas tanker sinks off Bulgaria, the second ship lost there in two days, and all 19 crew are rescued from a life raft</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-gas-husky-sinks-off-bulgaria</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-gas-husky-sinks-off-bulgaria</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>The Liberian-flagged gas carrier Gas Husky, carrying about 3,400 tonnes of liquefied petroleum gas from Alexandria, Egypt, to Midia, Romania, sank Tuesday about 50 nautical miles east of the Bulgarian town of Byala, inside Bulgaria’s exclusive economic zone. A Bulgarian Air Force jet spotted a life raft and a distress flare, and a Cougar helicopter flew all 19 Filipino crew members to Varna. Two had minor injuries (BTA, AP, Euronews).</description>
+    </item>
+    <item>
+      <title>Crimea bridge’s main road arch now lies in the Kerch Strait: two dead, the road link to Russia cut, and Moscow vows to rebuild</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-crimea-bridge-arch-collapses</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-crimea-bridge-arch-collapses</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>President Volodymyr Zelensky posted the videos and called the strike payback for Russia’s daily attacks on Ukrainian infrastructure, the seventh stage of a weeks-long operation run by the SBU security service and the military. Crimea’s Russian-installed governor, Sergei Aksyonov, said road traffic is suspended. Trains started running again after a pause. Kremlin spokesman Dmitry Peskov said Russia will make the bridge “even better than before” (Reuters, AP, Ukrinform).</description>
+    </item>
+    <item>
+      <title>Nvidia’s sales more than double to US$115.8 billion in its first report since Jensen Huang’s exit, and the stock rises after hours</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-nvidia-q3-beat-kress-first-report</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-nvidia-q3-beat-kress-first-report</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Nvidia reported third-quarter revenue of US$115.8 billion after markets closed Tuesday, up 103% from a year earlier and well above the roughly US$109 billion analysts expected. Profit was US$65.3 billion, and sales of data-centre chips rose 110% to US$107.6 billion. Nvidia expects about US$130 billion this quarter, which has an extra week, and assumes no data-centre chip sales to China (Nvidia, CNBC, Axios).</description>
+    </item>
+    <item>
+      <title>Home Depot makes finance chief Richard McPhail its next CEO as its sales recovery holds</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-home-depot-mcphail-next-ceo</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-home-depot-mcphail-next-ceo</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Home Depot named CFO Richard McPhail, 56, as chief executive starting Nov. 23. Ted Decker, 63, who took medical leave in August and has since returned, will step down as CEO but stay on as board chair. Jordan Broggi becomes finance chief and Marie Campbell chief operating officer (Reuters, Home Depot, Retail Dive).</description>
+    </item>
+    <item>
+      <title>Science corner: a dome-shaped camera sensor packs 367,500 pixels and sees in full colour across 160 degrees</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-hkust-curved-bionic-eye-sensor</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-hkust-curved-bionic-eye-sensor</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>A team at the Hong Kong University of Science and Technology (HKUST), led by Fan Zhiyong, has built a camera that works like an eyeball. Its light sensors sit on a curved, dome-shaped “retina” instead of a flat chip. A new 3D laser technique let the team pack 1,905 pixels per inch onto that curve, 367,500 in all. Their first version, from 2020, had just 100 (Photonics Spectra, HKUST, Nature Materials).</description>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra and Sol arrive in ChatGPT, with Astra’s developer price cut 20% and better slides, spreadsheets and science work</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-gpt-6-2-astra-sol-release</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-gpt-6-2-astra-sol-release</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>OpenAI released two new models on Tuesday: GPT-6.2 Astra, its top model for demanding professional work, and GPT-6.2 Sol, a cheaper one for everyday tasks. Both are available to Plus, Pro, Enterprise and Edu users in ChatGPT and the Codex coding tool, and to developers through OpenAI’s API and Amazon Bedrock. Astra’s API price drops 20%, to US$8 per million input tokens and US$40 per million output tokens; Sol stays at US$2 and US$10 (OpenAI, The Decoder, AWS).</description>
+    </item>
+    <item>
+      <title>Robert Pattinson is the new James Bond, and the official 007 announcement takes over X</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-pattinson-named-007</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-pattinson-named-007</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>Amazon MGM Studios announced on Monday that Robert Pattinson, star of The Batman, will be the next James Bond, taking over from Daniel Craig. Denis Villeneuve is directing, Steven Knight is writing the script, and Amy Pascal and David Heyman are producing (AP, Variety, Amazon).</description>
+    </item>
+    <item>
+      <title>A wild monkey hitches a ride on a car’s hood in Hong Kong, hugging the mirror and refusing to get off</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-17-pm-hong-kong-monkey-hood-ride</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-17/evening/story-2026-11-17-pm-hong-kong-monkey-hood-ride</guid>
+      <pubDate>Tue, 17 Nov 2026 16:12:00 -0600</pubDate>
+      <description>A 14-second clip filmed Sunday near Kam Shan Country Park, home to many of Hong Kong’s wild macaques, shows a monkey sitting on the hood of a moving car and hugging a side mirror. The driver creeps along slowly so it doesn’t get hurt. Later photos show the car parked and the monkey still on the hood, staring at the people inside (The Standard, Sing Tao Headline, am730).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Tuesday, November 17, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
