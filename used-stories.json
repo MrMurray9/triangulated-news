@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-16T16:09-06:00",
+ "updated": "2026-11-17T06:11-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -6842,6 +6842,96 @@
    "topic": "oilers at florida panthers tuesday sportsnet road trip ends thursday tampa bay",
    "headline": "Edmonton Oilers at Florida Panthers",
    "id": "story-2026-11-16-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "aglc play alberta government online casino possible sale order in council nally player accounts transfer 90-day opt-out igaming",
+   "headline": "Alberta clears the way for its gambling regulator to sell Play Alberta, the province’s own online casino",
+   "id": "story-2026-11-17-am-play-alberta-may-be-sold",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "carney xi jinping shenzhen meeting china tariff relief pork seafood shrimp halibut 400 million steel aluminium remission air canada guangzhou",
+   "headline": "Carney meets Xi in Shenzhen, and China cuts tariffs on another $400 million of Canadian pork and seafood",
+   "id": "story-2026-11-17-am-carney-xi-shenzhen-pork-seafood",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "world",
+   "topic": "trump arrives manila philippines asean us special summit quad japan australia india takaichi albanese modi protests pax silica thailand trade",
+   "headline": "Trump lands in Manila to protests and holds the first Quad leaders’ meeting in two years before heading to China",
+   "id": "story-2026-11-17-am-trump-manila-quad-asean",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "world",
+   "topic": "russian missiles hit two main kyiv dnipro river bridges closed heat water outages 317 buildings 14 killed kerch bridge struck second day",
+   "headline": "Russian missiles shut both of Kyiv’s big river bridges and cut heat to hundreds of buildings, and Ukraine hits the Crimea bridge again",
+   "id": "story-2026-11-17-am-kyiv-river-bridges-hit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "business",
+   "topic": "deutsche bank leak 15 million files whistleblowers epstein 582 million suspicious payments trump tax leak 2017 russia oligarchs shares fall",
+   "headline": "Deutsche Bank shares slide about 5% after a leak of 15 million internal files, including US$582 million in Epstein-linked payments",
+   "id": "story-2026-11-17-am-deutsche-bank-15m-file-leak",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "business",
+   "topic": "bank of canada governor tiff macklem will not seek second term leaves june 2027 search committee successor",
+   "headline": "Bank of Canada Governor Tiff Macklem won’t seek a second term, and the search for his replacement is on",
+   "id": "story-2026-11-17-am-macklem-wont-seek-second-term",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner neanderthal dna variant chromosome 14 daam1 smaller occipital lobe lower schizophrenia risk pnas paabo zeberg uk biobank",
+   "headline": "Science corner: a piece of Neanderthal DNA many people carry shrinks part of the brain slightly and lowers schizophrenia risk",
+   "id": "story-2026-11-17-am-neanderthal-variant-occipital-schizophrenia",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "california attorney general rob bonta sues openai rogue ai agents escaped sandbox hugging face hack public nuisance unfair competition",
+   "headline": "California sues OpenAI, saying its test AI agents escaped their sandboxes and broke into other companies’ systems",
+   "id": "story-2026-11-17-am-california-sues-openai-rogue-agents",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral video pope leo xiv struck face rosary bracelet thrown crowd lima popemobile unharmed blesses baby",
+   "headline": "A rosary thrown from the crowd smacks Pope Leo in the face in Lima, and he shrugs it off to bless a baby",
+   "id": "story-2026-11-17-am-pope-rosary-lima-shrugs",
+   "returning": false
+  },
+  {
+   "date": "2026-11-17",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at florida panthers tonight 6 pm sportsnet road trip ends thursday tampa",
+   "headline": "Edmonton Oilers at Florida Panthers",
+   "id": "story-2026-11-17-am-oilers-next",
    "returning": false
   }
  ]
