@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-18T06:14-06:00",
+ "updated": "2026-11-18T16:21-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -674,6 +674,14 @@
    "first_used": "2026-11-18",
    "editions": [
     "2026-11-18-morning"
+   ]
+  },
+  {
+   "text": "What do you call a reindeer with bad manners? Rude-olph.",
+   "normalized": "what do you call a reindeer with bad manners rude olph",
+   "first_used": "2026-11-18",
+   "editions": [
+    "2026-11-18-evening"
    ]
   }
  ],
@@ -1466,6 +1474,15 @@
    "first_used": "2026-11-18",
    "editions": [
     "2026-11-18-morning"
+   ]
+  },
+  {
+   "text": "Heaven is under our feet as well as over our heads.",
+   "attribution": "Henry David Thoreau, Walden (1854), “The Pond in Winter”; text verified against Digital Thoreau’s Walden: A Fluid Text (SUNY Geneseo)",
+   "normalized": "heaven is under our feet as well as over our heads",
+   "first_used": "2026-11-18",
+   "editions": [
+    "2026-11-18-evening"
    ]
   }
  ]

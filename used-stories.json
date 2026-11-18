@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-18T06:14-06:00",
+ "updated": "2026-11-18T16:21-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7157,6 +7157,141 @@
    "topic": "oilers at tampa bay lightning thursday after 5-2 win at florida sixth straight mcdavid 23-game streak",
    "headline": "Edmonton Oilers at Tampa Bay Lightning",
    "id": "story-2026-11-18-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "calgary southern alberta heavy wet snow 60 collisions deerfoot highway 1 closed jackknifed semis gleichen snowfall warning",
+   "headline": "Wet snow causes more than 60 crashes in Calgary before 8 a.m., and jackknifed semis close Highway 1 to the east",
+   "id": "story-2026-11-18-pm-calgary-snow-60-collisions",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 42 data centre setbacks 600 metres homes farmland irrigated land auc regulator glubish water cooling",
+   "headline": "Now the province steps in on data centres: Bill 42 would bar big ones from within 600 metres of a home, from top farmland and from irrigated land",
+   "id": "story-2026-11-18-pm-bill-42-data-centre-setbacks",
+   "returning": true
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "dnd cadets junior canadian rangers activities paused until march 2027 fiscal pressures weekly parade nights only",
+   "headline": "The military pauses almost all cadet activities until April, leaving only weekly parade nights, to save money",
+   "id": "story-2026-11-18-pm-cadet-activities-paused-to-march",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "parliamentary budget officer annette ryan public debt charges fastest-growing expense 85.5 billion 2030-31 budget 2026",
+   "headline": "Interest on the federal debt is now Ottawa’s fastest-growing expense, rising to $85.5 billion a year by 2030, budget officer says",
+   "id": "story-2026-11-18-pm-pbo-debt-charges-fastest-growing",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "carney trump unscheduled 20 minute meeting shenzhen apec trade agreement cusma no deal",
+   "headline": "Carney and Trump hold an unscheduled 20-minute meeting in Shenzhen and agree to keep working on a trade deal, with no breakthrough",
+   "id": "story-2026-11-18-pm-carney-trump-shenzhen-sideline",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "iran drones kuwait ali al salem air base bahrain attacks after us strike qeshm island hormuz adnoc ship",
+   "headline": "Iran fires drones at a U.S. air base in Kuwait, its first attack there since September, after U.S. jets bomb a missile site on Qeshm Island",
+   "id": "story-2026-11-18-pm-iran-drones-kuwait-bahrain-after-qeshm",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "european commission 45 billion euro loan ukraine 2027 repaid after russian reparations von der leyen",
+   "headline": "The EU proposes a €45-billion loan to keep Ukraine running in 2027, to be repaid only once Russia pays reparations",
+   "id": "story-2026-11-18-pm-eu-45-billion-ukraine-loan-2027",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "world",
+   "topic": "nasa voyager 1 reaches one light-day from earth milestone interstellar space",
+   "headline": "Voyager 1 becomes the first spacecraft ever to reach one light-day from Earth, 49 years after launch",
+   "id": "story-2026-11-18-pm-voyager-1-one-light-day",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "business",
+   "topic": "fed governor waller shock half-point rate hike december fomc october minutes dow falls 561 s&p fifth loss",
+   "headline": "The Dow drops 561 points after Fed governor Waller says the central bank may need to “shock people” with a half-point rate hike",
+   "id": "story-2026-11-18-pm-waller-shock-dow-drops-561",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner drone whale blow snot humpback whole genome sequencing st andrews british columbia gitgaat",
+   "headline": "Science corner: drones that fly through humpback whales’ breath collect enough DNA to read whole genomes, with no darts needed",
+   "id": "story-2026-11-18-pm-whale-blow-drone-genomes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "anthropic ipo priced 83 dollars above range nasdaq debut thursday ticker ant",
+   "headline": "Anthropic prices its IPO at US$83 a share, above its range, ahead of a Nasdaq debut on Thursday",
+   "id": "story-2026-11-18-pm-anthropic-ipo-priced-83",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "google gemini 4 neon model launch pricing 3 dollars million tokens antigravity",
+   "headline": "Google releases Gemini 4 Neon, a faster mid-size model it says comes close to its flagship at much lower cost",
+   "id": "story-2026-11-18-pm-google-gemini-4-neon",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral video pet turkey slides down children's slide quebec backyard storyful",
+   "headline": "A pet turkey in Quebec watches the kids use the backyard slide, then climbs up and goes down it himself",
+   "id": "story-2026-11-18-pm-viral-quebec-turkey-slide",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral tiktok tennessee girl sage surprised adopted shelter dog wendy williamson county",
+   "headline": "A 7-year-old in Tennessee comes home from school to find the shelter dog she kept visiting, and calls it “the best time in my life ever”",
+   "id": "story-2026-11-18-pm-viral-sage-shelter-dog-wendy",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at tampa bay lightning thursday 6:30 pm six straight wins mcdavid 23-game point streak",
+   "headline": "Edmonton Oilers at Tampa Bay Lightning",
+   "id": "story-2026-11-18-pm-oilers-next",
    "returning": false
   }
  ]
