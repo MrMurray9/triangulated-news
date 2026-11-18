@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-17T16:12-06:00",
+ "updated": "2026-11-18T06:14-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7049,6 +7049,114 @@
    "topic": "oilers at florida panthers tonight 6 pm sportsnet sixth straight win mcdavid 22-game streak",
    "headline": "Edmonton Oilers at Florida Panthers",
    "id": "story-2026-11-17-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "fort mcmurray 111 charles avenue apartment fire arson 150 displaced 40-year-old woman arrested wood buffalo rcmp",
+   "headline": "About 150 people lose their homes after a fire RCMP say was set on purpose rips through a downtown Fort McMurray apartment building",
+   "id": "story-2026-11-18-am-fort-mcmurray-apartment-arson",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta drivers licence renewal three exemptions citizenship marker documents service alberta nov 19",
+   "headline": "Albertans stuck at the registry because of missing birth, marriage or citizenship papers get three ways to renew their licence starting Thursday",
+   "id": "story-2026-11-18-am-licence-renewal-exemptions",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "meta whatsapp encryption bill c-22 lawful access senate committee rachel curran pull services canada",
+   "headline": "Meta tells senators it could pull WhatsApp and its other encrypted apps out of Canada if the lawful-access bill passes unchanged",
+   "id": "story-2026-11-18-am-meta-whatsapp-c22-warning",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "cn rail derailment rockslide skeena river terrace bc highway 16 two crew hospitalized diesel leak",
+   "headline": "A rockslide knocks a CN train off the tracks west of Terrace, B.C., sending containers into the Skeena River and two crew members to hospital",
+   "id": "story-2026-11-18-am-cn-derailment-skeena-river",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "world",
+   "topic": "united states loses measles elimination status paho endemic 5400 cases mexico bolivia",
+   "headline": "The U.S. is no longer measles-free after 26 years, as health officials rule the virus has spread nonstop for more than a year",
+   "id": "story-2026-11-18-am-us-loses-measles-elimination",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "world",
+   "topic": "israel knesset speaker matan kahana yashar eisenkot 66-52 ohana netanyahu",
+   "headline": "Israel’s new parliament picks Matan Kahana, an ally of Netanyahu rival Gadi Eisenkot, as Speaker in a 66-52 vote",
+   "id": "story-2026-11-18-am-knesset-speaker-kahana",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "business",
+   "topic": "target q3 earnings comparable sales 5.6 percent traffic raises guidance fiddelke",
+   "headline": "Target posts its best sales growth in five years, with store traffic up 5%, and raises its outlook for the year",
+   "id": "story-2026-11-18-am-target-q3-best-growth-five-years",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner nyana rooiwalensis new sauropodomorph dinosaur south africa late triassic skull x-ray scan",
+   "headline": "Science corner: X-ray scans of a 200-million-year-old skull reveal Nyana, a new South African dinosaur that weighed 400 kg as a three-year-old",
+   "id": "story-2026-11-18-am-nyana-dinosaur-skull-ct",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "microsoft ignite 2026 seven mai models code 2 cyber 2 flash realtime 1 suleyman maia 200",
+   "headline": "Microsoft unveils seven of its own AI models at Ignite, pitching them as close to rivals’ quality for a small part of the price",
+   "id": "story-2026-11-18-am-microsoft-mai-seven-models-ignite",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral facebook post reunites delta farrington with unc big buddy mentor keli rytter 30 years",
+   "headline": "A woman’s Facebook post reaches 6 million people and finds the university mentor in the photo she has kept in her wallet for 30 years",
+   "id": "story-2026-11-18-am-viral-unc-big-buddy-reunion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral instagram kangaroo rescued gold coast canal jet ski jaden laing",
+   "headline": "A man wraps a stranded kangaroo in towels and carries it to safety on a jet ski along a Gold Coast canal",
+   "id": "story-2026-11-18-am-viral-gold-coast-kangaroo-jet-ski",
+   "returning": false
+  },
+  {
+   "date": "2026-11-18",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at tampa bay lightning thursday after 5-2 win at florida sixth straight mcdavid 23-game streak",
+   "headline": "Edmonton Oilers at Tampa Bay Lightning",
+   "id": "story-2026-11-18-am-oilers-next",
    "returning": false
   }
  ]
