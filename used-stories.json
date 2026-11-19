@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-19T06:13-06:00",
+ "updated": "2026-11-19T16:15-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7436,6 +7436,123 @@
    "topic": "oilers at tampa bay lightning tonight 6:30 pm levi vs vasilevskiy mcdavid 23-game point streak",
    "headline": "Edmonton Oilers at Tampa Bay Lightning",
    "id": "story-2026-11-19-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 43 safe sensible roads act bike lanes removal dreeshen e-scooters",
+   "headline": "Alberta tables a law that would let the transportation minister veto new bike lanes and order cities to rip out old ones at their own cost",
+   "id": "story-2026-11-19-pm-bike-lane-veto",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "edmonton toddler amiraa fraynn carfentanil poisoning manslaughter charges okeymow",
+   "headline": "A mother and her partner are charged with manslaughter after a three-year-old girl died of carfentanil poisoning in central Edmonton",
+   "id": "story-2026-11-19-pm-toddler-carfentanil-charges",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "bill c-39 building canada strong act committee weekend sittings sunset clause major projects",
+   "headline": "MPs on the major projects bill committee will sit through the weekend after Liberals voted down every attempt to bring back its 2030 sunset clause",
+   "id": "story-2026-11-19-pm-c39-weekend-sittings",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada us trade talks leblanc advisory committee tariffs carney trump deadline",
+   "headline": "After Shenzhen, LeBlanc briefs business and labour advisers on U.S. talks, and his office says there’s no hard Jan. 1 deadline for a deal",
+   "id": "story-2026-11-19-pm-leblanc-no-trade-deadline",
+   "returning": true
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "denmark parliament ratifies greenland us defence agreement 109-0 arctic",
+   "headline": "Denmark’s parliament votes 109-0 for the Greenland defence pact with the U.S., leaving only Trump’s notice to Congress before it takes effect",
+   "id": "story-2026-11-19-pm-denmark-ratifies-greenland-pact",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "houthi missile strike riyadh pif tower saudi wealth fund yemen",
+   "headline": "A Houthi missile strike blows out windows on several floors of Riyadh’s tallest skyscraper, the headquarters of Saudi Arabia’s wealth fund",
+   "id": "story-2026-11-19-pm-houthi-missile-pif-tower",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "world",
+   "topic": "us venezuela military cooperation agreement hegseth caracas delcy rodriguez",
+   "headline": "The U.S. and Venezuela agree to restart military cooperation, with joint training and intelligence sharing, as Hegseth visits Caracas",
+   "id": "story-2026-11-19-pm-us-venezuela-military-deal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "business",
+   "topic": "walmart third quarter earnings raises outlook e-commerce diesel costs shares",
+   "headline": "Walmart raises its yearly forecast for the third time as online sales jump 17%, but its shares slip on worries about diesel costs",
+   "id": "story-2026-11-19-pm-walmart-raises-outlook",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "business",
+   "topic": "anthropic ipo nasdaq debut ant shares first day close",
+   "headline": "Anthropic jumps 34% at the open in its Nasdaq debut, then closes at US$97.17, up 17% on its first day as a public company",
+   "id": "story-2026-11-19-pm-anthropic-first-day-close",
+   "returning": true
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "science",
+   "topic": "mit dry ultrasound gel replacement bottlebrush elastomer wearable patch science",
+   "headline": "Science corner: MIT makes a dry, skin-like pad that replaces sticky ultrasound gel and keeps a wearable scanner imaging for nine days",
+   "id": "story-2026-11-19-pm-gel-free-ultrasound",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "isomorphic labs 5 billion series c ai drug discovery alphafold hassabis",
+   "headline": "Isomorphic Labs, the AI drug-design company spun out of DeepMind, raises US$5 billion to take its first medicines toward human trials",
+   "id": "story-2026-11-19-pm-isomorphic-labs-5b",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral brooklyn building collapse cat isaac zariah coleman reunited flatbush cats",
+   "headline": "A 13-year-old’s tearful plea for her cat after a deadly Brooklyn building collapse goes viral, and rescuers find Isaac alive under the kitchen sink",
+   "id": "story-2026-11-19-pm-viral-isaac-cat-rescued",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at tampa bay lightning tonight then carolina hurricanes saturday",
+   "headline": "Edmonton Oilers at Tampa Bay Lightning",
+   "id": "story-2026-11-19-pm-oilers-next",
    "returning": false
   }
  ]
