@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-18T16:21-06:00",
+ "updated": "2026-11-19T06:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7292,6 +7292,150 @@
    "topic": "oilers at tampa bay lightning thursday 6:30 pm six straight wins mcdavid 23-game point streak",
    "headline": "Edmonton Oilers at Tampa Bay Lightning",
    "id": "story-2026-11-18-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta new oil gas wells closure fund 50000 orphan well association brian jean wells drilled after april 2027 landowners",
+   "headline": "Oil and gas companies would have to pay up to $50,000 into a cleanup fund for every new well, so landowners aren’t stuck with abandoned ones",
+   "id": "story-2026-11-19-am-new-well-cleanup-fund",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta care-first no-fault auto insurance final legislation financial statutes amendment act nixon january 1 2027 tax-free payments",
+   "headline": "The last law needed for Alberta’s no-fault Care-First car insurance is tabled, six weeks before it starts on Jan. 1",
+   "id": "story-2026-11-19-am-care-first-final-law",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "b.c. conservatives 64 mlas sworn in lorne doerkson premier friday first cabinet",
+   "headline": "B.C.’s 64 Conservative MLAs take their oaths today, and Lorne Doerkson becomes premier tomorrow with his first cabinet",
+   "id": "story-2026-11-19-am-bc-conservatives-sworn-in",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "maid bill c-41 second reading 225-89 justice committee advance requests dementia mental illness expansion stopped march 17",
+   "headline": "MPs start studying the MAID bill today after it passed 225-89: advance requests for people with dementia, and no expansion for mental illness alone",
+   "id": "story-2026-11-19-am-maid-c41-committee",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "icj rules myanmar committed genocide rohingya 9-6 gambia case reparations",
+   "headline": "The UN’s top court rules that Myanmar committed genocide against the Rohingya, the first time any country has been found guilty of genocide",
+   "id": "story-2026-11-19-am-icj-myanmar-rohingya-genocide",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "trump xi putin first trilateral summit shenzhen declaration toward peace icc immunity nuclear dialogue",
+   "headline": "Xi, Putin and Trump hold the first-ever three-way summit of their countries’ leaders and sign a four-point “Declaration toward Peace” that takes aim at the ICC",
+   "id": "story-2026-11-19-am-trump-xi-putin-peace-declaration",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "world",
+   "topic": "migrant pirogue capsizes off yenne senegal dozens missing canary islands route",
+   "headline": "Dozens are missing after a migrant boat bound for the Canary Islands breaks up on rocks off Senegal, 10 days after another sinking killed 43",
+   "id": "story-2026-11-19-am-senegal-yenne-migrant-boat",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "business",
+   "topic": "unitedhealth humana shares fall cms medicare advantage audit extrapolation rule 90.2 billion",
+   "headline": "UnitedHealth falls 10% and Humana 13% after Medicare proposes clawing back $90 billion from private Medicare Advantage plans",
+   "id": "story-2026-11-19-am-cms-crush-rule-insurers-slump",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "business",
+   "topic": "van gogh chataigniers en fleurs sothebys record 190.4 million acquavella fischer heirs nazi-era settlement",
+   "headline": "A Van Gogh painted weeks before his death sells for a record US$190.4 million, after a settlement with the heirs of a Jewish publisher who sold it under Nazi pressure",
+   "id": "story-2026-11-19-am-van-gogh-record-190m",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner mit flapping-wing microrobot onboard sensors computer lands on sunflower science robotics",
+   "headline": "Science corner: a flapping robot lighter than a paperclip carries its own sensors and computer for the first time, and lands on a sunflower",
+   "id": "story-2026-11-19-am-mit-microrobot-onboard-brain",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "vals ai test frontier models pick civilians military targets game framing autonomous weapons",
+   "headline": "Told it was “a game,” top AI models picked civilians, ambulances and surrendering soldiers as military targets in a new safety test",
+   "id": "story-2026-11-19-am-vals-ai-targeting-game-test",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "google gemini keeps chats two months history off temporary chats training setting split",
+   "headline": "Google will now hold on to your AI chatbot conversations for about two months even with history switched off, up from 72 hours",
+   "id": "story-2026-11-19-am-chatbot-history-retention-two-months",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral facebook albert lea police spider monkey mcnugget rescued squad car",
+   "headline": "Minnesota police find a spider monkey named McNugget out in the cold, warm her up in a squad car, and their post about it goes viral",
+   "id": "story-2026-11-19-am-viral-mcnugget-spider-monkey",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral tiktok american airlines atlanta bags covered brown goo peanut butter",
+   "headline": "A whole flight’s bags come off the carousel in Atlanta smeared with brown goo, and the airline insists it was only peanut butter",
+   "id": "story-2026-11-19-am-viral-peanut-butter-luggage",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral trail cam tucson stray dog sombra running with coyote pack rescue",
+   "headline": "Trail cameras in Tucson catch a stray pup running with a coyote pack for two weeks, and rescuers are trying to bring her home",
+   "id": "story-2026-11-19-am-viral-sombra-coyote-pack",
+   "returning": false
+  },
+  {
+   "date": "2026-11-19",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at tampa bay lightning tonight 6:30 pm levi vs vasilevskiy mcdavid 23-game point streak",
+   "headline": "Edmonton Oilers at Tampa Bay Lightning",
+   "id": "story-2026-11-19-am-oilers-next",
    "returning": false
   }
  ]
