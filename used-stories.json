@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-20T06:17-06:00",
+ "updated": "2026-11-20T16:15-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7670,6 +7670,132 @@
    "topic": "oilers at carolina hurricanes saturday noon after loss in tampa mcdavid streak ends 23",
    "headline": "Edmonton Oilers at Carolina Hurricanes",
    "id": "story-2026-11-20-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "city of champions highway signs edmonton dreeshen elks grey cup gateway yellowhead",
+   "headline": "“City of Champions” is going back up: Alberta will put the old slogan on new highway signs into Edmonton after the Elks’ Grey Cup win",
+   "id": "story-2026-11-20-pm-city-of-champions-signs",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta carbon capture incentive program accip grants during construction 2035 brian jean pathways",
+   "headline": "Alberta will now pay part of its carbon-capture grants while projects are still being built, not only after they start running",
+   "id": "story-2026-11-20-pm-carbon-capture-grants-construction",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "supreme court canada saskatchewan pronoun law ur pride notwithstanding clause hearing march 2027",
+   "headline": "The Supreme Court will hear Saskatchewan’s school pronoun case on March 22 and 23, a test of whether courts can still review laws that use the notwithstanding clause",
+   "id": "story-2026-11-20-pm-scc-pronoun-law-hearing-date",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "b.c. premier doerkson sworn in cabinet milobar finance five priorities first conservative government since 1928",
+   "headline": "Peter Milobar takes finance and Ryan Peterson health as B.C.’s new government unveils its cabinet and five priorities",
+   "id": "story-2026-11-20-pm-doerkson-sworn-in-cabinet",
+   "returning": true
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "world",
+   "topic": "cop31 antalya overtime draft deal fossil fuels removed electrification 35 percent kurum bowen panama",
+   "headline": "The COP31 climate summit runs past its deadline after a new draft deal drops every mention of fossil fuels",
+   "id": "story-2026-11-20-pm-cop31-overtime-fossil-fuels",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "world",
+   "topic": "world food programme 2027 appeal 12 billion 91 million fewer people hunger crisis el nino",
+   "headline": "The UN’s World Food Programme plans to help fewer people next year, 91 million instead of 110 million, while warning of a third global food crisis",
+   "id": "story-2026-11-20-pm-wfp-2027-appeal-91-million",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "world",
+   "topic": "saudi coalition strikes hodeidah port sanaa houthis warn airlines saudi airspace jeddah ports threat",
+   "headline": "Saudi-led jets hit Yemen’s Hodeidah port, and the Houthis tell airlines to stay out of Saudi airspace, a day after their strike on Riyadh’s tallest tower",
+   "id": "story-2026-11-20-pm-saudi-strikes-hodeidah-houthis-airspace",
+   "returning": true
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "business",
+   "topic": "loblaw q3 earnings food prices rise 2027 supplier increases fuel spending trade down per bank",
+   "headline": "Loblaw says grocery prices could climb more in 2027, as big food brands ask for increases “over and above” inflation",
+   "id": "story-2026-11-20-pm-loblaw-food-prices-2027",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "business",
+   "topic": "wall street ai selloff s&p 500 correction nasdaq negative year nvidia 14 percent worst week since 2020",
+   "headline": "Wall Street follows Asia down: the S&P 500 drops 3.7% into a correction, and Nvidia falls 14%",
+   "id": "story-2026-11-20-pm-wall-street-ai-rout-correction",
+   "returning": true
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner metasurface waveguide ar glasses 1.5 mm postech samsung nature outdoor brightness",
+   "headline": "Science corner: a 1.5-millimetre lens with nanoscale patterns keeps AR-glasses text readable in bright sunshine",
+   "id": "story-2026-11-20-pm-metasurface-ar-glasses",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "riemann hypothesis proof claude anthropic levent alpoge lean millennium prize",
+   "headline": "An Anthropic mathematician says he and Claude have proved the Riemann hypothesis, and early outside checks of the computer proof are holding up",
+   "id": "story-2026-11-20-pm-riemann-hypothesis-claude-claim",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "trump penalties tax us companies data centers abroad china finland google",
+   "headline": "Trump threatens “tremendous penalties” on U.S. tech companies that build AI data centres in other countries",
+   "id": "story-2026-11-20-pm-trump-penalties-data-centres-abroad",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral instagram benson boone rides paralympian jamieson leeson wheelchair sydney uber 20 million views",
+   "headline": "Benson Boone hops on the back of a Paralympian’s wheelchair after his Sydney show, and her “I became his Uber” video passes 20 million views",
+   "id": "story-2026-11-20-pm-viral-benson-boone-wheelchair-ride",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at carolina hurricanes saturday noon road trip finale nugent-hopkins out",
+   "headline": "Edmonton Oilers at Carolina Hurricanes",
+   "id": "story-2026-11-20-pm-oilers-next",
    "returning": false
   }
  ]
