@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-19T16:15-06:00",
+ "updated": "2026-11-20T06:17-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -698,6 +698,14 @@
    "first_used": "2026-11-19",
    "editions": [
     "2026-11-19-evening"
+   ]
+  },
+  {
+   "text": "What do you call a snowman in July? A puddle.",
+   "normalized": "what do you call a snowman in july a puddle",
+   "first_used": "2026-11-20",
+   "editions": [
+    "2026-11-20-morning"
    ]
   }
  ],
@@ -1517,6 +1525,15 @@
    "first_used": "2026-11-19",
    "editions": [
     "2026-11-19-evening"
+   ]
+  },
+  {
+   "text": "I will honour Christmas in my heart, and try to keep it all the year.",
+   "attribution": "Charles Dickens, A Christmas Carol (1843), Stave Four (Scrooge); text verified against Standard Ebooks",
+   "normalized": "i will honour christmas in my heart and try to keep it all the year",
+   "first_used": "2026-11-20",
+   "editions": [
+    "2026-11-20-morning"
    ]
   }
  ]

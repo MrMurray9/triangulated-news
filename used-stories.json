@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-19T16:15-06:00",
+ "updated": "2026-11-20T06:17-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7553,6 +7553,123 @@
    "topic": "oilers at tampa bay lightning tonight then carolina hurricanes saturday",
    "headline": "Edmonton Oilers at Tampa Bay Lightning",
    "id": "story-2026-11-19-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton stadium plaza apartment tenants evicted receivership copper theft no heat lema",
+   "headline": "Tenants of an Edmonton apartment block with no heat must be out by noon today, after thieves stripped copper from its heating system",
+   "id": "story-2026-11-20-am-stadium-plaza-tenants-out",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "federal budget 2026 passes house of commons vote 162 151 champagne confidence",
+   "headline": "The Liberals’ 2026 budget passes the House of Commons 162 to 151, with every opposition MP voting against it",
+   "id": "story-2026-11-20-am-budget-2026-passes-house",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "us treasury sanctions ndrangheta toronto faction figliomeni vescio funeral homes",
+   "headline": "The U.S. sanctions six Toronto-area men it calls leaders of the ’Ndrangheta Mafia, along with a chain of Ontario funeral homes",
+   "id": "story-2026-11-20-am-ndrangheta-toronto-sanctions",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "russia mass missile drone attack ukraine kyiv bridges damaged retaliation power outages",
+   "headline": "Russia fires more than 100 missiles and 400 drones at Ukraine overnight, killing at least eight and damaging three bridges in Kyiv",
+   "id": "story-2026-11-20-am-kyiv-bridges-mass-strike",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "uk eu summit brussels reset agreements burnham youth experience scheme food rules emissions trading",
+   "headline": "Britain and the EU agree a post-Brexit “reset” letting 100,000 young people a year from each side live and work in the other for up to three years",
+   "id": "story-2026-11-20-am-uk-eu-youth-scheme",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "world",
+   "topic": "fiona hippo cincinnati zoo dies swallowed knit hat",
+   "headline": "Fiona, the Cincinnati Zoo hippo the internet watched grow up after her premature birth, dies at 9 after swallowing a visitor’s knit hat",
+   "id": "story-2026-11-20-am-fiona-hippo-dies",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "business",
+   "topic": "asia stocks plunge ai selloff nikkei kospi taiex softbank chipmakers",
+   "headline": "Asian markets plunge the day after Anthropic’s debut, with Japan’s Nikkei and Korea’s Kospi each down more than 5% and SoftBank off 14%",
+   "id": "story-2026-11-20-am-asia-ai-selloff",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "business",
+   "topic": "telus takeover quebecor 31 billion bid bce bell talks bidding war telecom three players",
+   "headline": "Bell joins the hunt for Telus, and analysts now expect a bidding war with Quebecor over the $31-billion takeover target",
+   "id": "story-2026-11-20-am-telus-bidding-war",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "science",
+   "topic": "stanford wireless microchips reaction telemetry test tube temperature optical wireless integrated circuits science",
+   "headline": "Science corner: chips smaller than a grain of rice sit inside test tubes and radio out a reaction’s temperature every half-second",
+   "id": "story-2026-11-20-am-reaction-telemetry-chips",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "google gemini mac app computer use ai agent controls apps",
+   "headline": "Google’s Gemini app for Mac can now run your other apps for you, filling in forms and sorting files in a background window while you keep working",
+   "id": "story-2026-11-20-am-gemini-mac-computer-use",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral usps mail carrier waist-deep flood san francisco record rain",
+   "headline": "A San Francisco mail carrier wades through waist-deep floodwater to finish his deliveries, and X users say “give this man a raise”",
+   "id": "story-2026-11-20-am-viral-sf-mail-carrier-flood",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral batkid miles scott make-a-wish cancer-free college welder facebook",
+   "headline": "San Francisco’s “Batkid” is now 18, cancer-free and studying to be a welder, 13 years after the city turned into Gotham for him",
+   "id": "story-2026-11-20-am-viral-batkid-grown-up",
+   "returning": false
+  },
+  {
+   "date": "2026-11-20",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at carolina hurricanes saturday noon after loss in tampa mcdavid streak ends 23",
+   "headline": "Edmonton Oilers at Carolina Hurricanes",
+   "id": "story-2026-11-20-am-oilers-next",
    "returning": false
   }
  ]
