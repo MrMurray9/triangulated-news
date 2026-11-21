@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-21T06:19-06:00",
+ "updated": "2026-11-21T16:12-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -722,6 +722,14 @@
    "first_used": "2026-11-21",
    "editions": [
     "2026-11-21-morning"
+   ]
+  },
+  {
+   "text": "Why did the scarf break up with the hat? It felt too wrapped up in the relationship.",
+   "normalized": "why did the scarf break up with the hat it felt too wrapped up in the relationship",
+   "first_used": "2026-11-21",
+   "editions": [
+    "2026-11-21-evening"
    ]
   }
  ],
@@ -1568,6 +1576,15 @@
    "first_used": "2026-11-21",
    "editions": [
     "2026-11-21-morning"
+   ]
+  },
+  {
+   "text": "Do. Or do not. There is no try.",
+   "attribution": "Yoda, Star Wars: The Empire Strikes Back (1980), screenplay by Leigh Brackett and Lawrence Kasdan",
+   "normalized": "do or do not there is no try",
+   "first_used": "2026-11-21",
+   "editions": [
+    "2026-11-21-evening"
    ]
   }
  ]

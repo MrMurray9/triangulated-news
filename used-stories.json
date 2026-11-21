@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-21T06:19-06:00",
+ "updated": "2026-11-21T16:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7922,6 +7922,132 @@
    "topic": "oilers at carolina hurricanes saturday noon back-to-back hallander mcdavid line nugent-hopkins",
    "headline": "Edmonton Oilers at Carolina Hurricanes",
    "id": "story-2026-11-21-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta living wage network 2026 rates banff first 27.45 edmonton 22.65 minimum wage 15",
+   "headline": "Edmonton’s living wage is now $22.65 an hour, and Banff, measured for the first time, tops Alberta at $27.45",
+   "id": "story-2026-11-21-pm-living-wage-2026-banff-tops",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "smith amendments bill 43 safe and sensible roads act bike lane removal costs farkas knack lrt oversight",
+   "headline": "Two days after tabling it, Smith says her government will amend the bike-lane bill, after Calgary’s mayor says cities were promised they wouldn’t pay for removals",
+   "id": "story-2026-11-21-pm-bike-lane-bill-amendments-smith",
+   "returning": true
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "hegseth classified memo restricts us canada defence relationship rounds halifax security forum flag officers think tanks",
+   "headline": "A secret Hegseth memo limits Pentagon contact with Canada’s military, while Canadian officials say they’ve seen no change",
+   "id": "story-2026-11-21-pm-hegseth-memo-limits-canada-defence-ties",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "navdeep bains wins ontario liberal leadership third ballot 50.3 fairclough",
+   "headline": "Navdeep Bains wins the Ontario Liberal leadership by less than a point, on the third ballot",
+   "id": "story-2026-11-21-pm-bains-wins-ontario-liberal-leadership",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "sparta ii russian cargo ship drone strike gulf of finland fire finland ukraine likely suursaari kaliningrad",
+   "headline": "Drones set a sanctioned Russian cargo ship on fire in the Gulf of Finland, and Finland says Ukraine is likely behind it",
+   "id": "story-2026-11-21-pm-sparta-ii-drone-strike-gulf-of-finland",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "mexico captures fausto isidro meza flores el chapo isidro guasave sinaloa 11 dead fbi ten most wanted",
+   "headline": "Mexico captures “El Chapo Isidro,” one of the FBI’s 10 most wanted, in a firefight that leaves 11 dead in Sinaloa",
+   "id": "story-2026-11-21-pm-mexico-captures-chapo-isidro",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "world",
+   "topic": "cop31 antalya overtime second night fossil fuel transition language saudi arabia 130 countries showdown hoekstra",
+   "headline": "COP31 runs into a second night with no new text, as about 130 countries weigh forcing Saudi Arabia to oppose fossil-fuel language in the open",
+   "id": "story-2026-11-21-pm-cop31-second-night-overtime-saudi-showdown",
+   "returning": true
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "business",
+   "topic": "stellantis brampton plant roshel sale talks continue joly default notice ford unifor emissions costs",
+   "headline": "Stellantis agrees to keep talking with Ottawa about not selling its Brampton plant, as Ford says just keeping it warm costs $135 million a year",
+   "id": "story-2026-11-21-pm-stellantis-brampton-talks-continue",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner uc santa cruz prickly pear cactus living solar panels cam photosynthesis voltage farm sensors",
+   "headline": "Science corner: wired-up prickly pear cacti work as living solar panels, and eight of them out-volt a AA battery",
+   "id": "story-2026-11-21-pm-cactus-living-solar-panels",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "ccw geneva lethal autonomous weapons killer robots talks extended 2028 no binding ban",
+   "headline": "Countries agree to two more years of talks on “killer robots” in Geneva, but not to negotiate a binding ban",
+   "id": "story-2026-11-21-pm-ccw-killer-robots-talks-to-2028",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "amazon nears deal decart israeli ai startup 7.5 billion leitersdorf anthropic nvidia trainium",
+   "headline": "Amazon is close to buying Israeli AI startup Decart for up to US$7.5 billion, months after Anthropic walked away from a deal",
+   "id": "story-2026-11-21-pm-amazon-nears-decart-deal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral facebook roscos pizza union michigan meal wall shy caller leftovers",
+   "headline": "A Michigan pizza shop’s Facebook post about a shy caller asking for leftovers turns into a “meal wall” funded from around the world",
+   "id": "story-2026-11-21-pm-viral-roscos-pizza-meal-wall",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral instagram tiktok heidi widmer carole parkinsons noisy upstairs neighbour culver city gofundme",
+   "headline": "A teacher annoyed by her “noisy” upstairs neighbour finds an 87-year-old with Parkinson’s, and their friendship videos draw nearly 30 million views",
+   "id": "story-2026-11-21-pm-viral-heidi-carole-neighbours",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at st louis blues sunday 5 pm after 7-4 loss at carolina",
+   "headline": "Edmonton Oilers at St. Louis Blues",
+   "id": "story-2026-11-21-pm-oilers-next",
    "returning": false
   }
  ]
