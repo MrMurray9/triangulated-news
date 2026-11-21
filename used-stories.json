@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-20T16:15-06:00",
+ "updated": "2026-11-21T06:19-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -7796,6 +7796,132 @@
    "topic": "oilers at carolina hurricanes saturday noon road trip finale nugent-hopkins out",
    "headline": "Edmonton Oilers at Carolina Hurricanes",
    "id": "story-2026-11-20-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton city centre mall sale closes westrich pacific 57.3 million otera 1500 residential units bay",
+   "headline": "Edmonton City Centre sells for $57.3 million, a sixth of its 2019 price, and the buyer wants 1,500 homes in the old Bay store",
+   "id": "story-2026-11-21-am-city-centre-sale-closes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "ata schilling high school graduation requirements consultation nicolaides fewer core credits",
+   "headline": "Alberta’s teachers’ union says the new high school graduation rules came with no consultation and asks the province to “go back to the drawing board”",
+   "id": "story-2026-11-21-am-ata-graduation-rules-pushback",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "dominion dynamics scout ai wingman drone 12 partners pratt whitney telesat arctic",
+   "headline": "An Ottawa startup signs 12 Canadian partners, including Pratt & Whitney Canada and Telesat, to build an AI “wingman” drone for the Arctic",
+   "id": "story-2026-11-21-am-dominion-scout-wingman-partners",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "federal treasury board carbon dioxide removal credits standing offer 19 projects deep sky remova",
+   "headline": "Ottawa will buy carbon-removal credits from 19 Canadian projects to cancel out emissions it can’t cut, like military jets and ships",
+   "id": "story-2026-11-21-am-ottawa-carbon-removal-credits-standing-offer",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "world",
+   "topic": "russian kh-101 missiles drone land in poland nowy lipowiec tusk provocation coalition exercise nato rutte",
+   "headline": "Two Russian missiles and a drone crash in southeast Poland near a European troop exercise, and Tusk calls it a deliberate provocation",
+   "id": "story-2026-11-21-am-poland-missiles-near-coalition-drill",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "world",
+   "topic": "denmark expels russian defence attache kyivstoner rapper assassination plot pet visas",
+   "headline": "Denmark expels Russia’s defence attaché after its spy service says Moscow planned to kill a U.S.-Ukrainian rapper before a Copenhagen-area concert",
+   "id": "story-2026-11-21-am-denmark-expels-attache-kyivstoner-plot",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "business",
+   "topic": "intuit sells mailchimp bending spoons 3.68 billion revenue forecast cut",
+   "headline": "Intuit sells Mailchimp to Bending Spoons for $3.68 billion, less than a third of the roughly $12 billion it paid five years ago",
+   "id": "story-2026-11-21-am-intuit-sells-mailchimp-bending-spoons",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "business",
+   "topic": "alibaba cloud growth outlook 30-45 percent us chip export rules t-head tencent hunyuan",
+   "headline": "Alibaba warns its cloud growth will slow to 30–45% next year as new U.S. chip rules bite, and bets on its own chips to recover",
+   "id": "story-2026-11-21-am-alibaba-cloud-outlook-chip-rules",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner hkust smart floss gingival crevicular fluid glucose uric acid sensor",
+   "headline": "Science corner: a “smart floss” checks blood sugar and gum inflammation from the fluid it picks up while you floss",
+   "id": "story-2026-11-21-am-smart-floss-gum-fluid-sensor",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "california ag bonta subpoena nvidia china chips jensen huang affair investors",
+   "headline": "California’s attorney general subpoenas Nvidia over whether its AI chips or secrets reached China, and whether investors were misled",
+   "id": "story-2026-11-21-am-bonta-subpoena-nvidia-china-chips",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai adversarial distillation gpt-6.2 astra 0.2 percent house report chinese open-weight models ban",
+   "headline": "OpenAI says it cut attempts to copy its models’ hidden reasoning to a 0.2% success rate, as House panels urge a ban on Chinese AI in federal systems",
+   "id": "story-2026-11-21-am-openai-distillation-safeguards-house-report",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral facebook bandarban basic guitar learning school children amlai five languages",
+   "headline": "Kids from Bangladesh’s hill country strum and sing in five languages, and their guitar school’s Facebook videos win over millions",
+   "id": "story-2026-11-21-am-viral-bandarban-guitar-school",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral facebook cumberland county sheriff cowboy hats uniform post blew up",
+   "headline": "A Pennsylvania sheriff’s office lets deputies wear cowboy hats, and its Facebook post “blew up” with jokes and photos",
+   "id": "story-2026-11-21-am-viral-cumberland-deputies-cowboy-hats",
+   "returning": false
+  },
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at carolina hurricanes saturday noon back-to-back hallander mcdavid line nugent-hopkins",
+   "headline": "Edmonton Oilers at Carolina Hurricanes",
+   "id": "story-2026-11-21-am-oilers-next",
    "returning": false
   }
  ]

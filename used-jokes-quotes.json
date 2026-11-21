@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-20T16:15-06:00",
+ "updated": "2026-11-21T06:19-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -714,6 +714,14 @@
    "first_used": "2026-11-20",
    "editions": [
     "2026-11-20-evening"
+   ]
+  },
+  {
+   "text": "Why did the teddy bear say no to dessert? It was already stuffed.",
+   "normalized": "why did the teddy bear say no to dessert it was already stuffed",
+   "first_used": "2026-11-21",
+   "editions": [
+    "2026-11-21-morning"
    ]
   }
  ],
@@ -1551,6 +1559,15 @@
    "first_used": "2026-11-20",
    "editions": [
     "2026-11-20-evening"
+   ]
+  },
+  {
+   "text": "If I have seen further it is by standing on the shoulders of Giants.",
+   "attribution": "Isaac Newton, letter to Robert Hooke, 5 February 1675/76 (original held by the Historical Society of Pennsylvania); verified against the HSP digital library record and the Linda Hall Library",
+   "normalized": "if i have seen further it is by standing on the shoulders of giants",
+   "first_used": "2026-11-21",
+   "editions": [
+    "2026-11-21-morning"
    ]
   }
  ]
