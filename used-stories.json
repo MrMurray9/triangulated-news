@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-21T16:12-06:00",
+ "updated": "2026-11-22T06:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8048,6 +8048,141 @@
    "topic": "oilers at st louis blues sunday 5 pm after 7-4 loss at carolina",
    "headline": "Edmonton Oilers at St. Louis Blues",
    "id": "story-2026-11-21-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton city council 2027-2030 budget deliberations begin monday public hearing 264 speakers 4.9 property tax bus fare 3.15",
+   "headline": "Edmonton council opens up to 10 days of budget debate Monday, with 264 people signed up to speak on a plan for 4.9% higher property taxes",
+   "id": "story-2026-11-22-am-edmonton-budget-debate-opens-264-speakers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta emergency room wait times mei report university of alberta hospital nine hours fraser institute surgery wait 50 weeks smith urgent care",
+   "headline": "Two reports find Alberta’s waits getting worse, with Edmonton hospitals’ ER stays the province’s longest and surgery waits up to 50 weeks, and Smith says “we have to try new things”",
+   "id": "story-2026-11-22-am-alberta-er-surgery-waits-reports",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "canada joins nato innovation fund 100 million mcguinty halifax security forum bdc defence startups",
+   "headline": "Canada becomes the first North American member of NATO’s Innovation Fund, putting in about $100 million to back defence startups",
+   "id": "story-2026-11-22-am-canada-joins-nato-innovation-fund",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "cavalry fc wins cpl final atletico ottawa 3-2 shield and north star cup double warschewski",
+   "headline": "Calgary’s Cavalry FC beat Atlético Ottawa 3-2 to win the CPL final, the first club ever to take both the league title and the championship in one season",
+   "id": "story-2026-11-22-am-cavalry-cpl-double",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "world",
+   "topic": "indonesia candy confectionery factory fire fonusa agung mulia cikande serang banten three dead 36 missing",
+   "headline": "A fire tears through a candy factory west of Jakarta, killing at least three, and rescuers are searching for 36 missing workers",
+   "id": "story-2026-11-22-am-indonesia-candy-factory-fire",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "world",
+   "topic": "belgium national strike monday skeyes air traffic controllers brussels charleroi airports flights cancelled de wever austerity",
+   "headline": "Belgium’s national walkout on Monday will ground every flight at Brussels and Charleroi airports, as air traffic controllers join protests against spending cuts",
+   "id": "story-2026-11-22-am-belgium-walkout-grounds-flights",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "world",
+   "topic": "israel eisenkot yashar invites likud marathon coalition talks netanyahu sole pm unity government",
+   "headline": "Gadi Eisenkot invites Netanyahu’s Likud to “marathon” coalition talks starting today, as Likud demands Netanyahu stay prime minister",
+   "id": "story-2026-11-22-am-eisenkot-invites-likud-talks",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "world",
+   "topic": "cop31 antalya ends without deal antalya pact not adopted eu rejects no fossil fuel mention kurum",
+   "headline": "COP31 ends without a deal: the EU and others reject the “Antalya Pact” over its silence on fossil fuels, the first such collapse since Copenhagen in 2009",
+   "id": "story-2026-11-22-am-cop31-collapses-no-deal",
+   "returning": true
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "business",
+   "topic": "monte dei paschi board intesa sanpaolo 34.5 billion offer financially fair passera resigns tender november 24",
+   "headline": "Monte dei Paschi’s board calls Intesa Sanpaolo’s €34.5-billion bid “financially fair,” as director Corrado Passera quits in protest before the offer opens Tuesday",
+   "id": "story-2026-11-22-am-mps-board-intesa-bid-fair-passera-quits",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "business",
+   "topic": "mbk partners wacom management buyout 1030 yen tender offer samsung reinvest delisting",
+   "headline": "Wacom, the maker of the digital pens and drawing tablets used by artists, agrees to a ¥136.6-billion buyout led by MBK Partners at a 50% premium",
+   "id": "story-2026-11-22-am-mbk-wacom-buyout",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner mcmaster waterloo microneedle wearable patch continuous cardiac troponin heart injury after surgery aptamer",
+   "headline": "Science corner: a McMaster microneedle patch tracks a heart-damage protein for days without a single blood draw",
+   "id": "story-2026-11-22-am-mcmaster-troponin-microneedle-patch",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "thinking machines inkling 2 mini open weights looped transformer laptop 32gb apache",
+   "headline": "Thinking Machines releases Inkling 2 Mini, a free open model that “thinks in loops” and runs on a 32 GB laptop",
+   "id": "story-2026-11-22-am-inkling-2-mini-open-model",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "riemann hypothesis alpoge claude proof certified lean fro mathlib initiative joint statement",
+   "headline": "Lean and Mathlib groups certify the Claude-assisted Riemann hypothesis proof as correct after a day of independent checks",
+   "id": "story-2026-11-22-am-riemann-proof-certified-lean-mathlib",
+   "returning": true
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral tiktok singapore townsville primary schoolboys fried chicken wingstop cross island line migrant workers",
+   "headline": "Eight Singapore schoolboys pool $159 to buy fried chicken for the migrant workers building their subway line, and the transit agency says it “warmed our hearts”",
+   "id": "story-2026-11-22-am-viral-singapore-boys-wingstop-workers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at st louis blues sunday 6 pm after 7-4 loss at carolina",
+   "headline": "Edmonton Oilers at St. Louis Blues",
+   "id": "story-2026-11-22-am-oilers-next",
    "returning": false
   }
  ]
