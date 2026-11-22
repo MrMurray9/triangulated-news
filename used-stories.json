@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-22T06:12-06:00",
+ "updated": "2026-11-22T16:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8183,6 +8183,132 @@
    "topic": "oilers at st louis blues sunday 6 pm after 7-4 loss at carolina",
    "headline": "Edmonton Oilers at St. Louis Blues",
    "id": "story-2026-11-22-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "edmonton stadium plaza apartment parkdale receivership tenants ordered out justice lema copper pipe theft no heat",
+   "headline": "A judge empties Edmonton’s Stadium Plaza apartments, a three-year-old building with no heat after thieves stripped its copper pipes",
+   "id": "story-2026-11-22-pm-stadium-plaza-tenants-ordered-out",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "regina transit suspended monday atu local 588 overtime ban lockout paratransit",
+   "headline": "Regina shuts down its entire bus system from Monday morning, saying a union overtime ban leaves it unable to run safely",
+   "id": "story-2026-11-22-pm-regina-transit-shutdown-monday",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "becky druhan wins nova scotia liberal leadership first woman mombourquette former pc minister",
+   "headline": "Becky Druhan, who left Tim Houston’s cabinet last year, becomes the first woman to lead Nova Scotia’s Liberals",
+   "id": "story-2026-11-22-pm-druhan-nova-scotia-party-chief",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "world",
+   "topic": "dymer kyiv region apartment building shahed drone strike collapse at least five dead boy rescued day of mourning",
+   "headline": "Part of an apartment block in Dymer, north of Kyiv, collapses in an overnight attack, killing at least five, as a boy is pulled out alive after about 14 hours",
+   "id": "story-2026-11-22-pm-dymer-apartment-block-collapse",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "world",
+   "topic": "indonesia candy factory fire cikande fonusa agung mulia 24 body bags dna identification",
+   "headline": "Rescuers carry 24 body bags out of the burned candy factory near Jakarta, and police say families must give DNA to identify the dead",
+   "id": "story-2026-11-22-pm-indonesia-candy-fire-24-body-bags",
+   "returning": true
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "business",
+   "topic": "bombardier iam local 712 montreal dorval workers reject final offer strike mandate december 4",
+   "headline": "About 2,400 Bombardier workers in Montreal and Dorval reject the company’s “final” offer by 97.5% and vote to allow a strike",
+   "id": "story-2026-11-22-pm-bombardier-workers-strike-mandate",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "business",
+   "topic": "wildberries tatyana kim steps down ceo eu sanctions kulikov russia",
+   "headline": "Tatyana Kim, Russia’s richest woman, steps down as head of the online giant Wildberries days after the EU sanctions her",
+   "id": "story-2026-11-22-pm-wildberries-ceo-kim-steps-down",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner mit gel-free ultrasound bottlebrush elastomer wearable patch nine days zhao science journal",
+   "headline": "Science corner: MIT’s dry, rubbery skin layer lets a wearable ultrasound patch image the body for nine days with no gooey gel",
+   "id": "story-2026-11-22-pm-mit-gel-free-ultrasound-elastomer",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "south korea education minister choi kyo-jin resigns suneung csat ai cheating rules",
+   "headline": "South Korea’s education minister resigns after last-minute rules against AI cheating threw the national university exam into confusion",
+   "id": "story-2026-11-22-pm-korea-education-minister-quits-ai-cheating",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "signal blocks screenshots ai agents siri gemini ios 27 android whittaker",
+   "headline": "Signal starts blocking screenshots on phones to keep Siri, Gemini and other AI assistants from reading your chats",
+   "id": "story-2026-11-22-pm-signal-blocks-ai-agents-screenshots",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral x fountain colorado police therapy puppy houston rocket sworn in so help me dog",
+   "headline": "A 12-week-old golden retriever is sworn in as a Colorado police therapy dog, snacking through his oath: “so help me dog”",
+   "id": "story-2026-11-22-pm-viral-x-fountain-police-puppy-houston-rocket",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral facebook vietnam teacher nguyen huong giang declines teachers day gifts orphan student 140 million dong",
+   "headline": "A Vietnamese teacher turns down Teachers’ Day gifts and asks for help for an orphaned student instead, and her Facebook post raises 140 million dong",
+   "id": "story-2026-11-22-pm-viral-fb-vietnam-teacher-declines-gifts-orphan",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral other china anhui electric car self parking 868 times overnight cctv",
+   "headline": "An empty electric car in China tries to park itself 868 times in one night, and the garage camera catches it all",
+   "id": "story-2026-11-22-pm-viral-other-ghost-ev-parks-868-times",
+   "returning": false
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "oilers at st louis blues sunday 6 pm jarry hyman questionable",
+   "headline": "Edmonton Oilers at St. Louis Blues",
+   "id": "story-2026-11-22-pm-oilers-next",
    "returning": false
   }
  ]
