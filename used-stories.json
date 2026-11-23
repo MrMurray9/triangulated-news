@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-22T16:13-06:00",
+ "updated": "2026-11-23T06:11-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8309,6 +8309,132 @@
    "topic": "oilers at st louis blues sunday 6 pm jarry hyman questionable",
    "headline": "Edmonton Oilers at St. Louis Blues",
    "id": "story-2026-11-22-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta proof of citizenship voting law spring 2027 smith ucp town hall passport birth certificate licence marker",
+   "headline": "Smith tells UCP members to “get their papers in order”: a law making voters prove citizenship is likely coming in the spring",
+   "id": "story-2026-11-23-am-proof-of-citizenship-voting-law-spring",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "rocky mountain icehouse jasper avenue bar closes downtown edmonton costs lunar",
+   "headline": "Rocky Mountain Icehouse pours its last drink on Jasper Avenue after 12 years, blaming rising costs and downtown’s struggles",
+   "id": "story-2026-11-23-am-rocky-mountain-icehouse-closes",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "cmaj study daily cannabis use surpasses daily alcohol under 50 cchs mcdonald myran",
+   "headline": "More Canadians under 50 now use cannabis every day than drink alcohol every day, a new CMAJ study finds",
+   "id": "story-2026-11-23-am-cmaj-daily-cannabis-tops-daily-drinking",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "miscarriage of justice review commission recruiting commissioners fraser milgaard law",
+   "headline": "Ottawa starts hiring the commissioners who will review possible wrongful convictions, almost two years after the law passed",
+   "id": "story-2026-11-23-am-wrongful-conviction-commission-recruiting",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "world",
+   "topic": "ukraine sea drones sink russian corvette merkury benghazi libya mv angara sbu",
+   "headline": "Ukraine says seven sea drones sank Russia’s newest corvette, the Merkury, while it was docked in Libya",
+   "id": "story-2026-11-23-am-merkury-corvette-sunk-benghazi",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "world",
+   "topic": "armenia draft constitution declaration of independence azerbaijan peace pashinyan resign referendum",
+   "headline": "Armenia publishes a new draft constitution that drops a key line Azerbaijan objects to, and Pashinyan says he’ll resign if voters reject it",
+   "id": "story-2026-11-23-am-armenia-draft-constitution-peace-azerbaijan",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "world",
+   "topic": "bangladesh vows arrest sheikh hasina return india december extradition",
+   "headline": "Bangladesh says it will arrest Sheikh Hasina the moment she comes home, as the ousted leader insists she’ll return from India in December",
+   "id": "story-2026-11-23-am-bangladesh-vows-arrest-hasina-return",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "business",
+   "topic": "crowdstrike acquires zscaler 43.9 billion all-stock cybersecurity deal kurtz chaudhry",
+   "headline": "CrowdStrike agrees to buy Zscaler for about US$43.9 billion in stock, one of the biggest cybersecurity deals ever",
+   "id": "story-2026-11-23-am-crowdstrike-buys-zscaler-43-9-billion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "business",
+   "topic": "tata steel apl apollo tubes 26.4 percent stake open offer 1.67 billion shares fall",
+   "headline": "Tata Steel will pay US$1.67 billion for a quarter of India’s biggest steel-pipe maker, and both companies’ shares tumble",
+   "id": "story-2026-11-23-am-tata-steel-apl-apollo-stake",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner mit psfc superconducting film magnetic layers cryogenic memory cell moodera physical review letters",
+   "headline": "Science corner: a superconductor sandwiched between two magnets becomes a memory cell that holds its bit with no power, a step toward super-cold computers that waste far less energy",
+   "id": "story-2026-11-23-am-superconducting-sandwich-memory-cell",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai pachocki perplexity and intelligence shared limits ai labs altman",
+   "headline": "OpenAI’s chief scientist asks every AI lab to agree on a shared “speed limit” for their most powerful models, and Altman backs him",
+   "id": "story-2026-11-23-am-openai-pachocki-perplexity-shared-limits",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openrouter drops three inference providers dragos canary prompt theft zero data retention",
+   "headline": "OpenRouter drops three AI hosting companies after researchers prove attackers were quietly copying customers’ prompts for months",
+   "id": "story-2026-11-23-am-openrouter-drops-providers-dragos-prompt-theft",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral x pavel durov gta vi telegram group joke elon musk reply",
+   "headline": "Telegram’s founder jokes that the least realistic thing in GTA VI is a crime crew with no Telegram group, and Elon Musk replies 😂",
+   "id": "story-2026-11-23-am-viral-x-durov-gta-vi-telegram-joke",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "vegas golden knights at oilers tuesday 7 pm after 5-4 shootout loss st louis nugent-hopkins return",
+   "headline": "Vegas Golden Knights at Edmonton Oilers",
+   "id": "story-2026-11-23-am-oilers-next",
    "returning": false
   }
  ]

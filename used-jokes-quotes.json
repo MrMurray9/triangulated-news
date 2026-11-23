@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-22T16:13-06:00",
+ "updated": "2026-11-23T06:11-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -746,6 +746,14 @@
    "first_used": "2026-11-22",
    "editions": [
     "2026-11-22-evening"
+   ]
+  },
+  {
+   "text": "What do you call an owl that does magic tricks? Hoo-dini.",
+   "normalized": "what do you call an owl that does magic tricks hoo dini",
+   "first_used": "2026-11-23",
+   "editions": [
+    "2026-11-23-morning"
    ]
   }
  ],
@@ -1619,6 +1627,15 @@
    "first_used": "2026-11-22",
    "editions": [
     "2026-11-22-evening"
+   ]
+  },
+  {
+   "text": "Men at some time are masters of their fates. / The fault, dear Brutus, is not in our stars, / But in ourselves, that we are underlings.",
+   "attribution": "Cassius, in William Shakespeare, Julius Caesar (1599), Act 1, Scene 2; text per Folger Shakespeare Library",
+   "normalized": "men at some time are masters of their fates the fault dear brutus is not in our stars but in ourselves that we are underlings",
+   "first_used": "2026-11-23",
+   "editions": [
+    "2026-11-23-morning"
    ]
   }
  ]
