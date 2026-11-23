@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-23T06:11-06:00",
+ "updated": "2026-11-23T16:18-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8435,6 +8435,132 @@
    "topic": "vegas golden knights at oilers tuesday 7 pm after 5-4 shootout loss st louis nugent-hopkins return",
    "headline": "Vegas Golden Knights at Edmonton Oilers",
    "id": "story-2026-11-23-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 44 list of electors access restrictions 100000 deposit centurion project leak amery penalties",
+   "headline": "Alberta moves to keep its voter list away from parties without an MLA or a near-full slate, and to fine leakers up to $1 million, after data on 2.9 million voters spilled out",
+   "id": "story-2026-11-23-pm-bill-44-voter-list-access-deposit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta bill 45 natural gas infrastructure act crown corporation transmission brian jean tc energy poirier letter",
+   "headline": "Alberta tables a law that would let it set up a Crown corporation to move natural gas if pipeline companies can’t keep up, and TC Energy warns it could raise costs",
+   "id": "story-2026-11-23-pm-bill-45-natural-gas-crown-option",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "quebec superior court demers oath to king mnas suspended bill 4 2022 national assembly lawrence david",
+   "headline": "A Quebec judge rules MNAs must swear allegiance to the King before they can sit, putting the Dec. 1 return of the legislature in doubt",
+   "id": "story-2026-11-23-pm-quebec-court-orders-oath-to-king",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "bell cybersecurity incident agentic threat actor november 17 virgin plus lucky mobile customer data rcmp",
+   "headline": "Bell says an “agentic” attacker got into an internal system last week and may have taken names, addresses and account details of Bell, Virgin Plus and Lucky Mobile customers",
+   "id": "story-2026-11-23-pm-bell-agentic-cyber-incident-customers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "world",
+   "topic": "spain supreme court puigdemont amnesty embezzlement case shelved return exile comin puig junts",
+   "headline": "Spain’s Supreme Court closes the last case against Carles Puigdemont, clearing the Catalan separatist leader to come home after nine years in exile",
+   "id": "story-2026-11-23-pm-puigdemont-amnesty-case-closed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "world",
+   "topic": "us house democrats 258 seats largest majority since 1992 hubbard defeats foxx north carolina recount",
+   "headline": "Democrats lock in at least 258 U.S. House seats, their biggest majority since 1992, after a recount flips Virginia Foxx’s North Carolina seat",
+   "id": "story-2026-11-23-pm-democrats-258-house-seats-foxx-loses",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "business",
+   "topic": "nvidia board reinstates jensen huang ceo trump input shares 31 percent kress investigation senate testimony",
+   "headline": "Nvidia’s board brings back Jensen Huang as CEO less than two weeks after he quit, and the stock jumps 31%",
+   "id": "story-2026-11-23-pm-nvidia-reinstates-jensen-huang",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "business",
+   "topic": "abb acquires ziehl-abegg 2.65 billion ec fans hvac data centre cooling kunzelsau",
+   "headline": "Swiss engineering giant ABB will buy German fan maker Ziehl-Abegg for US$2.65 billion to grab a bigger share of the cooling boom driven by data centres",
+   "id": "story-2026-11-23-pm-abb-ziehl-abegg-fan-deal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner rice tour flash graphite nickel petroleum coke fast charging anode four minute advanced materials",
+   "headline": "Science corner: a 0.2-second jolt of electricity turns cheap refinery leftovers into battery graphite that handled a four-minute charging rate in lab tests",
+   "id": "story-2026-11-23-pm-rice-flash-graphite-fast-charge",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "virginia oregon attorneys general sue spacex x grok imagine sexualized deepfakes consumer protection",
+   "headline": "Virginia and Oregon sue SpaceX, saying its Grok image tool let users flood X with sexualized deepfakes, including of children",
+   "id": "story-2026-11-23-pm-virginia-oregon-sue-spacex-grok-images",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "zai zhipu glm-5.4 loop transformer 750b generalized coding open weights later",
+   "headline": "China’s Z.ai releases GLM-5.4, a 750-billion-parameter model that runs its own layers twice to reason more deeply without getting bigger",
+   "id": "story-2026-11-23-pm-zai-glm-5-4-loop-transformer",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "amazon signs agreement decart optimization stack 7.5 billion founders join trainium update",
+   "headline": "Now signed: Decart’s three co-founders and research team will join Amazon, which is also taking over the startup’s chip-tuning software in a deal reported at US$7.5 billion",
+   "id": "story-2026-11-23-pm-decart-founders-join-amazon-signed",
+   "returning": true
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral other brazil golden retriever tereza pool toddler maite chapada dos guimaraes",
+   "headline": "A young golden retriever named Tereza jumps into a pool and keeps a struggling two-year-old afloat until her mom reaches her, and a security camera catches it all",
+   "id": "story-2026-11-23-pm-viral-o-golden-retriever-tereza-pool",
+   "returning": false
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "vegas golden knights at oilers tuesday 7 pm nugent-hopkins cleared to return after five games",
+   "headline": "Vegas Golden Knights at Edmonton Oilers",
+   "id": "story-2026-11-23-pm-oilers-next",
    "returning": false
   }
  ]

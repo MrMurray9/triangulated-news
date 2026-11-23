@@ -5,8 +5,106 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:11:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:18:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Monday, November 23, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/edition</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Evening edition: Alberta’s voter-list crackdown and natural gas Crown bill, a Quebec court orders MNAs to swear the oath to the King, Bell’s “agentic” data breach, Puigdemont cleared to return to Spain, Democrats lock in 258 House seats, Nvidia reinstates Jensen Huang, ABB buys Ziehl-Abegg, flash-made fast-charging graphite, Virginia and Oregon sue over Grok images, Z.ai’s GLM-5.4, Amazon signs its Decart deal, a golden retriever’s pool rescue, and Vegas at the Oilers Tuesday.</description>
+    </item>
+    <item>
+      <title>Alberta moves to keep its voter list away from parties without an MLA or a near-full slate, and to fine leakers up to $1 million, after data on 2.9 million voters spilled out</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-bill-44-voter-list-access-deposit</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-bill-44-voter-list-access-deposit</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Justice Minister Mickey Amery tabled Bill 44 on Monday. To get a copy of the provincewide list of electors, a registered party would have to have elected at least one MLA in the last general election or byelection, or run candidates in at least half of Alberta’s ridings (Edmonton Journal, The Globe and Mail).</description>
+    </item>
+    <item>
+      <title>Alberta tables a law that would let it set up a Crown corporation to move natural gas if pipeline companies can’t keep up, and TC Energy warns it could raise costs</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-bill-45-natural-gas-crown-option</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-bill-45-natural-gas-crown-option</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Energy Minister Brian Jean introduced Bill 45, the Natural Gas Infrastructure Act, on Monday. It doesn’t create a Crown corporation. It sets up the legal framework for one to transmit gas, and for a second body to plan the network, if the province decides industry can’t meet demand (Edmonton Journal, The Narwhal, The Globe and Mail).</description>
+    </item>
+    <item>
+      <title>A Quebec judge rules MNAs must swear allegiance to the King before they can sit, putting the Dec. 1 return of the legislature in doubt</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-quebec-court-orders-oath-to-king</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-quebec-court-orders-oath-to-king</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Superior Court Justice Ian Demers on Monday suspended Quebec’s 2022 law that made the oath to the King optional. He granted an emergency order sought by lawyer Lawrence David and the Consumer Law Group, and warned that laws passed by members who haven’t taken the oath would be unconstitutional (The Canadian Press via Global News, The Globe and Mail, Le Devoir).</description>
+    </item>
+    <item>
+      <title>Bell says an “agentic” attacker got into an internal system last week and may have taken names, addresses and account details of Bell, Virgin Plus and Lucky Mobile customers</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-bell-agentic-cyber-incident-customers</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-bell-agentic-cyber-incident-customers</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Bell says an unknown party got unauthorized access to an internal system on Nov. 17. Names, mailing addresses, phone numbers, email addresses, account numbers, business names and the date and amount of a customer’s last payment may have been exposed (Global News, BetaKit, The Globe and Mail).</description>
+    </item>
+    <item>
+      <title>Spain’s Supreme Court closes the last case against Carles Puigdemont, clearing the Catalan separatist leader to come home after nine years in exile</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-puigdemont-amnesty-case-closed</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-puigdemont-amnesty-case-closed</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>The court applied Spain’s amnesty law on Monday to the remaining embezzlement case over Catalonia’s 2017 independence referendum and declared his criminal liability extinguished. The ruling also covers former Catalan ministers Toni Comín and Lluís Puig (Reuters, RTVE, El País).</description>
+    </item>
+    <item>
+      <title>Democrats lock in at least 258 U.S. House seats, their biggest majority since 1992, after a recount flips Virginia Foxx’s North Carolina seat</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-democrats-258-house-seats-foxx-loses</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-democrats-258-house-seats-foxx-loses</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Democrat Chuck Hubbard beat longtime Republican Rep. Virginia Foxx in North Carolina’s 5th District by a fraction of a percentage point after a recount Foxx requested. She conceded Sunday (NBC News, AP).</description>
+    </item>
+    <item>
+      <title>Nvidia’s board brings back Jensen Huang as CEO less than two weeks after he quit, and the stock jumps 31%</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-nvidia-reinstates-jensen-huang</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-nvidia-reinstates-jensen-huang</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>The board voted unanimously on Monday to reinstate Huang as president, CEO and director, effective immediately. It said it “received input from senior levels of the United States government” and is confident his return “poses no national security risk” (CNBC, AP, The Verge).</description>
+    </item>
+    <item>
+      <title>Swiss engineering giant ABB will buy German fan maker Ziehl-Abegg for US$2.65 billion to grab a bigger share of the cooling boom driven by data centres</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-abb-ziehl-abegg-fan-deal</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-abb-ziehl-abegg-fan-deal</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>ABB says it has signed a deal for the family-owned company at an enterprise value of US$2.65 billion, or an equity value of US$2.22 billion. Ziehl-Abegg makes high-efficiency fans and motors used in air conditioning, data centres, clean rooms, farms and elevators (ABB, Reuters, Cooling Post).</description>
+    </item>
+    <item>
+      <title>Science corner: a 0.2-second jolt of electricity turns cheap refinery leftovers into battery graphite that handled a four-minute charging rate in lab tests</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-rice-flash-graphite-fast-charge</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-rice-flash-graphite-fast-charge</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>James Tour’s lab at Rice University mixes petroleum coke, a low-cost leftover from oil refining, with a pinch of a nickel compound. One powerful electrical pulse heats it to about 2,500°C for two-tenths of a second, and the nickel helps the carbon snap into neat, stacked graphite layers (Rice News, Advanced Materials).</description>
+    </item>
+    <item>
+      <title>Virginia and Oregon sue SpaceX, saying its Grok image tool let users flood X with sexualized deepfakes, including of children</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-virginia-oregon-sue-spacex-grok-images</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-virginia-oregon-sue-spacex-grok-images</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>In separate lawsuits filed Monday under state consumer-protection laws, Virginia Attorney General Jay Jones and Oregon Attorney General Dan Rayfield accuse SpaceX, which merged with Grok maker xAI, and X of ignoring industry-standard safeguards and falsely telling users they were protected (The Verge, AP, Virginia Attorney General).</description>
+    </item>
+    <item>
+      <title>China’s Z.ai releases GLM-5.4, a 750-billion-parameter model that runs its own layers twice to reason more deeply without getting bigger</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-zai-glm-5-4-loop-transformer</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-zai-glm-5-4-loop-transformer</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Z.ai, also known as Zhipu AI, released GLM-5.4 on Monday, its first flagship built as a “loop transformer.” It runs 28 layers of its GLM-5 base model a second time, adding depth without adding parameters (The Next Web, The New Stack, The Decoder).</description>
+    </item>
+    <item>
+      <title>Now signed: Decart’s three co-founders and research team will join Amazon, which is also taking over the startup’s chip-tuning software in a deal reported at US$7.5 billion</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-decart-founders-join-amazon-signed</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-decart-founders-join-amazon-signed</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>Saturday evening’s edition reported Amazon was nearing a deal. On Monday Amazon announced a signed agreement to buy the technology behind the Decart Optimization Stack and bring over co-founders Dean Leitersdorf, Moshe Shalev and Orian Leitersdorf with their team of researchers and engineers (Amazon, TechCrunch, CNBC).</description>
+    </item>
+    <item>
+      <title>A young golden retriever named Tereza jumps into a pool and keeps a struggling two-year-old afloat until her mom reaches her, and a security camera catches it all</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-23-pm-viral-o-golden-retriever-tereza-pool</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-23/evening/story-2026-11-23-pm-viral-o-golden-retriever-tereza-pool</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:00 -0600</pubDate>
+      <description>It happened Friday in Chapada dos Guimarães, about 65 km from Cuiabá in Brazil’s Mato Grosso state, at the home of the girl’s aunt, who owns Tereza. The video shows little Maitê walking down the pool steps alone, then slipping under. Tereza jumps in, Maitê grabs hold of her and stays partly above water until her mother and older sister rush in (g1, Daily Mail).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Monday, November 23, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
