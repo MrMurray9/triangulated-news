@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-23T16:18-06:00",
+ "updated": "2026-11-24T06:13-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -762,6 +762,14 @@
    "first_used": "2026-11-23",
    "editions": [
     "2026-11-23-evening"
+   ]
+  },
+  {
+   "text": "What do you call a sheep covered in chocolate? A candy baa.",
+   "normalized": "what do you call a sheep covered in chocolate a candy baa",
+   "first_used": "2026-11-24",
+   "editions": [
+    "2026-11-24-morning"
    ]
   }
  ],
@@ -1653,6 +1661,15 @@
    "first_used": "2026-11-23",
    "editions": [
     "2026-11-23-evening"
+   ]
+  },
+  {
+   "text": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
+   "attribution": "Henry David Thoreau, Walden (1854), “Conclusion”; text verified via Digital Thoreau and Wikisource",
+   "normalized": "if you have built castles in the air your work need not be lost that is where they should be now put the foundations under them",
+   "first_used": "2026-11-24",
+   "editions": [
+    "2026-11-24-morning"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-23T16:18-06:00",
+ "updated": "2026-11-24T06:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8561,6 +8561,123 @@
    "topic": "vegas golden knights at oilers tuesday 7 pm nugent-hopkins cleared to return after five games",
    "headline": "Vegas Golden Knights at Edmonton Oilers",
    "id": "story-2026-11-23-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "calgary police officers charged manslaughter jon wells blood tribe asirt carriage house hotel",
+   "headline": "Three Calgary police officers are charged with manslaughter in the 2024 death of Jon Wells, a Blood Tribe man pinned face down in a hotel lobby",
+   "id": "story-2026-11-24-am-calgary-officers-charged-jon-wells",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "calgary city council 2027-2030 budget public hearing 15 percent property tax tyers zero farkas",
+   "headline": "Calgary opens a week-long budget hearing on a proposed 15% property tax hike, and one councillor asks staff to show what a 0% budget would cut",
+   "id": "story-2026-11-24-am-calgary-budget-hearing-15-percent",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "pentagon fact sheet canada military readiness 41.9 air force nato 5 percent f-35 hegseth",
+   "headline": "The Pentagon publishes a “fact sheet” saying only 41.9% of Canada’s air force fleet was ready to fly and that Ottawa has no plan to reach NATO’s 5% target",
+   "id": "story-2026-11-24-am-pentagon-fact-sheet-canada-readiness",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "masar badil samidoun terrorist entity list toronto conference anandasangaree",
+   "headline": "Ottawa lists Masar Badil as a terrorist group, days before it planned to host a North American conference in Toronto",
+   "id": "story-2026-11-24-am-masar-badil-terrorist-listing",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "world",
+   "topic": "germany schools emailed bomb threats baden-wurttemberg saxony-anhalt hoax denmark",
+   "headline": "Hundreds of German schools get the same emailed bomb threat on Monday morning, and police say none of them was real",
+   "id": "story-2026-11-24-am-germany-schools-email-bomb-threats",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "world",
+   "topic": "irgc three tankers naval mines strait of hormuz us escort fire",
+   "headline": "Iran’s Guard says three oil tankers caught fire after hitting mines in the Strait of Hormuz, even with U.S. jets escorting them",
+   "id": "story-2026-11-24-am-irgc-three-tankers-mines-us-escort",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "business",
+   "topic": "sanofi insmed acquisition 41 billion brinsupri arikayce dupixent garijo",
+   "headline": "Sanofi agrees to buy lung-drug maker Insmed for US$41 billion in cash, the drug industry’s biggest deal in three years",
+   "id": "story-2026-11-24-am-sanofi-insmed-respiratory-takeover",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "business",
+   "topic": "starhub m1 merger keppel singapore telco circles.life four to three",
+   "headline": "Singapore will go from four phone carriers to three as StarHub agrees to merge with M1 in an all-share deal",
+   "id": "story-2026-11-24-am-starhub-m1-merger-singapore",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner penn coillce liquid crystal elastomer graphene copper coil self-sensing artificial muscle piano robot eyes",
+   "headline": "Science corner: Penn’s new artificial muscle has a built-in copper coil that heats it and senses how far it has moved, so a robot finger can tap a piano key softly or hard",
+   "id": "story-2026-11-24-am-penn-coillce-self-sensing-muscle",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "meta muse personal ai agent uk launch whatsapp cma ico regulators",
+   "headline": "Meta brings Muse, its AI agent that can shop, book travel and send email for you, to the U.K., and regulators there say they’re watching",
+   "id": "story-2026-11-24-am-meta-muse-agent-uk-launch",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral x espn couple argument kiss georgia tech wake forest jesse palmer tessitore",
+   "headline": "ESPN cameras catch a couple in a tense argument at a Georgia Tech game, commentators narrate the “breakup,” then the pair are shown kissing",
+   "id": "story-2026-11-24-am-viral-x-georgia-tech-couple-espn",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral other japan tateyama raichoso lodge snow wall dig out by hand minus 12",
+   "headline": "Staff at a Japanese mountain lodge open the front door to a wall of snow taller than the glass, then dig themselves out by hand at −12°C",
+   "id": "story-2026-11-24-am-viral-o-raichoso-lodge-snow-wall",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "vegas golden knights at oilers tonight 7 pm first of four meetings mcdavid home point streak",
+   "headline": "Vegas Golden Knights at Edmonton Oilers",
+   "id": "story-2026-11-24-am-oilers-next",
    "returning": false
   }
  ]
