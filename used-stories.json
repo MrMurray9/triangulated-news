@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-24T06:13-06:00",
+ "updated": "2026-11-24T16:24-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8678,6 +8678,141 @@
    "topic": "vegas golden knights at oilers tonight 7 pm first of four meetings mcdavid home point streak",
    "headline": "Vegas Golden Knights at Edmonton Oilers",
    "id": "story-2026-11-24-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta sovereignty act motion federal combatting hate act bill c-9 religious speech defence smith nenshi",
+   "headline": "Smith invokes the Sovereignty Act against Ottawa’s new hate-crime law, saying she doesn’t want “somebody’s pastor” jailed for a sermon",
+   "id": "story-2026-11-24-pm-sovereignty-act-motion-combatting-hate-act",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta rcmp apology fiasal hussein 12-year-old choices comment daroux child exploitation recruitment",
+   "headline": "Alberta RCMP apologize for suggesting murdered 12-year-old Fiasal Hussein’s “choices” played a part in his death",
+   "id": "story-2026-11-24-pm-rcmp-regret-fiasal-hussein-choices",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "bill c-39 building canada strong act committee wraps 100 hours section 107 oversight amendment report stage",
+   "headline": "After 100 hours of debate, MPs send the major projects bill back to the House, with one small new check on Ottawa’s power to end strikes",
+   "id": "story-2026-11-24-pm-bill-c39-committee-wraps-100-hours",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "regina transit lockout ends tentative three-year deal atu local 588 buses resume tuesday",
+   "headline": "Regina’s buses roll again Tuesday after the city and its transit union reach a tentative deal, ending a one-day lockout",
+   "id": "story-2026-11-24-pm-regina-transit-lockout-ends-tentative-deal",
+   "returning": true
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "world",
+   "topic": "yemen houthis 60 km aden army spokesman nuzaili defensive line alimi",
+   "headline": "Yemen’s army says Houthi fighters are about 60 km from Aden and “ready to attack,” and vows the government’s stronghold will hold",
+   "id": "story-2026-11-24-pm-houthis-60km-from-aden-army-ready",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "world",
+   "topic": "south korea ulleungdo island shelter alert russian military aircraft kadiz attache summoned",
+   "headline": "Residents of a South Korean island get an “EVACUATION, AIR RAID” alert as Russian warplanes fly toward it",
+   "id": "story-2026-11-24-pm-ulleungdo-air-raid-alert-russian-aircraft",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "business",
+   "topic": "netflix buys radford studio center studio city 380 million hackman capital default goldman sachs seinfeld",
+   "headline": "Netflix buys its first Los Angeles studio lot, the Radford Studio Center where Seinfeld was shot, for a reported US$380 million",
+   "id": "story-2026-11-24-pm-netflix-buys-radford-studio-center",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "business",
+   "topic": "cerberus capital acquires airbus us space systems merritt island satellite factory oneweb jay raymond",
+   "headline": "Cerberus agrees to buy Airbus’s U.S. satellite factory in Florida as Airbus shifts its American arm toward military drones",
+   "id": "story-2026-11-24-pm-cerberus-buys-airbus-us-space-systems",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "science",
+   "topic": "science corner kaist structural battery lithium sulfur nico2se4 nanowire carbon cloth drone legs il-kwon oh chalmers",
+   "headline": "Science corner: KAIST builds a bendable battery that fits inside a drone’s hollow legs, so the frame can store power too",
+   "id": "story-2026-11-24-pm-kaist-drone-leg-structural-battery",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "openai gpt-6.2 protein design minibinders lab tested 11 percent bind nature callaway onava alphafold",
+   "headline": "OpenAI says a general chatbot model, GPT-6.2, designed proteins that actually stuck to their disease targets in lab tests",
+   "id": "story-2026-11-24-pm-openai-gpt-62-designs-binding-proteins",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "nhs edith trial ai breast screening mammograms 700000 women cambridge warwick nihr one reader",
+   "headline": "The NHS starts enrolling women in the world’s biggest test of AI for reading mammograms, about 700,000 over three years",
+   "id": "story-2026-11-24-pm-nhs-edith-ai-mammogram-trial",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral x thanksgiving grandma wanda dench jamal hinton wrong number text lifetime movie",
+   "headline": "The wrong-number “Thanksgiving grandma” and the teen she invited anyway are getting a Lifetime movie, 10 years after their texts went viral",
+   "id": "story-2026-11-24-pm-viral-x-thanksgiving-grandma-lifetime-movie",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral x georgia tech couple espn argument today show tallulah wall braden flournoy",
+   "headline": "Students Tallulah Wall and Braden Flournoy tell TODAY their televised stadium “argument” was “completely insignificant,” and the clip told friends they were dating",
+   "id": "story-2026-11-24-pm-viral-x-georgia-tech-couple-today-show",
+   "returning": true
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral other miley cyrus maxx morando wedding all-black dress code guest yellow belgica vargas",
+   "headline": "One wedding guest wears bright yellow at Miley Cyrus’s all-black wedding, 40 million people notice, and Miley tells her “You look gorgeous!”",
+   "id": "story-2026-11-24-pm-viral-o-miley-cyrus-wedding-yellow-dress",
+   "returning": false
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "vegas golden knights at oilers tonight 7 pm nugent-hopkins returns left wing levi starts hyman out",
+   "headline": "Vegas Golden Knights at Edmonton Oilers",
+   "id": "story-2026-11-24-pm-oilers-next",
    "returning": false
   }
  ]
