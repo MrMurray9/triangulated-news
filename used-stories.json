@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-25T06:12-06:00",
+ "updated": "2026-11-25T16:11-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8939,6 +8939,132 @@
    "topic": "seattle kraken at oilers friday nov 27 7 pm after 5-3 loss to vegas fourth straight loss",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-25-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "kaycee madu law society of alberta appeal panel overturns professional misconduct finding distracted driving ticket call to police chief mcfee",
+   "headline": "A Law Society appeal panel clears former justice minister Kaycee Madu over his call to Edmonton’s police chief after a traffic ticket",
+   "id": "story-2026-11-25-pm-madu-misconduct-finding-overturned",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "snow valley ski hill edmonton opening delayed warm november temperatures snowmaking early december",
+   "headline": "Too warm to make snow: Snow Valley pushes back its opening and hopes to welcome skiers in early December",
+   "id": "story-2026-11-25-pm-snow-valley-opening-delayed-warm",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "canada qatar protecting power afghanistan consular services canadians taliban no embassy kabul investment protection agreement anand",
+   "headline": "With no embassy in Kabul, Canada names Qatar its “protecting power” to help Canadians in trouble in Afghanistan",
+   "id": "story-2026-11-25-pm-qatar-protecting-power-afghanistan",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "lululemon founder chip wilson remarks women leadership forum calgary axis connects thailand brides hiring young women outrage",
+   "headline": "Lululemon founder Chip Wilson tells a Calgary women’s leadership forum that men may “import brides from Thailand,” and some of the audience walks out",
+   "id": "story-2026-11-25-pm-chip-wilson-calgary-forum-remarks",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "world",
+   "topic": "colombia cartagena exito supermarket hostage siege 17 hours special forces rescue hostages de la espriella armoured truck robbery",
+   "headline": "Colombian special forces storm a Cartagena supermarket after a 17-hour siege and free all the hostages",
+   "id": "story-2026-11-25-pm-cartagena-supermarket-hostages-freed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "world",
+   "topic": "hungary prime minister peter magyar first official visit zakarpattia uzhhorod zelensky gas diesel border crossings trains corn reset relations after orban",
+   "headline": "Hungary’s new prime minister makes his first official visit to Ukraine, and leaves with deals on gas, trains and corn",
+   "id": "story-2026-11-25-pm-magyar-first-visit-zakarpattia-deals",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "business",
+   "topic": "expedia group acquire kiwi.com czech flight booking virtual interlining general atlantic exit undisclosed price close first half 2027",
+   "headline": "Expedia will acquire Czech flight-booking site Kiwi.com, adding a fourth travel company to its recent shopping list",
+   "id": "story-2026-11-25-pm-expedia-kiwi-com-flights-deal",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "business",
+   "topic": "dubai islamic bank acquire emirates islamic bank from emirates nbd all-share deal aed 585 billion second largest listed islamic bank",
+   "headline": "Dubai Islamic Bank agrees to buy rival Emirates Islamic in an all-share deal, creating the world’s second-largest listed Islamic bank",
+   "id": "story-2026-11-25-pm-dubai-islamic-bank-emirates-islamic",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "science",
+   "topic": "caltech brainbots light-activated nanorobots cross blood-brain barrier deliver chemotherapy glioblastoma mice science robotics wei gao",
+   "headline": "Science corner: Caltech’s “BrainBots” use a flash of infrared light to push cancer drugs across the blood–brain barrier",
+   "id": "story-2026-11-25-pm-science-caltech-brainbots-nanorobots",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "tidal streaming bans 100% ai-generated music remove 27 million tracks december 9 impersonation royalties",
+   "headline": "Tidal will delete music made entirely by AI, after finding 43% of recent uploads were fully machine-made",
+   "id": "story-2026-11-25-pm-tidal-bans-fully-ai-music",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "pinterest parental controls limit ai-generated content teen feeds autoplay notifications parental passcode",
+   "headline": "Pinterest lets parents turn down how much AI-generated content shows up in their teen’s feed",
+   "id": "story-2026-11-25-pm-pinterest-parents-limit-ai-content",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral facebook lost poodle toby found trelew dump volunteer bicycle chase reunited owner red collar argentina",
+   "headline": "A volunteer chases a lost poodle across a dump on a bicycle, posts the video on Facebook, and the owner arrives by taxi just before a storm",
+   "id": "story-2026-11-25-pm-viral-f-toby-poodle-dump-bike-chase",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral australian senator fatima payman baby aaliyah senate speech lidia thorpe peekaboo digital duty of care bill",
+   "headline": "An Australian senator gives a speech with her baby in her arms while the senator behind her plays peekaboo",
+   "id": "story-2026-11-25-pm-viral-o-senate-baby-peekaboo",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers friday nov 27 7 pm savoie back skating hyman hallander out draisaitl 23 goals",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-25-pm-oilers-next",
    "returning": false
   }
  ]
