@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-24T16:24-06:00",
+ "updated": "2026-11-25T06:12-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -8813,6 +8813,132 @@
    "topic": "vegas golden knights at oilers tonight 7 pm nugent-hopkins returns left wing levi starts hyman out",
    "headline": "Vegas Golden Knights at Edmonton Oilers",
    "id": "story-2026-11-24-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta schools second flagpole requirement dropped canadian flag outside alberta flag indoors nicolaides school boards cost",
+   "headline": "Alberta drops its order for a second flagpole at every school after boards warn it would cost millions",
+   "id": "story-2026-11-25-am-school-flagpole-rule-reversed",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta bill 44 fatality inquiries act mandatory inquiry deaths in custody prison police medical examiner amery backlog 180",
+   "headline": "Deaths in Alberta jails and police custody would no longer automatically get a public inquiry under a new justice bill",
+   "id": "story-2026-11-25-am-bill-44-custody-death-inquiries",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "bank of canada macklem economic club speech monetary policy framework 2 per cent target cpix cpi-trim cpi-median dashboard",
+   "headline": "Macklem admits the Bank of Canada was “too slow” on inflation and brings back an old yardstick, CPIX, to track prices",
+   "id": "story-2026-11-25-am-macklem-cpix-inflation-dashboard",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "british columbia king tides storm surge coastal flooding warnings squamish state of local emergency tla-o-qui-aht evacuation alert",
+   "headline": "Squamish declares a local emergency and builds sandbag walls as king tides and storms threaten B.C.’s coast",
+   "id": "story-2026-11-25-am-bc-king-tides-squamish-emergency",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "world",
+   "topic": "china shenzhou-24 launch pakistan first foreign astronaut muhammad zeeshan ali tiangong space station tang hongbo wu yi",
+   "headline": "China flies its first foreign astronaut to space as Pakistan’s Muhammad Zeeshan Ali lifts off for the Tiangong station",
+   "id": "story-2026-11-25-am-shenzhou-24-pakistani-astronaut",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "world",
+   "topic": "australia solomon islands treaty signed canberra albanese matthew wale security partner china police pact ends",
+   "headline": "Solomon Islands signs a treaty making Australia its main security partner, and Chinese police are expected to leave by mid-2027",
+   "id": "story-2026-11-25-am-australia-solomon-islands-treaty",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "business",
+   "topic": "huawei convicted brooklyn federal jury trade secrets bank fraud iran sanctions racketeering acquitted meng wanzhou",
+   "headline": "A U.S. jury convicts Huawei of stealing trade secrets and lying to banks about Iran, the case that began with Meng Wanzhou’s 2018 arrest in Vancouver",
+   "id": "story-2026-11-25-am-huawei-convicted-brooklyn-jury",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "science",
+   "topic": "science corner reversed peptide lanmodulin lanthanides rare earth recycling lab mistake freezer daumann hhu hzdr mario markus prize",
+   "headline": "Science corner: a peptide built backwards by mistake, then left in a freezer for years, grabs rare earth metals 10 times harder",
+   "id": "story-2026-11-25-am-science-reversed-peptide-rare-earths",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "google deepmind gemini 4 teams quantum algorithms fusion stopping power 11.8x lean formal verification cytochrome p450",
+   "headline": "Google DeepMind’s Gemini teams find quantum programs up to 12 times cheaper for a fusion problem, and prove each one correct",
+   "id": "story-2026-11-25-am-deepmind-gemini-quantum-circuits-lean",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "paradromics nvidia partnership brain computer interface connexus speech decoding jetson holoscan motor neuron disease",
+   "headline": "A brain implant that speaks for a woman with motor neuron disease needs a cart of computers, and Nvidia aims to shrink it to a box on her wheelchair",
+   "id": "story-2026-11-25-am-paradromics-nvidia-speech-implant",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral x o canada wrong lyrics sarrah strimel bentley islanders maple leafs apology thou lend thou win breast cancer",
+   "headline": "A singer belts “we lend our hearts to thee” in O Canada, the Leafs tease “thou lend, thou win,” and then Canadians rally behind her",
+   "id": "story-2026-11-25-am-viral-x-o-canada-singer-forgiven",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral facebook thomas death row dog owasso animal shelter adopted three hours before euthanasia deadline",
+   "headline": "“Thomas the Death Row Dog” waits 160 days at an Oklahoma shelter, then a Facebook video finds him a family three hours before his deadline",
+   "id": "story-2026-11-25-am-viral-f-thomas-shelter-dog-adopted",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral instagram seoul jonggak station street cleaner ginkgo leaves hearts sanitation worker",
+   "headline": "A Seoul street sweeper turns fallen ginkgo leaves into a row of yellow hearts, some with smiley faces, and 170,000 people hit like",
+   "id": "story-2026-11-25-am-viral-o-seoul-ginkgo-leaf-hearts",
+   "returning": false
+  },
+  {
+   "date": "2026-11-25",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers friday nov 27 7 pm after 5-3 loss to vegas fourth straight loss",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-25-am-oilers-next",
    "returning": false
   }
  ]
