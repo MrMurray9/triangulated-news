@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-25T16:11-06:00",
+ "updated": "2026-11-26T06:13-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -9065,6 +9065,123 @@
    "topic": "seattle kraken at oilers friday nov 27 7 pm savoie back skating hyman hallander out draisaitl 23 goals",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-25-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "alberta bill 40 electoral divisions act new riding maps 91 seats hybrid ridings lethbridge third reading nenshi ndp court challenge gerrymandering pancholi removed",
+   "headline": "Alberta’s new riding maps clear their last debate, and the NDP says it will take them to court as soon as they become law",
+   "id": "story-2026-11-26-am-riding-maps-pass-final-debate",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "edmonton elks host 115th grey cup 2028 commonwealth stadium november 5 2028 cfl sixth time",
+   "headline": "Edmonton will host the Grey Cup again in 2028, its sixth time and first since 2018",
+   "id": "story-2026-11-26-am-edmonton-hosts-2028-grey-cup",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "bill c-22 lawful access senate national security committee amendments systemic vulnerability technical advisory committee metadata retention six months windscribe",
+   "headline": "Senators change Ottawa’s lawful-access bill to guard against forced security holes, but keep six months of metadata storage",
+   "id": "story-2026-11-26-am-senate-committee-amends-c22-lawful-access",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "pentagon fact sheet canada defence spending readiness carney responds trump has not raised historic investments mitigation measures mcguinty",
+   "headline": "Carney answers the Pentagon’s attack on Canada’s military: Trump “has not raised” it with him, and the U.S. warns of “mitigation measures”",
+   "id": "story-2026-11-26-am-carney-answers-pentagon-defence-fact-sheet",
+   "returning": true
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "egypt cairo giza warraq ring road fuel tanker overturned fire 31 dead 21 injured driver detained madbouly compensation",
+   "headline": "A fuel tanker overturns and burns on Cairo’s Ring Road, killing 31 people, and police hold the driver they say clipped it",
+   "id": "story-2026-11-26-am-cairo-ring-road-tanker-fire",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "indonesia west java bogor illegal gold mine flooded 16 dead 10 missing rescuers pump water 100 metres deep",
+   "headline": "Sixteen miners are dead and 10 still missing after flooding traps 26 people in an illegal gold mine in Indonesia",
+   "id": "story-2026-11-26-am-bogor-illegal-gold-mine-flood",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "world",
+   "topic": "bangkok bangchak oil refinery explosion fire phra khanong distillation tower injured evacuate production shut down",
+   "headline": "An explosion and fire at Bangkok’s Bangchak oil refinery injures at least seven and sends black smoke over the city",
+   "id": "story-2026-11-26-am-bangkok-bangchak-refinery-blast",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "business",
+   "topic": "ustr section 301 excess capacity overcapacity tariffs 14 economies china 20% eu japan 15% vietnam india greer proposal",
+   "headline": "Washington proposes new tariffs of mostly 15–20% on 14 economies it accuses of overbuilding factories, and Canada isn’t on the list",
+   "id": "story-2026-11-26-am-ustr-section-301-overcapacity-tariffs",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "business",
+   "topic": "christie's acquires dreweatts british auction house donnington priory newbury henry house antiques",
+   "headline": "Christie’s buys Dreweatts, a 267-year-old English country auction house, betting on antiques again",
+   "id": "story-2026-11-26-am-christies-buys-dreweatts",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "science",
+   "topic": "hku gallium oxide ultra-wide bandgap power module 1000 volts 1000 amps one megawatt pulsed nature communications yuhao zhang",
+   "headline": "Science corner: a gallium oxide power switch from Hong Kong handles a megawatt in pulses, about 100 times more than earlier ones",
+   "id": "story-2026-11-26-am-science-hku-gallium-oxide-megawatt-module",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "fcc authorizes spacex starmind one million satellites orbital data centers ai compute carr 2033 2040 deployment scientists skeptical",
+   "headline": "U.S. regulators let SpaceX launch up to a million satellites meant to work as AI data centres in orbit",
+   "id": "story-2026-11-26-am-fcc-approves-spacex-starmind-orbital-data-centres",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "viral x sandbach mayor sam corcoran bike channel railway station ribbon pedal stuck peak britain",
+   "headline": "A mayor in full chain of office opens a £6,200 bike ramp at an English railway station, gets his pedal stuck at the top, and 3.5 million people watch",
+   "id": "story-2026-11-26-am-viral-x-sandbach-mayor-cycle-ramp",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers friday nov 27 7 pm home and home saturday seattle four game skid draisaitl 23 goals",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-26-am-oilers-next",
    "returning": false
   }
  ]
