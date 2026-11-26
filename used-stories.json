@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-26T06:13-06:00",
+ "updated": "2026-11-26T16:08-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -9182,6 +9182,114 @@
    "topic": "seattle kraken at oilers friday nov 27 7 pm home and home saturday seattle four game skid draisaitl 23 goals",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-26-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta second quarter fiscal update 8.5 billion surplus oil prices nixon fuel tax suspension extended march 2027 wti resource revenue record",
+   "headline": "Oil money turns Alberta’s forecast $9.4-billion deficit into an $8.5-billion surplus, and the fuel-tax break is extended to March",
+   "id": "story-2026-11-26-pm-alberta-q2-surplus-8-5-billion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "alberta ndp nenshi charter challenge section 3 electoral map bill 40 lawsuit filing coming days amery defend",
+   "headline": "Nenshi says the NDP will argue in court that Alberta’s new riding map breaks the Charter right to vote, with papers filed in the coming days",
+   "id": "story-2026-11-26-pm-ndp-announces-charter-challenge-riding-map",
+   "returning": true
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "1password toronto password manager breach employee github account malicious code customer names emails recovery tokens vaults safe november 19",
+   "headline": "Hackers took names and email addresses from Toronto-based 1Password after breaking into an employee’s GitHub account, but not passwords",
+   "id": "story-2026-11-26-pm-1password-breach-github-customer-records",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "doug ford unifor lana payne joint statement exempt canadian automakers tailpipe greenhouse gas emission penalties credits stellantis brampton roshel",
+   "headline": "Doug Ford and Unifor team up to ask Ottawa to waive tailpipe-emission penalties for carmakers that build in Canada",
+   "id": "story-2026-11-26-pm-ford-unifor-tailpipe-penalty-exemption",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "world",
+   "topic": "kuwait drone attack vital site two italian rheinmetall technicians killed skyguard iran denies araghchi joint investigation",
+   "headline": "Two Italian technicians are killed in Kuwait when drones are shot down over a “vital site,” and Iran denies sending them",
+   "id": "story-2026-11-26-pm-two-italians-killed-kuwait-drone-debris",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "world",
+   "topic": "uk ons net migration 77000 year to june 2026 lowest since 1997 excluding pandemic immigration 738000 emigration 661000 students workers asylum",
+   "headline": "Net migration to the U.K. drops to 77,000, its lowest level since 1997 outside the pandemic",
+   "id": "story-2026-11-26-pm-uk-net-migration-77000-lowest-since-1997",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "business",
+   "topic": "altria marlboro considering possible all cash offer imperial brands winston rizla japan tobacco shares jump december 24 deadline",
+   "headline": "Marlboro maker Altria says it may make an all-cash bid for Imperial Brands, and Imperial’s shares jump as much as 17%",
+   "id": "story-2026-11-26-pm-altria-considers-cash-bid-imperial-brands",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "business",
+   "topic": "apr medicube korean beauty acquires brand501 dr melaxin 87.3 percent 390 billion won tiktok shop",
+   "headline": "Medicube maker APR takes control of Korean skincare brand Dr. Melaxin, a TikTok Shop best-seller, for about US$265 million",
+   "id": "story-2026-11-26-pm-apr-takes-control-of-dr-melaxin-brand501",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "science",
+   "topic": "qutech delft majorana quasiparticles parity qubit kitaev chains coherent control nature kouwenhoven topological quantum computing",
+   "headline": "Science corner: Delft physicists finally control a qubit made from Majorana particles, after 15 years of trying",
+   "id": "story-2026-11-26-pm-science-qutech-majorana-parity-qubit",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "new york hochul signs five year ban ai chatbot toys manufacture sale talking dolls february 2027 attorney general 15000 per day california",
+   "headline": "New York outlaws toys with built-in AI chatbots for five years, just as holiday shopping begins",
+   "id": "story-2026-11-26-pm-new-york-ai-chatbot-toy-moratorium",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "viral tiktok instagram seaworld orlando jump rope toy soldiers holidave jackery jingleson devin meek wejumprope memes ai lore",
+   "headline": "Fans are picking favourites among SeaWorld’s jump-roping toy soldiers, and the joke “lore” videos were made by one of the soldiers",
+   "id": "story-2026-11-26-pm-viral-other-seaworld-jump-rope-toy-soldiers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-26",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers friday nov 27 7 pm home and home saturday seattle four game skid draisaitl 23 goals evening",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-26-pm-oilers-next",
    "returning": false
   }
  ]

@@ -5,8 +5,92 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:13:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:08:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Thursday, November 26, 2026 (evening edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/edition</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Evening edition: Alberta’s $8.5-billion surplus; the NDP’s Charter challenge to the riding map; the 1Password breach; Ford and Unifor on tailpipe penalties; two Italians killed in Kuwait; U.K. net migration at 77,000; Altria eyes Imperial Brands; APR buys Dr. Melaxin; a Majorana qubit from Delft; New York’s AI toy ban; SeaWorld’s jump-roping toy soldiers; and Edmonton events.</description>
+    </item>
+    <item>
+      <title>Oil money turns Alberta’s forecast $9.4-billion deficit into an $8.5-billion surplus, and the fuel-tax break is extended to March</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-alberta-q2-surplus-8-5-billion</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-alberta-q2-surplus-8-5-billion</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Finance Minister Jason Nixon released the second-quarter fiscal update Thursday. The province now expects an $8.5-billion surplus this year, about $18 billion better than the deficit in February’s budget and up from the $2-billion surplus it forecast in August (Edmonton Journal; The Globe and Mail; Government of Alberta).</description>
+    </item>
+    <item>
+      <title>Nenshi says the NDP will argue in court that Alberta’s new riding map breaks the Charter right to vote, with papers filed in the coming days</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-ndp-announces-charter-challenge-riding-map</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-ndp-announces-charter-challenge-riding-map</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Nenshi said the challenge rests on two points: the unusual process, in which a government-led committee redrew the lines after rejecting the independent commission’s map, and a result he says doesn’t give voters effective representation (Canada’s National Observer; Edmonton Journal).</description>
+    </item>
+    <item>
+      <title>Hackers took names and email addresses from Toronto-based 1Password after breaking into an employee’s GitHub account, but not passwords</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-1password-breach-github-customer-records</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-1password-breach-github-customer-records</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>1Password said it began investigating on Nov. 19 after spotting signs that an employee’s corporate GitHub account had been taken over. The attacker used it to push malicious code to backend servers and download some customer account records (TechCrunch; BleepingComputer).</description>
+    </item>
+    <item>
+      <title>Doug Ford and Unifor team up to ask Ottawa to waive tailpipe-emission penalties for carmakers that build in Canada</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-ford-unifor-tailpipe-penalty-exemption</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-ford-unifor-tailpipe-penalty-exemption</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>In a rare joint statement Thursday, Ontario Premier Doug Ford and Unifor president Lana Payne asked the federal government to exempt Canadian automakers from penalties under its passenger-vehicle greenhouse gas rules (The Globe and Mail; Government of Ontario).</description>
+    </item>
+    <item>
+      <title>Two Italian technicians are killed in Kuwait when drones are shot down over a “vital site,” and Iran denies sending them</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-two-italians-killed-kuwait-drone-debris</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-two-italians-killed-kuwait-drone-debris</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Kuwait’s defence ministry said debris from drones it was intercepting struck a key facility, killing two Italians. A Kuwaiti and a Pakistani worker were also hurt (Al Jazeera; ANSA).</description>
+    </item>
+    <item>
+      <title>Net migration to the U.K. drops to 77,000, its lowest level since 1997 outside the pandemic</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-uk-net-migration-77000-lowest-since-1997</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-uk-net-migration-77000-lowest-since-1997</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>The Office for National Statistics estimates net migration was 77,000 in the year to June 2026, down from 204,000 a year earlier. About 738,000 people arrived and 661,000 left (ONS; The Guardian).</description>
+    </item>
+    <item>
+      <title>Marlboro maker Altria says it may make an all-cash bid for Imperial Brands, and Imperial’s shares jump as much as 17%</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-altria-considers-cash-bid-imperial-brands</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-altria-considers-cash-bid-imperial-brands</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>U.S. tobacco company Altria said Thursday it is considering a possible offer for Imperial Brands, the British maker of Winston, Davidoff and Gauloises cigarettes and Rizla papers. It said any offer would likely be all cash (Altria; Alliance News via Morningstar).</description>
+    </item>
+    <item>
+      <title>Medicube maker APR takes control of Korean skincare brand Dr. Melaxin, a TikTok Shop best-seller, for about US$265 million</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-apr-takes-control-of-dr-melaxin-brand501</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-apr-takes-control-of-dr-melaxin-brand501</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>South Korean beauty company APR said in a regulatory filing Thursday it will take 87.3% of Brand501, the company behind Dr. Melaxin, for about 390 billion won. That’s 320 billion won for existing shares and 70 billion won for new ones (Yonhap Infomax; Seoul Economic Daily).</description>
+    </item>
+    <item>
+      <title>Science corner: Delft physicists finally control a qubit made from Majorana particles, after 15 years of trying</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-science-qutech-majorana-parity-qubit</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-science-qutech-majorana-parity-qubit</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Quantum computers are fragile: their bits, called qubits, lose information at the slightest disturbance. One long-sought fix is to store information in pairs of exotic “Majorana” states that sit apart from each other, so local noise can’t easily scramble them.</description>
+    </item>
+    <item>
+      <title>New York outlaws toys with built-in AI chatbots for five years, just as holiday shopping begins</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-new-york-ai-chatbot-toy-moratorium</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-new-york-ai-chatbot-toy-moratorium</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>Gov. Kathy Hochul signed a law banning the manufacture, distribution and sale of children’s toys with built-in AI chatbots, such as talking dolls, stuffed animals and robots, for five years (Governor of New York; NBC News).</description>
+    </item>
+    <item>
+      <title>Fans are picking favourites among SeaWorld’s jump-roping toy soldiers, and the joke “lore” videos were made by one of the soldiers</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-26-pm-viral-other-seaworld-jump-rope-toy-soldiers</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-26/evening/story-2026-11-26-pm-viral-other-seaworld-jump-rope-toy-soldiers</guid>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 -0600</pubDate>
+      <description>For two weeks, short videos about the masked toy-soldier jump-rope troupe at SeaWorld Orlando have filled people’s feeds. An AI narrator reads silly stats for each soldier, like Holidave, who can “jump rope while sitting down,” Jackery Jingleson, Big Chestnut and Sugarsnookie, as if they were pro athletes (WIRED).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Thursday, November 26, 2026 (morning edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>

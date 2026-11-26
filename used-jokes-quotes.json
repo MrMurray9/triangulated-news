@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-26T06:13-06:00",
+ "updated": "2026-11-26T16:08-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -802,6 +802,14 @@
    "first_used": "2026-11-26",
    "editions": [
     "2026-11-26-morning"
+   ]
+  },
+  {
+   "text": "What kind of music did the Pilgrims like? Plymouth Rock!",
+   "normalized": "what kind of music did the pilgrims like plymouth rock",
+   "first_used": "2026-11-26",
+   "editions": [
+    "2026-11-26-evening"
    ]
   }
  ],
@@ -1738,6 +1746,15 @@
    "first_used": "2026-11-26",
    "editions": [
     "2026-11-26-morning"
+   ]
+  },
+  {
+   "text": "“Heap on more wood!—the wind is chill; / But let it whistle as it will, / We’ll keep our Christmas merry still.”",
+   "attribution": "Sir Walter Scott, Marmion (1808), Introduction to Canto Sixth; text checked against Wikisource and the Scottish Poetry Library",
+   "normalized": "heap on more wood the wind is chill but let it whistle as it will well keep our christmas merry still",
+   "first_used": "2026-11-26",
+   "editions": [
+    "2026-11-26-evening"
    ]
   }
  ]
