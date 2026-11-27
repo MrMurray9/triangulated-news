@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-27T06:09-06:00",
+ "updated": "2026-11-27T16:17-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -9407,6 +9407,123 @@
    "topic": "seattle kraken at oilers friday nov 27 7 pm tonight four game losing skid back to back saturday seattle draisaitl 23 goals morning",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-27-am-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "wellington bridge 102 avenue reopens three days ahead of schedule clear span girder replacement valley line west lrt shared pathway",
+   "headline": "Edmonton’s rebuilt Wellington Bridge on 102 Avenue reopens to drivers three days ahead of schedule",
+   "id": "story-2026-11-27-pm-wellington-bridge-reopens-early",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "alberta",
+   "topic": "janice sugai calgary accountant stole 1.2 million royal canadian legion alberta northwest territories command six years prison gambling casinos fine in lieu",
+   "headline": "A former Legion accountant who stole more than $1.2 million and gambled much of it at casinos is sentenced to six years",
+   "id": "story-2026-11-27-pm-legion-bookkeeper-six-years",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "supreme court of canada upholds quebec bill 21 laicity secularism religious symbols notwithstanding clause section 33 declarations section 28 national assembly",
+   "headline": "The Supreme Court upholds Quebec’s ban on religious symbols for some public workers, but says judges can still call out Charter violations",
+   "id": "story-2026-11-27-pm-scc-upholds-quebec-secularism-law",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "canada",
+   "topic": "mackenzie valley highway project of national interest building canada act wrigley dempster inuvik norman wells tulita fort good hope yellowknife arctic security",
+   "headline": "Ottawa fast-tracks an 800-km all-season highway down the Mackenzie Valley, the first northern project on its national-interest list",
+   "id": "story-2026-11-27-pm-mackenzie-valley-highway-national-interest",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "world",
+   "topic": "fao wfp hunger hotspots report 16 hotspots december may el nino sudan south sudan famine risk chad uganda southern africa central america dry corridor",
+   "headline": "UN agencies now count 16 hunger hotspots, up from 13 in June, as El Niño adds new ones and Sudan faces famine",
+   "id": "story-2026-11-27-pm-un-hunger-hotspots-el-nino",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "world",
+   "topic": "schiphol airport customs nvwa 26 vallarta mud turtles critically endangered mexico hong kong duct tape suitcase smuggling",
+   "headline": "Dutch customs find 26 critically endangered turtles taped up in a suitcase at Schiphol, nearly a tenth of the species left in the wild",
+   "id": "story-2026-11-27-pm-schiphol-vallarta-mud-turtles-seized",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "business",
+   "topic": "crtc junk fees ruling bell device handling fee telus sim esim provisioning fee rogers device setup fee violated activation fee ban december 27 penalties phone locking",
+   "headline": "The CRTC rules Bell, Rogers and Telus broke its junk-fee ban and orders the new phone fees gone by Dec. 27",
+   "id": "story-2026-11-27-pm-crtc-orders-big-three-drop-fees",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "business",
+   "topic": "puig acquires 75 percent artessence parfums de marly initio parfums prives advent international 1.2 billion euros niche fragrance julien sprecher",
+   "headline": "Spain’s Puig, maker of Paco Rabanne and Charlotte Tilbury, pays €1.2 billion for 75% of luxury perfume houses Parfums de Marly and Initio",
+   "id": "story-2026-11-27-pm-puig-buys-parfums-de-marly-initio",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "science",
+   "topic": "talhesin engineered artificial cohesin molecular glue tal effector aged mouse eggs chromosome errors melina schuh max planck goettingen fertility ivf",
+   "headline": "Science corner: a man-made protein “glue” keeps chromosomes paired in older mouse eggs, a possible new tool for IVF",
+   "id": "story-2026-11-27-pm-talhesin-chromosome-glue-aged-eggs",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "nvidia pauses ai server shipments malaysia singapore thailand indonesia dell super micro export controls china remote access data centres",
+   "headline": "Nvidia tells Dell and Super Micro to hold AI server shipments to four Southeast Asian countries while it checks U.S. export rules",
+   "id": "story-2026-11-27-pm-nvidia-pauses-southeast-asia-servers",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "ai",
+   "topic": "ai compute access fund 700 million expansion 1 billion evan solomon health life sciences sovereign canadian provider 80 percent smes",
+   "headline": "Ottawa opens $700 million more for AI computing and will cover 80% of the bill if companies buy from Canadian-owned providers",
+   "id": "story-2026-11-27-pm-ottawa-ai-compute-fund-sovereign",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "viral",
+   "topic": "daisy 12 year old corgi mix dog floats kayak flooded street ocean city new jersey nor'easter robin shaffer abc7 instagram",
+   "headline": "A 12-year-old dog named Daisy rides a kayak down a flooded Jersey Shore street like it’s a normal afternoon",
+   "id": "story-2026-11-27-pm-daisy-dog-kayak-ocean-city-flood",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "evening",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers tonight jarry starts mcdavid draisaitl reunited podkolzin hallander mcl sprain max jones emberson hyman migraines evening",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-27-pm-oilers-next",
    "returning": false
   }
  ]

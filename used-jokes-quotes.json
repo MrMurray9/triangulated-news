@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-27T06:10-06:00",
+ "updated": "2026-11-27T16:17-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -818,6 +818,14 @@
    "first_used": "2026-11-27",
    "editions": [
     "2026-11-27-morning"
+   ]
+  },
+  {
+   "text": "Why did the gingerbread man go to school? He wanted to be a smart cookie!",
+   "normalized": "why did the gingerbread man go to school he wanted to be a smart cookie",
+   "first_used": "2026-11-27",
+   "editions": [
+    "2026-11-27-evening"
    ]
   }
  ],
@@ -1772,6 +1780,15 @@
    "first_used": "2026-11-27",
    "editions": [
     "2026-11-27-morning"
+   ]
+  },
+  {
+   "text": "“O Wind, / If Winter comes, can Spring be far behind?”",
+   "attribution": "Percy Bysshe Shelley, “Ode to the West Wind” (1820), closing lines; text checked against the Poetry Foundation",
+   "normalized": "o wind if winter comes can spring be far behind",
+   "first_used": "2026-11-27",
+   "editions": [
+    "2026-11-27-evening"
    ]
   }
  ]
