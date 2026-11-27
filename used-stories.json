@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-26T16:08-06:00",
+ "updated": "2026-11-27T06:09-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -9290,6 +9290,123 @@
    "topic": "seattle kraken at oilers friday nov 27 7 pm home and home saturday seattle four game skid draisaitl 23 goals evening",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-26-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "ucp annual general meeting calgary 7000 members board of directors vote separatists team unity slate danielle smith sylvestre moe doerkson",
+   "headline": "More than 7,000 UCP members meet in Calgary this weekend, and separatists are running for seats on the party’s board",
+   "id": "story-2026-11-27-am-ucp-agm-calgary-board-fight",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "st albert school bus fire engine rolled backward onto railway tracks rail crossing children evacuated driver rcmp cn police no injuries",
+   "headline": "A St. Albert bus driver gets every child off a burning school bus, moments before it rolls backward onto the railway tracks",
+   "id": "story-2026-11-27-am-st-albert-school-bus-fire-tracks",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "cihi primary health care report six million without family doctor nurse practitioner low income black latin american same day appointment 26 per cent",
+   "headline": "About six million people in Canada have no family doctor or nurse practitioner, and only a quarter of adults get in within a day",
+   "id": "story-2026-11-27-am-cihi-primary-care-six-million",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "carney moe regina saskatchewan legislature meeting energy transition electricity grid china trade deal yorkton byelection whitehorse dixon",
+   "headline": "Scott Moe hosts the prime minister in Regina for the first time, and they talk power, China trade and a U.S. deal",
+   "id": "story-2026-11-27-am-moe-hosts-pm-in-regina",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "world",
+   "topic": "new zealand election final results luxon coalition 65 seats one short majority opportunity party seven seats qiulae wong negotiations",
+   "headline": "New Zealand’s final count leaves Luxon’s coalition one seat short, and a seven-seat newcomer now holds the balance",
+   "id": "story-2026-11-27-am-new-zealand-final-count-hung-parliament",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "world",
+   "topic": "congo ebola bundibugyo outbreak 12021 confirmed cases 5904 deaths ituri fighting crp health workers evacuated monusco akwe hospital",
+   "headline": "Congo’s Ebola outbreak passes 12,000 confirmed cases as fighting forces health workers to flee a hospital",
+   "id": "story-2026-11-27-am-congo-ebola-tops-12000-cases",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "business",
+   "topic": "thales lumibird exclusive negotiations 51.6 stake 30.10 euros per share photonics lasers defence takeover paris",
+   "headline": "Thales moves to take over French laser maker Lumibird, offering €30.10 a share for a controlling stake",
+   "id": "story-2026-11-27-am-thales-lumibird-laser-stake",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "business",
+   "topic": "deutsche boerse allfunds 5.3 billion euro acquisition european commission unconditional clearance fund distribution platform",
+   "headline": "EU regulators clear Deutsche Börse’s €5.3-billion purchase of Allfunds, the biggest deal in the exchange operator’s history",
+   "id": "story-2026-11-27-am-deutsche-boerse-allfunds-eu-clearance",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "science",
+   "topic": "seoul national university rubberlike stretchable n-type polymer semiconductor nano anchors poor solubility 1000 stretch cycles science advances phototransistor",
+   "headline": "Science corner: a rubbery Seoul-built semiconductor stretches to twice its length 1,000 times without cracking",
+   "id": "story-2026-11-27-am-snu-rubberlike-n-type-semiconductor",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "anthropic messages api migrated python to rust claude agents wrote code 70 percent less cpu shadow production traffic tests weakened",
+   "headline": "Claude agents rewrote the API that serves Claude in a faster language, but proving the new code worked took months",
+   "id": "story-2026-11-27-am-anthropic-claude-rewrites-api-in-rust",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "character ai bankruptcy auction private chat histories 42 state attorneys general 21 million accounts minors smirks and pangs",
+   "headline": "42 U.S. attorneys general try to stop bankrupt Character.AI from auctioning millions of users’ private chats",
+   "id": "story-2026-11-27-am-character-ai-chat-auction-ags",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "bedford texas firefighter josh brown hugs man in crisis highway sign aerial ladder instagram video alton buggs 250000 likes",
+   "headline": "A Texas firefighter hugs a man in crisis atop a highway sign until he agrees to come down, and the video melts hearts",
+   "id": "story-2026-11-27-am-bedford-firefighter-hugs-man-down",
+   "returning": false
+  },
+  {
+   "date": "2026-11-27",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "seattle kraken at oilers friday nov 27 7 pm tonight four game losing skid back to back saturday seattle draisaitl 23 goals morning",
+   "headline": "Seattle Kraken at Edmonton Oilers",
+   "id": "story-2026-11-27-am-oilers-next",
    "returning": false
   }
  ]

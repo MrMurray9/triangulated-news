@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-26T16:08-06:00",
+ "updated": "2026-11-27T06:10-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -810,6 +810,14 @@
    "first_used": "2026-11-26",
    "editions": [
     "2026-11-26-evening"
+   ]
+  },
+  {
+   "text": "What kind of key opens a banana? A monkey!",
+   "normalized": "what kind of key opens a banana a monkey",
+   "first_used": "2026-11-27",
+   "editions": [
+    "2026-11-27-morning"
    ]
   }
  ],
@@ -1755,6 +1763,15 @@
    "first_used": "2026-11-26",
    "editions": [
     "2026-11-26-evening"
+   ]
+  },
+  {
+   "text": "“Blow, blow, thou winter wind, / Thou art not so unkind / As man’s ingratitude.”",
+   "attribution": "William Shakespeare, As You Like It, Act 2, Scene 7 (song sung by Amiens); text checked against the Folger Shakespeare Library and the Poetry Foundation",
+   "normalized": "blow blow thou winter wind thou art not so unkind as mans ingratitude",
+   "first_used": "2026-11-27",
+   "editions": [
+    "2026-11-27-morning"
    ]
   }
  ]

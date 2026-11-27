@@ -5,8 +5,99 @@
     <link>https://mrmurray9.github.io/triangulated-news/</link>
     <description>Daily news digest — stories confirmed by multiple independent outlets, each with a Community Note and, where available, a verified YouTube news clip. Includes Joke of the day and Quote of the day on the homepage. Wire reprints count as one. Sources exclude BBC, CNN, CBC, and Radio-Canada. Viral on social highlights confirmed true videos circulating worldwide, plus select claim checks.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:08:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:09:00 -0600</lastBuildDate>
     <atom:link href="https://mrmurray9.github.io/triangulated-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaryd’s News — Friday, November 27, 2026 (morning edition)</title>
+      <link>https://mrmurray9.github.io/triangulated-news/</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/edition</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Morning edition: the UCP’s weekend meeting and board fight; a St. Albert school bus fire; six million without a family doctor; Carney in Regina; New Zealand’s hung result; Congo’s Ebola outbreak passes 12,000 cases; Thales bids for Lumibird; EU clears Deutsche Börse–Allfunds; a rubbery semiconductor; Claude’s Rust rewrite; the Character.AI chat auction fight; a Texas firefighter’s hug; and Edmonton events.</description>
+    </item>
+    <item>
+      <title>More than 7,000 UCP members meet in Calgary this weekend, and separatists are running for seats on the party’s board</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-ucp-agm-calgary-board-fight</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-ucp-agm-calgary-board-fight</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>The United Conservative Party’s annual general meeting runs Friday to Sunday in Calgary. More than 7,000 members have registered, the first time the party has gathered since the independence referendum split the province and opened cracks inside the UCP (The Canadian Press; Edmonton Journal).</description>
+    </item>
+    <item>
+      <title>A St. Albert bus driver gets every child off a burning school bus, moments before it rolls backward onto the railway tracks</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-st-albert-school-bus-fire-tracks</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-st-albert-school-bus-fire-tracks</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>St. Albert RCMP were called at 12:39 p.m. Thursday to a school bus fire near Leclair Way and Sir Winston Churchill Avenue. Police say the fire likely started in the engine (Global News; St. Albert Gazette).</description>
+    </item>
+    <item>
+      <title>About six million people in Canada have no family doctor or nurse practitioner, and only a quarter of adults get in within a day</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-cihi-primary-care-six-million</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-cihi-primary-care-six-million</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>The Canadian Institute for Health Information’s yearly primary-care report, released Thursday, found 83% of adults and 89% of children had a regular provider in 2025. That still leaves about six million people without one (Global News; The Canadian Press).</description>
+    </item>
+    <item>
+      <title>Scott Moe hosts the prime minister in Regina for the first time, and they talk power, China trade and a U.S. deal</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-moe-hosts-pm-in-regina</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-moe-hosts-pm-in-regina</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Saskatchewan Premier Scott Moe welcomed the prime minister to the legislature Thursday for a meeting of a little under an hour. It was the PM’s first visit to Regina since becoming prime minister; earlier he stopped in Yorkton, where a federal byelection is under way (650 CKOM; The Canadian Press).</description>
+    </item>
+    <item>
+      <title>New Zealand’s final count leaves Luxon’s coalition one seat short, and a seven-seat newcomer now holds the balance</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-new-zealand-final-count-hung-parliament</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-new-zealand-final-count-hung-parliament</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Official results released Friday give Prime Minister Christopher Luxon’s National, ACT and New Zealand First bloc 65 of 130 seats, one short of the 66 needed to govern alone. The left-leaning opposition led by Labour’s Chris Hipkins won 58 (AP; Reuters).</description>
+    </item>
+    <item>
+      <title>Congo’s Ebola outbreak passes 12,000 confirmed cases as fighting forces health workers to flee a hospital</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-congo-ebola-tops-12000-cases</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-congo-ebola-tops-12000-cases</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Congo’s government data showed 12,021 confirmed Ebola cases and 5,904 deaths as of Thursday. The outbreak, caused by the rare Bundibugyo species, was declared in mid-May in Ituri province and has spread to eight of the country’s 26 provinces (Reuters; AP).</description>
+    </item>
+    <item>
+      <title>Thales moves to take over French laser maker Lumibird, offering €30.10 a share for a controlling stake</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-thales-lumibird-laser-stake</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-thales-lumibird-laser-stake</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Defence and electronics group Thales said Friday it is in exclusive talks to buy a 51.6% stake in Lumibird, a French maker of lasers and photonics for defence, space and industry, at €30.10 a share (Reuters; Il Sole 24 Ore).</description>
+    </item>
+    <item>
+      <title>EU regulators clear Deutsche Börse’s €5.3-billion purchase of Allfunds, the biggest deal in the exchange operator’s history</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-deutsche-boerse-allfunds-eu-clearance</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-deutsche-boerse-allfunds-eu-clearance</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>The European Commission approved Deutsche Börse’s takeover of fund-distribution platform Allfunds without conditions on Friday, saying it raises no competition concerns in any of the markets it examined (Bloomberg; Reuters).</description>
+    </item>
+    <item>
+      <title>Science corner: a rubbery Seoul-built semiconductor stretches to twice its length 1,000 times without cracking</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-snu-rubberlike-n-type-semiconductor</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-snu-rubberlike-n-type-semiconductor</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Electronics that sit on skin or cover a robot’s hand have to bend and stretch, and most plastic semiconductors crack when pulled. A team led by Joon Hak Oh at Seoul National University, with researchers at Queensland University of Technology and Fudan University, has made one that snaps back like rubber (Seoul National University; TechXplore).</description>
+    </item>
+    <item>
+      <title>Claude agents rewrote the API that serves Claude in a faster language, but proving the new code worked took months</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-anthropic-claude-rewrites-api-in-rust</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-anthropic-claude-rewrites-api-in-rust</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Anthropic says it has moved its Messages API, the service that apps like Claude Code use to reach its models, from Python to Rust, with Claude agents writing and fixing much of the code. Public traffic switched over in September (Anthropic; The Next Web).</description>
+    </item>
+    <item>
+      <title>42 U.S. attorneys general try to stop bankrupt Character.AI from auctioning millions of users’ private chats</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-character-ai-chat-auction-ags</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-character-ai-chat-auction-ags</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>A bipartisan group of 42 state attorneys general has stepped into Character.AI’s Chapter 11 case to block the sale of user data, which they say includes chat histories from more than 21 million U.S. accounts, over 2.1 million of them belonging to minors, plus IP addresses (TechCrunch; California Attorney General).</description>
+    </item>
+    <item>
+      <title>A Texas firefighter hugs a man in crisis atop a highway sign until he agrees to come down, and the video melts hearts</title>
+      <link>https://mrmurray9.github.io/triangulated-news/#story-2026-11-27-am-bedford-firefighter-hugs-man-down</link>
+      <guid isPermaLink="false">https://mrmurray9.github.io/triangulated-news/2026-11-27/morning/story-2026-11-27-am-bedford-firefighter-hugs-man-down</guid>
+      <pubDate>Fri, 27 Nov 2026 06:09:00 -0600</pubDate>
+      <description>Traffic stopped on a freeway in Bedford, Texas, near Fort Worth, when a man climbed onto an overhead exit sign. Josh Brown, a 23-year veteran who drives the fire department’s aerial ladder truck, rode the bucket up to talk with him (NBC 5 Dallas-Fort Worth).</description>
+    </item>
     <item>
       <title>Jaryd’s News — Thursday, November 26, 2026 (evening edition)</title>
       <link>https://mrmurray9.github.io/triangulated-news/</link>
