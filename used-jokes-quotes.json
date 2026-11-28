@@ -1,6 +1,6 @@
 {
  "_rules": "Ledger of every Joke of the day and Quote of the day ever published on Jaryd's News. Before choosing a new joke or quote, compare its normalized text (lowercase, curly/straight quotes removed, punctuation -> space, collapsed whitespace, leading and/but/so dropped) against every 'normalized' entry and 'variants' here; reject exact matches, near-duplicates (difflib ratio >= 0.85) or containment. Same punchline/premise in different words also counts as a repeat. After publishing, append the new entries (or the new edition id to 'editions') and commit with the edition.",
- "updated": "2026-11-27T16:17-06:00",
+ "updated": "2026-11-28T06:17-06:00",
  "jokes": [
   {
    "text": "What happened when the lion ate the comedian? He felt funny.",
@@ -826,6 +826,14 @@
    "first_used": "2026-11-27",
    "editions": [
     "2026-11-27-evening"
+   ]
+  },
+  {
+   "text": "Why did the toque get a promotion? It was always on top of things!",
+   "normalized": "why did the toque get a promotion it was always on top of things",
+   "first_used": "2026-11-28",
+   "editions": [
+    "2026-11-28-morning"
    ]
   }
  ],
@@ -1789,6 +1797,15 @@
    "first_used": "2026-11-27",
    "editions": [
     "2026-11-27-evening"
+   ]
+  },
+  {
+   "text": "“The poetry of earth is never dead.”",
+   "attribution": "John Keats, “On the Grasshopper and Cricket” (1816), opening line; text checked against the Poetry Foundation",
+   "normalized": "the poetry of earth is never dead",
+   "first_used": "2026-11-28",
+   "editions": [
+    "2026-11-28-morning"
    ]
   }
  ]

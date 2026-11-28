@@ -1,6 +1,6 @@
 {
  "_rules": "Topic ledger: one entry per story/item per edition. Before building, compare candidate topics against the last 4 editions here; a repeated topic must carry a real verified update (new headline leading with it plus a What changed paragraph) and sit below new stories in its section. The same topic may not lead a section more than 2 editions in a row. Append every edition's entries after publishing.",
- "updated": "2026-11-27T16:17-06:00",
+ "updated": "2026-11-28T06:16-06:00",
  "stories": [
   {
    "date": "2026-10-18",
@@ -9524,6 +9524,132 @@
    "topic": "seattle kraken at oilers tonight jarry starts mcdavid draisaitl reunited podkolzin hallander mcl sprain max jones emberson hyman migraines evening",
    "headline": "Seattle Kraken at Edmonton Oilers",
    "id": "story-2026-11-27-pm-oilers-next",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "adriana lagrange abortion access review ucp annual meeting covenant health spokesperson denies no review pro-life",
+   "headline": "Alberta’s hospital minister tells UCP members abortion access is “under review,” and hours later the party says it isn’t",
+   "id": "story-2026-11-28-am-lagrange-abortion-review-walked-back",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "alberta",
+   "topic": "scot macdermid kidnapping lesley george missing edmonton children interpol yellow notice obstruction charges fidelak beck elliott",
+   "headline": "Interpol joins the hunt for two Edmonton kids missing since August, as their father now faces kidnapping charges",
+   "id": "story-2026-11-28-am-interpol-yellow-notice-macdermid-children",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "hodgson federal forest sector strategy vision 2050 6.5 billion biofuels mass timber fibre supply softwood lumber tariffs",
+   "headline": "Ottawa’s first national forestry plan puts $6.5 billion toward moving mills from two-by-fours to biofuels and engineered wood",
+   "id": "story-2026-11-28-am-forestry-strategy-6-5-billion",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "canada",
+   "topic": "carney whipped vote bill c-39 omnibus major projects liberal mps mackinnon slam dunk yellowknife",
+   "headline": "Carney orders all Liberal MPs to back his omnibus Bill C-39, a day after his House leader said that wouldn’t be needed",
+   "id": "story-2026-11-28-am-carney-whips-c39-vote",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "world",
+   "topic": "taiwan local elections chiang wan-an taipei puma shen kmt dpp taichung ho hsin-chun lai ching-te 2028",
+   "headline": "Taiwan’s opposition holds Taipei in local elections, but the governing party takes Taichung after eight years",
+   "id": "story-2026-11-28-am-taiwan-local-elections-kmt-taipei-dpp-taichung",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "world",
+   "topic": "estonia closes all road border crossings russia narva koidula luhamaa saatse december 1 six months queues ivangorod",
+   "headline": "Estonia will shut all five road crossings into Russia on Tuesday, and people are queuing more than a day to get through first",
+   "id": "story-2026-11-28-am-estonia-closes-russia-road-border",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "world",
+   "topic": "us central command disables bulk carrier pacific archer precision munitions iran ports blockade gulf of oman fujairah",
+   "headline": "A U.S. aircraft fires on a bulk carrier off Oman and disables it, saying it tried to slip past the blockade of Iranian ports",
+   "id": "story-2026-11-28-am-us-disables-pacific-archer-gulf-of-oman",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "business",
+   "topic": "united fidelity bank evansville indiana fails occ fdic receivership first citizens bancshares bank of st croix pedcor",
+   "headline": "U.S. regulators shut Indiana’s United Fidelity Bank, and First Citizens takes over its $4.5 billion in deposits overnight",
+   "id": "story-2026-11-28-am-united-fidelity-bank-fails-first-citizens",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "business",
+   "topic": "s&p global ratings france outlook stable to negative a+ deficit debt interest costs political fragmentation downgrade",
+   "headline": "S&P keeps France’s A+ credit rating but warns of a downgrade, switching its outlook to negative",
+   "id": "story-2026-11-28-am-sp-france-outlook-negative",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "science",
+   "topic": "stanford niobium phosphide nbp topological semimetal nanoribbons interconnects resistivity lower than copper nature eric pop",
+   "headline": "Science corner: Stanford’s ultra-thin niobium phosphide wires carry current better than copper, and get better as they shrink",
+   "id": "story-2026-11-28-am-niobium-phosphide-nanoribbons-beat-copper",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "openai countersues apple counterclaims trade secrets hardware device former employee suppliers pressure io",
+   "headline": "OpenAI countersues Apple, claiming it stole device secrets through a returning engineer and leaned on shared suppliers",
+   "id": "story-2026-11-28-am-openai-countersues-apple-trade-secrets",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "ai",
+   "topic": "israel ai superpower data centres national infrastructure fast track ofek ashdod electricity authority 200 megawatt cap",
+   "headline": "Israel fast-tracks AI data centres as national infrastructure, but its power grid caps each one at 200 megawatts",
+   "id": "story-2026-11-28-am-israel-fast-tracks-ai-data-centres-power-cap",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "viral",
+   "topic": "tennessee highway patrol trooper skyler kearney shares thanksgiving meal man in rain claiborne county upper room ministry facebook photo",
+   "headline": "A Tennessee trooper finds a man walking in the Thanksgiving rain, gets two plates from a church, and sits down to eat with him",
+   "id": "story-2026-11-28-am-trooper-shares-thanksgiving-meal-in-rain",
+   "returning": false
+  },
+  {
+   "date": "2026-11-28",
+   "edition": "morning",
+   "section": "oilers",
+   "topic": "oilers at seattle kraken saturday rematch climate pledge arena after 4-2 loss kakko two goals fifth straight loss",
+   "headline": "Edmonton Oilers at Seattle Kraken",
+   "id": "story-2026-11-28-am-oilers-next",
    "returning": false
   }
  ]
